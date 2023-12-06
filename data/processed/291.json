@@ -1,0 +1,8 @@
+{
+    "prompt_id": 291,
+    "prompt": "Nurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: No. I don't feel comfortable scrabble.\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I did not feel comfortable telling you\n\nNurse: I see. That's perfectly okay. It's important that you feel comfortable during our conversations. Let's move on to discussing your health. Is there anything specific you've been concerned about regarding your kidney disease that you'd like to discuss?\n\nPatient: Let me think about it a second, I guess. Hold on. Let's\n\nNurse: Of course, take your time.\n\nPatient: you.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what you said?",
+        "our_model": "Of course, take your time. I'm here to help."
+    }
+}

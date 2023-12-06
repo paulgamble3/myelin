@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3549,
+    "prompt": "Nurse: Alright, Mr. Gardner. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Gardner. And how have you been taking your Lasix medication?\n\nPatient: Hi.\n\nNurse: Hello again, Mr. Gardner. I was asking about how you've been taking your Lasix medication. Is it two times a day as prescribed?\n\nPatient: Yes, sir.\n\nNurse: That's great to hear, Mr. Gardner. Now, are you still taking your Valsartan?\n\nPatient: Yes. But they increased my dosage.",
+    "responses": {
+        "gpt4": "That's correct, Mr. Gardner. The approved increment can help manage your CHF better. Now, it's common for people to occasionally miss a dose of their medications. Do you ever have any trouble taking your Lasix or Valsartan on time?",
+        "our_model": "I see, Mr. Gardner. So, you're now taking 80 mg of Valsartan two times a day. That's a significant change. How are you managing with the increased dosage?"
+    }
+}

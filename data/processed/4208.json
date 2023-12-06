@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4208,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. Could you please tell me more about what's been causing you to feel this way?\n\nPatient: you know, my kidney issues and all of my other\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Is there anything specific that you're worried about or any symptoms that have been bothering you?\n\nPatient: my other issues as well.\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Is there anything specific that you're worried about or any symptoms that have been bothering you lately?\n\nPatient: No. Not so much symptoms. I'm just kind of curious.\n\nNurse: I see, Ms. Odonnell. It's great that you're curious and proactive about your health. Do you have any specific questions or concerns you'd like to discuss?\n\nPatient: And it may be too late for me. But in this chronic",
+    "responses": {
+        "gpt4": "I understand your concerns, Ms. Odonnell, and it's normal to have these feelings. Would you like me to give you some more information about your condition and ways to manage it? It's never too late to start implementing changes that can help manage the progression of chronic conditions.",
+        "our_model": "I'm sorry, Ms. Odonnell, you were saying something about being curious?"
+    }
+}

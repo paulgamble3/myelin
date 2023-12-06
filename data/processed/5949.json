@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5949,
+    "prompt": "Patient: No.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you.\n\nNurse: Does the patient report trouble walking?\n\nPatient: No.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I smoked like a pack a day.",
+    "responses": {
+        "gpt4": "Quitting smoking can be a big step towards better health, especially with your current conditions. Have you ever thought about quitting?",
+        "our_model": "I appreciate your honesty. It's a big step to acknowledge that. Have you ever considered quitting smoking?"
+    }
+}

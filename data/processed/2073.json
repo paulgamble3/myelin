@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2073,
+    "prompt": "Nurse: My apologies for the confusion. Let's proceed with the instructions for using the chlorhexidine scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Well and what is this scrubs. It's I scrub it off?\n\nNurse: The chlorhexidine scrub is an antiseptic that helps reduce the number of germs on your skin. It's used to clean your skin before surgery to help prevent infection. You'll apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Why no face?\n\nNurse: It's recommended to avoid using the scrub on your face because it can cause irritation, especially around the eyes. The same goes for the crotch area and hair, as these areas can be more sensitive to the scrub. After you've applied the scrub, you'll need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. Does that make sense?\n\nPatient: Yes. That makes sense.\n\nNurse: I'm glad to hear that. Do you have any other questions about the chlorhexidine scrub?\n\nPatient: Not about the scrub. No.",
+    "responses": {
+        "gpt4": "Okay wonderful. Now, after your surgery, it's important not to submerge your incision under water, such as in a tub, pool, or ocean, until your doctor says it's okay. However, you can take a shower 48 hours after surgery. Does that sound good to you?",
+        "our_model": "Alright. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?"
+    }
+}

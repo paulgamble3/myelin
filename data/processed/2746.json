@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2746,
+    "prompt": "Nurse: Yes, Yes, Mr. Stevens. I was asking if you've noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Stevens. Now, have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Stevens. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I did not. Thank you.\n\nNurse: I apologize for the confusion earlier, Mr. Stevens. To confirm, you said you have not been using more pillows at night to sleep, correct?\n\nPatient: Correct. Yes.",
+    "responses": {
+        "gpt4": "Alright, thank you for confirming, Mr. Stevens. It's important to monitor these symptoms as changes can indicate a need for adjustments in your treatment plan. It seems like you're doing well, but please call us or your primary care doctor if you notice any changes. Do you have any other questions or concerns for me today?",
+        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4964,
+    "prompt": "Nurse: It's quite common to miss a dose here or there, Mr. Hooper. You're doing a great job managing your medications. If it's okay with you, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that alright?\n\nPatient: Please get on with it.\n\nNurse: I appreciate your cooperation, Mr. Hooper. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Nope.\n\nNurse: That's good to hear, Mr. Hooper. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Hooper. How about a new or worsening dry cough?\n\nPatient: No dry cough whatsoever. Hooper.",
+    "responses": {
+        "gpt4": "It's good to hear there's no dry cough. Now, have you been experiencing any fatigue or weakness that is new or worse recently?",
+        "our_model": "I'm sorry, Mr. Hooper, could you please repeat your response?"
+    }
+}

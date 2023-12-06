@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4707,
+    "prompt": "Nurse: I'm sorry for any confusion. In the past month, have you felt down or depressed?\n\nPatient: No. But\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: I'm feeling horrified at this new diagnosis.\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: No.\n\nNurse: Has the patient ever planned or prepared to end their life?\n\nPatient: Why are you saying these things to me?",
+    "responses": {
+        "gpt4": "I'm sorry if my questions are alarming. In the past month, have you had thoughts about ending your own life?",
+        "our_model": "I'm sorry if this seems abrupt, but it's part of a standard procedure to ensure your well-being. Have you ever planned or prepared to end your life?"
+    }
+}

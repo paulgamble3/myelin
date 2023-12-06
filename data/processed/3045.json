@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3045,
+    "prompt": "Nurse: I'm glad to hear that you find these tips helpful. Remember, the goal is to make the bowel prep as comfortable as possible for you. Do you have any other questions about the bowel prep?\n\nPatient: No.\n\nNurse: Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Excellent. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: See, you're sure the doctor is not gonna accidentally punch or something.\n\nNurse: I can understand your concern. Rest assured, Doctor Bailey is highly skilled and experienced. She has performed over 1500 colonoscopies without any such incidents. The procedure is designed to be safe and comfortable for you. I'll make a note of your concern for your care team to review. Now, I have a couple more questions for you. Are you currently experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear. Those symptoms could interfere with your procedure, so it's a good thing you're not experiencing them. My last question for today is about your ride home after the procedure. Have you arranged for someone to pick you up when the colonoscopy is done?",
+        "our_model": "That's good to hear. It's essential to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?"
+    }
+}

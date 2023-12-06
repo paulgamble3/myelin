@@ -1,0 +1,8 @@
+{
+    "prompt_id": 811,
+    "prompt": "Patient: I had an egg In\n\nNurse: I'm sorry, Ms. Aguirre, could you\n\nPatient: I had you. Phone. No one.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch the last part of your breakfast. Could you please repeat what you had for breakfast?\n\nPatient: Melon.\n\nNurse: Thank you for repeating that, Ms. Aguirre. It sounds like you're making an effort to include protein and vegetables in your meals, which is great. Can I provide some suggestions to further align your diet with your health needs?\n\nPatient: Like a cantaloupe.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.",
+    "responses": {
+        "gpt4": "That's refreshing, Ms. Aguirre. Starting your day with a melon sounds like a tasty and healthy choice! Now, I have a few more questions to ask. Since you've been experiencing a change in speech, have you noticed any sudden weakness in your arms or legs?",
+        "our_model": "Thank you for sharing that, Ms. Aguirre. It sounds like you're making an effort to include a variety of foods in your diet. Can you tell me more about the types of vegetables you used in your chicken soup?"
+    }
+}

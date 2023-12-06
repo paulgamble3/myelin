@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4963,
+    "prompt": "Nurse: It's quite common to miss a dose here or there, Mr. Hooper. If it's okay with you, I'd like to provide some suggestions that might help you remember to take your medications on time. Would that be alright?\n\nPatient: no. For the most part, I'm good about taking my medicines.\n\nNurse: It's quite common to miss a dose here or there, Mr. Hooper. You're doing a great job managing your medications. If it's okay with you, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that alright?\n\nPatient: Please get on with it.\n\nNurse: I appreciate your cooperation, Mr. Hooper. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Nope.\n\nNurse: That's good to hear, Mr. Hooper. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Glad to hear that, Mr. Hooper. How about any new or worsening dry cough?",
+        "our_model": "I'm glad to hear that, Mr. Hooper. How about a new or worsening dry cough?"
+    }
+}

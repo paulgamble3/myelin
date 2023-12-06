@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3739,
+    "prompt": "Patient: We like to get that old friend who cooked together.\n\nNurse: That sounds like a wonderful way to spend time together, Ms. Odonnell. Cooking can be a great way to relax and enjoy each other's company. Do you have a favorite dish that you like to prepare together?\n\nPatient: And\n\nPatient: well.\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please tell me again what your favorite dish to prepare together is?\n\nPatient: We we like to make cookies.\n\nNurse: Cookies are always a delight, Ms. Odonnell. It's a lovely way to share a sweet moment with your daughter. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: Hello? Are you there?",
+    "responses": {
+        "gpt4": "Yes, I'm here Ms. Odonnell. Can you hear me okay?",
+        "our_model": "Yes, I'm here, Ms. Odonnell. I was asking if there's anything else that's been bothering you or any symptoms you're concerned about?"
+    }
+}

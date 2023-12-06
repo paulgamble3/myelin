@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3792,
+    "prompt": "Nurse: That's wonderful, Ms. Odonnell. It's important to take your insulin as prescribed to help manage your blood sugar levels. Lastly, you're taking Hydralazine 25 mg oral tablet, 25 mg four times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Odonnell. Taking your medications as prescribed is crucial for managing your blood pressure. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's important to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: Okay.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Ms. Odonnell. I just wanted to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's critical to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great, Ms. Odonnell. Lastly, I wanted to discuss your upcoming appointments. You have an appointment with your primary care doctor, Dr. Susan Ma, on March 15th at 10 am. You also have an appointment with your nephrologist, Dr. John Kim, on March 20th at 2 pm. Can you confirm these appointments?",
+        "our_model": "Alright, Ms. Odonnell. If you have any questions in the future, don't hesitate to ask. Now, let's discuss your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

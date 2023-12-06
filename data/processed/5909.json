@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5909,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?\n\nPatient: It's one\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: It's one twenty eight, like I told you.\n\nNurse: Thank you for confirming that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Excellent, thank you. One strategy is to ensure you're eating balanced meals with a good mix of proteins, fats, and carbohydrates. This can help prevent blood sugar spikes. What do you think about this suggestion?\n\nPatient: Sonia.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't understand that. Could you please repeat or clarify what you meant?",
+        "our_model": "I'm sorry, I didn't quite understand your response. Could you please let me know what you think about the suggestion to eat balanced meals?"
+    }
+}

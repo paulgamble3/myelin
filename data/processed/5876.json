@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5876,
+    "prompt": "Patient: No.\n\nNurse: That's good to hear, Mr. Dang. Do you have any chest pain or flank pain?\n\nPatient: No.\n\nNurse: Have you noticed any black or tarry stool, or blood in your stool, Mr. Dang?\n\nPatient: No. I told the doctor I don't have\n\nPatient: that.\n\nNurse: Thank you for confirming that, Mr. Dang. Do you have any active nausea, vomiting, or diarrhea?\n\nPatient: No diarrhea.",
+    "responses": {
+        "gpt4": "Thank you for the information, Mr. Dang. Do you have any difficulty in swallowing?",
+        "our_model": "That's good to hear, Mr. Dang. Do you have any abdominal swelling or bloating?"
+    }
+}

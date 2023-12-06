@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1139,
+    "prompt": "Nurse: That's great to hear, Mr. Cardenas. It's critical to take your medications as prescribed to manage your CHF. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble taking your medication on time?\n\nPatient: No. Not really. It's pretty easy since\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how\n\nPatient: there's only two medications and only\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: know, I take them at the same time every day and night.\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Cardenas. Let's start with the first symptom. Have you been experiencing any new or worsening shortness of breath, either with activity, while laying down, or at rest?",
+        "our_model": "Thank you, Mr. Cardenas. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

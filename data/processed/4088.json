@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4088,
+    "prompt": "Nurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Excellent. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you could incorporate into your daily routine?\n\nPatient: Yes.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be anything from a brisk walk to your tight rope practice. It's recommended to aim for at least 30 minutes of moderate-intensity exercise most days of the week. Do you think this is something you could continue to do?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Fantastic! One more suggestion is to take your medication, like Metformin, as prescribed. This helps keep your blood sugar levels in control. Are you taking your medication as directed by your doctor?",
+        "our_model": "That's wonderful. Regular exercise can really help manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
+    }
+}

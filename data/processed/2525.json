@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2525,
+    "prompt": "Patient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of your blood sugar levels. Now, when was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: I took it yesterday.\n\nNurse: That's good to hear, Mr. Oliver.\n\nPatient: And\n\nPatient: Let me look at my notes here.",
+    "responses": {
+        "gpt4": "Take your time, Mr. Oliver. There's no rush.",
+        "our_model": "Of course, Mr. Oliver. Take your time. I appreciate you keeping track of your blood pressure."
+    }
+}

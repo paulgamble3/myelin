@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6053,
+    "prompt": "Nurse: Alright, Mr. Koroleva. The next part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: Will I be able to go back to work right after my colonoscopy?\n\nNurse: That's a great question, Mr. Koroleva. After a colonoscopy, you'll need to rest and recover. You might feel a bit groggy from the sedation, and you'll need to arrange for someone to drive you home. It's generally recommended to take the rest of the day off from work. However, everyone's recovery is different, and it's important to listen to your body. Does that answer your question?\n\nPatient: Yeah.\n\nNurse: I'm glad I could help clarify that for you, Mr. Koroleva. Now, I have a couple more questions for you. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: Now.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Koroleva, there might have been a mistake with your previous statement. Could you please confirm if you've been experiencing any signs of illness like fever, chills, or muscle aches recently?",
+        "our_model": "I'm sorry, Mr. Koroleva, could you please repeat that?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 309,
+    "prompt": "Nurse: Thank you for sharing that. A reading of 120 mg/dL is slightly elevated. It's essential to keep an eye on this. Would it be okay if I share some recommendations on how to manage your blood sugar levels?\n\nPatient: No. You just told me if it's less than one forty, it's normal.\n\nNurse: You're correct. A blood sugar level of 120 mg/dL is slightly above the normal range, but it's not too high. However, it's important to monitor it regularly to ensure it doesn't increase. Can we discuss your blood pressure next?\n\nPatient: Fine.\n\nNurse: Okay. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yeah. Took it\n\nNurse: I'm sorry, Damian, your response got cut off.\n\nPatient: today, and it was",
+    "responses": {
+        "gpt4": "I'm sorry, Damian, your response got cut off. Could you please repeat what your blood pressure reading was?",
+        "our_model": "I'm sorry, you were saying?"
+    }
+}

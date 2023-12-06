@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4064,
+    "prompt": "Patient: No. That was all pretty straightforward.\n\nNurse: I'm glad to hear that. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I am on a ketogenic cardiac diet, and I wanna be honest, it's been stressful to follow such a strict diet. Don't even know what food that you need, that not only go with the diet, but also help manage my obesity and cardiac heart failure.\n\nNurse: I can imagine that it's challenging to adjust to a new diet, especially when managing multiple health conditions. It's great that you're committed to following a diet that supports your health. Can you share what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: Yeah. I had keto friendly.\n\nPatient: Serial\n\nPatient: And\n\nPatient: eggs, yesterday morning.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. What did you have for breakfast yesterday?",
+        "our_model": "That sounds like a good start to the day. What about for lunch and dinner?"
+    }
+}

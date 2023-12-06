@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3661,
+    "prompt": "Patient: No.\n\nNurse: Alright. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Who gives this shit?\n\nPatient: I don't I don't understand this. I don't wanna talk to an AI.\n\nNurse: I understand that this can be frustrating, but I'm here to help you manage your health. If you could just share a bit about your recent meals, it would be very helpful.\n\nPatient: I whatever the hell I want right show. That's what I eat.\n\nNurse: I see. It's essential to enjoy what we eat. Can you tell me a bit more about what you typically have for breakfast, lunch, and dinner?\n\nPatient: I don't think about it too hard. I just I just grab something and I eat it.",
+    "responses": {
+        "gpt4": "That's fair, meals should bring us joy. I would like to share some recommendations from your doctor about food that might improve your health. Would that be alright?",
+        "our_model": "I see. It's important to be mindful of what we eat, especially for managing CHF and osteoarthritis. Would it be okay if I share some dietary recommendations with you?"
+    }
+}

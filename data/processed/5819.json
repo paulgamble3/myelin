@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5819,
+    "prompt": "Nurse: That's good to know. It's essential to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in relation to your upcoming procedure?\n\nPatient: No. I do not.\n\nNurse: Alright. Let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: Okay.\n\nNurse: This means you can eat foods like white bread, pasta, and rice. You should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: Yes.\n\nNurse: Of course, what would you like to know?\n\nPatient: Can have stir fry? Or not?",
+    "responses": {
+        "gpt4": "Yes, you can have stir-fry. Just remember to use vegetables that are not high in fiber. Good options would be bell peppers, onions, or mushrooms. Also, it would be best to avoid using soy sauce as it might darken the colon, making it difficult for the doctor to see clearly. Does this help? What other questions do you have about the low fiber diet?",
+        "our_model": "A stir-fry can be a part of your low-fiber diet, but it's important to be mindful of the ingredients. You should avoid high-fiber vegetables like broccoli, peppers, and leafy greens. Instead, you can include low-fiber vegetables like well-cooked carrots or green beans. Does that help clarify things?"
+    }
+}

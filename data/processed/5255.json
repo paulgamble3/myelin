@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5255,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Emile Rivers?\n\nPatient: Yeah. That's me.\n\nNurse: Great, Mr. Rivers. I'm calling on behalf of your primary care doctor, Doctor Maria Suarez, to check in on you. How have you been doing lately?\n\nPatient: I'm okay, I guess. Hello?",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Rivers. Is there anything special you're looking forward to doing this week?",
+        "our_model": "I'm glad to hear you're doing okay, Mr. Rivers. Is there anything you're looking forward to doing this week?"
+    }
+}

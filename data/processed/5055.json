@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5055,
+    "prompt": "Patient: Eleven twelve sixty three.\n\nNurse: Thank you for confirming your date of birth, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: I guess.\n\nNurse: Wonderful, thank you for your time, Mr. Koroleva. How has your day been so far?\n\nPatient: It's fine. Let's just\n\nPatient: Keep this moving. What do you need from me?\n\nNurse: I appreciate your patience, Mr. Koroleva. I'm here to ensure you have all the information you need for your upcoming colonoscopy. Before we begin, do you have any questions or concerns you'd like to discuss?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, thank you for letting me know. Please remember that you can ask questions at any time during our conversation.\n\nI see that your colonoscopy has been scheduled due to the presence of pus and mucus in your stool. I recognize it's not easy going through this process. Could you share how you're feeling about this procedure right now?",
+        "our_model": "Alright, Mr. Koroleva. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. I realize it can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

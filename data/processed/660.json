@@ -1,0 +1,8 @@
+{
+    "prompt_id": 660,
+    "prompt": "Nurse: Good to hear. How about Sumpatriptan and Triamcinolone ointment?\n\nPatient: It is Summa Sumatriptan\n\nNurse: I apologize for the mispronunciation. Are you still taking Sumatriptan and applying Triamcinolone ointment as prescribed?\n\nPatient: and triamcinolone. And yes.\n\nNurse: Thank\n\nPatient: I am taking them\n\nNurse: you for That's great. Now, are you still taking Metformin and Riboflavin?\n\nPatient: Are you still there?",
+    "responses": {
+        "gpt4": "Yes, I am. My apologies for any confusion. I was asking if you're still taking Metformin and Riboflavin?",
+        "our_model": "Yes, I'm here. I was asking if you're still taking Metformin and Riboflavin. ["
+    }
+}

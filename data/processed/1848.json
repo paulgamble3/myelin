@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1848,
+    "prompt": "Nurse: Thank you, Ms. Odonnell. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: That sounds good.\n\nNurse: I'm glad to hear that, Ms. Odonnell. Another suggestion is to maintain a healthy weight. Regular physical activity, like your Zumba classes, can help with this. Do you think you could try to incorporate these suggestions into your lifestyle?\n\nPatient: Yes.\n\nNurse: That's wonderful, Ms. Odonnell. Remember, every little bit helps when it comes to managing blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If you ever have any questions about your lab results, don't hesitate to ask. Now, let's discuss your medications. You're currently taking Apixaban 5 mg oral tablet, 10 mg once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Odonnell. Consistency is very important when it comes to taking your medications. Now, let's discuss your next medication - Lantus 100 IU/mL prefilled pen, which is taken as 10 units every night at bedtime. Have you been taking this medication as prescribed?",
+        "our_model": "That's great to hear, Ms. Odonnell. Now, let's move on to your next medication. You're also prescribed Lantus 100 IU/mL prefilled pen, with a dosage of 10 units every night at bedtime. Have you been taking this medication as prescribed?"
+    }
+}

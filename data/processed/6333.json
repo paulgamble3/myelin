@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6333,
+    "prompt": "Nurse: That's great to hear, Mr. Gardner. Are you taking the Lasix 20 mg tablets two times a day as prescribed?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Gardner. You're doing a great job. Now, are you still taking your Valsartan?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Mr. Gardner. It's critical to continue taking your Valsartan as it helps manage your CHF and HTN. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: My what?\n\nNurse: I apologize for the confusion, Mr. Gardner. I was asking if you ever have trouble remembering to take your medications on time. [\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "I did not hear a response from you, Mr. Gardner. Sometimes, it can be challenging to remember to take medications on time. Do you ever experience difficulties with that?",
+        "our_model": "I understand, Mr. Gardner. It's quite common to sometimes forget a dose. If it's alright with you, I'd like to provide some suggestions that might help you remember to take your medications on time. Would that be okay?"
+    }
+}

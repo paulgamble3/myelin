@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5483,
+    "prompt": "Nurse: It's great to hear that you enjoy being a part of the community at the theater, Ms. Aguirre. Is there a particular play or performance you're excited about?\n\nPatient: Oh, yeah. Billy Curtis.\n\nNurse: That's exciting, Ms. Aguirre! Is Billy Curtis a play or a performance?\n\nPatient: From the Good Morning Show.\n\nNurse: Oh, I see. You're referring to the Good Morning Show with Billy Curtis. That sounds like a great way to start the day. Before we move on, is there anything you've been feeling concerned about regarding your health, Ms. Aguirre?\n\nPatient: And I'm going to see it. I'm really excited. Big deal. Big deal.\n\nNurse: That sounds like a wonderful event, Ms. Aguirre. It's always exciting to see a live performance. Before we move on to discuss your kidney disease, do you have any symptoms or health concerns you'd like to share with me?\n\nPatient: Not",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, you were saying? Do you have any symptoms or health concerns you'd like to share with me?",
+        "our_model": "Alright, Ms. Aguirre. If you have any questions or concerns at any point during our conversation, please feel free to share them. Would it be alright if we go over a few topics related to your health now?"
+    }
+}

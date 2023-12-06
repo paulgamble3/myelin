@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4709,
+    "prompt": "Nurse: In the past month, have you thought about hurting yourself?\n\nPatient: No.\n\nNurse: Has the patient ever planned or prepared to end their life?\n\nPatient: Why are you saying these things to me?\n\nNurse: I'm sorry if this seems abrupt, but it's part of a standard procedure to ensure your well-being. Have you ever planned or prepared to end your life?\n\nPatient: No.\n\nNurse: Does the patient have any more information they want to share about this issue?\n\nPatient: I'm trying to talk to you about my recent",
+    "responses": {
+        "gpt4": "I understand. Can you please tell me more about what's been troubling you recently?",
+        "our_model": "I appreciate your patience. Does the patient have any more information they want to share about this issue?"
+    }
+}

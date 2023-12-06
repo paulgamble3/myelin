@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1124,
+    "prompt": "Nurse: Alright. Let's move on to the next question. Have you been experiencing any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. It's important to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yeah.\n\nNurse: Wonderful. It's critical to have a comfortable and safe place to recover after your procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yeah. I have\n\nNurse: That's great to hear. It's essential to have someone to assist you as you recover. If you didn't have someone, you would still have time to arrange it, but it's good that you've already taken care of this. Do you have any questions about the discharge plan or anything else related to your procedure?\n\nPatient: No. Thanks.",
+    "responses": {
+        "gpt4": "Alright. That wraps up our topics for today. But, do you have any other questions or concerns that you'd like to address before we conclude the call?",
+        "our_model": "You're welcome. I'm glad to hear that you're feeling prepared. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2411,
+    "prompt": "Nurse: Okay. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that. Now, I'd like to move on to talk about your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Okay. I see on your chart that you are currently using an Atrovent inhaler. There are no changes to this medication leading up to your surgery. Are you still taking it as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Let's see. I do take TYLENOL. That's not a blood thinner. Right?",
+    "responses": {
+        "gpt4": "Correct, Tylenol is not a blood thinner. Depending on individual circumstances, some patients are allowed to continue taking Tylenol leading up to surgery. However, it's still crucial to make sure your doctor is aware of this. You mentioned you are taking Tylenol; could you tell me how often you usually take it?",
+        "our_model": "That's correct, Tylenol is not a blood thinner. However, it's important to note that you've also been prescribed Tylenol 1000 mg three times a day as needed, Dilaudid 2 mg three times a day as needed, and Gabapentin 300 mg three times a day for after the procedure. Have you picked these up from the pharmacy yet?"
+    }
+}

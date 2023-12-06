@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5839,
+    "prompt": "Nurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: Hi. No. And you've asked me if I have any questions about ten times through this conversation. If I had a question, I would have asked it. So please stop asking me that question over and over again.\n\nNurse: I apologize for the repetition. Let's move on to the next question. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up after the procedure. If there's anything else you need to discuss or any other questions you have, feel free to ask.\n\nPatient: You know, we've already talked about this.",
+    "responses": {
+        "gpt4": "I apologize if it seemed repetitive. It's important to ensure we've covered all the necessary points in preparation for your procedure. I believe we have gone over the main topics for today. Do you have any other questions or concerns at this time?",
+        "our_model": "I apologize if it seemed repetitive. Let's move on. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

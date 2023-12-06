@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1868,
+    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say any French.\n\nNurse: I apologize for the confusion, Ms. Odonnell. I was asking about your carbohydrate intake. It's recommended to limit your intake to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: List.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I said I had shrimp talk\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?\n\nPatient: goes made oatmeal for breakfast.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Ms. Odonnell. Oatmeal is a good choice for breakfast as it's rich in fiber. If you're adding any sweeteners or toppings, try to use fresh fruit or a small amount of honey to keep your carbohydrate intake in check. Now, could you tell me what you had for dinner yesterday?",
+        "our_model": "Thank you for sharing that, Ms. Odonnell. Shrimp tacos and oatmeal can be part of a balanced diet. However, it's important to be mindful of the carbohydrate content. Would it be alright if I provide some suggestions on how to manage your carbohydrate intake?"
+    }
+}

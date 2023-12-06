@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2797,
+    "prompt": "Nurse: Thank you for confirming that. It's essential to avoid those medications unless specifically recommended by your doctor. Do you have any questions about medications before we move on to discussing your diet?\n\nPatient: No. I do not.\n\nNurse: Alright, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No. I understand.\n\nNurse: Great, it's important to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Pasta.\n\nNurse: Pasta is a great choice for a low fiber diet. Do you have a favorite pasta dish that you're planning to enjoy during this time?\n\nPatient: I just like regular old spaghetti.",
+    "responses": {
+        "gpt4": "Spaghetti sounds like an excellent comfort food. It's definitely on the low fiber list so feel free to enjoy it. Now, two days before your procedure, you'll need to shift from a low fiber diet to a clear liquid diet. Are you familiar with what counts as a clear liquid diet?",
+        "our_model": "Spaghetti is a classic choice, and it's perfect for a low fiber diet. You can enjoy it with a simple sauce, just remember to avoid high fiber ingredients. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet or any other foods you're considering?"
+    }
+}

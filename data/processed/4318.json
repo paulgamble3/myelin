@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4318,
+    "prompt": "Nurse: That's a great start. Eating a balanced diet can really help manage your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to make sure and take it.\n\nNurse: That's excellent. Staying on top of your diet and taking your medications as prescribed are key in managing your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to stay on top of it.\n\nNurse: That's good to hear. Staying on top of your blood pressure is crucial for your overall health.\n\nPatient: Making sure it doesn't go high.\n\nNurse: That's a good approach. Regular monitoring and maintaining a healthy lifestyle can help keep your blood pressure under control. Now, let's move on to a different topic. Do you smoke cigarettes or vape?\n\nPatient: I do smoke a pack of cigarettes a day.",
+    "responses": {
+        "gpt4": "I see. Deciding to discuss your smoking habit is a first big step, so thank you for being open about it. Have you ever considered giving up smoking? It's okay if you are not ready yet, I'm just asking to better understand your perspective.",
+        "our_model": "I see. It's a big step to acknowledge that. Have you ever considered quitting smoking?"
+    }
+}

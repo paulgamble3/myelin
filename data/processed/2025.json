@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2025,
+    "prompt": "Nurse: Okay. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, I'm glad to hear that. I'm here to make this process as smooth as possible for you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Excellent. I see on your chart that you are currently taking Tylenol, Celebrex, and Atorvastatin. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I am not.",
+    "responses": {
+        "gpt4": "Alright, that's good to know. These types of medications typically need to be stopped before a knee replacement, unless a doctor specifically recommends otherwise. Something else that I see in your chart is that you've also been prescribed Oxycodone 5 mg for after the procedure. Have you already picked that up from the pharmacy?",
+        "our_model": "That's good to know. It's important to avoid certain medications like blood thinners before surgery unless specifically recommended by your doctor. I also notice that you've been prescribed Oxycodone 5 mg as needed for after the procedure. Have you picked up this prescription yet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1592,
+    "prompt": "Patient: [NO RESPONSE]\n\nNurse: I'm sorry, Mr. Reynolds, it seems like there might be a connection issue. Could you please repeat your response?\n\nPatient: Like like\n\nNurse: I'm sorry, Mr. Reynolds, I didn't\n\nPatient: together name, but I guess.\n\nPatient: And then I clicked some\n\nNurse: I'm sorry, Mr. Reynolds, I didn't quite catch that. Could you please repeat what you\n\nPatient: butter or some debris on it if I can. And that's good.",
+    "responses": {
+        "gpt4": "I see, Mr. Reynolds. I think you mentioned something about enjoying your bread with some butter. However, I didn't quite capture all of your statement. Could you please confirm if you're experiencing a change in your speech?",
+        "our_model": "I'm sorry, Mr. Reynolds, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4550,
+    "prompt": "Nurse: Thank you for sharing that. It sounds like you're making an effort to eat balanced meals. I noticed you mentioned having raspberries for breakfast. That's a great choice as they're packed with vitamins. Can I provide some suggestions to further optimize your diet?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned having chicken and rice, steamed vegetables, and raspberries for breakfast, correct?\n\nPatient: Yes.\n\nNurse: That's great to hear. It sounds like you're making an effort to eat balanced meals. One suggestion is to be mindful of the amount of sodium in your food, especially if it's processed. Sodium can raise your blood pressure and worsen your kidney disease. Would you be open to some tips on how to reduce sodium in your diet?\n\nPatient: Sure.\n\nNurse: I appreciate your openness. One tip is to cook at home as much as possible, as this allows you to control the amount of salt in your food. Another is to use herbs and spices for flavor instead of salt. What do you think about these suggestions?\n\nPatient: Sounds like good idea.",
+    "responses": {
+        "gpt4": "I'm glad you think so. Another tip is to choose fresh fruits and vegetables over canned ones, as canned produce often contains added sodium. This is especially important for you as a person with kidney disease. Do you think you could incorporate this into your diet?",
+        "our_model": "I'm glad you think so. Another suggestion is to limit your intake of phosphorus. Foods high in phosphorus include dairy products, beans, lentils, nuts, and whole grains. Would you be open to some tips on how to manage your phosphorus intake?"
+    }
+}

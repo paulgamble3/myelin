@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6280,
+    "prompt": "Nurse: That's perfectly fine, Mr. Alves. Boxed macaroni and cheese is a convenient option and it fits well within the guidelines of a low fiber diet. Just make sure to\n\nPatient: Full of sodium.\n\nNurse: Ah, the convenience of a boxed macaroni and cheese, Mr. Alves. It's understandable, especially during a busy time. Just remember to check the sodium content, as it can be high in some brands. Do you usually follow the instructions on the box or do you have your own way of preparing it?\n\nPatient: Of course, I do.\n\nNurse: That's great, Mr. Alves. Having a personal touch can make even a boxed meal feel special. Do you mind sharing your secret to a perfect macaroni and cheese?\n\nPatient: I'll just\n\nNurse: That's great, Mr. Alves. Having a personal touch can make even a\n\nPatient: I just",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Alves, could you please repeat what you were saying about your macaroni and cheese?",
+        "our_model": "That's great, Mr. Alves. It sounds like you have a special way of preparing your macaroni and cheese. It's always nice to have a dish that you enjoy and can prepare just the way you like it. Shall we move on to discuss supplements and other medications you should stop"
+    }
+}

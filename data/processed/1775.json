@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1775,
+    "prompt": "Patient: I don't.\n\nPatient: Just\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I said I don't take any\n\nNurse: Thank you for clarifying.\n\nPatient: supplements.\n\nNurse: Thank you for clarifying. It's critical to avoid those supplements as they can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: I do not. No.",
+    "responses": {
+        "gpt4": "Good to hear. Without further questions, let's transition to discussing about the 'Clear Liquid Diet'. This diet is crucial to the success of your colonoscopy. Let's talk about that in detail.",
+        "our_model": "Alright. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

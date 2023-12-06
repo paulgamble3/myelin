@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5488,
+    "prompt": "Patient: Okay.\n\nNurse: Alright, Ms. Aguirre. If you do have any questions or concerns at any point during our conversation, please feel free to share them. Would it be alright if we go over a few topics related to your health now?\n\nPatient: I mean, I think I'm doing okay.\n\nNurse: I'm glad to hear that you're feeling okay, Ms. Aguirre. If you ever have any questions or concerns, feel free to share them with me at any time. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: I I am very interested about the labs If you could tell me current labs and what are my potassium in thought you meant\n\nPatient: to let me know.\n\nNurse: Of course, Ms. Aguirre. Your current lab results show that your potassium level is 4.5 mEq/L. This is within the normal range, which is good news. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Of course.",
+    "responses": {
+        "gpt4": "Alright, Ms. Aguirre. Can you tell me what your next question or concern is?",
+        "our_model": "lab results show that your potassium level is 4.5 mEq/L. This is within the normal range. Do you have any other questions or concerns about your lab results or anything else?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2608,
+    "prompt": "Nurse: It sounds like you're making some great changes to your diet.\n\nPatient: Would you be able to tell me how much salt is in that dressing?\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat your question about the salad dressing?\n\nPatient: It's called wish ball in Italian dressing. Can you tell me how much salt this is?\n\nNurse: I'm sorry, Alex, but as an AI, I don't have the ability to look up specific products. However, I can provide some general advice. It's always a good idea to check the nutrition label on food products, including dressings, to see how much sodium they contain. Would you like some general tips on how to reduce sodium in your diet?\n\nPatient: Sure.\n\nNurse: Okay. One way to reduce sodium is to cook at home more often, as this allows you to control the amount of salt in your food. When cooking, try to use herbs and spices instead of salt to flavor your food. Also, try to limit processed foods, as they often contain high amounts of sodium. Do you think you could incorporate these tips into your cooking?\n\nPatient: Yes. Thank you, Rachel.",
+    "responses": {
+        "gpt4": "You're welcome, Alex! I'm glad I could help. If you have any more questions in the future, don't hesitate to ask. Take care and have a great day!",
+        "our_model": "You're welcome. I'm glad I could help. Remember, a healthy diet is an important part of managing your conditions. If you have any other questions or concerns in the future, don't hesitate to reach out. Is there anything else you'd like to discuss today?"
+    }
+}

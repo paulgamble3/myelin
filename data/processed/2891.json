@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2891,
+    "prompt": "Nurse: That's excellent, Mr. Douglas. Sticking to your medication schedule is crucial for managing your CHF. Now, have you also picked up your Carvedilol 3.125 mg oral tablets?\n\nPatient: Yep.\n\nNurse: That's good to hear, Mr. Douglas. And how have you been taking your Carvedilol?\n\nPatient: As prescribed.\n\nNurse: That's great, Mr. Douglas. It's critical to take your medications as prescribed to manage your CHF effectively. Now, are you still taking your Metformin, Hydrochlorothiazide, and Vitamin D supplement?\n\nPatient: Yep.\n\nNurse: That's good to hear, Mr. Douglas. It's important to continue taking your existing medications as prescribed. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Not really, to be honest. It's not too hard.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Douglas. Staying on top of your medications is a key part of managing your health. You're doing a great job with that! Now, with your permission, I would like to ask you a few questions about your symptoms to help us understand how you're doing at home. Is that alright with you?",
+        "our_model": "That's fantastic, Mr. Douglas. Staying consistent with your medication schedule is key to managing your CHF. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

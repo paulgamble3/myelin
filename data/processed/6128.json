@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6128,
+    "prompt": "Nurse: I'm sorry, Jon, could you please repeat what you had for dinner yesterday?\n\nPatient: And and\n\nNurse: I'm sorry, Jon, you were saying?\n\nPatient: string beans for dinner.\n\nNurse: Thank you for sharing that. It sounds like you're making an effort to include a variety of foods in your diet. I noticed that you had pizza for lunch. Pizza can sometimes be high in sodium. Would it be okay if I provide some suggestions on how to manage your sodium intake?\n\nPatient: Okay.\n\nNurse: Okay. One strategy is to choose foods that are low in sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also a good idea to limit processed foods, which often contain high amounts of sodium. What do you think about this suggestion?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great. Now, while having a diverse diet is good, managing phosphorus and carbohydrates is also crucial given your CKD and Diabetes conditions. For phosphorus, try to avoid high-phosphorus foods like dairy products, beans, lentils, nuts, and whole grains, and instead opt for foods like fresh fruits and vegetables, rice, and pasta. For carbs, aim to have about 130 grams per day but of course, everyone is different and it would be ideal to consult with a dietitian for a tailored plan. How does that sound?",
+        "our_model": "I'm glad to hear that. Now, let's move on to discuss your"
+    }
+}

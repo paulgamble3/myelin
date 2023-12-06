@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6076,
+    "prompt": "Nurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: We'd like to take walks.\n\nNurse: That sounds like a great way to spend time. Walking is also a good form of exercise. What's your dog's name?\n\nPatient: Buddy,\n\nNurse: Buddy sounds like a great companion. Now, let's move on to discuss your health. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Jon. That's a bit above normal for fasting blood sugar, it should ideally be less than 100. Would you like some suggestions to help lower your blood sugar levels?",
+        "our_model": "Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4854,
+    "prompt": "Nurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Kageyama. It's essential to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Kageyama. It's critical to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Yes, Mr. Kageyama, I'm still here. Now that we've gone over all the topics for today, do you have any further questions or concerns that you'd like to discuss?",
+        "our_model": "Yes, Mr. Kageyama, I'm here. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

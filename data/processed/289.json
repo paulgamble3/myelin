@@ -1,0 +1,8 @@
+{
+    "prompt_id": 289,
+    "prompt": "Nurse: I'm sorry to hear that you're having a tough time.\n\nPatient: Now what do you need from me? Okay. Let's let's get down to the\n\nNurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: business. K?\n\nNurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: No. I don't feel comfortable scrabble.\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I did not feel comfortable telling you",
+    "responses": {
+        "gpt4": "Alright, I understand. If you change your mind in the future, feel free to share. As for your health, Doctor Marcuso wanted to go over your recent blood test results and discuss a plan going forward. Is this a good time for that?",
+        "our_model": "I see. That's perfectly okay. It's important that you feel comfortable during our conversations. Let's move on to discussing your health. Is there anything specific you've been concerned about regarding your kidney disease that you'd like to discuss?"
+    }
+}

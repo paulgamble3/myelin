@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3323,
+    "prompt": "Nurse: I apologize for the confusion, Mr. Winner. I was asking if you've picked up your Tylenol and Celebrex from the pharmacy yet.\n\nPatient: Yes. I did.\n\nNurse: That's great, Mr. Winner. It's critical to have those medications on hand for after your procedure. Do you have any questions about your medications?\n\nPatient: No.\n\nNurse: Alright, Mr. Winner. Let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection by using a chlorhexidine scrub. Have you already purchased the scrub?\n\nPatient: Okay.\n\nNurse: You'll need to prepare your skin for surgery to reduce infection by using a chlorhexidine scrub. Have you already purchased the scrub?\n\nPatient: Yeah. I did take this crap. What is what is this crap is all about?",
+    "responses": {
+        "gpt4": "I'm glad to hear that you've purchased the scrub, Mr. Winner. The chlorhexidine scrub is used to cleanse your skin and reduce the amount of bacteria present, lowering the risk of infection. Can we go over the instructions on how to use it?",
+        "our_model": "I'm glad to hear you've already purchased the scrub, Mr. Winner. It's used to clean your skin and reduce the risk of infection. You'll need to use it the night before and the morning of your procedure. Does that sound good so far?"
+    }
+}

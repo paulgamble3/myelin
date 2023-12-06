@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1871,
+    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?\n\nPatient: goes made oatmeal for breakfast.\n\nNurse: Thank you for sharing that, Ms. Odonnell. Shrimp tacos and oatmeal can be part of a balanced diet. However, it's important to be mindful of the carbohydrate content. Would it be alright if I provide some suggestions on how to manage your carbohydrate intake?\n\nPatient: Now. No.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if it's okay for me to provide some suggestions on managing your carbohydrate intake?\n\nPatient: I said no.\n\nNurse: I apologize for the confusion, Ms. Odonnell. If you ever have any questions or need any suggestions in the future, don't hesitate to ask. Now, let's move on to discuss your other chronic conditions. You also have hypertension. How have you been managing your blood pressure?\n\nPatient: It's been going fine.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Ms. Odonnell. It's important to keep an eye on your blood pressure given your health conditions. Now, let's move on to your final health check for today's call. Ms. Odonnell, may I ask if you smoke cigarettes or vape?",
+        "our_model": "I'm glad to hear that, Ms. Odonnell. It's essential to keep monitoring your blood pressure regularly. Now, let's discuss your back surgeries. How has your recovery been going?"
+    }
+}

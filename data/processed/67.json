@@ -1,0 +1,8 @@
+{
+    "prompt_id": 67,
+    "prompt": "Patient: How many times are you gonna ask me that? I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.\n\nNurse: I apologize for the confusion, Ms. Ware. Can you confirm if the swelling is only in your stomach and not in your arms or legs?\n\nPatient: Oh my gosh. Yes. I sent only in my stomach.\n\nNurse: When did the swelling start, Ms. Ware?\n\nPatient: Today.\n\nNurse: Just give me a second to work out the best way I can assist you. Does the swelling start suddenly, Ms. Ware?\n\nPatient: I woke up with it.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that. Are you experiencing any pain or discomfort due to the swelling?",
+        "our_model": "Does the swelling start suddenly, Ms. Ware?"
+    }
+}

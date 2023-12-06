@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1268,
+    "prompt": "Nurse: Alright, Ms. Raynier. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Wondering is will it be really hard for me to walk after the surgery?\n\nNurse: That's a very valid question, Ms. Raynier. After your surgery, you will likely need some assistance with walking initially. This is because your knee will be healing and it's important not to put too much strain on it. Over time, with physical therapy and rehabilitation, you should regain your mobility and be able to walk without assistance. Does that help alleviate some of your concerns?\n\nPatient: Yes.\n\nNurse: I'm glad to hear that, Ms. Raynier. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Do you\n\nNurse: questions or concerns that you'd like to discuss?\n\nPatient: Hi.",
+    "responses": {
+        "gpt4": "Hello, Ms. Raynier. Did you have another question or an area you would like to discuss further?",
+        "our_model": "to discuss?"
+    }
+}

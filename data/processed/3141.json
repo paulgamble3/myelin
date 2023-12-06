@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3141,
+    "prompt": "Patient: Yes. I like I very like I really like pasta. Yeah. It's very good. I love vegetables too, but I'm aware that I have to lower my intake vegetables intake.\n\nNurse: Pasta is a great choice, Mr. Valenzuela. It's a good source of low fiber carbohydrates. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have a favorite pasta dish?\n\nPatient: Cheese. Turtolini,\n\nNurse: Tortellini sounds delicious, Mr. Valenzuela. It's a great choice for a low fiber meal. Just remember to avoid adding high fiber ingredients like vegetables or whole grain pasta. Do you have any other questions about the diet or any other foods you're curious about?\n\nPatient: Cool.\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. Let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I don't. But I do have diarrhea.",
+    "responses": {
+        "gpt4": "I see, Mr. Valenzuela. Having diarrhea can indeed be uncomfortable. It's one of the reasons you're getting a colonoscopy, to hopefully find out what's causing it. In the meantime, it's good that you aren't taking any supplements or anti-diarrheal medications, as they could interfere with your procedure. Do you have any questions about that?",
+        "our_model": "I see, Mr. Valenzuela. It's important to note that the diarrhea you're experiencing is likely due to the bowel prep for the colonoscopy, not the procedure itself. This is a normal part of the process. Do you have any questions about this or any other aspects of the preparation?"
+    }
+}

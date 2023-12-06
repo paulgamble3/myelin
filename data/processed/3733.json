@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3733,
+    "prompt": "Nurse: I can see why you might feel that way, Ms. Odonnell. It's a lot to manage. Can you tell me more about your concerns about dialysis?\n\nPatient: I'm just scared that this is the end for me.\n\nNurse: I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's a big change and it's normal to feel scared. But remember, dialysis is a treatment that can help manage your kidney disease and improve your quality of life. It's not a sign that things are ending. Is there anything specific you're looking forward to doing this week that might help take your mind off things a bit?\n\nPatient: No.\n\nNurse: That's okay, Ms. Odonnell. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing\n\nPatient: Yes.\n\nNurse: at home, I'm sorry, Ms. Odonnell, could you please clarify?\n\nPatient: My daughter's coming to visit me.",
+    "responses": {
+        "gpt4": "That sounds really nice, Ms. Odonnell! It can be such a comfort to spend time with family. What do you and your daughter usually like to do when she visits?\n\n",
+        "our_model": "That sounds lovely, Ms. Odonnell. It's always nice to spend time with family. How often does your daughter visit?"
+    }
+}

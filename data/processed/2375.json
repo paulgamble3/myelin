@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2375,
+    "prompt": "Nurse: Perfect. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No. What time should I arrive to the hospital?\n\nNurse: You should aim to arrive at the hospital around 1 hour before your procedure, so for your 9:00 AM procedure, you should plan to arrive at 8:00 AM. This will give you enough time to check in and prepare for your surgery. Does that help?\n\nPatient: That help. Yeah.\n\nNurse: I'm glad to hear that. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please.\n\nNurse: Okay. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg, which you were instructed to stop 7 days before the procedure?\n\nPatient: Yes. I did.",
+    "responses": {
+        "gpt4": "Good to know that. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?",
+        "our_model": "That's great. It's important to follow these instructions for your surgery. Do you have any questions about these medications or why you needed to stop the Aspirin?"
+    }
+}

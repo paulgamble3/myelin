@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2332,
+    "prompt": "Nurse: Alright, Mr. Ponce. It's important to monitor these symptoms closely. Now, let's move on to your medications. Have you been able to pick up your new prescription for Hydrochlorothiazide 25 mg?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Ponce. Are you taking the Hydrochlorothiazide 25 mg two times a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Ponce. Now, let's discuss your existing medications. Are you still taking Captopril, Carvedilol, and Metformin?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear, Mr. Ponce. It's essential to continue taking these medications as prescribed. Now, I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. Not really.",
+    "responses": {
+        "gpt4": "Great job, Mr. Ponce. I'm glad to hear that you're managing your medications well. If you do find that you're struggling to remember in the future, would you be open to a few suggestions?",
+        "our_model": "That's fantastic, Mr. Ponce. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few more questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

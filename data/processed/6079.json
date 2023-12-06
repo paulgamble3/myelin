@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6079,
+    "prompt": "Nurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: Wonderful, one strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, vegetables, and healthy fats. It's also important to limit foods high in sugar. What do you think about this suggestion?\n\nPatient: But I I'm not hearing you. You're cutting in and out.\n\nNurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you for clarifying. It appears that your blood sugar levels are within range which is good, but it's always important to continue monitoring it closely. Are there any specific concerns you'd like to discuss about your diabetes or blood sugar levels?",
+        "our_model": "Give me a moment to check how I can best support you. Give me a moment to check how I can best support you."
+    }
+}

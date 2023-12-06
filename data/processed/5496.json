@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5496,
+    "prompt": "Nurse: Okay, thank\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Hello?\n\nNurse: Hello, Ms. Aguirre. I was asking if you have been checking your blood sugar levels daily?\n\nPatient: I said yes.\n\nNurse: Thank you for confirming that, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one twenty eight.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Ms. Aguirre. I noticed that your last blood sugar reading was slightly higher than the recommended levels. If you're interested, I can provide some strategies to help manage blood sugar levels. Would you like me to share those with you?",
+        "our_model": "Thank you"
+    }
+}

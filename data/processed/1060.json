@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1060,
+    "prompt": "Nurse: Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. We'll also have another call the day before your procedure. Let's start with your current medication. You're taking Ferrous Sulfate 200 mg once a day, correct?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Excellent. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Okay. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for confirming. I'm going to move forward and discuss your medication, but I want to take a pause to see if it's alright to do so. Can we continue?",
+        "our_model": "Alright. I'm glad to hear that. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4116,
+    "prompt": "Nurse: That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: No. Just staying home with my dog.\n\nNurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name?\n\nPatient: Cheeto.\n\nNurse: Cheeto, that's a fun name! What kind of dog is Cheeto?\n\nPatient: At a quality,\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: It's a two hour",
+    "responses": {
+        "gpt4": "I'm sorry, I may have misunderstood you. Could you please repeat that? What breed is Cheeto?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 197,
+    "prompt": "Nurse: I can imagine that managing blood sugar levels can be a constant focus, Ms. Aguirre. It's great that you're already aware of the importance of a balanced diet. As an alternative suggestion, regular physical activity can also help manage blood sugar levels. This could be a brisk walk, gardening, or any other form of movement you enjoy. Would you be open to trying this?\n\nPatient: If you could be more specific, that would be good.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It sounds like you're really dedicated to managing your blood sugar levels. One specific suggestion could be to focus on foods that are high in fiber, as they can help control blood sugar levels. Foods like fruits, vegetables, legumes, and whole grains are good sources of fiber. Do you think you could incorporate more of these foods into your diet?\n\nPatient: Well, I also have this\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your diet?\n\nPatient: stage four chronic kidney disease, and I don't think all of those foods are okay for me to eat.\n\nNurse: You're absolutely right, Ms. Aguirre. I apologize for the oversight. With your Stage IV Chronic Kidney Disease, some of these foods might not be the best fit due to their high potassium and phosphorus content. An alternative suggestion could be to incorporate more low-potassium and low-phosphorus foods into your diet. These could include foods like apples, berries, and rice. What do you think about this alternative?\n\nPatient: And",
+    "responses": {
+        "gpt4": "Yes, Ms. Aguirre? Could you please repeat your thought?",
+        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

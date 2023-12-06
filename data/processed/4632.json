@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4632,
+    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Peck. You're correct, we did discuss your blood pressure earlier. It's great that you're taking your medication as prescribed. Now, let's discuss your other chronic condition, Type II Diabetes. How have you been managing your blood sugar levels?\n\nPatient: Well, we talked about that already.\n\nNurse: I apologize for any confusion earlier, Mr. Peck. You're correct, we did discuss your blood sugar levels earlier. It's great that you're monitoring your blood sugar levels and taking your medication as prescribed. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I do. I smoke cigarettes.\n\nNurse: Thank you for sharing that with me, Mr. Peck. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: Not really.\n\nNurse: I see, Mr. Peck. It's a big step to decide to stop smoking. Can I ask why you haven't considered quitting?\n\nPatient: Well, that's rather personal, but I Enjoy it.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Peck. We know that quitting smoking can be a difficult decision to make, especially if it's something you enjoy. If you ever change your mind and want to consider quitting, there are resources available to help you. Would you be open to me sharing those resources with you in the future?",
+        "our_model": "I'm I see, Mr. Peck. It's completely okay to enjoy something even if it's not the healthiest choice. If you ever change your mind about quitting, I have lots of resources that could help you. Would you like me to share these with you now, or would you prefer to wait until you're ready?"
+    }
+}

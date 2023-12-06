@@ -1,0 +1,8 @@
+{
+    "prompt_id": 584,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Josie Chabot?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Yes. July twelfth nineteen sixty six.\n\nNurse: Thank you for confirming, Ms. Chabot. I'm calling on behalf of your primary care doctor, Doctor France Chin. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing good.\n\nNurse: I'm glad to hear that, Ms. Chabot. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: It's really nice being home.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Chabot! There's indeed no place like home. Do you have any hobbies or activities you're excited to get back to? Reading, gardening, or perhaps watching your favorite shows?",
+        "our_model": "I'm glad to hear that, Ms. Chabot. There's no place like home, isn't it?"
+    }
+}

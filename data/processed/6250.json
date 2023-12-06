@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6250,
+    "prompt": "Nurse: I care because it's my job to ensure you feel prepared and comfortable with your upcoming procedure, Mr. Alves. It's completely normal to have feelings about it. Can you share more about how you're feeling?\n\nPatient: I'm feeling\n\nNurse: I'm sorry, Mr. Alves, you were about to share how you're feeling about your upcoming colonoscopy. Could you please continue?\n\nPatient: So\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat how you're feeling about your upcoming colonoscopy?\n\nPatient: done we've just\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat how you're feeling about your upcoming colonoscopy?\n\nPatient: everything. All this",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Alves, but I didn't quite understand your response. Could you please repeat how you're feeling about your upcoming colonoscopy?",
+        "our_model": "I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

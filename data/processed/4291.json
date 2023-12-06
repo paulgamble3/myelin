@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4291,
+    "prompt": "Nurse: I'm sorry, could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: Name is Naidie over One fifteen.\n\nNurse: Thank you for sharing that. It's a bit high. Would it be okay if I share some suggestions to help manage your blood pressure?\n\nPatient: Yes.\n\nNurse: Excellent. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fewer processed foods and not adding extra salt to meals. Does this sound like something you could try?\n\nPatient: Yes. It does.\n\nNurse: That's great to hear. Another strategy is to maintain a healthy weight. This can be achieved through a balanced diet and regular physical activity, like your morning walks. Do you think this is something you can continue to do?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's fantastic to hear. The last strategy is to limit alcohol and avoid tobacco. Excessive alcohol and tobacco use can raise your blood pressure. Is this something you need assistance with?",
+        "our_model": "That's wonderful. Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?"
+    }
+}

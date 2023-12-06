@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2727,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Okay. February fifth nineteen seventy.\n\nNurse: Thank you for confirming your date of birth, Mr. Stevens. I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Feeling alright. Thank you.\n\nNurse: I'm glad to hear that, Mr. Stevens. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Stevens. I was asking if there's anything in particular you've been looking forward to doing now that you're back home?\n\nPatient: Yes. It's good to be home. It's really good to be home.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Stevens! Being at home can really contribute to one's wellness. By any chance, do you have any favorite hobbies, sports or pets that you've missed while you were in the hospital?",
+        "our_model": "That's wonderful to hear, Mr. Stevens. Being in the comfort of your own home can indeed be a great feeling. Is there a particular hobby or activity that you enjoy doing at home?"
+    }
+}

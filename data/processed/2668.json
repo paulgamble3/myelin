@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2668,
+    "prompt": "Nurse: I can understand that, Ms. Cruz. It's normal to miss the taste of foods we're used to. Could you share more about the types of food you miss?\n\nPatient: It just I feel like this\n\nNurse: I can understand how you might miss your regular food, Ms. Cruz. Making dietary changes can be challenging. Could you share more about the foods you miss and why you enjoyed them?\n\nPatient: this diet is so restricting. Austin don't know. So\n\nNurse: I can\n\nPatient: I\n\nNurse: understand how I can understand how you might feel, Ms. Cruz. Changes in diet can feel restrictive, especially when it involves foods we're used to. Could you share more about the types of food you miss?\n\nPatient: When should I wait myself? Do I",
+    "responses": {
+        "gpt4": "It's recommended that you weigh yourself daily. The best time is in the morning, after using the bathroom and before eating or drinking anything. You should also weigh yourself in similar clothing each time. Do you have access to a scale at home?",
+        "our_model": "I understand, Ms. Cruz. Changing our diet can feel restrictive, especially when we miss our favorite foods. It's essential to weigh yourself daily, preferably at the same time each day, and look for any sudden increases. This can be a sign of fluid retention, which is something we want to avoid with CHF. Would you like more information on how to manage your diet while still enjoying your meals?"
+    }
+}

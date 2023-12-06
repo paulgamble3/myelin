@@ -1,0 +1,8 @@
+{
+    "prompt_id": 983,
+    "prompt": "Nurse: Yes, there are different types of dialysis. Would you like me to provide some information about them?\n\nPatient: And how do they differ?\n\nNurse: Yes, there are two main types of dialysis - hemodialysis and peritoneal dialysis. Hemodialysis uses a machine to filter waste and extra fluid from your blood. It's usually done at a dialysis center, and you typically go a few times a week. Peritoneal dialysis uses the lining of your abdomen, called the peritoneum, to filter your blood. You can do this at home using a special solution. Would you like me to go into more detail about each type?\n\nPatient: No. That's okay.\n\nNurse: Alright, if you have any other questions at any point during our conversation, feel free to ask. Now, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Yes.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good to hear. Would you be able to share the reading from your last blood sugar check at home?",
+        "our_model": "That's excellent. Could you please share with me what your last blood sugar reading at home was?"
+    }
+}

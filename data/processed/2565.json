@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2565,
+    "prompt": "Nurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: I just had a piece of toast with a cream cheese.\n\nNurse: Thank you for sharing that.\n\nPatient: And a small salad?\n\nNurse: That sounds like a good start to the day. What did you have for dinner last night?\n\nPatient: I don't remember.",
+    "responses": {
+        "gpt4": "That's perfectly alright. Remembering every meal can be tricky. It's normal. Can we talk about the dietary recommendations given to you? Can I share with you this information?",
+        "our_model": "That's okay. Can you recall what you had for lunch yesterday?"
+    }
+}

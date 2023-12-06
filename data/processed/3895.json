@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3895,
+    "prompt": "Nurse: That's perfectly fine. There are so many great authors out there. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: Well,\n\nNurse: Yes.\n\nPatient: actually need to do it in regards to my diet.\n\nNurse: I'm sorry, Carla, could you please repeat what you said about your diet?\n\nPatient: I wanna know\n\nNurse: I'm sorry, Carla, could you please repeat what you'd like to know about your diet?\n\nPatient: Yes. I was still out to ask a question. In regards to my diet, What dietary changes do I need to make to preserve my kidney function?",
+    "responses": {
+        "gpt4": "That's an important question, Carla. Maintaining a healthy diet can play a key role in preserving kidney function. You should focus on eating fresh fruits and vegetables, lean proteins, whole grains, and low-fat dairy products. Reducing salt and processed foods intakes can also be helpful. However, everyone's needs are different, and you should consult with a dietitian for personalized advice. Let's arrange for a consultation with a dietitian. What do you think?",
+        "our_model": "That's a very important question. Would it be okay if we go over a few topics related to your kidney disease and diet?"
+    }
+}

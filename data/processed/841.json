@@ -1,0 +1,8 @@
+{
+    "prompt_id": 841,
+    "prompt": "Nurse: GFR stands for Glomerular Filtration Rate, Mr. Oliver. It's a test that measures how well your kidneys are filtering waste from your blood. It's measured by looking at the amount of a waste product called creatinine in your blood. A lower GFR can indicate that your kidneys are not working as well as they should be. Does that help clarify things for you?\n\nPatient: Yes. It does.\n\nNurse: I'm glad to hear that, Mr. Oliver. Now, let's discuss your medications. You're currently taking Valsartan 40 mg once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Taking your medication as prescribed is crucial in managing your conditions. Now, let's move on to your next medication. You're also prescribed Lantus, 15 units two times a day. Have you been taking this medication as directed?\n\nPatient: Mhmm.\n\nNurse: That's great to hear, Mr. Oliver. Regularly taking your Lantus as prescribed is important for managing your blood sugar levels. Lastly, you're prescribed Aspart, 5 units three times a day. Have you been taking this medication as directed?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Hello, Mr. Oliver. I was just asking about your Aspart medication. You're prescribed to take 5 units three times a day. Have you been taking this medication as directed?",
+        "our_model": "Yes, Mr. Oliver, I'm here. Have you been taking your Aspart medication, 5 units three times a day, as prescribed?"
+    }
+}

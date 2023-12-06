@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5197,
+    "prompt": "Nurse: That's excellent. It's critical to keep up with your medications. I understand that it can sometimes be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I use the pull box.\n\nNurse: That's a great strategy. Using a pill box can be very helpful in managing multiple medications. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. I guess.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: It's",
+    "responses": {
+        "gpt4": "I'm sorry but the call got disconnected. Could you please repeat whether you've experienced any ongoing or worsening chest pain?",
+        "our_model": "I'm glad to hear that. Now, have you experienced any ongoing or worsening chest pain recently?"
+    }
+}

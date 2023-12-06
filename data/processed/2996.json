@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2996,
+    "prompt": "Nurse: I'm sorry to hear that you're still experiencing symptoms despite taking your medications. It's critical to understand these symptoms to manage your CHF. Would it be okay if I ask you a few more questions about your symptoms?\n\nPatient: Sure.\n\nNurse: Thank you. You mentioned earlier that you've been experiencing shortness of breath. Is this happening with activity, when you're laying down, or at rest?\n\nPatient: It seems like all the time.\n\nNurse: I see. It's essential to note that. Have you been experiencing any ongoing or worsening chest pain?\n\nPatient: No. No. No chest pain, thankfully.\n\nNurse: I'm glad to hear that. Now, you mentioned a dry cough earlier. Is this new or has it been ongoing?\n\nPatient: This is new since the hospital. I had a cost that was with me before the hospital. Now it's come back again.",
+    "responses": {
+        "gpt4": "I see, thank you for sharing that. It's important to monitor new symptoms especially those that reoccur. Now you mentioned you haven't noticed swelling in your ankles or legs. Can you tell if there's any increased swelling in your feet or stomach?",
+        "our_model": "I see, a new or worsening dry cough can be a sign of fluid buildup in the lungs. It's essential to monitor this closely. Now, you mentioned earlier that you've gained weight. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

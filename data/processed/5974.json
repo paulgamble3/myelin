@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5974,
+    "prompt": "Nurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 112, correct?\n\nPatient: One twelve.\n\nNurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 112, correct?\n\nPatient: Yes.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you. Thank you for confirming that. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're managing your blood sugar levels well. Let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: My blood pressure. Let me see. I wrote it down. Give me a\n\nNurse: Of course, take your time. It's critical to keep track of your blood pressure readings. [\n\nPatient: second here.",
+    "responses": {
+        "gpt4": "Sure, no problem. Please take your time. Keeping track of your blood pressure is important for managing your overall health.",
+        "our_model": "Of course, take your time. It's critical to keep track of your blood pressure readings. ["
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5336,
+    "prompt": "Nurse: That's great to hear, Mr. Gardner. Now, let's talk about your existing medication. Are you still taking your Valsartan?\n\nPatient: Yes.\n\nNurse: That's good to hear, Mr. Gardner. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Good to hear, Mr. Gardner. Let's continue. Have you been experiencing any ongoing or worsening chest pain?",
+        "our_model": "That's good to hear, Mr. Gardner. Now, have you experienced any ongoing or worsening chest pain?"
+    }
+}

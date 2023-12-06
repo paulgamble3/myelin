@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3364,
+    "prompt": "Nurse: You're welcome, Mr. Kageyama. I'm glad I could help. If it's okay with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that alright?\n\nPatient: Sure.\n\nNurse: Okay, thank you, Mr. Kageyama. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with your current medication. You're prescribed Tylenol 500 mg, with a dosage of 1000 mg TID. Can you confirm if you've been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Kageyama. It's essential to follow the prescribed dosage. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. Credit.\n\nNurse: I'm glad to hear that, Mr. Kageyama. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Great, Mr. Kageyama. I'm pleased that the logistics work for you. I want to ensure that you feel comfortable with all the arrangements. Is there anything else about the logistics that's worrying you or anything you want to know more about?",
+        "our_model": "Great, Mr. Kageyama. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
+    }
+}

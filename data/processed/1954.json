@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1954,
+    "prompt": "Nurse: Hello. I was asking if you have any questions or concerns about what we've discussed so far.\n\nPatient: No. I do not.\n\nNurse: Alright. I'll be sure to inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: You know, I can't really think of any.\n\nNurse: That's perfectly fine. To summarize, you've agreed to consider incorporating more walking and stretching exercises into your routine, and to continue monitoring your symptoms. Can you confirm that you'll do these things?\n\nPatient: I'll get another shot.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'll give it my best shot.",
+    "responses": {
+        "gpt4": "That's all we can ask for, and I'm confident you can do it! Just remember to listen to your body and not overdo it. Before we conclude, I also want to provide you with a number you can call if you have any additional questions or concerns. The number is 641-381-6523. \n\nI want to thank you for taking the time to speak with me today--I know managing your health can benefit from these conversations. We're here to support you. Does there anything else you would like to ask before we finish?",
+        "our_model": "That's all we can ask for. Your efforts are greatly appreciated. If you have any questions or concerns in the future, please don't hesitate to call us back at 641-381-6523. Thank you for your time today, and take care. Goodbye."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2943,
+    "prompt": "Nurse: Okay, Ms. McKloskey. After taking a normal shower, you'll turn the water off. Then, you'll apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Can you do that?\n\nPatient: Yes. I can do that.\n\nNurse: Okay, Ms. McKloskey. Just remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.\n\nNurse: Excellent, Ms. McKloskey. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Ms. McKloskey. Do you have any questions about the chlorhexidine scrub or the instructions I just provided?\n\nPatient: No. I don't think so.",
+    "responses": {
+        "gpt4": "Great, Ms. McKloskey. It's important to remember to do this the night before and the morning of your procedure. Can you remember to do that?",
+        "our_model": "Alright, Ms. McKloskey. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4562,
+    "prompt": "Nurse: I'm glad to hear that. It's essential to manage your blood sugar levels regularly. Now, how has your hypertension been lately?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. I was asking how your hypertension has been lately. [\n\nPatient: No problems with it.\n\nNurse: I'm glad to hear that. It's essential to keep your blood pressure under control. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: Yeah. I do.\n\nNurse: I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting?\n\nPatient: I'm not really interested in quitting right now.",
+    "responses": {
+        "gpt4": "I appreciate your honesty, Jon. I understand that making the decision to quit smoking is a big step. Could you share with me what's holding you back from considering the idea of quitting? Please remember, if you ever change your mind, I can share a lot of resources on smoking cessation with you.",
+        "our_model": "I appreciate your honesty. It's a big step to decide to quit smoking. Can you share why you're not ready to quit at this time?"
+    }
+}

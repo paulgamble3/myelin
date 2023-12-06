@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4294,
+    "prompt": "Nurse: That's great to hear. Another strategy is to maintain a healthy weight. This can be achieved through a balanced diet and regular physical activity, like your morning walks. Do you think this is something you can continue to do?\n\nPatient: Yes.\n\nNurse: That's wonderful. Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "That's excellent. Taking your prescribed medication helps manage your blood pressure, which is crucial for your kidney health. Let's now discuss your diet a little more. Are you currently following a specific diet?",
+        "our_model": "That's great to hear. Taking your medication as prescribed is crucial in managing your blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

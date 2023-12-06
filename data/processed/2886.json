@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2886,
+    "prompt": "Nurse: Absolutely, Mr. Douglas. There's no place like home. It's great to hear that you're back in your comfort zone. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I'm just, like, watching travel shows\n\nNurse: That sounds like a wonderful way to relax, Mr. Douglas. Travel shows can be so fascinating. Do you have a favorite destination or show that you particularly enjoy?\n\nPatient: Not really. I just kinda like seeing where people are going. You know?\n\nNurse: That's a great way to explore the world from the comfort of your own home, Mr. Douglas. It's like a virtual vacation. Now, I'm calling on behalf of your primary care doctor, Doctor Malcom Garrett. We have a few topics to cover today. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Douglas. Let's start with your new medications. Have you been able to pick up your Captopril 12.5 mg oral tablets from the pharmacy?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Great! And have you been taking the Captopril tablets twice a day as prescribed?",
+        "our_model": "Great, Mr. Douglas. And how have you been taking your Captopril?"
+    }
+}

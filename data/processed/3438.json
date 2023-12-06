@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3438,
+    "prompt": "Nurse: Yes, Ms. Aguirre, I'm here. You mentioned earlier that you're doing fine. I was asking if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Aguirre. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing with your chronic conditions?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Wood twenty eight.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, I didn't catch that correctly. Could you please repeat that?",
+        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat your last blood sugar reading?"
+    }
+}

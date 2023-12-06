@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2649,
+    "prompt": "Nurse: I apologize for the confusion earlier, Ms. Cruz. Could you please confirm if you've been using more pillows at night to sleep?\n\nPatient: No. I do not.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: Thank you.\n\nNurse: You're welcome, Ms. Cruz. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Some meals that I've had\n\nNurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?\n\nPatient: I've had a lot of",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Cruz, your response got cut off. Could you please let me know about some recent meals you've had?",
+        "our_model": "I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?"
+    }
+}

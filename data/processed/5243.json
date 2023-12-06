@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5243,
+    "prompt": "Patient: I used a lot of veggies and\n\nNurse: That's great, Mr. Oliver.\n\nPatient: just lean.\n\nPatient: Chicken.\n\nNurse: That's a great way to prepare your chicken soup, Mr. Oliver. Using lean chicken and plenty of vegetables can provide you with essential nutrients. If it's okay with you, I'd like to provide some suggestions to align your diet with the DASH diet, which is recommended for your conditions. Would that be alright?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Oliver. The DASH diet emphasizes eating fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It also recommends limiting foods high in saturated fats, cholesterol, and sodium. For example, when preparing your chicken soup, you could consider using low-sodium broth and adding more vegetables. Do you have any questions about this?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Alright, Mr. Oliver. I'm here to help, so feel free to ask if you have any questions in the future. Now, let's talk about physical activity. Regular physical activity is important for managing your conditions. What types of physical activity do you enjoy doing?",
+        "our_model": "Alright, Mr. Oliver. Now, let's discuss your other chronic conditions. You have Type II Diabetes. How have you been managing your blood sugar levels?"
+    }
+}

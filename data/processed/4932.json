@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4932,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Fredric Hooper?\n\nPatient: This is Frederick Cooper.\n\nNurse: I apologize for the confusion, Mr. Cooper. I was trying to reach Fredric Hooper. I must have mispronounced the name. Can you confirm if you are Fredric Hooper?\n\nPatient: I am.\n\nNurse: Thank you for confirming, Mr. Hooper. For verification purposes, could you please provide your date of birth?\n\nPatient: December five\n\nPatient: nineteen sixty one.",
+    "responses": {
+        "gpt4": "Thank you for confirming that, Mr. Hooper. I hope you're feeling well today. As your chronic care management AI nurse, representing Dr. Trevor Sutton, I'll be taking some time to go through certain aspects of your care. \n\nLet's greet you back home first, though. How have you been since you returned from the hospital?",
+        "our_model": "Thank you for confirming that, Mr. Hooper. I'm glad to hear you're back home from the hospital. How are you feeling today?"
+    }
+}

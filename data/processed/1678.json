@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1678,
+    "prompt": "Nurse: Thank you for confirming, Mr. O'Leary. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Okay, thank you for your time, Mr. O'Leary. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm just really sick of this arthritis pain in my knee.\n\nNurse: I'm sorry to hear that you're experiencing pain, Mr. O'Leary. It's certainly not easy dealing with such discomfort. It's great that you're taking steps to address it with the upcoming knee replacement. Are there any activities you've had to put on hold due to the pain?\n\nPatient: And I'm really hoping that it's gonna get better after this surgery.\n\nNurse: I'm sorry to hear that you're experiencing pain, Mr. O'Leary. It's certainly not easy dealing with such discomfort. The upcoming surgery has the potential to significantly improve your quality of life by alleviating that pain. Speaking of which, have you thought about what you might like to do once your knee is feeling better?\n\nPatient: Yes. I wanna be able to ride my bike again.",
+    "responses": {
+        "gpt4": "That sounds like a wonderful goal, Mr. O'Leary. Biking can be such an enjoyable activity and it's also great for your overall health. I bet you've missed it. Do you have favorite places to ride or perhaps new routes you'd want to try after recovery from your knee replacement?",
+        "our_model": "That sounds like a wonderful goal, Mr. O'Leary. Cycling can be a great way to enjoy the outdoors and stay active. It's also a low-impact exercise that should be beneficial for your knee once it's healed. How long have you been interested in cycling?"
+    }
+}

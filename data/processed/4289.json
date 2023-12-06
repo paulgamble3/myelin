@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4289,
+    "prompt": "Nurse: That's fantastic. Regular exercise can really help manage your blood sugar levels. Lastly, it's important to take your prescribed medications as directed by your doctor. This includes your Lantus and Aspart insulin. Are you taking these as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Taking your medications as prescribed is crucial in managing your blood sugar levels. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: It was an hour ago.\n\nNurse: I'm sorry, could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: Name is Naidie over One fifteen.\n\nNurse: Thank you for sharing that. It's a bit high. Would it be okay if I share some suggestions to help manage your blood pressure?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. It's important to limit your salt intake and try to maintain a diet high in fruits, vegetables, and lean proteins. It can also be beneficial to limit alcohol and caffeine. Exercise, like your morning walks, can also help manage blood pressure. Finally, please ensure you're taking your blood pressure medication as prescribed. Do you think these recommendations will work for you?",
+        "our_model": "Excellent. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fewer processed foods and not adding extra salt to meals. Does this sound like something you could try?"
+    }
+}

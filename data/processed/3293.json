@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3293,
+    "prompt": "Nurse: Great, Mr. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Pretty good time to talk. Yes.\n\nNurse: I'm glad to hear that, Mr. Winner. How has your day been so far?\n\nPatient: Not bad. Just you know,\n\nNurse: I'm glad to hear that, Mr. Winner. It's always good to have a day that's not bad. Is there anything in particular that's made your day better?\n\nPatient: Just getting ready getting ready for the surgery.\n\nNurse: It sounds like you're taking some time to prepare for your surgery, Mr. Winner. That's really important. Is there anything specific you've been doing to get ready?\n\nPatient: Anything specific?",
+    "responses": {
+        "gpt4": "Yes, Mr. Winner. Have you been doing any specific exercises or following any pre-surgery instructions given by your doctor to prepare for the total knee replacement?",
+        "our_model": "Yes, Mr. Winner. Could you please share more about what you've been doing to prepare for your surgery?"
+    }
+}

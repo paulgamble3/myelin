@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4107,
+    "prompt": "Nurse: That's excellent news. It's important to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. It's [NO RESPONSE]\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that you smoke. Have you ever considered quitting smoking?\n\nPatient: I'm not interested right now.\n\nNurse: That's completely okay. It's a big decision to make and it's important that you're ready. Can you share why you feel you're not ready to quit smoking at this time?\n\nPatient: [NO RESPONSE]\n\nNurse: That's perfectly okay. It's a big decision and it's important that you're ready. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: Not right now.",
+    "responses": {
+        "gpt4": "That\ufffd\ufffd\ufffds completely fine. When and if you're ready in the future, we are here to support you and provide resources to help. Moving on, you have been diagnosed with hyperlipidemia. Are you familiar with this term, and do you know how it relates to your health?",
+        "our_model": "That's perfectly fine. If you ever change your mind, please don't hesitate to ask. We're here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

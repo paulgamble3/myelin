@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1430,
+    "prompt": "Patient: I didn't say anything.\n\nNurse: My apologies for the confusion, Mr. Valenzuela. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yes, please.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: Okay, Mr. Valenzuela. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: At.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat what you just said?\n\nPatient: I didn't say anything.",
+    "responses": {
+        "gpt4": "I apologize for misunderstanding, Mr. Valenzuela. Your colonoscopy procedure is on August 13th at 9:00 AM with Dr. Meredith Bailey, who is an excellent gastroenterologist. You should expect to arrive at O'Connor Hospital an hour before the procedure, at around 8:00 AM. Is that alright with you?",
+        "our_model": "My apologies for the confusion, Mr. Valenzuela. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 407,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Trisha Raynier?\n\nPatient: Correct?\n\nNurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: It's a good time to talk.\n\nNurse: Perfect, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: My day's been good. How about you?\n\nNurse: I'm here to assist you, so my day is going well, thank you. It sounds like you're having a good day. Is there anything in particular that's made your day good so far?\n\nPatient: Well, I mean, I'm off today, and it's Friday. I took a day off from my side to just prepare for the surgery and everything. So",
+    "responses": {
+        "gpt4": "That's really prudent of you, Trisha. Taking time to relax and prepare before a surgery is important. Did you do anything special with your day off, or has it been more about resting up and focusing on the upcoming procedure?",
+        "our_model": "That's wonderful to hear."
+    }
+}

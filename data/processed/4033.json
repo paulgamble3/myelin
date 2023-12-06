@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4033,
+    "prompt": "Patient: What are the recommendations\n\nNurse: Wonderful, Ms. Warrell. For a cardiac diet, it's recommended to include a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit sodium, saturated and trans fats, and added sugars. How does this compare to your current diet?\n\nPatient: Well, they told me\n\nNurse: I'm sorry, Ms. Warrell, you were saying something about what you were told about your diet?\n\nPatient: Ever since\n\nPatient: I\n\nNurse: I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: have this congestive heart failure,",
+    "responses": {
+        "gpt4": "I'm sorry to hear that, Ms. Warrell. How have you been managing your symptoms since your diagnosis?",
+        "our_model": "Yes, Ms. Warrell, managing your diet is an important part of managing CHF. It sounds like you're already making some good choices with the vegetarian dish you mentioned earlier. Just remember to keep an eye on the sodium content, as it can impact your CHF. Do you have any questions"
+    }
+}

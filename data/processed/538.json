@@ -1,0 +1,8 @@
+{
+    "prompt_id": 538,
+    "prompt": "Nurse: That's good to hear. It's critical to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up, as you won't be able to drive yourself home after the procedure. Do you have any other questions or concerns about the logistics of your procedure day?\n\nPatient: No. I do not.\n\nNurse: Alright, that was all the topics for today. Before we wrap up, do you have any other questions or concerns that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, to summarize, we discussed your upcoming colonoscopy on August 13th at 9:00\n\nPatient: I have no questions, no concerns, I'm good to go.",
+    "responses": {
+        "gpt4": "That's wonderful to hear. Just to recap our discussion, we've covered your upcoming colonoscopy with Dr. Meredith Bailey on August 13th at 9:00 AM, your prescribed medication Tylenol, and its consistent use, diet changes leading up to your procedure, including a low-fiber diet and clear liquid diet, your bowel prep with GoLYTELY, the importance of having a ride home post-procedure, and ensuring you're in good health leading up to the procedure day. Does that sound right?",
+        "our_model": "AM with I'm glad to hear that you're feeling prepared. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over your diet, medication, and bowel prep instructions. You've confirmed that you've arranged a ride home after the procedure. Does that sound right?"
+    }
+}

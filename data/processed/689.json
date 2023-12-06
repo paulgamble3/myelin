@@ -1,0 +1,8 @@
+{
+    "prompt_id": 689,
+    "prompt": "Nurse: That's great to hear. Could you share a bit more about what you've been eating recently?\n\nPatient: I have eliminated salt from my diet.\n\nNurse: That's great to hear. Could you share a bit more about what you typically eat in a day?\n\nPatient: Sticking with\n\nNurse: I'm sorry, you were saying something about your diet?\n\nPatient: unprocessed Foods\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: whole grains",
+    "responses": {
+        "gpt4": "Incorporating whole grains into your diet is a great choice. Can I remind you of your dietary recommendations to ensure they align with your current diet?",
+        "our_model": "That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?"
+    }
+}

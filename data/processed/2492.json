@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2492,
+    "prompt": "Nurse: Urine albumin is a test that measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. Your level is 190 mg/g, which is a bit high. This is something your doctor will likely want to monitor. Do you have any other questions about your lab results?\n\nPatient: I guess not.\n\nNurse: Alright, let's move on to your medications. You're currently prescribed Aspirin 81 mg oral tablet, with a dosage of 81 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help. Have you been taking your Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily, as prescribed?\n\nPatient: Well, yes, I have.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're taking your Atorvastatin as prescribed. On we go, you also have Amlodipine 10 mg oral tablet, with a dosage of 10 mg daily. Have you been taking this medication as prescribed?",
+        "our_model": "That's excellent. Sticking to your medication schedule is crucial for managing your conditions. The next medication on your list is Amlodipine 10 mg oral tablet, with a dosage of 10 mg daily. Have you been taking this medication as prescribed?"
+    }
+}

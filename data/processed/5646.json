@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5646,
+    "prompt": "Nurse: I apologize for the confusion earlier. You mentioned that you haven't been using more pillows to sleep, correct?\n\nPatient: That is correct.\n\nNurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that. Now, let's move on to your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to\n\nNurse: I'm sorry, you were saying?\n\nPatient: stick to vegetables and\n\nNurse: That's a great start. What types of vegetables have you been eating?\n\nPatient: Honestly, with CKD and Lupus,",
+    "responses": {
+        "gpt4": "I appreciate you sharing that. Could you please elaborate on how CKD and Lupus affect your meal choices?",
+        "our_model": "It sounds like you're making an effort to eat healthily, which is great. Can you share a bit more about the types of vegetables and proteins you've been eating?"
+    }
+}

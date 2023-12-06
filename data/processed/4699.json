@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4699,
+    "prompt": "Patient: Why does it seem\n\nNurse: I'm sorry, could you please finish your question?\n\nPatient: like heart failure gets worse.\n\nNurse: I can see why you might feel that way, but it's important to remember that CHF is a condition that can be managed with the right treatment and lifestyle changes. Have you picked up your new medications from the pharmacy yet?\n\nPatient: Overtime. Why can't it just stay status quo? Why does it have to get worse?\n\nNurse: That's a very valid question. CHF is a progressive condition, which means it can worsen over time. However, with the right management, including medication, diet, and lifestyle changes, we can often slow down this progression. It's all about managing the condition to help you live as comfortably and independently as possible. Now, let's talk about your new medications. Have you been able to pick up your Captopril 12.5 mg oral tablets from the pharmacy?\n\nPatient: Yes. I have\n\nPatient: been able to pick it up.",
+    "responses": {
+        "gpt4": "That's great. I want to make sure you understand how to take the Captopril. Are you currently taking a whole 12.5 mg tablet twice a day?",
+        "our_model": "I'm glad to hear that you've picked up your Captopril. Just to confirm, you're taking 6.25 mg of Captopril two times a day, correct?"
+    }
+}

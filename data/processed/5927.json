@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5927,
+    "prompt": "Nurse: I apologize for the confusion earlier. The correct dosage for Lisinopril is actually two 10 mg oral tablets daily, not a single 20 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss Lantus. You should be taking 15 units every night at bedtime. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Aspart. You should be taking 5 units three times a day. Have you been able to do that?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're being consistent with your medication regimen. If you have any questions or concerns about your medications, please feel free to ask. Meanwhile, make sure to continue monitoring your blood sugar levels and blood pressure at home. Is there anything else you'd like to discuss about your health?",
+        "our_model": "That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

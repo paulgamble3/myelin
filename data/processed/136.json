@@ -1,0 +1,8 @@
+{
+    "prompt_id": 136,
+    "prompt": "Nurse: Thank you for confirming, Mr. Valenzuela. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure. Seven four nineteen sixty six.\n\nNurse: Thank you for confirming your date of birth, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: My name is. It's fine. How about yours?\n\nNurse: I'm here to assist you, Mr. Valenzuela. I'm glad to hear your day is going fine. As an AI, I don't have personal experiences, but I'm here to help make your day better. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: I'm feeling Okay about it.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Valenzuela. Do you have any questions or concerns about the procedure I can address for you?",
+        "our_model": "I'm sorry, Mr. Valenzuela, could you please repeat how you're feeling about your upcoming colonoscopy procedure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4936,
+    "prompt": "Nurse: Thank you for confirming that, Mr. Hooper. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling reasonably well.\n\nNurse: That's good to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Yes. I'm feeling so much better now.\n\nNurse: That's wonderful to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Please call me, Fredric.\n\nNurse: Of course. I apologize for the oversight. Is there anything specific you've been looking forward to doing now that you're back home?\n\nPatient: To watching my TV shows in peace",
+    "responses": {
+        "gpt4": "Oh, that sounds enjoyable, Fredric! Is there a particular show you're excited to catch up on? It's great to have these simple pleasures after a hospital stay.",
+        "our_model": "That sounds like a great way to relax. What kind of TV shows do you enjoy watching?"
+    }
+}

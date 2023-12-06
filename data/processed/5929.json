@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5929,
+    "prompt": "Nurse: That's great to hear. Now, let's discuss Lantus. You should be taking 15 units every night at bedtime. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Aspart. You should be taking 5 units three times a day. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating a lot of steamed vegetables, a lot of yogurt,\n\nNurse: That sounds like a good start. Steamed vegetables and yogurt can be part of a healthy diet. Can you tell me more about the types of vegetables you're eating and if\n\nPatient: a lot of past that?",
+    "responses": {
+        "gpt4": "I'm sorry, I'm having some trouble understanding you. Did you say you've been eating a lot of pasta? Can you tell me more about your meals?",
+        "our_model": "I'm sorry, could you please repeat the last part of your response?"
+    }
+}

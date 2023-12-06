@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5388,
+    "prompt": "Nurse: Mr. O'Leary, are you still there?\n\nPatient: That.\n\nNurse: I'm sorry, Mr. O'Leary, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Oh my god. I said yes. I can do that.\n\nNurse: Thank you for confirming that, Mr. O'Leary. After applying the scrub, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. O'Leary. Now, let's discuss when you should stop eating and drinking everything before your procedure. It's important for your safety during the procedure that you do not eat or drink anything after midnight before your procedure. Does this sound clear to you?",
+        "our_model": "Great, Mr. O'Leary. The last part of your preparation is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?"
+    }
+}

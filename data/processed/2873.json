@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2873,
+    "prompt": "Nurse: Great. Since you have hypertension, it's important to monitor your blood pressure regularly. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: I don't remember the readings, but it was this morning.\n\nNurse: That's good to hear that you're keeping track. It's essential to monitor your blood pressure daily given your condition. If you don't mind, could you share what the reading was this morning?\n\nPatient: Like I said, I don't recall the reading. But I do remember that I took it this morning.\n\nNurse: That's okay. It's essential to remember to take your blood pressure daily, even if you don't recall the exact reading. Let's move on to the next topic. Can I share some suggestions about managing blood pressure?\n\nPatient: Yes, please.\n\nNurse: Excellent. One of the most effective ways to manage blood pressure is by maintaining a healthy lifestyle. This includes eating a balanced diet, limiting sodium and alcohol, and staying active. It's also important to manage stress, as high stress levels can raise blood pressure. Lastly, taking your prescribed medications regularly is crucial in managing your blood pressure. Does this information help?\n\nPatient: Yes. It does.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. Now, let's move onto your recent lab results, if that's okay with you? I noticed that you had some blood tests and urine labs done. Do you have any questions about them?",
+        "our_model": "I'm glad to hear that. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

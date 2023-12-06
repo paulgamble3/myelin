@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6325,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Nope. Just sleeping in my own bed.\n\nNurse: That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your\n\nPatient: Good enough for me.\n\nNurse: That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your own bed can indeed be very comforting. By the way, do you have any hobbies or interests that you enjoy in your free time?\n\nPatient: No. I don't. I'm not really a hobby guy.\n\nNurse: That's perfectly fine, Mr. Gardner. Everyone has their own ways of spending their time. How about pets?\n\nPatient: You're awfully nosy, aren't you?",
+    "responses": {
+        "gpt4": "I apologize if it comes across that way, Mr. Gardner. The intent isn't to pry. We include personal questions as part of the check-in to make these calls a bit more friendly. Since you're back home, I wanted to go over some of Dr. Thornton's instructions and check how certain things have been since your discharge from the hospital. Is there anything you'd like to talk about regarding your health before we start?",
+        "our_model": "I apologize if I seem intrusive, Mr. Gardner. I'm just trying to get to know you a bit better so I can provide you with the best care possible. It's completely fine if you'd rather not share. Let's move on. Do you have any questions or concerns you'd like to address before we go through a few topics related to your health?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3559,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Gardner. How about a new or worsening dry cough?\n\nPatient: Hello?\n\nNurse: Hello, Mr. Gardner. I was asking about a new or worsening dry cough. Have you noticed anything like that?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Gardner. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great, Mr. Gardner. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Hello again, Mr. Gardner. I was asking about your weight. Can you tell me if you've gained more than 2 pounds in a day or 5 pounds in the past week?",
+        "our_model": "Hello, Mr. Gardner. I was asking about your weight. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?"
+    }
+}

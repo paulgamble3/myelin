@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3421,
+    "prompt": "Nurse: Perfect, Mr. Jimenez. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that was a lot. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Jimenez. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: That's great, Mr. Jimenez. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Okay.\n\nNurse: Okay, Mr. Jimenez. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Good to hear, Mr. Jimenez. That's an important part of your pre-operative preparation. Now, I've shared a lot of information with you and you're doing well. I just have a couple more items to cover. Are there any questions you have for me so far?",
+        "our_model": "Alright, Mr. Jimenez. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6354,
+    "prompt": "Patient: correct.\n\nNurse: That's great to hear, Mr. Gardner. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: My meal?\n\nPatient: Since I got back from the hospital,\n\nNurse: Yes, Mr. Gardner. Could you tell me about some of the meals you've had since you got back from the hospital?\n\nPatient: lasix night, I had\n\nNurse: I'm sorry, Mr. Gardner, your voice cut out a bit there. Could you please repeat what you said about your meals since you got back from the hospital?\n\nPatient: So",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Gardner. I did not catch that. Could you please repeat it?",
+        "our_model": "I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said about your meals since you got back from the hospital?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1016,
+    "prompt": "Nurse: I completely understand. It's a big decision and it's important to be ready. Can you share more about why you feel now isn't the right time?\n\nPatient: Well, I'm changing so much about my lifestyle right now because of all my various diagnosis. So\n\nNurse: I see, managing multiple health conditions can indeed feel overwhelming. It's critical to focus on what feels manageable for you. If you ever decide you're ready to consider quitting smoking, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: So I figured I should focus on one at a time.\n\nNurse: That's a very thoughtful approach. It's important to feel comfortable and not overwhelmed. If you ever decide you're ready to discuss it, I have a lot of resources and information that could be helpful. Would you like me to share some of these resources with you for future reference?\n\nPatient: No. Not right. Now.\n\nNurse: That's perfectly fine. Whenever you feel ready, know that these resources are available to you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Yes. I have a question.",
+    "responses": {
+        "gpt4": "Absolutely, feel free to ask your question. I'm here to help.",
+        "our_model": "Of course, what's your question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 570,
+    "prompt": "Patient: I usually stick with, like, fish for protein?\n\nNurse: That's excellent. Fish is a great source of protein. How about snacks and drinks?\n\nPatient: I'm really just the water gal. I drink a lot of water. I don't really drink soda or coffee or anything like that. Yeah.\n\nNurse: That's fantastic. Staying hydrated is important, especially with CHF. As for snacks, what do you usually go for?\n\nPatient: Oh,\n\nNurse: Yes, I'm here. What are your usual snacks?\n\nPatient: Oh, my usual snacks are it's just usually stuff like a\n\nPatient: popcorn, maybe a handful of nuts",
+    "responses": {
+        "gpt4": "That's really good. Both popcorn (without too much salt or butter) and nuts are heart-healthy snack choices. Keep up the good work with your diet. Now, are you checking the sodium content in foods and aiming for less than 2000mg of sodium a day?",
+        "our_model": "Those are good choices. Popcorn is a whole grain and nuts are a healthy source of fat."
+    }
+}

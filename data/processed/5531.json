@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5531,
+    "prompt": "Patient: I'm ready.\n\nNurse: Great, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for your colonoscopy.\n\nPatient: Yes.\n\nNurse: Great, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for your colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: You know, couldn't\n\nPatient: I'm not taking anything.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat whether you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: No. I'm not taking anything.",
+    "responses": {
+        "gpt4": "Thank you for letting me know, Mr. Alves. It's good you're not taking any of those medications as they typically need to be stopped before a colonoscopy unless a doctor specifically recommends otherwise. Moving on, do you have any questions about your current medications?",
+        "our_model": "Thank you for confirming that, Mr. Alves. It's important to ensure that certain medications don't interfere with your procedure. Do you have any questions about medications or anything else you'd like to discuss before we move on to the next topic?"
+    }
+}

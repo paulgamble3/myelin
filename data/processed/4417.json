@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4417,
+    "prompt": "Nurse: Okay. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No.\n\nNurse: Alright. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Wonderful.\n\nPatient: See.\n\nNurse: Great. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Terrific. It's good to clarify these things in advance. Let's move on if it's okay. I want to ask you about your wellbeing. Have you been feeling well lately? No signs of illness like fever, chills, or muscle aches?",
+        "our_model": "Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?"
+    }
+}

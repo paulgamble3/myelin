@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1248,
+    "prompt": "Nurse: Alright, Ms. Raynier. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Raynier. It's critical to avoid those medications before your surgery unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: Well, yeah. I\n\nNurse: I'm sorry, Ms. Raynier, you were saying something?\n\nPatient: what I do, I take asthma.\n\nNurse: I'm sorry, Ms. Raynier, could you please repeat that?\n\nPatient: Oh, sorry. I normally take Advent Adventville, but not at the moment.",
+    "responses": {
+        "gpt4": "Thank you for sharing, Ms. Raynier. So you normally take an asthma medication called Advair, but you're currently not taking it. Is that correct?",
+        "our_model": "I see, Ms. Raynier. You're currently not taking Albuterol for your asthma, correct?"
+    }
+}

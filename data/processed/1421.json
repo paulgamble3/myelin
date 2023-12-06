@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1421,
+    "prompt": "Nurse: When did the diarrhea start, Mr. Valenzuela?\n\nPatient: Oh,\n\nNurse: Is the diarrhea chronic, Mr. Valenzuela?\n\nPatient: A few weeks ago,\n\nNurse: I see, thank you for sharing that, Mr. Valenzuela. Is the diarrhea chronic or does it come and go?\n\nPatient: I mean, it it's pretty\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: floods chronic",
+    "responses": {
+        "gpt4": "Understood, it sounds like the diarrhea has been fairly constant for the last few weeks. Mr. Valenzuela, have you noticed any blood or mucus in your stool?",
+        "our_model": "I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool?"
+    }
+}

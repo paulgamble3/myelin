@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2251,
+    "prompt": "Nurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, or have you experienced any feelings of faintness or dizziness?\n\nPatient: No.\n\nNurse: Have you had a fever, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Have you started any new prescription medications recently, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Have you been in contact with other individuals with diarrhea or had any recent travel, Mr. Valenzuela?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Are you currently experiencing abdominal pain or cramping, Mr. Valenzuela?",
+        "our_model": "Is there any more information you'd like to share about this issue, Mr. Valenzuela?"
+    }
+}

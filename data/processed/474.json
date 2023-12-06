@@ -1,0 +1,8 @@
+{
+    "prompt_id": 474,
+    "prompt": "Nurse: I'm sorry to hear that you're experiencing shortness of breath.\n\nPatient: night.\n\nNurse: I'm sorry to hear that you're experiencing shortness of breath, especially at night. This is something we need to monitor closely. Have you noticed any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that you're not experiencing any chest pain. Have you noticed any new or worsening dry cough?\n\nPatient: Well, yeah, the dry cough is still there.\n\nNurse: I'm sorry to hear that the dry cough is still persisting. It's important to keep an eye on this.\n\nPatient: It's a little better. But it's still there.",
+    "responses": {
+        "gpt4": "I see. Although it's still there, it's good to hear that your dry cough has improved a bit. Have you noticed an increase in swelling in your feet, ankles, stomach, or legs recently?",
+        "our_model": "I'm sorry to hear that the dry cough is still bothering you. It's good that it's a bit better, but we'll continue to monitor it. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5320,
+    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Weeks. Could you please confirm if you've been using more pillows at night to sleep?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that, Mr. Weeks. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: I was gonna ask you about that.\n\nNurse: Of course, Mr. Weeks. I'd be happy to help. Could\n\nPatient: During, I have\n\nNurse: you share I'm sorry, Mr. Weeks, I didn't\n\nPatient: CHF.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Mr. Weeks, could you please repeat your question?"
+    }
+}

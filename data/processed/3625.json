@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3625,
+    "prompt": "Nurse: I appreciate your patience, Mr. Benton. Let's continue then. Remember, it's important to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Benton. If you have any questions in the future, don't hesitate to ask your doctor. Now, let's move on to your other chronic conditions. How has your hypertension been lately?\n\nPatient: It's been fine.\n\nNurse: That's good to hear, Mr. Benton. It's critical to keep managing your hypertension for your overall health. Now, let's discuss your anemia. Have you noticed any changes in your symptoms, such as fatigue or weakness?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Benton. It's critical to keep monitoring your symptoms. Now, let's move on to your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Benton. Nourishing your body with a healthy lifestyle, including being smoke-free, is beneficial for managing your conditions. Is there anything else you would like to discuss about your overall health?",
+        "our_model": "That's great to hear, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?"
+    }
+}

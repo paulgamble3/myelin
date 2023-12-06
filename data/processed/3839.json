@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3839,
+    "prompt": "Patient: Yes.\n\nNurse: That's great to hear, Mr. Hardy. Taking your Aspart as prescribed is important for managing your blood sugar levels. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: Not really.\n\nNurse: That's fantastic, Mr. Hardy. You're doing a great job managing your medications. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Hardy. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Yes. I've had tofu last night, with broccoli and\n\nPatient: whole wheat roll",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Hardy. That meal sounds balanced and nutritious - well done. Including foods like tofu and broccoli in your meals is a great way to consume a variety of nutrients. Are you okay with me providing some further dietary suggestions, based on the DASH diet which is recommended for individuals with your health conditions?",
+        "our_model": "That sounds like a very balanced meal, Mr. Hardy. It's great that you're incorporating a variety of foods into your diet. Do you usually follow a specific diet plan?"
+    }
+}

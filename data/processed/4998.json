@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4998,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Simone McKloskey?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August third nineteen eighty two.\n\nNurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It is.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm doing pretty good.",
+    "responses": {
+        "gpt4": "I'm really glad to hear that you're doing well. It's important to keep your spirits up as you prepare for your surgery. Considering the upcoming knee replacement, you must be looking forward to having a new knee. Have you given any thought to anything specific you might want to do once recovery is complete?",
+        "our_model": "I'm glad to hear that. It's always nice to have a good day. Do you have any special plans for the day?"
+    }
+}

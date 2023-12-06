@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5147,
+    "prompt": "Nurse: I appreciate your openness.\n\nPatient: I'm not looking forward to it, but I'm grateful that I can have it.\n\nNurse: I appreciate your positive attitude. It's great that you're taking this step for your health. Now, would it be okay if we go over a few topics on preparing for your colonoscopy?\n\nPatient: Sure.\n\nNurse: Perfect. I'm calling today to ensure you have everything you need for your upcoming procedure. I will also call you again the day before your procedure to check in. Let's start with the first item on our checklist. Are you clear on the dietary restrictions you need to follow before your colonoscopy?\n\nPatient: Well, I think so.\n\nNurse: Great. Just to confirm, you're aware that you need to follow a clear liquid diet the day before your procedure, correct?\n\nPatient: Correct.",
+    "responses": {
+        "gpt4": "Wonderful. Alright, I'd like to review some of the appointment details to make sure everything is clear. Your colonoscopy is scheduled for August 13th at 9:00 AM with Dr. Meredith Bailey. You'll need to arrive at O'Connor Hospital about 1 hour before at 8:00 AM. Does that work for you?",
+        "our_model": "Excellent. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
+    }
+}

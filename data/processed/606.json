@@ -1,0 +1,8 @@
+{
+    "prompt_id": 606,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Hello there, may I please confirm if I'm speaking with Trisha Raynier?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Trisha Raynier?"
+    }
+}

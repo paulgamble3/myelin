@@ -1,0 +1,8 @@
+{
+    "prompt_id": 657,
+    "prompt": "Nurse: Great, thank you for confirming that. Are you taking the Lasix as prescribed, which is 40 mg twice a day?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. Now, let's briefly discuss your existing medications. Are you still taking Digoxin and Enalapril?\n\nPatient: It's digoxin,\n\nNurse: I apologize for the confusion. Are you still taking Digoxin?\n\nPatient: And, yes, I'm taking that in Enalapril.\n\nNurse: Good to hear. How about Sumpatriptan and Triamcinolone ointment?\n\nPatient: It is Summa Sumatriptan",
+    "responses": {
+        "gpt4": "I stand corrected; it is Sumatriptan indeed. Thank you for that. So, are you still taking Sumatriptan and applying the Triamcinolone ointment?",
+        "our_model": "I apologize for the mispronunciation. Are you still taking Sumatriptan and applying Triamcinolone ointment as prescribed?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5198,
+    "prompt": "Nurse: That's a great strategy. Using a pill box can be very helpful in managing multiple medications. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. I guess.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: It's\n\nNurse: I'm glad to hear that. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Good to hear. How about a new or worsening dry cough? Have you noticed any developments?",
+        "our_model": "That's good to hear. How about a new or worsening dry cough?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3769,
+    "prompt": "Patient: I'm the patient. Who are you talking to?\n\nPatient: What happened? I'm Thelma O'Donnell. What happened?\n\nNurse: Does the patient develop a severe headache?\n\nPatient: I I'm the patient.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: Down.\n\nNurse: Does the patient report becoming dizzy or lightheaded?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Does the patient report having a sudden balance issue?",
+        "our_model": "Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6142,
+    "prompt": "Nurse: Yes, taking your prescribed medication, like Lisinopril, is an important part of managing your blood pressure. It's also beneficial to maintain a healthy lifestyle, which includes eating a balanced diet and getting regular exercise. Have you been able to do these things?\n\nPatient: I'm doing my best.\n\nNurse: That's all we can ask for. You're doing your best and that's great. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: It's not the packaging for today.\n\nNurse: I'm sorry, Jon, could you please repeat that?\n\nPatient: I said I smoke a pack of cigarettes today. Okay.\n\nNurse: I see, thank you for sharing that. I know it's a sensitive topic, but have you ever considered quitting smoking?\n\nPatient: I'm not ready to quit right now. Thanks.",
+    "responses": {
+        "gpt4": "That's completely okay, Jon. Deciding to quit smoking is a big step and it's important that you make that decision in your own time. Just remember that if you ever decide to quit, there are many resources available to help you.",
+        "our_model": "That's completely okay. It's a big step and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?"
+    }
+}

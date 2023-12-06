@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4278,
+    "prompt": "Nurse: It's wonderful that you enjoy nature and socializing during your morning walks. Do you have a favorite spot or route that you like to follow?\n\nPatient: enjoying themselves.\n\nNurse: It's wonderful that you find joy in nature and seeing others enjoy themselves. Do you have a favorite spot or route for your morning walks?\n\nPatient: It's just a bit of a parking in my house.\n\nNurse: That's nice, having a park nearby must make your morning walks even more enjoyable. Before we move on to discuss your kidney disease, is there anything you've been feeling concerned about health-wise?\n\nPatient: Well, I wanna know cheap.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're concerned about?\n\nPatient: About a blown in diameter.",
+    "responses": {
+        "gpt4": "I apologize, I'm having trouble understanding. Could you please repeat that for me?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your concern?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5658,
+    "prompt": "Nurse: That's fantastic. It sounds like you're staying very active. Walking, biking, and playing pickle ball are all great ways to exercise. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: You know, a few matches with my friends.\n\nNurse: That's fantastic. It sounds like you're staying very active. Walking, biking, and playing pickle ball are all great ways to exercise. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: Sure.\n\nNurse: Excellent. It's important to listen to your body while exercising. If you feel short of breath or fatigued, it's okay to slow down or take a break. Also, consider incorporating some light strength training exercises into your routine, as they can help improve your overall strength and endurance. Remember, it's always a good idea to consult with your doctor before starting any new exercise routine. Does this sound manageable to you?\n\nPatient: It does. Can I ask a question?\n\nNurse: Of course, you can. What's your question?\n\nPatient: Are there specific environmental",
+    "responses": {
+        "gpt4": "I apologize for the misunderstanding, but could you please clarify your question about environmental factors?",
+        "our_model": "I'm sorry, could you please repeat your question?"
+    }
+}

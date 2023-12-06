@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1829,
+    "prompt": "Nurse: I'm glad to hear that you're feeling okay, Ms. Odonnell. Is there anything you're looking forward to doing this week?\n\nPatient: I am going to\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your plans for this week?\n\nPatient: I am going to take a Zomba class.\n\nNurse: That sounds like a fun and active way to spend your time, Ms. Odonnell. How long have you been taking Zumba classes?\n\nPatient: Just for six months.\n\nNurse: That's wonderful, Ms. Odonnell. It's great to hear that you're staying active. Do you have a favorite song or routine in your Zumba classes?\n\nPatient: I really like our warm up. We always do this really fun.",
+    "responses": {
+        "gpt4": "I bet that warm-up routine really lifts your spirits and energy levels, Ms. Odonnell. Before we get into a few health topics, is there any symptom or health concern you've been experiencing lately that you'd like to talk about?",
+        "our_model": "That's great to hear, Ms. Odonnell. The warm-up sounds like a fun and energizing part of your Zumba class. Before we"
+    }
+}

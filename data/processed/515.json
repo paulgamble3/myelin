@@ -1,0 +1,8 @@
+{
+    "prompt_id": 515,
+    "prompt": "Nurse: Perfect, thank you for confirming. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Excellent. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, I'm glad to hear that. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes, please.\n\nNurse: Great, I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, are you currently taking any other medications we should know about? For instance, Advil, Aspirin, Aleeve, or other blood thinners?",
+        "our_model": "Alright, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

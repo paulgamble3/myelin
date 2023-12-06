@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5878,
+    "prompt": "Patient: No. I told the doctor I don't have\n\nPatient: that.\n\nNurse: Thank you for confirming that, Mr. Dang. Do you have any active nausea, vomiting, or diarrhea?\n\nPatient: No diarrhea.\n\nNurse: That's good to hear, Mr. Dang. Do you have any abdominal swelling or bloating?\n\nPatient: Not really.\n\nNurse: Do you have any constipation, Mr. Dang?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, thanks for letting me know. Have you experienced any recent unintentional weight loss, Mr. Dang?",
+        "our_model": "I appreciate your responses, Mr. Dang. Could you please tell me if you're a female?"
+    }
+}

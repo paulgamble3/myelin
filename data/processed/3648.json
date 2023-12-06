@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3648,
+    "prompt": "Nurse: Good job. And are you also taking your Potassium tablets as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I'm not near yet.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I said no. I don't have trouble with that because I'm not an idiot.\n\nNurse: I apologize for any misunderstanding. I'm glad to hear that you're managing your medications well. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. I guess,",
+    "responses": {
+        "gpt4": "Thank you, this will help me understand your current situation better. Firstly, have you experienced new or increasing shortness of breath during activities or when laying down?",
+        "our_model": "Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

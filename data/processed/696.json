@@ -1,0 +1,8 @@
+{
+    "prompt_id": 696,
+    "prompt": "Nurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?\n\nPatient: I know the drill.\n\nNurse: That's excellent. It sounds like you're doing a great job managing your diet. I understand it can be challenging at times. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I apologize for the delay. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: I said no.\n\nNurse: I understand. Thank you for your time. Now, could you tell me about your current exercise routine?\n\nPatient: I'm walking.",
+    "responses": {
+        "gpt4": "That's fantastic to hear. Walking is a great exercise for people managing CHF, it helps strengthen your heart and improve circulation. How long and how often do you walk?",
+        "our_model": "That's great! Walking is a"
+    }
+}

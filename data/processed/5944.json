@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5944,
+    "prompt": "Patient: There has been no change in\n\nPatient: speech.\n\nNurse: I'm Does the patient report sudden arm or leg weakness?\n\nPatient: No.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: No.\n\nNurse: Does the patient develop a severe headache?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Does the patient report sudden trouble seeing in one or both eyes?",
+        "our_model": "Does the patient report trouble seeing from one or both eyes?"
+    }
+}

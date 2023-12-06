@@ -1,0 +1,8 @@
+{
+    "prompt_id": 787,
+    "prompt": "Nurse: Thank you, Ms. Aguirre. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Oh my gosh. Like, I haven't heard that before.\n\nNurse: I understand, Ms. Aguirre. It's a common suggestion, but it can make a big difference. Would you be willing to try reducing your sodium intake?\n\nPatient: Into. I had\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: stage four chronic kidney disease.\n\nNurse: I appreciate your patience, Ms. Aguirre. Could you please repeat what you said about having Stage IV Chronic Kidney Disease?\n\nPatient: I've been hearing about sodium for years.",
+    "responses": {
+        "gpt4": "I understand, Ms. Aguirre. Dietary advice can seem repetitive, especially when living with a chronic condition like CKD. However, it remains an essential part of management. Now, would it be okay if we discuss how to improve your overall dietary habits to help manage your kidney disease?",
+        "our_model": "I understand, Ms. Aguirre. Managing sodium intake is indeed a key part of managing kidney disease. It's great that you're aware of this. Would you be willing to continue focusing on this, especially considering your slightly elevated blood pressure?"
+    }
+}

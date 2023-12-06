@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4859,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes.\n\nNurse: Hello Paxton, I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. I hope your day is going well so far. What have you been up to today?",
+        "our_model": "Great, thank you for taking the time to speak with me. How has your day been so far?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5495,
+    "prompt": "Nurse: You're welcome, Ms. Aguirre. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: That's alright.\n\nNurse: Okay, thank\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Hello?\n\nNurse: Hello, Ms. Aguirre. I was asking if you have been checking your blood sugar levels daily?\n\nPatient: I said yes.",
+    "responses": {
+        "gpt4": "Oh, I apologize for the miscommunication, Ms. Aguirre. Can you share with me what your last blood sugar reading at home was?",
+        "our_model": "Thank you for confirming that, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?"
+    }
+}

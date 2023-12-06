@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4581,
+    "prompt": "Nurse: That's wonderful, Mr. Peck. It's great to have a group of friends with similar interests. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?\n\nPatient: Well,\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you said?\n\nPatient: What kind of healthy habits?\n\nNurse: I apologize for any confusion earlier, Mr. Peck. You were saying something about your health. Could you please repeat that for me?\n\nPatient: Can I\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: practice to prevent going on dialysis?",
+    "responses": {
+        "gpt4": "Absolutely! It's amazing that you're proactive in managing your health. You can definitely help slow the progression of kidney disease and potentially delay the need for dialysis by following a few steps: maintain a healthy diet low in sodium and protein, control your blood pressure, take prescribed medications as instructed, exercise regularly, avoid smoking, and limit alcohol. Regular check-ups with your healthcare provider are also essential. They can monitor your kidney function and adjust your treatment plan as necessary. However, it's important to remember that these methods aren't absolute guarantees and, depending on the stage and cause of your kidney disease, dialysis may eventually be necessary.",
+        "our_model": "That's a very important question, Mr. Peck. Maintaining a healthy lifestyle can indeed help manage your kidney disease and potentially delay the progression to dialysis. Would you like me to share some suggestions on this topic?"
+    }
+}

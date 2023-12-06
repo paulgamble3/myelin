@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6056,
+    "prompt": "Nurse: I'm glad I could help clarify that for you, Mr. Koroleva. Now, I have a couple more questions for you. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: Now.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's important to be in good health before a procedure like a colonoscopy. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No.\n\nNurse: That's okay, Mr. Koroleva. You still have time to figure it out. But you will indeed need to get someone to be on standby to come pick you up when the hospital calls. Do you have any questions about this?\n\nPatient: Can I just drive my cell phone?",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Koroleva, could you please repeat that?",
+        "our_model": "I'm sorry, Mr. Koroleva, could you please repeat that?"
+    }
+}

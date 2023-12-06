@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1836,
+    "prompt": "Nurse: That sounds like a great way to start your Zumba class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. But what symptoms should I watch for that might indicate\n\nNurse: That's a great question, Ms. Odonnell. With your Stage IIIA CKD, it's important to monitor for symptoms such as swelling in your hands, feet, or ankles, changes in urination like frothy or bubbly urine, or any sudden weight gain or loss. If you notice any of these, please let your doctor know. Do you have any other questions or concerns at this time?\n\nPatient: worsening kidney function or complications.\n\nNurse: Yes, that's correct, Ms. Odonnell. Also, changes in urination like frothy or bubbly urine, or a decrease in the amount of urine could be signs to watch for. If you notice any of these, it's important to let your doctor know. Do you have any other questions or concerns before we move on?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great, thank you, Ms. Odonnell. To start, it seems like you're eating healthily and keeping active. This will definitely benefit your kidney health. Have there been any changes in your diet lately?",
+        "our_model": "Great, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?"
+    }
+}

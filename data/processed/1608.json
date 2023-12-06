@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1608,
+    "prompt": "Patient: Pumpkin muffins are my favorite.\n\nNurse: Pumpkin muffins are indeed a great choice, especially during the holiday season. They're not only delicious but also healthy. Before we move on, is there anything you've been feeling concerned about regarding your health?\n\nPatient: Not in particular, but\n\nNurse: I appreciate your openness, Mr. Benton.\n\nPatient: I do wanna know\n\nNurse: Of course, Mr. Benton. I'm here to help.\n\nPatient: what does stage\n\nPatient: two e k d me.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat your question?",
+        "our_model": "I'm glad to hear that you're not experiencing any specific concerns at the moment, Mr. Benton. As for your question, Stage II CKD, or Chronic Kidney Disease, means that your kidneys are not functioning at their full capacity. This can be due to a variety of reasons, including diabetes and high blood pressure, which you have. It's essential to manage these conditions to slow the progression of the kidney disease. Do you have any other questions you'd like to discuss?"
+    }
+}

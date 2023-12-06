@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4143,
+    "prompt": "Nurse: That's great! Could you tell me what ingredients you use in your homemade dressing?\n\nPatient: Olive oil\n\nNurse: That's a healthy choice. What other ingredients do you use in your dressing?\n\nPatient: solved.\n\nNurse: That's a healthy choice. Do you also add any herbs or spices to your dressing?\n\nPatient: Pepper, and a little bit of lime.\n\nNurse: That sounds delicious and healthy. It's great that you're making your own dressing. Now, I'd like to share some dietary recommendations. Is that okay with you?\n\nPatient: That's fine.",
+    "responses": {
+        "gpt4": "Great! Since you are a CHF and CKD patient, it's important to limit your intake of sodium and potassium. In terms of your salad choice, using fresh vegetables and lean protein like chicken is a good choice, as this helps you get the nutrients you need while keeping your intake of sodium and potassium in check. For the dressing, using olive oil and a small amount of lime is also good. Avoiding processed dressings that can be high in sodium is recommended. How does that sound?",
+        "our_model": "Thank you. As a CHF and CKD patient, it's important to limit your intake of sodium and potassium. Also, as a vegetarian, you'll want to ensure you're getting enough protein. Are you currently taking any supplements to help with this?"
+    }
+}

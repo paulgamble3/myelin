@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5052,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sarkis Koroleva?\n\nPatient: Yeah. That's me.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Eleven twelve sixty three.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Koroleva. Your birthday details match our records. I'm calling about your upcoming colonoscopy, scheduled on August 17. Is this a good time to go over some information about the procedure and answer any questions you may have? \n\nAlso, I hope your day is shaping up well. Can I know how your day is going so far?",
+        "our_model": "Thank you for confirming your date of birth, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?"
+    }
+}

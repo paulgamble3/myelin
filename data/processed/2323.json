@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2323,
+    "prompt": "Nurse: Hello, Mr. Ponce. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm a little bit frustrated today.\n\nNurse: I'm sorry to hear that you're feeling frustrated, Mr. Ponce. It's completely normal to have mixed feelings after a hospital stay. Is there anything specific that's bothering you or any concerns you'd like to discuss before we go over a few topics related to your health?\n\nPatient: Well,\n\nNurse: Yes, Mr. Ponce?\n\nPatient: I just noticed that I'm paying way\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you just said?\n\nPatient: Yes. I've just noticed that I can wait today.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite understand that. Can you please repeat what you said?",
+        "our_model": "I see, Mr. Ponce."
+    }
+}

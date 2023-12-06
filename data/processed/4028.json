@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4028,
+    "prompt": "Nurse: That sounds nourishing, Ms. Warrell. It's great that you're enjoying a vegetarian dish. It's also important to note that a cardiac diet is recommended for your health. This includes eating plenty of fruits and vegetables, whole grains, lean proteins, and limiting sodium, added sugars, and unhealthy fats. Is it okay if I share some dietary recommendations with you?\n\nPatient: All vegetables, potatoes,\n\nNurse: That sounds like a hearty and nutritious dish, Ms. Warrell. It's great that you're enjoying it. How often do you usually prepare vegetarian meals like this?\n\nPatient: Russell Sprouts, some eggplant,\n\nNurse: That sounds like a very nutritious and hearty meal, Ms. Warrell. It's great that you're focusing on vegetables and lean proteins. Do you usually follow a vegetarian diet?\n\nPatient: Oh,\n\nNurse: I'm sorry, Ms. Warrell, I didn't quite catch the last vegetable you mentioned. Could you please repeat it?\n\nPatient: So so delicious.",
+    "responses": {
+        "gpt4": "That sounds delightful, Ms. Warrell. I'm glad you're enjoying such a healthy and delicious meal. It's important to have a balanced diet especially after a hospital stay. Are you following a specific meal plan or diet recommended by your physician?",
+        "our_model": "That sounds like a very nutritious and flavorful dish, Ms. Warrell. It's great that you're enjoying it. Now, I'd like to remind you of your dietary recommendations. You're following a cardiac diet, which means it's important to eat foods that are low in sodium, saturated fat, and cholesterol. Can I share some dietary recommendations with you?"
+    }
+}

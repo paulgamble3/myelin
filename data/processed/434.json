@@ -1,0 +1,8 @@
+{
+    "prompt_id": 434,
+    "prompt": "Nurse: That's good to hear. It's critical to avoid those medications unless specifically recommended by your doctor.\n\nPatient: Because I'm aware yeah. I'm I'm aware of the pit studies. So\n\nNurse: That's excellent.\n\nPatient: I'm a good student.\n\nNurse: That's excellent. It's important to follow these instructions for your surgery. Now, I notice that you've also been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: I did. Yeah. Can you tell me what is the score? Is this pain relievers.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Yeah. Could you help me to learn the phoneword or the Penn Penn Reliver Aleve. What's the other medication?",
+    "responses": {
+        "gpt4": "I'm glad you asked. Tylenol, also known as acetaminophen, is used to relieve mild to moderate pain from headaches, muscle aches, menstrual periods, colds, and fevers, and to reduce fever. Tramadol, on the other hand, is a stronger pain reliever. It's used to treat moderate to severe pain, such as the pain you might feel after surgery. Tramadol operates by changing the way the brain and nervous system respond to pain. Would you like more information on these or any other medications?",
+        "our_model": "Of course."
+    }
+}

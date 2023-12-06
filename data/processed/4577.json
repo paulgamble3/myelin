@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4577,
+    "prompt": "Nurse: Just give me a second to work out the best way I can assist you. Of course, Mr. Peck. I apologize for any confusion earlier. You were saying you're going to see the play Camelot. That's wonderful! Are you a fan of theater and have you seen this play before?\n\nPatient: I am a fan of the theater, and no I haven't.\n\nNurse: That's wonderful, Mr. Peck! It's always exciting to experience a new play. Do you usually go to the theater alone or do you have someone to accompany you?\n\nPatient: I go with the group.\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: I said I go with a group.\n\nNurse: That sounds like a great way to enjoy the theater, Mr. Peck. Is it a social group or a group of friends who share the same interest in theater?\n\nPatient: Yes. It's my senior group.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Peck. It's nice to have people who share the same interests. Do you have any health concerns or anything you'd like to bring up as part of this check-in?",
+        "our_model": "That's wonderful, Mr. Peck. It's great to have a group of friends with similar interests. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?"
+    }
+}

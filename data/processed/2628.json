@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2628,
+    "prompt": "Nurse: Alright, Ms. Cruz. Let's move on to your medications. Have you been able to pick up your new prescription for Captopril 12.5 mg oral tablet?\n\nPatient: Yeah.\n\nNurse: Excellent, Ms. Cruz. For the Captopril, you should be taking 6.25 mg two times a day. Are you following this dosage?\n\nPatient: Yep.\n\nNurse: Great job, Ms. Cruz. Now, let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: So\n\nNurse: Wonderful, Ms. Cruz. Let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Ms. Cruz. I still need to know whether you've picked up your new prescription for Carvedilol 3.125 mg oral tablet. Could you please confirm?",
+        "our_model": "You're welcome, Ms. Cruz. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?"
+    }
+}

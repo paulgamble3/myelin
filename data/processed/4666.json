@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4666,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Amador. Do you have any questions or concerns about the logistics of the procedure?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. I'm going to move on to talk about your medications. But before I do, I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.\n\nNurse: I see on your chart that you're currently not on any medication that needs to be stopped before the procedure. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners, Mr. Amador?\n\nPatient: Yes.\n\nNurse: I see on your chart that you're currently not on any medication that needs to be stopped before the procedure. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners, Mr. Amador?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great, Mr. Amador. If you start taking any new medications between now and the procedure, please let us know. It's important for your safety that we're aware of all your medications. Next, let's talk about the diet you need to follow before the colonoscopy. Can we move on to that?",
+        "our_model": "That's good to hear, Mr. Amador. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?"
+    }
+}

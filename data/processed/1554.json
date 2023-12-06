@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1554,
+    "prompt": "Nurse: Great, Mr. Moran. It's essential to have a safe and comfortable place to recover after your procedure. Now, I'd like to ask if you've arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: I have.\n\nNurse: That's excellent, Mr. Moran. It's critical to have someone to assist you after the procedure. If there's anything else you need to arrange, you still have time to do so. Do you have any other questions or concerns about your discharge plan?\n\nPatient: No. But I have a random question. Help manage it.\n\nNurse: Of course, Mr. Moran. I'm here to help with any questions you have. What's your random question?\n\nPatient: I wanna get my diabetes under control And what dietary changes can I make for that?\n\nNurse: That's a great question, Mr. Moran. Managing your diet is a key part of controlling your diabetes. It's essential to focus on a balanced diet that includes a variety of foods, including fruits, vegetables, lean proteins, and whole grains. Limiting your intake of sugary drinks and high-fat foods can also help. However, it's always best to consult with a dietitian or your healthcare provider for personalized advice. Do you have any other questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Moran. I believe we've covered all the necessary topics for today. Before we finish our call, do you have any questions or concerns that you'd like to discuss?",
+        "our_model": "Alright, Mr. Moran. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

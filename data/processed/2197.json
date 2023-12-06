@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2197,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jerri Reynolds?\n\nPatient: Yes.\n\nNurse: Great. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yeah. It's a good time.\n\nNurse: Excellent. I hope your day is going well so far. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling a little bit anxious.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. We're here to support you every step of the way. Do you have any specific concerns or questions you'd like to discuss before we go over the details of your colonoscopy?\n\nPatient: Let's",
+    "responses": {
+        "gpt4": "Absolutely. I see from your medical chart that this colonoscopy is scheduled due to some unexplained abdominal pain you've been experiencing. I'm truly sorry you're dealing with this discomfort. It can certainly be a journey, can't it? How have you been dealing with this?",
+        "our_model": "I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. We're here to support you every step of the way. Do you have any specific concerns or questions you'd like to discuss before we go over the details of your colonoscopy?"
+    }
+}

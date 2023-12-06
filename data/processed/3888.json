@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3888,
+    "prompt": "Nurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jack Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm doing good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm not just gonna call my best thing to relax.\n\nNurse: That sounds like a wonderful way to relax. Do you have a favorite book or author you enjoy reading?\n\nPatient: I don't have a favorite book right now, but I do love reading.\n\nNurse: That's great. Reading can be such a wonderful escape. Do you have a favorite genre or type of book you enjoy most?\n\nPatient: I love it.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you just said?",
+        "our_model": "I'm sorry, could you please repeat what you said?"
+    }
+}

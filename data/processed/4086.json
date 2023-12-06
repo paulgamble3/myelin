@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4086,
+    "prompt": "Nurse: Alright. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Would it be okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Firstly, sticking to a diet plan that is low in sugar and carbs can be helpful. Additionally, regular physical exercise, like your tightrope walking practice, can also positively impact your blood sugar levels. Are these strategies something you feel you can follow?",
+        "our_model": "Excellent. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you could incorporate into your daily routine?"
+    }
+}

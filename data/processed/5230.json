@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5230,
+    "prompt": "Nurse: Thank you for sharing that, Mr. Oliver. Your blood sugar level is within the target range, which is good news. Now, when was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: And it was a few hours\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat the last part of your response?\n\nPatient: ago, and it was ninety over one twenty.\n\nNurse: Thank you for that information, Mr. Oliver. Your blood pressure reading is slightly elevated. It's essential to keep it under control. Would you like me to share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Great, Mr. Oliver. One way to manage your blood pressure is by reducing your salt intake. As you mentioned earlier, it's important to check the sodium content in your salad dressing. Another strategy is regular physical activity, such as a daily walk. Lastly, maintaining a healthy weight can also help manage your blood pressure. Do you have any questions about these suggestions?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Oliver. Let's now talk about your recent lab tests. I noticed in your chart that you have some new results. Do you have any questions about these?",
+        "our_model": "Alright, Mr. Oliver. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

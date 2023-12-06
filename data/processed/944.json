@@ -1,0 +1,8 @@
+{
+    "prompt_id": 944,
+    "prompt": "Nurse: I'm really sorry to hear that you're feeling this way. It's completely okay to have days like this. If you don't mind, I'd like to go over a few topics with you to check on how you're doing. Is that okay with you?\n\nPatient: I guess it has to be\n\nNurse: Thank you for your time. I'd like to start by asking about your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Not really.\n\nNurse: I see. It's really important to keep track of your blood sugar levels, especially with Type II Diabetes. Would you be open to starting to check it daily?\n\nPatient: Oh, I guess.\n\nNurse: That's a good step. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: It was yesterday. It was",
+    "responses": {
+        "gpt4": "Thank you for sharing. Could you let me know what your reading was, please?",
+        "our_model": "I'm sorry, you were saying?"
+    }
+}

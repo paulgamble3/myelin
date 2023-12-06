@@ -1,0 +1,8 @@
+{
+    "prompt_id": 692,
+    "prompt": "Nurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: whole grains\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: Vegetables.\n\nNurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you avoiding dairy products as well?\n\nPatient: Fruits.\n\nNurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?\n\nPatient: Lean proteins.",
+    "responses": {
+        "gpt4": "That's a well-balanced diet. It seems you're already following key elements of a heart-healthy diet: maintaining control over your sodium intake, keeping hydrated, and ensuring a balanced intake of unprocessed foods, whole grains, vegetables, fruits, and lean proteins. You're on the right track. You're doing a good job. Are there any specific concerns you have regarding your diet, or any areas where you feel you need additional guidance or support?",
+        "our_model": "That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?"
+    }
+}

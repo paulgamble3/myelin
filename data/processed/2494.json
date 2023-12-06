@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2494,
+    "prompt": "Nurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help. Have you been taking your Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily, as prescribed?\n\nPatient: Well, yes, I have.\n\nNurse: That's excellent. Sticking to your medication schedule is crucial for managing your conditions. The next medication on your list is Amlodipine 10 mg oral tablet, with a dosage of 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. The last medication on your list is Phoslo 667 mg oral tablet, with a dosage of 667 mg three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "Wonderful! It's really important to take your medications as directed, and you're doing a great job. Remember, some medications and supplements aren't safe for chronic kidney disease patients to take. Therefore, always consult with your doctor before starting any new medication or supplement, including over the counter drugs. Do you have any questions about this?",
+        "our_model": "That's wonderful. You're doing a great job managing your medications. It's critical to remember that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?"
+    }
+}

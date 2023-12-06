@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2987,
+    "prompt": "Patient: I'm feeling worried.\n\nNurse: I'm sorry to hear that you're feeling worried. It's completely normal to have some concerns after a hospital stay. Is there anything specific that's bothering you or any questions you'd like to address before we go through the list of topics I have for you?\n\nPatient: Yeah. It's seems like I'm getting some of the symptoms back that that took me to the hospital.\n\nNurse: I'm sorry to hear that you're experiencing symptoms again. It's essential to address these concerns. Could you please tell me more about the symptoms you're experiencing?\n\nPatient: Yeah. They warned me about this. I've gained weight. I'm\n\nPatient: short of breath again. I've got a cough that won't quit.\n\nNurse: I'm sorry to hear that you're experiencing these symptoms again. It's critical to take note of these changes. Regarding your weight, do you have a scale at home to monitor your weight daily?\n\nPatient: Well, I do, and I can tell that I've gained two Ponce. In this last day.",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? I didn't quite catch how much weight you said you've gained.",
+        "our_model": "I see, a weight gain of two pounds in a day can be a sign of fluid retention, which is something we need to monitor closely. Have you noticed any swelling in your legs or ankles?"
+    }
+}

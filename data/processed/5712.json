@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5712,
+    "prompt": "Nurse: That sounds like a delightful tradition, Ms. Aguirre. Gingerbread houses can be quite festive and fun to decorate. Do you usually do this with family or friends?\n\nPatient: Yes. They usually do it with family.\n\nNurse: That's wonderful, Ms. Aguirre. Family time is always special. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I don't think so.\n\nNurse: Alright, Ms. Aguirre. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Would it be alright if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Aguirre. Can you share what your last blood sugar reading at home was?",
+        "our_model": "That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?"
+    }
+}

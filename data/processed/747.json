@@ -1,0 +1,8 @@
+{
+    "prompt_id": 747,
+    "prompt": "Nurse: I'm sorry, Ms. Peck, I didn't quite catch that.\n\nPatient: Okay.\n\nNurse: I'm glad that makes sense, Ms. Peck. Now, let's talk about phosphorus. It's often found in foods like dairy products, beans, lentils, nuts, and whole grains. It's also added to some processed foods. Would you like more information on this?\n\nPatient: Yes.\n\nNurse: Great, Ms. Peck. When it comes to dairy products, it's best to choose those that are low in phosphorus. This includes foods like cream, sour cream, and cream cheese. However, it's important to watch the sodium content in these foods as well. As for beans, lentils, nuts, and whole grains, these are healthy foods but they are high in phosphorus. It's okay to have them, but it's a good idea to limit the amount you eat. Would you like more suggestions?\n\nPatient: It's very confusing.\n\nNurse: I understand, Ms. Peck. It can be challenging to balance all these dietary recommendations. It's okay to take small steps and make changes gradually. Remember, the goal is to make your diet as healthy as possible while managing your sodium and phosphorus intake. Would you like to discuss this further?\n\nPatient: Are you still there?",
+    "responses": {
+        "gpt4": "Yes, I am here, Ms. Peck. I understand that balancing your diet can be a bit confusing. Would you like us to go over any specific part of it again?",
+        "our_model": "Yes, I'm here, Ms. Peck. I was saying that the goal is to make sustainable changes. It's okay to take small steps and make changes gradually. Would you like to discuss this further?"
+    }
+}

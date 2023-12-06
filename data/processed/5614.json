@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5614,
+    "prompt": "Nurse: That's great to hear. It's essential to have someone available to pick you up after the procedure. Do you have any questions about the logistics of your procedure day?\n\nPatient: No.\n\nNurse: Alright. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: So how can I slow the progression of CKD?\n\nNurse: I'm glad you're thinking about your health proactively. Would you like some general advice on how to slow the progression of Chronic Kidney Disease?\n\nPatient: What kind of lifestyle changes are recommended?\n\nNurse: I'm glad you're thinking about your overall health. Lifestyle changes can indeed help manage CKD. However, I'm an AI nurse and my primary focus is on your upcoming colonoscopy. I would recommend discussing this with your doctor or a dietitian who can provide personalized advice. They can guide you on dietary changes, physical activity, and other lifestyle modifications that can help manage CKD. Does that sound okay?\n\nPatient: I guess. Thanks, Rachel.",
+    "responses": {
+        "gpt4": "You're welcome. I have noted down your question about CKD and will ensure your care team reviews it. However, I'm unable to provide specific advice about CKD. The doctor's office will be the best place to get this advice. Are you okay with this?",
+        "our_model": "You're welcome. To summarize, we discussed your upcoming colonoscopy on August 17 at 11:00 AM with Doctor Meredith Bailey. We went over your medication, diet changes, and bowel prep with the NuLYTELY laxative solution. You've confirmed that you've arranged for a ride home after the procedure. Does that sound right?"
+    }
+}

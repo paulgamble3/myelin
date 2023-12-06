@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1340,
+    "prompt": "Nurse: I see, thank you for sharing that. The Tylenol is indeed for pain. It's there to help manage any discomfort you might have. You can start taking it as needed for pain, up to three times a day. Does that make sense?\n\nPatient: Yes. Thank you.\n\nNurse: Great, You're welcome. Are you currently taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I'm not.\n\nNurse: That's good to know. I want to make sure you're taking the correct dosage of Tylenol. You should be taking 1000 mg three times a day as needed for pain, not just up to three times a day. Does that clarify things for you?\n\nPatient: Alright.\n\nNurse: Thank you for confirming. Now, I notice that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Great, thank you for confirming that you have your post-op medication. Let's move on to discuss your at-home preparation for your surgery. Is this a good time to continue?",
+        "our_model": "that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?"
+    }
+}

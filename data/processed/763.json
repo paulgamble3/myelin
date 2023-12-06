@@ -1,0 +1,8 @@
+{
+    "prompt_id": 763,
+    "prompt": "Nurse: I'm glad to hear that you're doing alright, Ms. Aguirre. It's important to focus on the positive aspects, even when dealing with health challenges. Is there anything you're looking forward to doing this week?\n\nPatient: Oh, well, my\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your plans for this week?\n\nPatient: my mother's gonna come over later this week.\n\nNurse: That sounds lovely, Ms. Aguirre. It's always nice to spend time with family. How often do you get to see your mother?\n\nPatient: Well, I'm sorry. I called her my mother. She's not really my mother. But\n\nNurse: I see, Ms. Aguirre. I apologize for misunderstanding. Could you please tell me more about this special person who's coming to visit?\n\nPatient: She's my aunt that took care of me.",
+    "responses": {
+        "gpt4": "That's very sweet. It sounds like your aunt has played quite an important role in your life, Ms. Aguirre. Do you and your aunt have any plans when she visits?",
+        "our_model": "I see, Ms. Aguirre. It's wonderful that you have such a close relationship with your aunt. It must be comforting to have her around. What activities do you usually enjoy doing together when she visits?"
+    }
+}

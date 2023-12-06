@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4518,
+    "prompt": "Patient: Yes.\n\nNurse: I apologize for any confusion earlier. You mentioned that your blood sugar level was 128, correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: When was your blood sugar level of 128 taken?\n\nPatient: This morning.\n\nNurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No. I do not.",
+    "responses": {
+        "gpt4": "Thank you for confirming. Since you have not expressed any critical symptoms, let's proceed further. Are you noticing any changes in your vision?",
+        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
+    }
+}

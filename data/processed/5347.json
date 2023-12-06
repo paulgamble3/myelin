@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5347,
+    "prompt": "Nurse: I see, Mr. Gardner. It's great that you're familiar with managing your CHF. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: One moment, please.\n\nNurse: Of course, Mr. Gardner. Take your time. I'm interested in hearing about what you've been eating recently. [\n\nPatient: Yeah. Sorry. I had to yell at my goldfish Yes. Catcher's been trying to eat pretty healthy.\n\nNurse: It sounds like you're making an effort to eat healthily, Mr. Gardner. That's great. Can you share a bit more about what you typically eat in a day?\n\nPatient: I try to eat a lot of salad and fruits and vegetables?\n\nNurse: That's wonderful, Mr. Gardner. Salads, fruits, and vegetables are excellent choices. Can you tell me more about the types of dressings or seasonings you use on your salads?\n\nPatient: Oh, I don't really pay attention to that.",
+    "responses": {
+        "gpt4": "That's not an issue, Mr. Gardner. It's impressive that you're consuming lots of fruits and vegetables. Now, I would like to share some dietary recommendations, based on the CHF diagnosis, starting with fluid intake. May I do that?",
+        "our_model": "That's okay, Mr. Gardner. It's essential to enjoy what we eat. Now, I'd like to remind you of your dietary recommendations. You're on a 1.5 Liter Fluid restriction and a 1500 mg Sodium Restricted diet. Can I share some tips on how to follow these recommendations?"
+    }
+}

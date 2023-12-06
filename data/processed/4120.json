@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4120,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: At yuwala\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: Is it Chihuahua?\n\nNurse: Yes, that's correct! Chihuahuas are such lively little dogs. Cheeto must be a joy to have around. Now, I'm calling on behalf of Doctor Robert Benson and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I stopped\n\nNurse: I'm sorry, Paula, could you please repeat what you said?\n\nPatient: questions in regards to my diet. Can you tell me",
+    "responses": {
+        "gpt4": "I'm sorry, your message got cut off. Could you please repeat your question regarding your diet?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question about your diet?"
+    }
+}

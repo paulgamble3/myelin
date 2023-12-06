@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3985,
+    "prompt": "Nurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello? Hello? Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, Mr. Dang. If you think of any questions later, don't hesitate to ask. Now, my next question is about your current health status. Do you currently have any signs of illness such as a fever, chills, or muscle aches?",
+        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5906,
+    "prompt": "Nurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?\n\nPatient: It's one",
+    "responses": {
+        "gpt4": "I'm sorry for the confusion earlier. You mentioned a blood sugar reading of 128, which is slightly elevated. Please continue to monitor your blood glucose levels and take your prescribed medications. It's also beneficial to maintain a balanced diet and regular physical activity. Have you been following a diabetes-friendly diet and regularly exercising?",
+        "our_model": "Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
+    }
+}

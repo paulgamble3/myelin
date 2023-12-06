@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1361,
+    "prompt": "Nurse: Okay, thank you for your time, Mr. Grewe. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm\n\nNurse: I'm sorry, Mr. Grewe, you were saying something about your day?\n\nPatient: scared.\n\nNurse: I'm really sorry to hear that you're feeling scared, Mr. Grewe. It's completely normal to feel this way before a major procedure. Can you tell me more about what's making you feel scared?\n\nPatient: Yeah. I'm scared of this procedure.\n\nNurse: I see, Mr. Grewe. It's completely normal to feel scared about a procedure like this. It's a big step, but it's also a step towards reducing the pain you've been experiencing and improving your mobility. Is there anything specific about the procedure that's worrying you?\n\nPatient: Positive last night, and so now I'm scared that they can't have the procedure.",
+    "responses": {
+        "gpt4": "I'm sorry to hear about your COVID-19 test result, Mr. Grewe. It's very important that you're in optimal health for the procedure. It's indeed possible that the procedure could be postponed due to this result. We'll need to confirm with your doctor and the rest of the medical team for any changes. Do you have any questions about this scenario that you want me to address right now?",
+        "our_model": "I'm sorry to hear that you had a positive COVID test, Mr. Grewe. I can see why that would add to your worries. However, the timing of your test means that you should be out of the isolation period by the time of your procedure. It's essential to discuss this with your doctor, though. Would you like me to arrange a call with your doctor to discuss this further?"
+    }
+}

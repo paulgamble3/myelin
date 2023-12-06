@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5065,
+    "prompt": "Patient: No.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Do you have any sutures or staples in the area where you've seen the pus and mucus, Mr. Koroleva?\n\nPatient: No.\n\nPatient: No.\n\nNurse: I'm sorry, Mr. Koroleva, could you please confirm if you've been experiencing bloody stool as well?\n\nPatient: No. I haven't.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I appreciate your patience, Mr. Koroleva. I'm here to ensure you have everything you need for your upcoming colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Glad to hear that. Let's first get all the logistics out of the way. Your colonoscopy is on August 17 at 11:00 AM with Dr. Meredith Bailey. She's an excellent gastroenterologist who has performed over 1500 colonoscopies. You will need to arrive about 1 hour before at 10:00 AM. Does that work for you, Mr. Koroleva?",
+        "our_model": "Thank you, Mr. Koroleva. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?"
+    }
+}

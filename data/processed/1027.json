@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1027,
+    "prompt": "Nurse: Rabis, that's a unique name. Does he have any special habits or things he likes to do?\n\nPatient: Are you, like, biting?\n\nNurse: I'm sorry, Pete, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: You, like, biking. Like nibbling on people.\n\nNurse: Oh, I see! Rabis likes to nibble on people. That's quite a character trait. Now, I have a few topics to cover with you on behalf of Doctor Jack Smith. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. I don't think so.\n\nNurse: Alright. Let's start with your medications. Are you still taking your Valsartan and Lasix?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "Are you also continuing with your Methotrexate?",
+        "our_model": "Great. And are you also continuing with your Methotrexate?"
+    }
+}

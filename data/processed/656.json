@@ -1,0 +1,8 @@
+{
+    "prompt_id": 656,
+    "prompt": "Nurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets, with a dosage of 40 mg twice a day?\n\nPatient: I've got the lasix. Yes.\n\nNurse: Great, thank you for confirming that. Are you taking the Lasix as prescribed, which is 40 mg twice a day?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. Now, let's briefly discuss your existing medications. Are you still taking Digoxin and Enalapril?\n\nPatient: It's digoxin,\n\nNurse: I apologize for the confusion. Are you still taking Digoxin?\n\nPatient: And, yes, I'm taking that in Enalapril.",
+    "responses": {
+        "gpt4": "Excellent, thank you for confirming. How about Sumpatriptan and Triamcinolone, are you still on these medications?",
+        "our_model": "Good to hear. How about Sumpatriptan and Triamcinolone ointment?"
+    }
+}

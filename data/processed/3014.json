@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3014,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eunice Shannon?\n\nPatient: Yes.\n\nNurse: Hello Eunice, I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been alright. But to be honest, I can't get my mind off of everything except for the surgery.",
+    "responses": {
+        "gpt4": "I can imagine that it's a lot to think about. This is certainly not an easy process to go through. How are you feeling about the procedure?",
+        "our_model": "I can imagine that it's a lot to think about. It's completely normal to feel a bit anxious before a procedure. How are you feeling about the colonoscopy specifically?"
+    }
+}

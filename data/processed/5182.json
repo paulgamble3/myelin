@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5182,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jane Anderson?\n\nPatient: Yeah.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: Can I speak to the real doctor?",
+    "responses": {
+        "gpt4": "I understand that you might have concerns about speaking with an AI, but unfortunately, Dr. Molly Burke isn't available at the moment. I'm here on her behalf to go through some key information about your chronic health conditions and medications. I assure you that any information you provide will directly assist Dr. Burke in overseeing your care plan. Would that be alright with you?",
+        "our_model": "I'm sorry for any confusion, but I'm an AI nurse calling on behalf of your primary care doctor, Doctor Molly Burke. I'm here to help answer any questions you have and discuss your health. Would you like to discuss anything specific?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4540,
+    "prompt": "Nurse: That's great to hear. Now, let's move on to Metoprolol. You're prescribed to take a 50 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Lisinopril. You're prescribed to take a 20 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: I apologize for any confusion earlier. You're actually prescribed to take two 10 mg tablets of Lisinopril daily to achieve the correct dosage of 20 mg daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units every night at bedtime. Have you been taking this medication as directed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. Now, let's discuss NovoLog. You're prescribed to take 5 units with meals, as needed. Have you been taking this medication as directed?",
+        "our_model": "That's good to hear. Now, let's discuss Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as directed?"
+    }
+}

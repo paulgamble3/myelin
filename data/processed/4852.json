@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4852,
+    "prompt": "Nurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. It's critical to follow these instructions to ensure the best results from your colonoscopy. Now, I've shared a lot of information with you but we're almost done. I have just 2 more questions for you. Before we proceed, do you have any questions?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Kageyama, I'm here. I've shared a lot of information with you but we're almost done. I have just 2 more questions for you. Before we proceed, do you have any questions?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Kageyama. It's essential to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's fantastic, Mr. Kageyama. Planning your transportation after the procedure is a key step. Your ride home is all set, which is great to hear. Is there anything else we need to discuss regarding your transportation or anything else about your upcoming colonoscopy?",
+        "our_model": "That's great to hear, Mr. Kageyama. It's critical to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of the procedure?"
+    }
+}

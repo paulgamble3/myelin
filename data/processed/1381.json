@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1381,
+    "prompt": "Nurse: Thank you for confirming that, Mr. Grewe. It's important to adjust your Lantus dosage to 2 units on the day of the procedure. Do you have any questions about this change?\n\nPatient: No.\n\nNurse: Alright, Mr. Grewe. Now, I'd like to ask if you're taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Lantus Foreman.\n\nNurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which\n\nPatient: Lantus,\n\nNurse: I'm sorry, Mr. Grewe, could you please repeat that?\n\nPatient: Oh, no. Wait. You already talked about my Lantus. So you wanna know all my medic occasions,",
+    "responses": {
+        "gpt4": "Yes, Mr. Grewe, it's essential to keep track of all the medications you're currently taking. This will help the team taking care of you during your procedure to manage your care effectively. Could you please list all your current medications for me?",
+        "our_model": "Yes, Mr. Grewe, I'd like to confirm all the medications you're currently taking. You've already mentioned Lantus. Are there any other medications you're currently taking that we haven't discussed yet?"
+    }
+}

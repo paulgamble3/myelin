@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2092,
+    "prompt": "Nurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: I've been alright. Thanks.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm going to the dock. Park with my dogs, so that'll be fun.\n\nNurse: That sounds like a wonderful time! What kind of dogs do you have, and what's your favorite part about spending time with them at the park?\n\nPatient: Well, I have six poodles. They're all show dogs. And this is their one time a month. They get to go to the park and be real dogs.\n\nNurse: Six poodles, that's quite a pack! It must be a joy to see them let loose and enjoy being \"real dogs\" at the park. Do they have a favorite activity or spot at the park?\n\nPatient: I think they mostly just like to run around some of them like to play fetch.",
+    "responses": {
+        "gpt4": "Running around and playing fetch sounds like bliss for a poodle. I bet they love those outings as much as you do. Let's shift the conversation a bit. In regards to your health, are there any symptoms or issues you've been concerned about lately?",
+        "our_model": "It's great that they get to enjoy some free time and play fetch. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?"
+    }
+}

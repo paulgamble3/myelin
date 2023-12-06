@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3842,
+    "prompt": "Patient: Yes. I've had tofu last night, with broccoli and\n\nPatient: whole wheat roll\n\nNurse: That sounds like a very balanced meal, Mr. Hardy. It's great that you're incorporating a variety of foods into your diet. Do you usually follow a specific diet plan?\n\nPatient: I just try to eat healthy.\n\nNurse: That's a great approach, Mr. Hardy. Eating a balanced diet is key to managing your health conditions. Would it be okay if I provide some suggestions about your diet?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Hardy. One diet that could be beneficial for you is the DASH diet. It stands for Dietary Approaches to Stop Hypertension. This diet emphasizes eating fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It also recommends limiting foods high in saturated fat, cholesterol, and sodium. This diet can help manage your blood pressure and blood sugar levels. Do you think you could incorporate some of these principles into your meals?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, Mr. Hardy. Applying these DASH principles to your meals will definitely help with managing your health conditions. Lastly, I wanted to check in on the management of your atrial fibrillation. How has this been going?",
+        "our_model": "That's great to hear, Mr. Hardy. Incorporating these principles into your meals can really help manage your health conditions. Now, let's discuss your atrial fibrillation. Have you noticed any changes in your heart rhythm or experienced any symptoms such as shortness of breath, fatigue, or dizziness recently?"
+    }
+}

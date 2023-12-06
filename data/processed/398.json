@@ -1,0 +1,8 @@
+{
+    "prompt_id": 398,
+    "prompt": "Patient: I think.\n\nPatient: Okay.\n\nNurse: I understand, Mr. Koroleva. After a colonoscopy, you'll be given a sedative to help you relax during the procedure. This can make it unsafe for you to drive or take public transportation home. It's important to have someone available to pick you up and take you home after the procedure. Do you have a friend or family member who could help with this?\n\nPatient: Can I use Uber?\n\nNurse: I'm sorry, Mr. Koroleva, but using Uber or any other ride-sharing service is not recommended after a colonoscopy. It's important to have someone you know and trust to take you home. Do you have a friend or family member who could help with this?\n\nPatient: I'll find someone.\n\nNurse: That's great to hear, Mr. Koroleva.\n\nPatient: I still have some time, so that's good.",
+    "responses": {
+        "gpt4": "Absolutely, Mr. Koroleva. You still have some time to arrange a ride. I'm glad to hear that you're planning ahead. It's really important to have someone you trust to pick you up after the colonoscopy as you'll be under the effects of sedation. This person should be able to stay with you for the rest of the day. Is there anything else you want to discuss?",
+        "our_model": "That's great to hear, Mr. Koroleva. It's critical to have someone you trust to take you home after the procedure. Do you have any other questions or concerns about the logistics of your colonoscopy?"
+    }
+}

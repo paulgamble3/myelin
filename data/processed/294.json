@@ -1,0 +1,8 @@
+{
+    "prompt_id": 294,
+    "prompt": "Nurse: Of course, take your time.\n\nPatient: you.\n\nNurse: Of course, take your time. I'm here to help.\n\nPatient: There you are. Okay.\n\nNurse: I'm here. If you have any questions or concerns, feel free to share them with me.\n\nPatient: I I, you know,\n\nNurse: Yes?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Sure, what's on your mind? It's okay to take a moment to collect your thoughts.",
+        "our_model": "Yes. I'm here to assist you. If you have any questions or concerns, feel free to share them with me."
+    }
+}

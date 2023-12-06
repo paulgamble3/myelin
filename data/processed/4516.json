@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4516,
+    "prompt": "Patient: One twenty eight?\n\nNurse: Thank you for sharing that. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: One.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yes.\n\nNurse: I apologize for any confusion earlier. You mentioned that your blood sugar level was 128, correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.",
+    "responses": {
+        "gpt4": "Okay. When was your blood sugar taken?",
+        "our_model": "When was your blood sugar level of 128 taken?"
+    }
+}

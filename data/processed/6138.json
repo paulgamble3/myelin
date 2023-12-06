@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6138,
+    "prompt": "Nurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. It's critical to keep your blood sugar levels within a target range. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: No.\n\nNurse: That's good to hear. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: I don't know. I've been taking my\n\nNurse: That's great to hear. Taking your prescribed medications is an important part of managing hypertension. Have you noticed any changes in your blood pressure since you started taking your medications?\n\nPatient: Lisinopril, I guess.\n\nNurse: That's great to hear that you're taking your Lisinopril as prescribed. It's critical to manage your blood pressure to prevent complications. Have you noticed any changes in your blood pressure?\n\nPatient: That's what I'm supposed to do.",
+    "responses": {
+        "gpt4": "Yes, you're doing the right thing by taking your prescribed medications. Are you regularly monitoring your blood pressure at home?",
+        "our_model": "Yes, taking your prescribed medication, like Lisinopril, is an important part of managing your blood pressure. It's also beneficial to maintain a healthy lifestyle, which includes eating a balanced diet and getting regular exercise. Have you been able to do these things?"
+    }
+}

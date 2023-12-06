@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1095,
+    "prompt": "Nurse: I'm sorry to hear that you're experiencing pain.\n\nPatient: Oh,\n\nNurse: I'm sorry to hear that you're experiencing pain. It's quite common with osteoarthritis. I hope your upcoming knee replacement will provide you with some relief. Speaking of which, you must be looking forward to getting a new knee.\n\nPatient: goodness. I'm not done talking.\n\nNurse: I apologize for the interruption. Please, continue. You were saying you've been experiencing quite a lot of pain. Can you tell me more about that?\n\nPatient: Yeah. It's just pretty painful to, like,\n\nNurse: I'm sorry to hear that you're experiencing pain.\n\nPatient: get around you know, pain with movement is the is the problem.",
+    "responses": {
+        "gpt4": "I'm truly sorry to hear that you're experiencing discomfort, especially when moving around. Your upcoming total knee replacement should greatly help with that. Once you've fully recovered, are there specific activities you're looking forward to getting back to doing more comfortably?",
+        "our_model": "I'm sorry to hear that you're experiencing pain, especially with movement."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1052,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eunice Shannon?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December twenty fourth nineteen sixty one.\n\nNurse: Thank you for confirming. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been okay.",
+    "responses": {
+        "gpt4": "I'm glad to hear that it's been an okay day. If it's alright with you, I'd like to ask how you've been feeling about your upcoming procedure. Are there any concerns or worries that you've been having?",
+        "our_model": "I'm glad to hear that. As you prepare for your colonoscopy, how are you feeling about the procedure?"
+    }
+}

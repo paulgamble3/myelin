@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1041,
+    "prompt": "Patient: Nope. I don't.\n\nNurse: Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?\n\nPatient: I've been needing a lot of seamed vegetables, lot of whole grain of rice,\n\nPatient: Actually wanna ask though, what kind of diet I should be following?\n\nNurse: I'm glad you asked. Given your conditions, you're on a cardiac and renal diet. This means you should focus on foods that are low in sodium, potassium, and phosphorus. It's also important to limit your fluid intake. Would you like me to share some specific dietary recommendations?\n\nPatient: Sure. Yeah.\n\nNurse: Okay. For your cardiac diet, you should aim to eat a variety of fruits and vegetables, lean proteins, and whole grains. Try to limit your intake of saturated and trans fats, cholesterol, and sodium. For your renal diet, you should focus on foods that are low in potassium, phosphorus, and sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also important to limit your fluid intake. Based on what you've told me about your meals, it sounds like you're already making some good choices. Do you have any questions about these dietary recommendations?\n\nPatient: I don't.",
+    "responses": {
+        "gpt4": "Alright. Remember, making dietary changes can be challenging, but every small change can make a big difference. Now, could you tell me a little about your current exercise routine?",
+        "our_model": "Alright. Now, let's talk about exercise. Can you tell me about your current exercise routine?"
+    }
+}

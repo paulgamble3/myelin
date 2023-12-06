@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2119,
+    "prompt": "Nurse: That's a great approach. It's essential to remember that every day you choose not to drink is a success. Now, let's move on to the last topic. Do you smoke cigarettes or vape?\n\nPatient: Yes. It's mocapacade.\n\nNurse: I appreciate your honesty. Quitting smoking is a big step, and it's not always easy. Have you ever considered quitting?\n\nPatient: No.\n\nNurse: I understand. Quitting smoking is a personal decision and it's important to do it when you're ready. Can you share why you're not ready to quit at this time?\n\nPatient: I just don't see the need in it. I really like it for stress, especially now that I'm not, you know, drinking.\n\nNurse: I understand that smoking can be a way to cope with stress. However, it's important to remember that it can also have negative effects on your health, especially with your existing conditions. If you ever decide you're ready to quit, there are many resources available to help. Would you like me to share some of these resources with you?\n\nPatient: Not right now.",
+    "responses": {
+        "gpt4": "That's perfectly alright. It's important to make changes at your own pace. If and when you decide to quit smoking, remember that plenty of help is available. Let's go ahead and wrap things up for today. Do you have any other questions or concerns about your health that you'd like to discuss right now?",
+        "our_model": "That's perfectly fine. Remember, if you ever change your mind, there are many resources available to help you quit smoking. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

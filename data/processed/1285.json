@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1285,
+    "prompt": "Nurse: Great, let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. O'Leary. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. O'Leary. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, let's go ahead. I see on your chart that you are taking Aspirin 81 mg once a day, but you were instructed to stop this medication 7 days before the procedure. Have you stopped taking your Aspirin?",
+        "our_model": "Great, let's talk about your medications. I see on your chart that you're currently taking Aspirin 81 mg once a day. As we discussed earlier, you were instructed to stop this medication 7 days before the procedure. That means you should have stopped taking it yesterday, August 6th. Can you confirm if you've stopped taking your Aspirin?"
+    }
+}

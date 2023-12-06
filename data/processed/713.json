@@ -1,0 +1,8 @@
+{
+    "prompt_id": 713,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Peck. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well, I'm glad that I'm here with my kitty now.\n\nNurse: That sounds lovely, Ms. Peck. Pets can be such wonderful companions. What's your kitty's name?\n\nPatient: Delilah.\n\nNurse: Delilah sounds like a delightful companion, Ms. Peck. What's your favorite thing about spending time with her?\n\nPatient: Well, she's funny.\n\nNurse: I'm sure Delilah brings a lot of joy to your home with her antics. Now, I'm calling on behalf of Doctor Maria Rodriguez and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great, let's proceed then. I wanted to check with you about your existing medications. Are you still taking Valsartan, Lasix, and Metformin?",
+        "our_model": "Alright, Ms. Peck. Let's move on to your medications. Are you still taking your Valsartan and Lasix tablets?"
+    }
+}

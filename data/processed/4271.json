@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4271,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Bernadine Peck?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Hello, Patient. I'm calling on behalf of your primary care doctor, Dr. Maria Rodriguez. We would like to check in and see how you are doing with your chronic conditions. Can you share how you've been feeling recently?",
+        "our_model": "Hello. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?"
+    }
+}

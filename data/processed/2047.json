@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2047,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes. Oh, so good to hear from you. Yes. I have so many questions, and I'm so cared. Oh, gosh. And, like, you know, I tried to call hospital. They never picked up. So just have so many questions.\n\nNurse: I'm glad to hear from you. I'm here to help answer all your questions and make sure you're prepared for your upcoming procedure. Before we dive in, may I ask how your day is going so far?\n\nPatient: My day. I don't know. Just preparing for this a nightmare of a procedure",
+    "responses": {
+        "gpt4": "I can hear that you're feeling quite overwhelmed. Knee replacements can seem daunting but rest assured, they're one of the most successful procedures. How are you currently managing your concerns? Perhaps engaging in a relaxing activity could make you feel better.",
+        "our_model": "I'm sorry to hear that you're feeling this way. It's completely normal to feel a bit overwhelmed before a procedure. I'm here to help make this process as smooth as possible for you. Is there anything specific that's been bothering you today?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3904,
+    "prompt": "Patient: It was ninety over one fifteen.\n\nNurse: Thank you for sharing that. Your blood pressure is within the normal range, which is beneficial for your overall health. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about them?\n\nPatient: Yes. In regards to my insulin,\n\nPatient: Should I take it with my kidney disease?\n\nNurse: That's a great question. Insulin is used to control blood sugar levels, which is important for both your kidney health and your overall health. However, it's crucial to take it as prescribed by your doctor. Are you currently taking insulin?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear. It's important to continue taking your insulin as prescribed. Now, let's move on to your medications. You're currently prescribed Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. Mhmm.",
+    "responses": {
+        "gpt4": "That's wonderful, Carla. Taking your medication as prescribed is crucial to managing your health. However, sometimes we all can forget or miss a dose. Do you ever have trouble taking your Cellcept medication on time?",
+        "our_model": "That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?"
+    }
+}

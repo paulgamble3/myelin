@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2086,
+    "prompt": "Patient: Of course, girl.\n\nNurse: That's great to hear. It's important to have someone to assist you as you recover, especially in the first few days after the procedure. If you need any help arranging this, please let us know. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I don't. I\n\nPatient: So the procedure is in two days.\n\nNurse: Yes, your procedure is scheduled for August 13th, which is two days from today. It's normal to feel a bit nervous before a procedure, but remember, you're in good hands with Doctor Stevens and the team at O'Connor Hospital. Before your procedure, remember to use the chlorhexidine scrub the night before and the morning of your procedure, and to stop eating and drinking after midnight before your procedure. Can I count on you to do all of this?\n\nPatient: Yes.\n\nNurse: That's great to hear. Remember, I'm here for you every step of the way.\n\nPatient: I got it all. Thank you.",
+    "responses": {
+        "gpt4": "You're very welcome! If you think of any other questions or if there's anything you're unsure about, you can call me back at any time at 641-381-6523.",
+        "our_model": "You're welcome."
+    }
+}

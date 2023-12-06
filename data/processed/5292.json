@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5292,
+    "prompt": "Nurse: Thank you, Ms. Rivers. One way to manage your blood pressure is by reducing your salt intake. This can be achieved by eating less processed foods and not adding extra salt to your meals. Another strategy is regular physical activity, which can help lower your blood pressure. Lastly, it's important to take your prescribed medications as directed by your doctor. Do you have any questions about these strategies or anything else related to your blood pressure?\n\nPatient: No.\n\nNurse: Alright, Ms. Rivers. Now, let's discuss your Atrial Fibrillation. How have you been managing your Atrial Fibrillation?\n\nPatient: I don't know how to answer that.\n\nNurse: That's okay, Ms. Rivers. It's essential to take your prescribed medications as directed by your doctor to manage your Atrial Fibrillation. Regular physical activity can also help. Do you have any questions about managing your Atrial Fibrillation?\n\nPatient: No.\n\nNurse: Alright, Ms. Rivers. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I I did smoke.",
+    "responses": {
+        "gpt4": "I appreciate your honesty, Ms. Rivers. Smoking can make managing your chronic conditions more challenging and can increase the risk for other health problems. Have you ever considered quitting smoking?",
+        "our_model": "Thank you for sharing that, Ms. Rivers. I know it's not easy to talk about, but it's an important part of managing your health. Have you ever considered quitting smoking?"
+    }
+}

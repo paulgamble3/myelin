@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2582,
+    "prompt": "Nurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Honey and twelve.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat your last blood sugar reading?\n\nPatient: One hundred and twelve.\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. If you're comfortable with it, I can provide some recommendations on how to manage your blood sugar levels. Would that be alright?\n\nPatient: Sure.\n\nNurse: Okay. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you feel you're able to incorporate this into your daily routine?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great, Alex. Picking the right foods can greatly affect your blood sugar levels. Eating healthy will not only help you manage your diabetes but could also improve your overall well-being. Have you been keeping up with your prescribed medications as well?",
+        "our_model": "That's great to hear. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you think you could incorporate some form of physical activity into your daily routine?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4551,
+    "prompt": "Nurse: I apologize for any confusion earlier. You mentioned having chicken and rice, steamed vegetables, and raspberries for breakfast, correct?\n\nPatient: Yes.\n\nNurse: That's great to hear. It sounds like you're making an effort to eat balanced meals. One suggestion is to be mindful of the amount of sodium in your food, especially if it's processed. Sodium can raise your blood pressure and worsen your kidney disease. Would you be open to some tips on how to reduce sodium in your diet?\n\nPatient: Sure.\n\nNurse: I appreciate your openness. One tip is to cook at home as much as possible, as this allows you to control the amount of salt in your food. Another is to use herbs and spices for flavor instead of salt. What do you think about these suggestions?\n\nPatient: Sounds like good idea.\n\nNurse: I'm glad you think so. Another suggestion is to limit your intake of phosphorus. Foods high in phosphorus include dairy products, beans, lentils, nuts, and whole grains. Would you be open to some tips on how to manage your phosphorus intake?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're open to suggestions. One tip for managing your phosphorus intake is to choose fresh fruits and vegetables, as they generally have less phosphorus than processed foods. Similarly, choosing lean meats like chicken and fish can help you limit your phosphorus intake. What do you think about these suggestions?",
+        "our_model": "I appreciate your openness. One tip is to choose fresh fruits and vegetables over canned ones, as canned foods often have added phosphorus. Another is to limit your intake of dairy products. What do you think about these suggestions?"
+    }
+}

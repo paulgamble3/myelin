@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4362,
+    "prompt": "Nurse: That's a great question, Mr. Oliver. I don't have the exact sodium content of Wishbone Italian salad dressing at the moment. However, many salad dressings can be high in sodium. It's always a good idea to check the nutrition label on the bottle. Would you like some suggestions on how to make your salads even healthier?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Oliver. One suggestion is to consider using a light or reduced-sodium version of your favorite salad dressing. You could also try making your own dressing at home with olive oil, vinegar, and your favorite herbs and spices. This way, you can control the amount of sodium in your dressing. What do you think about this suggestion?\n\nPatient: Yes. That's a good idea.\n\nNurse: I'm glad you think so, Mr. Oliver. Another suggestion is to add a variety of colorful vegetables to your salad. This can increase the nutrient content and make your salad more visually appealing. What do you think about this idea?\n\nPatient: That works.\n\nNurse: I'm glad to hear that, Mr. Oliver. Adding a variety of vegetables can really make a difference in the nutritional value of your salad. Remember, it's important to eat a balanced diet to manage your conditions. If you have any other questions or concerns about your diet, feel free to ask. Is there anything else you'd like to discuss today?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Of course, Mr. Oliver. Please feel free to share your thoughts or ask any questions you might have.",
+        "our_model": "Of course, Mr. Oliver. What else would you like to discuss?"
+    }
+}

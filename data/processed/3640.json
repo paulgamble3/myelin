@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3640,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?\n\nPatient: Yep.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Fine.\n\nNurse: That's good to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I mean, not really. I'm a little I'm a little uncomfortable. So I I'm just getting by.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're experiencing some discomfort. I hope as each day passes, you'll feel better and regain your comfort. I'm sure your furry little friends must be really happy to have you back home. Do you have pets at home, Aileen?",
+        "our_model": "I'm sorry to hear that you're feeling uncomfortable. It's quite common to need some time to adjust after a hospital stay. On a lighter note, do you have any hobbies or interests that you enjoy?"
+    }
+}

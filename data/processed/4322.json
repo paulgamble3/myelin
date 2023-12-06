@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4322,
+    "prompt": "Patient: I have, but I'm not ready to quit yet.\n\nNurse: That's completely okay. It's a big decision to make and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?\n\nPatient: Interest\n\nPatient: helps me to relax.\n\nNurse: I see, many people use smoking as a way to cope with stress. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: And I'm not ready to quit that.\n\nNurse: I see, smoking can be a way to cope with stress for some people. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: No. I know, but thank you.",
+    "responses": {
+        "gpt4": "You're welcome. Whenever you're ready to consider quitting smoking, please let us know. We're here to provide you the support and resources you need. Now, let's discuss alcohol consumption. How frequently do you drink alcohol?",
+        "our_model": "That's perfectly fine. If you ever change your mind, please don't hesitate to ask. We're here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

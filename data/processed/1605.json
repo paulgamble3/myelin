@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1605,
+    "prompt": "Nurse: I'm glad to hear that you're doing well, Mr. Benton. It's important to focus on the positive. Is there anything you're looking forward to doing this week?\n\nPatient: Probably do a little Christmas baking.\n\nNurse: That sounds like a lovely plan, Mr. Benton. Christmas baking can be such a joy. What kind of treats are you planning to make?\n\nPatient: Well, I have all these healthy recipes that I've discovered\n\nNurse: That's wonderful, Mr. Benton.\n\nPatient: And so I'm gonna make some healthy muffins.\n\nNurse: That's wonderful, Mr. Benton. Healthy muffins sound delicious. Do you have a favorite type of muffin you're planning to make?\n\nPatient: Pumpkin muffins are my favorite.",
+    "responses": {
+        "gpt4": "Pumpkin muffins sound exquisite! It's really inspiring to see you maintaining a positive attitude and taking care of your health with enjoyable activities like baking. Before we move on to the rest of our conversation, I wanted to ask, are there any symptoms you've been particularly concerned about lately?",
+        "our_model": "Pumpkin muffins are indeed a great choice, especially during the holiday season. They're not only delicious but also healthy. Before we move on, is there anything you've been feeling concerned about regarding your health?"
+    }
+}

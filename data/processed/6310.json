@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6310,
+    "prompt": "Nurse: Of course, Mr. Alves. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM the day before your procedure. Then, you'll wake up early the morning of the procedure to finish drinking the second half of the solution. Does that help clarify when you need to take it?\n\nPatient: To get up in the morning.\n\nNurse: Yes, Mr. Alves. You'll need to wake up early the morning of your procedure to finish drinking the second half of your GoLYTELY laxative solution. This is typically around 4 hours before your procedure. Do you have any other questions about the timing of your bowel prep?\n\nPatient: Anything\n\nNurse: I'm sorry, Mr. Alves, could you please repeat your question?\n\nPatient: anything that we have missed?\n\nNurse: I believe we've covered the main points of your colonoscopy prep, Mr. Alves. I've shared a lot of information with you, but we're almost done. I have just two more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Alves. I'm glad to hear that you're feeling well-informed. My next question is about your health in the past few days. Have you had any signs of illness such as fever, chills, or muscle aches?",
+        "our_model": "Alright, Mr. Alves. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?"
+    }
+}

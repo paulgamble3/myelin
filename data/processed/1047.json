@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1047,
+    "prompt": "Nurse: Thank you. Given your conditions, it's important to monitor your symptoms during exercise. If you feel short of breath, dizzy, or have chest pain, it's important to stop and rest. It's also a good idea to start with light activities and gradually increase your activity level as your body allows. Do you have any questions or concerns about what we discussed?\n\nPatient: Don't.\n\nNurse: Alright. I understand that adjusting diet and exercise can be challenging. It's important to remember that every little bit helps and it's okay to start slow. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: No. I don't.\n\nNurse: Alright. I'll be sure to inform Doctor Smith about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Now.\n\nNurse: I'm sorry, Pete, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Questions.",
+    "responses": {
+        "gpt4": "Okay. I appreciate you taking the time to talk with me today. As we discussed, it's important to stick to your cardiac renal diet, exercise routine, and medication schedule. It also sounds like you'll continue to keep an eye on your symptoms at home. You're doing a great job managing your conditions, Pete. If you have any questions or need to discuss your health in the future, please don't hesitate to call us at 641-381-6523. Thank you again for your time, Pete. Take care of yourself and Rabis. Goodbye for now.",
+        "our_model": "Of course. What would you like to know?"
+    }
+}

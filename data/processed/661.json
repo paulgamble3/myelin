@@ -1,0 +1,8 @@
+{
+    "prompt_id": 661,
+    "prompt": "Nurse: I apologize for the mispronunciation. Are you still taking Sumatriptan and applying Triamcinolone ointment as prescribed?\n\nPatient: and triamcinolone. And yes.\n\nNurse: Thank\n\nPatient: I am taking them\n\nNurse: you for That's great. Now, are you still taking Metformin and Riboflavin?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I was asking if you're still taking Metformin and Riboflavin. [\n\nPatient: I know it's a lot of medication.",
+    "responses": {
+        "gpt4": "I acknowledge it can feel overwhelming managing multiple medications. And, yes, I am taking Metformin and Riboflavin.",
+        "our_model": "Yes, I'm here. I understand it's a lot to manage. Are you still taking Metformin and"
+    }
+}

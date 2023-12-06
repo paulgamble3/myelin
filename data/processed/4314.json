@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4314,
+    "prompt": "Nurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Yes. It is.\n\nNurse: That's great to hear. Remember, these changes can really help manage your sodium intake. Now, let's talk about your phosphorus intake. It's recommended that you limit your phosphorus intake to 0.8 grams per day. This can be achieved by limiting foods high in phosphorus, such as dairy products, beans, and nuts. Have you been able to follow this recommendation?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. It's critical to keep your phosphorus levels in check. Now, let's move on to discuss your other chronic conditions. You have Type II Diabetes. How have you been managing your blood sugar levels?\n\nPatient: It's a little bit far away.\n\nNurse: I'm sorry, I didn't quite understand your response. Could you please tell me how you've been managing your blood sugar levels?\n\nPatient: Trying to eat healthier.",
+    "responses": {
+        "gpt4": "That's a good step toward managing your diabetes. Eating a balanced diet can really help to keep your blood sugar levels in check. Have you also been checking your blood glucose levels regularly as directed by your doctor?",
+        "our_model": "That's a great start. Eating a balanced diet can really help manage your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1938,
+    "prompt": "Patient: Damn.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I like to eat brussels sprouts and salmon.\n\nNurse: That's a great combination. Brussels sprouts and salmon are both very nutritious. Do you usually have these with other foods or on their own?\n\nPatient: I'm usually terrible for mother food.\n\nPatient: I mix it up a little.\n\nNurse: That's a good approach. Variety is key in a balanced diet. Do you also include carbohydrates in your meals?\n\nPatient: I do.",
+    "responses": {
+        "gpt4": "Great! Whole grains, fruits, and vegetables are all good sources of carbs. These are important because they give you the energy you need throughout the day. Is there anyone else in your household who shares meals with you, or do you usually eat alone?",
+        "our_model": "That's good to hear. Can you share more about the types of carbohydrates you're including in your meals?"
+    }
+}

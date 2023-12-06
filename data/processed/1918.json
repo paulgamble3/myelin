@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1918,
+    "prompt": "Nurse: That's fantastic! Building a car is quite an undertaking. How long have you been working on this project?\n\nPatient: Well, there are a bunch of miniature cars\n\nNurse: Oh, I see. Miniature car building is a fascinating hobby. How long have you been working on these miniature cars?\n\nPatient: So one only takes\n\nNurse: That's really cool. Miniature car building sounds like a fun and intricate hobby. Do you have a favorite car model that you're working on right now?\n\nPatient: Currently, I'm working on a fifty seven sell the deer,\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm working on a fifty",
+    "responses": {
+        "gpt4": "That's great, Sam. Could you please clarify the specific model you're working on? Is it a '57 Chevy or another model from 1957?",
+        "our_model": "I'm sorry, Sam, could you please repeat that?"
+    }
+}

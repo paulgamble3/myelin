@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4925,
+    "prompt": "Nurse: Yes, it is indeed good news. Now, let's move on to discuss your medications. You're currently taking Captopril 12.5 mg oral tablet with a dosage of 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Uh-huh.\n\nNurse: You're currently taking Captopril 12.5 mg oral tablet with a dosage of 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Apixaban 5 mg oral tablet, with a dosage of 5 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent. Now, let's discuss your Insulin Lantus 100 IU/mL prefilled pen. The prescribed dosage is 10 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's excellent. Lastly, you've been prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 3 units three times a day. Have you been taking this as prescribed?",
+        "our_model": "That's wonderful. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 3 units three times a day. Have you been taking this medication as prescribed?"
+    }
+}

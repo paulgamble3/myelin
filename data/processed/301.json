@@ -1,0 +1,8 @@
+{
+    "prompt_id": 301,
+    "prompt": "Nurse: I'm sorry, Damian, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: I don't\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you were saying?\n\nPatient: paying in a cup for my albumin test. I don't like that. Why do I have to do that?\n\nNurse: I understand your concern. The urine albumin test is an important part of managing your kidney disease. It helps us monitor how your kidneys are functioning. Would it be okay if I explain this in more detail?\n\nPatient: Yeah. Tell me why I have to pee in the cup.\n\nNurse: Certainly. The urine albumin test measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. Your doctor uses this test to monitor your kidney function and to detect any early signs of kidney disease. It's a routine test for patients with chronic kidney disease like yourself. Does that help clarify things a bit?\n\nPatient: I mean, I guess. I still don't understand why I need to pay for it, but whatever. I have another question.",
+    "responses": {
+        "gpt4": "Of course, I'm here to answer any questions you have. Please go ahead.",
+        "our_model": "Of course. I'm here to help answer any questions you have. What's your next question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4273,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Bernadine Peck?\n\nPatient: Yes.\n\nNurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: I'm doing good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Yeah. I'm gonna go to the morning.",
+    "responses": {
+        "gpt4": "That sounds lovely! What's the occasion for this activity?",
+        "our_model": "That sounds lovely! What do you enjoy most about your morning walks?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3668,
+    "prompt": "Patient: Freaking spectacular.\n\nNurse: I'm glad you found them helpful. Remember, the goal is to enjoy your meals while also taking care of your health. Do you have any questions or concerns about these dietary recommendations?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: I do fuck all for exercise. I hate exercising.\n\nNurse: I understand that many people find exercise challenging. However, it's an important part of managing your health. Would it be okay if I share some exercise recommendations with you?\n\nPatient: I\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. Regular physical activity can help manage your symptoms and improve your overall well-being. It's recommended to aim for at least 150 minutes of moderate-intensity exercise per week. This could be as simple as a brisk walk for 30 minutes, five times a week. Doing strength training exercises at least two days a week can also be beneficial. It's important to start slow and gradually increase intensity and duration. How does that sound to you?",
+        "our_model": "I'm sorry, could you please repeat your response?"
+    }
+}

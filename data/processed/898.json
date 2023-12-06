@@ -1,0 +1,8 @@
+{
+    "prompt_id": 898,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yes. It is.\n\nNurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling quite home. Thank you for asking.\n\nNurse: I'm glad to hear that you're feeling at home. Is there anything you're looking forward to doing this week?\n\nPatient: I'm really looking forward to hanging out with you and my friend.\n\nNurse: That sounds like a wonderful plan. What activities do you usually enjoy doing with your friend?\n\nPatient: We love to go see the movies.",
+    "responses": {
+        "gpt4": "It's nice to hear that you enjoy watching movies. Any particular genre you both like or are there any new releases that you're looking forward to seeing?",
+        "our_model": "That's great! Watching movies is a wonderful way to relax and enjoy some time off. Do you have a favorite genre or a movie you're planning to see?"
+    }
+}

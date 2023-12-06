@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3509,
+    "prompt": "Nurse: That sounds lovely, Mr. Martin. Dogs make such wonderful companions. What kind of dog do you have and what's its name?\n\nPatient: His name is\n\nNurse: I'm sorry, Mr. Martin, your dog's name didn't come through. Could you please tell me your dog's name again?\n\nPatient: boevo.\n\nNurse: I'm sorry, Mr. Martin, I didn't quite catch that. Could you please repeat your dog's name?\n\nPatient: And he is a siberian husky.\n\nNurse: I'm sorry Boevo sounds like a wonderful companion, and Siberian Huskies are such beautiful dogs. Do you have a favorite place where you like to walk Boevo?\n\nPatient: We go into the woods and walk around. It's lots of fun.",
+    "responses": {
+        "gpt4": "That sounds fantastic, Mr. Martin. Walking in the woods can be so refreshing and relaxing, and I'm sure Boevo loves exploring too. Is there anything else you would like to discuss or any questions that you have for Dr. Rodriguez?\n",
+        "our_model": "That sounds like a great way to spend time with Boevo, Mr. Martin. The woods must be a peaceful place for your walks. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

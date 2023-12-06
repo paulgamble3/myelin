@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2318,
+    "prompt": "Patient: Else?",
+    "responses": {
+        "gpt4": "Hello Patient, I hope you're doing well. How are you feeling now that you're back home? It must be somewhat of a relief to be in your own surroundings again.",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Wallace Ponce?"
+    }
+}

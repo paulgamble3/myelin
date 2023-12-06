@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4403,
+    "prompt": "Nurse: That's a very valid concern. After a total knee replacement, it's normal to need some assistance with walking initially. The exact amount of help needed can vary from person to person, but you will have physical therapy and nursing staff to support you. Over time, as your knee heals and strengthens, you'll regain your mobility. Does that help address your concern?\n\nPatient: I guess so. Yeah. Thanks.\n\nNurse: You're welcome. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.\n\nNurse: Perfect. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Wonderful. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Great to hear! Is there anything else about the logistics of the procedure that's worrying you, or any other questions you have about it?",
+        "our_model": "Great. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
+    }
+}

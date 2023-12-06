@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1690,
+    "prompt": "Patient: Yes.\n\nNurse: Wonderful, thank you for confirming, Mr. O'Leary. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nNurse: Great, Mr. O'Leary. I'm glad to hear that the logistics work for you. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. I'm glad to hear that everything seems clear to you. Now, I'd like to move on to discuss your medications. But before we do, I want to make sure you're ready. Can we proceed?\n\nPatient: Yes. I'm ready. Let's do it.",
+    "responses": {
+        "gpt4": "Thank you for your patience, Mr. O'Leary. I see on your chart that you're currently taking Aspirin 81 mg once a day. You were instructed to stop this medication 7 days before the procedure. Given that today is August 10th, and your surgery is on August 13th, you should already have stopped taking the Aspirin. Have you done so?",
+        "our_model": "Perfect, thank you, Mr. O'Leary. I see on your chart that you are currently taking Aspirin 81 mg once a day. As per the instructions, you were supposed to stop this medication 7 days before the procedure. Have you already stopped taking your Aspirin?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 651,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jane Anderson?\n\nPatient: This is Jane Anderson.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December one nineteen fifty five.\n\nNurse: Thank you for confirming. I hope you're doing well. It must be a relief to be back home after your recent hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Now that I'm home, I'm looking forward to not having to go back to the hospital.\n\nNurse: I can imagine that's a big relief for you. It's always comforting to be in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Nothing I'd wanna share with you.",
+    "responses": {
+        "gpt4": "That's completely fine. Just to let you know, I am calling on behalf of your primary care physician, Dr. Molly Burke, and we have a few important things to discuss about your health and medications. Is there anything specific you would like to discuss or any concerns you have before we start with our list?",
+        "our_model": "That's perfectly fine. I'm here to help you with your health-related matters. I'm calling on behalf of Doctor Molly Burke. Before we dive into the topics at hand, do you have any questions or concerns you'd like to address?"
+    }
+}

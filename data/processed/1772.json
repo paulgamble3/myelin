@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1772,
+    "prompt": "Patient: Yeah.\n\nNurse: That's great. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the next topic. You'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Okay.\n\nNurse: Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: Alright.\n\nPatient: I don't.\n\nPatient: Just",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch your whole sentence. Could you please repeat what you said?",
+        "our_model": "I'm sorry, could you please repeat what you said?"
+    }
+}

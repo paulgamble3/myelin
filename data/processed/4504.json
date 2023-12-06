@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4504,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.\n\nNurse: Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: I'm okay. I'm a little scared of all the health\n\nNurse: I'm sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: stuff I've got going on, but\n\nNurse: I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: Well, I've had a little bit of weight gain and some",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me, Jon. I can see why the weight gain could be concerning for you. Is there anything else you've noticed along with the weight gain, like swelling in your hands or feet, or perhaps changes in how often you urinate?",
+        "our_model": "I see, weight gain can be a concern. May I ask how much weight you've gained and over what period of time?"
+    }
+}

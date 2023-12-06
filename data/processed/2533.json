@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2533,
+    "prompt": "Nurse: Great, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This means avoiding processed foods and adding less salt to your meals. Another strategy is regular physical activity. Even a brisk walk can help. Lastly, managing stress through relaxation techniques like deep breathing or meditation can also help. Does that make sense?\n\nPatient: Yep. It all makes sense, but I'm working on all those things.\n\nNurse: That's fantastic to hear, Mr. Oliver. It sounds like you're doing a great job managing your health. Remember, it's a journey and every step you take counts. Is there anything else you'd like to discuss today?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't I didn't say anything.\n\nNurse: No problem at all, Mr. Oliver. I'm here to help. Is there anything else you'd like to discuss today?\n\nPatient: Well, let's see.",
+    "responses": {
+        "gpt4": "Of course, Mr. Oliver. Take your time. I'm here to help with any questions or concerns you might have.",
+        "our_model": "Of course, Mr. Oliver. Take your time."
+    }
+}

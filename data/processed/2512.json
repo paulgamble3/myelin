@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2512,
+    "prompt": "Nurse: That sounds like a wonderful way to spend your time, Mr. Oliver. Online shopping can be quite convenient. Are there any specific gifts you're planning to get for your family?\n\nPatient: Well, my significant other wants a SURFboard. So I'm getting that\n\nNurse: That sounds like a thoughtful gift, Mr. Oliver. SURFboards can be a lot of fun. How long have you been surfing?\n\nPatient: Well, it's not for me. It's for my partner.\n\nNurse: I see, Mr. Oliver. It sounds like your partner is quite the surfer. That's a great gift idea. Before we move on to discuss your kidney disease, is there anything else you've been feeling concerned about health-wise?\n\nPatient: Let's see. Well,\n\nNurse: Yes, Mr. Oliver?\n\nPatient: I did get some lab work.",
+    "responses": {
+        "gpt4": "Thank you for sharing, Mr. Oliver. Did you have any questions or concerns about the results of your lab work?",
+        "our_model": "Yes, Mr. Oliver, I have your recent lab results here."
+    }
+}

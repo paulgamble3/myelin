@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3628,
+    "prompt": "Nurse: That's good to hear, Mr. Benton. It's critical to keep monitoring your symptoms. Now, let's move on to your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.\n\nNurse: That's great to hear, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?\n\nPatient: Yeah. I have some more questions about some of the earlier\n\nNurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: Off.\n\nNurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: What exactly would a high blood sugar be?",
+    "responses": {
+        "gpt4": "A high blood sugar level, also known as hyperglycemia, can vary among individuals. However, generally, a blood sugar level higher than 130 mg/dL when fasting or above 180 mg/dL two hours after meals might be considered high. Please remember that it's essential to consult with your doctor for personalized advice about managing your diabetes. Is there anything else you'd like to ask about?",
+        "our_model": "Of course, Mr. Benton. A blood sugar level less than 140 mg/dL is considered normal. A reading of more than 200 mg/dL after two hours indicates diabetes. A reading between 140 and 199 mg/dL indicates prediabetes. Does that answer your question?"
+    }
+}

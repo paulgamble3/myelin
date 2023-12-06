@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2627,
+    "prompt": "Nurse: That's wonderful, Ms. Cruz. Painting without boundaries can be very freeing. Now, I'm calling on behalf of Doctor Jeff Crane and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Mhmm.No.\n\nNurse: Alright, Ms. Cruz. Let's move on to your medications. Have you been able to pick up your new prescription for Captopril 12.5 mg oral tablet?\n\nPatient: Yeah.\n\nNurse: Excellent, Ms. Cruz. For the Captopril, you should be taking 6.25 mg two times a day. Are you following this dosage?\n\nPatient: Yep.\n\nNurse: Great job, Ms. Cruz. Now, let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: So",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Cruz, could you please repeat that? Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?",
+        "our_model": "Wonderful, Ms. Cruz. Let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?"
+    }
+}

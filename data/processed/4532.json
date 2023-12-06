@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4532,
+    "prompt": "Nurse: I apologize for any confusion earlier. You mentioned that your blood pressure was 90 over 120, correct?\n\nPatient: Yes.\n\nNurse: I appreciate you confirming that. It's critical to keep an eye on your blood pressure levels. Would you be open to some suggestions on how to manage your blood pressure levels?\n\nPatient: Sure.\n\nNurse: Wonderful. One strategy to help manage your blood pressure is to reduce your salt intake. This can be achieved by eating fewer processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad you think so. Another strategy is to maintain a healthy weight. If you're overweight, losing even a small amount of weight can help lower your blood pressure. This could be achieved through a combination of a healthy diet and regular physical activity. Do you think you could incorporate this into your routine?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's fantastic to hear. These lifestyle changes can really make a difference. It's also important to take any blood pressure medication as prescribed by your doctor. If you have any concerns about your medication, it's always best to consult your doctor. Do you have any other questions or concerns you'd like to discuss?",
+        "our_model": "That's great to hear. Maintaining a healthy weight can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

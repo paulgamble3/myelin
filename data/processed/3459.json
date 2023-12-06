@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3459,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Aguirre. It's important to continue with any physical therapy or exercises recommended by your doctor to aid in your recovery. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I do.\n\nNurse: Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: No. I don't really want to.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big decision to make. Could you share with me why you feel you're not ready to quit smoking at this time?\n\nPatient: Just too much of a commitment right now.\n\nNurse: I understand, Ms. Aguirre. It's a significant change and it's okay to feel that it's too much right now. If you ever decide to consider quitting, I have a lot of resources that I could share with you. Would you like me to share these resources with you for future reference?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's perfectly fine, Ms. Aguirre. It's a decision only you can make when you're ready. We're here to support you no matter what. Just know that these resources are always available if you ever want to look into them. Is there anything else you want to discuss regarding your lifestyle habits or your chronic conditions today?",
+        "our_model": "That's perfectly fine, Ms. Aguirre. If you ever change your mind, please don't hesitate to ask. I'm here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1854,
+    "prompt": "Nurse: That's wonderful, Ms. Odonnell. It's important to take your medications as prescribed to manage your conditions effectively. Lastly, you're also taking Hydralazine 25 mg oral tablet, with a dosage of 25 mg four times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Odonnell. You're doing a fantastic job managing your medications. Remember, there are certain medications and supplements that aren't safe for CKD patients to take. It's essential to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright, Ms. Odonnell. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh,\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your recent meals?\n\nPatient: Well, you know, I have a question about that because I'm on a low phosphorus diet.",
+    "responses": {
+        "gpt4": "Of course, Ms. Odonnell. Your question is important. Can you tell me more about your concern regarding your low phosphorus diet?",
+        "our_model": "Of course, Ms. Odonnell. I'd be happy to help answer your question. What would you like to know about your low phosphorus diet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5999,
+    "prompt": "Nurse: That's excellent, it's important to take your Aspart as prescribed to manage your blood sugar levels. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg oral tablet once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes. I've been taking everything was prescribed.\n\nNurse: That's fantastic to hear. Taking your medications as prescribed is crucial in managing your conditions. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't think so.\n\nNurse: Alright, if it's okay with you, I'd like to discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to eat lots of salad.\n\nNurse: That's great to hear, salads can be a good source of fiber and various vitamins. Could you tell me more about the types of salads you've been having?\n\nPatient: Own dressing. Italian.",
+    "responses": {
+        "gpt4": "Including homemade Italian dressing is a great way to add flavor to your salads without using pre-packaged dressings that can be high in sodium. What else do you usually include in your salads?",
+        "our_model": "That's great to hear that you're incorporating salads into your meals. Salads can be a good source of fiber and various vitamins. However, some salad dressings can be high in sodium. Would it be alright if I provide some suggestions on how to make your meals more kidney-friendly?"
+    }
+}

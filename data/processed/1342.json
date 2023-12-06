@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1342,
+    "prompt": "Nurse: That's good to know. I want to make sure you're taking the correct dosage of Tylenol. You should be taking 1000 mg three times a day as needed for pain, not just up to three times a day. Does that clarify things for you?\n\nPatient: Alright.\n\nNurse: Thank you for confirming. Now, I notice that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yeah.\n\nNurse: that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: What?\n\nNurse: I apologize for any confusion. I was referring to your current medication, Tylenol 500 mg. You can take this as needed for pain, up to three times a day. Have you picked up this prescription yet?\n\nPatient: Yes. We talked about that.",
+    "responses": {
+        "gpt4": "I'm sorry for the confusion earlier. I misspoke. We're discussing Tylenol 500mg that you should be taking as needed for pain, up to three times a day, not Oxycodone. Thank you for clarifying. Is there anything else you want to discuss about your medications?",
+        "our_model": "I apologize for the repetition. I'm glad to hear you've picked up your Tylenol prescription. Do you have any questions about your medications?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2342,
+    "prompt": "Patient: I mean, I don't want anything.\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you said about your recent meals?\n\nPatient: So I have some sausage, veggies,\n\nPatient: and\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you had for your meal?\n\nPatient: South Carolina two.\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you had for your meal?\n\nPatient: And",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Ponce, for some reason I'm having trouble understanding what you're saying about your meals. Could you please repeat what you had?",
+        "our_model": "I'm sorry, Mr. Ponce, I didn't quite catch that."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1092,
+    "prompt": "Nurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee.\n\nPatient: Yeah. I guess so.\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: have quite a lot of pain\n\nNurse: I'm sorry to hear that you're experiencing pain.\n\nPatient: Oh,",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're experiencing pain. Back to our conversation, what are your plans once your knee is recovered? Any activities or hobbies you'd like to get back to?",
+        "our_model": "I'm sorry to hear that you're experiencing pain. It's quite common with osteoarthritis. I hope your upcoming knee replacement will provide you with some relief. Speaking of which, you must be looking forward to getting a new knee."
+    }
+}

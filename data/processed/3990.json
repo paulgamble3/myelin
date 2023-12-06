@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3990,
+    "prompt": "Nurse: Yes, I'm here, Mr. Dang. I'm glad to hear you don't have any questions. Now, I'd like to ask if you have any signs of illness. Do you have any fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Dang. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the day of the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I said no.",
+    "responses": {
+        "gpt4": "I apologize for any confusion, Mr. Dang. I heard you and noted that you do not have any other questions or concerns at this time. To ensure we are on the same page, let's review what we've discussed. We talked about your upcoming colonoscopy, medication instructions, dietary adjustments, and bowel prep with the NuLYTELY laxative solution. We also confirmed your appointment logistics and verified that you have arranged a ride home. Does that sound accurate to you?",
+        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

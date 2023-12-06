@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2306,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Kageyama. Do you have any special plans for the day?\n\nPatient: No. I'm just gonna relax and watch TV.\n\nNurse: Relaxation sounds like a good plan, Mr. Kageyama. What kind of shows do you enjoy watching?\n\nPatient: Tommy's.\n\nNurse: I'm sorry, Mr. Kageyama, I didn't quite catch that. Could you please repeat the name of the show you enjoy watching?\n\nPatient: Steinfeld.\n\nNurse: Ah, \"Steinfeld\". It's always nice to have a show that you enjoy. How did you come to start watching it?\n\nPatient: It's very popular.",
+    "responses": {
+        "gpt4": "Yes, \"Steinfeld\" is indeed a popular show. Let's move on to discuss your upcoming colonoscopy. Have you had a colonoscopy before, Mr. Kageyama?",
+        "our_model": "Popular shows often have a lot to offer, Mr. Kageyama. It's great that you've found one that you enjoy. Now, I'd like to talk about your upcoming colonoscopy. How are you feeling about the procedure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2657,
+    "prompt": "Nurse: I'm sorry, Ms. Cruz, could you please repeat what you said about your meals?\n\nPatient: a lot of I love tomatoes,\n\nNurse: That's wonderful, Ms. Cruz. Tomatoes are a great source of vitamins and antioxidants. How do you usually prepare your tomatoes?\n\nPatient: salads. I'd really love salads. Like, Greek\n\nNurse: That sounds delicious, Ms. Cruz. Greek salads can be a great way to include a variety of vegetables in your diet. Do you usually have any protein like chicken or fish with your salad?\n\nPatient: salad is one of my favorite salads.\n\nNurse: That sounds delicious, Ms. Cruz. Greek salads are a great way to include a variety of vegetables in your diet. Do you also include any protein sources in your salads, like chicken or beans?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "That's great, Ms. Cruz. Including protein in your meals can help you stay full longer. Now, in addition to your diet, another important factor to maintaining your health is remaining active. Have you been able to do any physical activities or exercises recently?",
+        "our_model": "That's great, Ms. Cruz. Including protein in your salads can help you feel full and satisfied. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?"
+    }
+}

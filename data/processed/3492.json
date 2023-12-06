@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3492,
+    "prompt": "Nurse: Alright. You don't have to do anything just yet. But you'll need to start your bowel prep 24 hours before your procedure by drinking only clear liquids which involves no solid foods and drinking either clear or light colored beverages without any red or purple dye. Can I share some examples of what clear liquids are and you can tell me what questions you have about the diet?\n\nPatient: Sure.\n\nNurse: Examples of clear liquids include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. Do you have any questions about these examples or the clear liquid diet in general?\n\nPatient: No.\n\nNurse: Alright. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your NuLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: Sure.\n\nNurse: Wonderful. You can drink the laxative solution cold. This can make it easier to drink. You can also drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: Yeah. Sounds good.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. Do you have any other questions or concerns about this part of the colonoscopy prep?",
+        "our_model": "I'm glad to hear that. Do you have any questions about the bowel prep or the tips I shared?"
+    }
+}

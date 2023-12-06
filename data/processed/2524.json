@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2524,
+    "prompt": "Nurse: Yes, Mr. Oliver, managing your conditions and maintaining a healthy lifestyle can help support your kidney function. Now, if it's okay with you, I'd like to ask a few questions about your blood sugar and blood pressure. Is that alright?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of your blood sugar levels. Now, when was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: I took it yesterday.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Oliver. Would you be able to share the blood pressure reading from yesterday?",
+        "our_model": "That's good to hear, Mr. Oliver."
+    }
+}

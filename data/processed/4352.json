@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4352,
+    "prompt": "Nurse: That's wonderful to hear, Mr. Oliver. Regular physical activity can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yeah. What does the GFR mean?\n\nNurse: That's a great question, Mr.\n\nPatient: And how is it measured?\n\nNurse: That's a great question, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. It estimates how much blood passes through the tiny filters in your kidneys, called glomeruli, each minute. A lower GFR can be a sign that your kidneys are not working as well as they should. Your GFR is 67 mL/min/1.73m2, which is within the normal range. Does that help clarify things for you?\n\nPatient: Yes.\n\nNurse: I'm glad to hear that, Mr. Oliver. If you have any other questions about your lab results, feel free to ask. Otherwise, I'd like to discuss your medications. Is that alright with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Oliver. I see that you're currently taking Valsartan 40 mg as an oral tablet daily. How have you been managing with this medication?",
+        "our_model": "Thank you, Mr. Oliver. Let's start with your Valsartan. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as prescribed?"
+    }
+}

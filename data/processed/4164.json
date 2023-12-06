@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4164,
+    "prompt": "Nurse: Wonderful, thank you, Mr. Peck. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Peck. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was one forty eight.\n\nNurse: Thank you for sharing that, Mr. Peck. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.\n\nNurse: Great, thank you for being open to suggestions, Mr. Peck. One strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, and vegetables. What do you think about this suggestion?\n\nPatient: Well, I'm on a low salt, low phosphorus diet.",
+    "responses": {
+        "gpt4": "I see, thank you for that information. A diet Low in salt and phosphorus is essential for managing kidney disease. Do you find it difficult to stick to your prescribed diet sometimes, Mr. Peck?",
+        "our_model": "I apologize for the confusion earlier, Mr. Peck. You mentioned that your blood sugar was 148. Is that correct?"
+    }
+}

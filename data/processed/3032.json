@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3032,
+    "prompt": "Nurse: Excellent. I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I love white rice.\n\nNurse: White rice is a great choice for a low fiber diet. It's easy to digest and will help prepare your colon for the procedure. Do you usually prepare it in a specific way?\n\nPatient: I'll usually add some Seaweed to it.\n\nNurse: That sounds like a tasty way to prepare it. Just remember, for the preparation of your colonoscopy, it's best to keep the dish as simple as possible. This means avoiding any additional ingredients that might be high in fiber. Do you have any other questions about the diet or any other comfort foods you're considering?\n\nPatient: No.\n\nNurse: Alright. It's essential to note that this is a rare time when doctors want their patients to be eating low fiber comfort foods. It's all part of the preparation for your colonoscopy. Now, let's move on to discuss supplements.\n\nPatient: Request.",
+    "responses": {
+        "gpt4": "Absolutely. For your colonoscopy, you'll also need to stop any supplements you take, such as Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?",
+        "our_model": "Yes, this is a rare time when doctors want their patients to be eating low fiber comfort foods. It's all part of the preparation for your colonoscopy. Now, let's move on to discuss supplements. You'll need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

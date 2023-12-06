@@ -1,0 +1,8 @@
+{
+    "prompt_id": 611,
+    "prompt": "Nurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: August eighth nineteen eighty one.\n\nNurse: Thank you for confirming, Ms. Raynier. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Okay, thank you for taking the time to speak with me, Ms. Raynier. How has your day been so far?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Raynier. Have you been able to do anything enjoyable today?\n\nPatient: Well, nothing very siding,",
+    "responses": {
+        "gpt4": "Even the quiet days can be quite nice. I believe you're scheduled for a total knee replacement on the 13th of August. It must be something you're looking forward to. Can you share what you're planning to do once you're back on your feet with a new knee?",
+        "our_model": "That's perfectly fine, Ms. Raynier. Sometimes, a quiet day can be quite refreshing. As you're preparing for your knee replacement, it's important to rest and prepare for the procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

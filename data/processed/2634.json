@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2634,
+    "prompt": "Nurse: That's great to hear, Ms. Cruz. Now, let's discuss the last new medication. Have you picked up your new prescription for Hydrochlorothiazide 50 mg oral tablet?\n\nPatient: Yes.\n\nNurse: Perfect, Ms. Cruz. For the Hydrochlorothiazide, you should be taking 50 mg two times a day. Are you following this dosage?\n\nPatient: Hello?\n\nNurse: Hello, Ms. Cruz. I was saying that for the Hydrochlorothiazide, you should be taking 50 mg two times a day. Are you following this dosage?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Cruz. Now, are you still taking your existing medication, Metformin 500 mg oral tablet?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Fantastic, Ms. Cruz. It's very important to continue all of your medications as your doctor prescribed. If you have any questions or issues with your medications, don't hesitate to contact your doctor or pharmacist. Have you encountered any issues or side effects with your medications?",
+        "our_model": "That's good to hear, Ms. Cruz. It's important to continue taking your Metformin as prescribed. Now, I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

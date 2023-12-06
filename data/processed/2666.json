@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2666,
+    "prompt": "Nurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: Well, I mean,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: I do have lots of thoughts. I miss my regular food.\n\nNurse: I can understand that, Ms. Cruz. It's normal to miss the taste of foods we're used to. Could you share more about the types of food you miss?\n\nPatient: It just I feel like this\n\nNurse: I can understand how you might miss your regular food, Ms. Cruz. Making dietary changes can be challenging. Could you share more about the foods you miss and why you enjoyed them?\n\nPatient: this diet is so restricting. Austin don't know. So",
+    "responses": {
+        "gpt4": "I understand, Ms. Cruz. Dietary changes, especially ones aimed at managing health conditions, can feel restrictive and sometimes frustrating. Can you tell me more about the foods you feel you're missing out on?",
+        "our_model": "I can"
+    }
+}

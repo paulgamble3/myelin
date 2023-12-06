@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3110,
+    "prompt": "Nurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: I\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about your recent meals?\n\nPatient: I just eat whatever easy. So, like, go out of microwave stuff.\n\nNurse: I see. Convenience is important, especially when you're not feeling your best. Can you share a bit more about what types of microwave meals you typically have?\n\nPatient: They're just, like, rice mostly, I guess.\n\nNurse: Thank you for sharing that. Rice can be a part of a balanced diet. Now, I'd like to remind you of your dietary recommendations. You're on a fluid restriction of 1.5 liters per day. This includes all fluids, not just water. Are you okay with me sharing some tips on how to manage this?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great. One helpful tip is to measure out the 1.5 liters of fluid in the morning so you can visualize how much you can have in a day. It can also help to take small sips instead of large gulps to make your fluid intake last longer. \n\nNext, you're also on a diet restricted to 1500 mg of sodium per day. Would it be alright to share some recommendations to help with this part of your diet?",
+        "our_model": "Excellent. One method is to measure out the 1.5 liters of fluid at the start of the day and drink from that. This can help you keep track of your fluid intake. Now, let's talk about your sodium restriction. You're on a 1500 mg sodium restricted diet. This means avoiding high-sodium foods like processed meats, canned soups, and fast food. Would it be alright if I shared some low-sodium meal ideas with you?"
+    }
+}

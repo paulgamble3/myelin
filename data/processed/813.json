@@ -1,0 +1,8 @@
+{
+    "prompt_id": 813,
+    "prompt": "Patient: Melon.\n\nNurse: Thank you for repeating that, Ms. Aguirre. It sounds like you're making an effort to include protein and vegetables in your meals, which is great. Can I provide some suggestions to further align your diet with your health needs?\n\nPatient: Like a cantaloupe.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for sharing that, Ms. Aguirre. It sounds like you're making an effort to include a variety of foods in your diet. Can you tell me more about the types of vegetables you used in your chicken soup?\n\nPatient: Oh,\n\nNurse: When did the change in speech start?\n\nPatient: bill with Tara.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre. I'm having trouble understanding your responses. When did the change in your speech patterns start?",
+        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat the types of vegetables you used in your chicken soup?"
+    }
+}

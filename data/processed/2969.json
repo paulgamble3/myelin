@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2969,
+    "prompt": "Nurse: Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.\n\nNurse: Great, thank you for your understanding. Are you okay if we go over a few topics to check on how you're doing with your chronic conditions?\n\nPatient: Yes.\n\nNurse: Thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been checking your blood sugar daily?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, I'm glad to hear that. Could you kindly tell me what your last blood sugar reading was?",
+        "our_model": "That's great to hear. Could you please share with me what your last blood sugar reading at home was?"
+    }
+}

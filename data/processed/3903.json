@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3903,
+    "prompt": "Patient: An hour ago.\n\nNurse: Thank you for letting me know. Could you please share what the result was?\n\nPatient: It was ninety over one fifteen.\n\nNurse: Thank you for sharing that. Your blood pressure is within the normal range, which is beneficial for your overall health. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about them?\n\nPatient: Yes. In regards to my insulin,\n\nPatient: Should I take it with my kidney disease?\n\nNurse: That's a great question. Insulin is used to control blood sugar levels, which is important for both your kidney health and your overall health. However, it's crucial to take it as prescribed by your doctor. Are you currently taking insulin?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Carla. It's really important to continue using insulin as instructed by your doctor to manage your blood sugar levels, which in turn helps in protecting your kidneys. If you have any concerns about your medication, you should always consult with Dr. Smith. Do you have any other questions related to your labs?",
+        "our_model": "That's good to hear. It's important to continue taking your insulin as prescribed. Now, let's move on to your medications. You're currently prescribed Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?"
+    }
+}

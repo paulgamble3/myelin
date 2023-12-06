@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2718,
+    "prompt": "Nurse: I'm glad to hear that your recovery is going well, Ms. Aguirre. It's essential to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's move on to your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes.\n\nNurse: Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: I thought I got it, but it's too hard right now. If that was something I'm\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting\n\nPatient: It's on my radar.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting smoking. Can you share what you think might be the most challenging aspect of quitting for you?\n\nPatient: I mean, it's an addiction. So that.",
+    "responses": {
+        "gpt4": "I can see how that would make it difficult, Ms. Aguirre. Addiction can be an incredibly challenging thing to overcome. But please remember that there are many resources available to support you on this journey when you're ready. Can I provide a few suggestions that might be helpful for when you decide to quit?",
+        "our_model": "I see, Ms. Aguirre. It's indeed a challenging journey, but remember, it's a step-by-step process. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?"
+    }
+}

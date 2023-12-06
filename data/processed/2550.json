@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2550,
+    "prompt": "Nurse: That's wonderful to hear. There's no place like home, isn't it?\n\nPatient: Mhmm. That's true.\n\nNurse: Now that you're home, is there anything specific you're looking forward to doing?\n\nPatient: Enjoying my pet. Going for a walk.\n\nNurse: That sounds lovely. What kind of pet do you have?\n\nPatient: I have a Chihuahua.\n\nNurse: Oh, Chihuahuas are such lively little companions. What's your Chihuahua's name?\n\nPatient: Rancho.",
+    "responses": {
+        "gpt4": "What a unique name for a Chihuahua! Rancho must be excited to see you back home. Are there anything else you want to share or discuss?",
+        "our_model": "Rancho, that's a unique name. I bet he's a joy to have around. Now, I'm calling on behalf of Doctor Jack Smith and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

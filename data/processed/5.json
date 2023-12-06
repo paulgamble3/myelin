@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5,
+    "prompt": "Nurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: Having good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: No. Not really. She's relaxing.\n\nNurse: Relaxation sounds wonderful. Do you have any favorite activities that help you unwind?\n\nPatient: Just watching TV.\n\nNurse: That sounds like a nice way to relax. What kind of shows do you enjoy watching?\n\nPatient: I love Romans and comedy.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what kinds of shows you enjoy?",
+        "our_model": "Romance and comedy are great genres. Do you have a favorite romantic comedy that you've watched recently?"
+    }
+}

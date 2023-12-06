@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4452,
+    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Delarosa. I thought you said you were using more pillows to sleep. Could you please confirm whether this is correct?\n\nPatient: I don't know why you think that. I I'm not using any. I\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you.\n\nPatient: said no.\n\nNurse: Thank you for clarifying, Mr. Delarosa. I apologize for the confusion earlier. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Delarosa. I was asking if you could tell me about some of the meals you've had recently?\n\nPatient: Some of the meals.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Delarosa. Could you please share a little more detail? For example, what did you have for breakfast, lunch, and dinner yesterday?",
+        "our_model": "Yes, Mr. Delarosa. Could you share what you had for breakfast, lunch, and dinner yesterday?"
+    }
+}

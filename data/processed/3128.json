@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3128,
+    "prompt": "Nurse: Alright, Mr. Valenzuela. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I know it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I am feeling hopeful\n\nNurse: That's a wonderful attitude to have, Mr. Valenzuela. We hope this procedure gives you and your doctor the answers you're looking for. If it's alright with you, I'd like to go over a few topics on prep for your colonoscopy. Is that okay?\n\nPatient: Yes.\n\nNurse: Great, Mr. Valenzuela. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our checklist. Are you clear on the dietary restrictions leading up to your procedure?\n\nPatient: So it has to be, like, low fiber for entire week.\n\nNurse: Yes, Mr. Valenzuela, you're correct. A low fiber diet is recommended for the week leading up to your procedure. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent. Once you arrive at O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good, Mr. Valenzuela?",
+        "our_model": "Great, Mr. Valenzuela. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

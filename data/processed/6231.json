@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6231,
+    "prompt": "Nurse: That's great to hear. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Not even water?\n\nNurse: Yes, that's correct. Even water should not be consumed after midnight before your procedure. This is to ensure your stomach is empty for the anesthesia. Do you have any other questions about this?\n\nPatient: No other questions.\n\nNurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Please continue.\n\nNurse: Thank you. My next question is about your current health status. Do you have any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: Well, my knee is hurting. Yes.",
+    "responses": {
+        "gpt4": "I'm sorry to hear about the discomfort in your knee, but that to be expected considering your upcoming procedure. Keep taking your pain medication as directed by your doctor. Other than your knee, have you noticed any signs of illness such as a fever, chills, or muscle aches?",
+        "our_model": "I'm sorry to hear that your knee is hurting. That's to be expected given the condition of your knee joint. However, I'm asking about general signs of illness such as a fever, chills, or muscle aches. Have you experienced any of these recently?"
+    }
+}

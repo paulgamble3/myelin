@@ -1,0 +1,8 @@
+{
+    "prompt_id": 544,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lily Adams?\n\nPatient: Yep. That's me.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well now that you're back home from the hospital. How are you feeling today?\n\nPatient: I'm doing pretty good. Thanks. How are you feeling?",
+    "responses": {
+        "gpt4": "I appreciate your concern. As an AI, I don't have personal feelings, but I am here to check up on your health. Since you're back home now, there must be some activities you're looking forward to. Anything in particular that excites you?",
+        "our_model": "As an AI, I don't have feelings, but I'm here to assist you. I'm glad to hear you're doing well. It must be nice to be back home. Is there anything in particular you're looking forward to doing now that you're home?"
+    }
+}

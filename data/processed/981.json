@@ -1,0 +1,8 @@
+{
+    "prompt_id": 981,
+    "prompt": "Nurse: That's fantastic! It's always a joy to see our loved ones pursue their passions. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: For.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Are there different types of dialysis.\n\nNurse: Yes, there are different types of dialysis. Would you like me to provide some information about them?\n\nPatient: And how do they differ?\n\nNurse: Yes, there are two main types of dialysis - hemodialysis and peritoneal dialysis. Hemodialysis uses a machine to filter waste and extra fluid from your blood. It's usually done at a dialysis center, and you typically go a few times a week. Peritoneal dialysis uses the lining of your abdomen, called the peritoneum, to filter your blood. You can do this at home using a special solution. Would you like me to go into more detail about each type?\n\nPatient: No. That's okay.",
+    "responses": {
+        "gpt4": "Alright! If you have any other questions or if there's anything else you'd like to discuss, feel free to let me know.",
+        "our_model": "Alright, if you have any other questions at any point during our conversation, feel free to ask. Now, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?"
+    }
+}

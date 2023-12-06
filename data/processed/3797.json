@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3797,
+    "prompt": "Nurse: I'm asking about the types of foods you've been eating, Ms. Odonnell. For example, what did you have for breakfast, lunch, and dinner yesterday?\n\nPatient: That's a I had oatmeal for breakfast.\n\nNurse: That's a great start to the day, Ms. Odonnell. Oatmeal is a whole grain and a good source of fiber. What did you have for lunch and dinner yesterday?\n\nPatient: Much for lunch, and I had\n\nNurse: I'm sorry, Ms. Odonnell, you cut out a bit there. Could you please repeat what you had for lunch and dinner yesterday?\n\nPatient: Lazagna for dinner.\n\nNurse: Thank you for sharing that, Ms. Odonnell. Lasagna can be a good source of protein, but it can also be high in sodium. Would it be okay if I provide some suggestions about how to adjust your diet to better manage your health conditions?\n\nPatient: Well, how can I make lasagna so I can eat it? Because because I really like it.",
+    "responses": {
+        "gpt4": "That's a great question, Ms. Odonnell. You can certainly adjust the recipe to make it healthier. For example, you can try using whole grain pasta, lean meat, and low-sodium sauce. Also, loading up on veggies like spinach and bell peppers can help to increase the nutritional value. Does that sound like something you might try?",
+        "our_model": "I understand, Ms. Odonnell. Lasagna can be made healthier by using lean ground beef or turkey, and adding more vegetables like spinach, mushrooms, or bell peppers. It's also a good idea to limit the amount of cheese used. For the sauce, you can use a low-sodium option or make your own with fresh tomatoes. Would you like more suggestions like this?"
+    }
+}

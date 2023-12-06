@@ -1,0 +1,8 @@
+{
+    "prompt_id": 117,
+    "prompt": "Nurse: And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: Yeah. What what are the solutions?\n\nNurse: The NuLYTELY laxative solution is a powder that you mix with water to create a solution. It's designed to clean out your colon before your colonoscopy. You'll need to drink the first half of the solution the night before your procedure, around 6 PM. Then, you'll wake up early the morning of your procedure to finish the second half. Would you like some tips on how to make drinking the solution easier?\n\nPatient: Alright.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: No question.\n\nNurse: Alright. If you have any questions about the NuLYTELY laxative solution or the bowel prep process, feel free to ask. Would you like some tips on making the bowel prep easier?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "It can be easier to get through the bowel prep by chilling the solution before you drink it, drinking it through a straw, and having a clear liquid \"chaser\" like a favorite clear sports drink on hand. You could also take small sips and drink at a pace that is comfortable for you. Remember, the most important thing is to finish the solution. Your stool should become as clear and watery as urine. Does that help? Or do you have more questions about the bowel prep process?",
+        "our_model": "Would you like some tips on making the bowel prep easier?"
+    }
+}

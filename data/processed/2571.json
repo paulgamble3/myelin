@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2571,
+    "prompt": "Nurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: I'm in okay.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat how you've been feeling lately?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Just spending time with my family.\n\nNurse: That sounds lovely. Family time is always special. Are there any specific activities you enjoy doing with your family?\n\nPatient: Cooking, making cookies, but then",
+    "responses": {
+        "gpt4": "I'm sorry, the line cut out there for a moment, could you repeat what you were saying after \"making cookies\"?",
+        "our_model": "Cooking and baking cookies sounds like a wonderful way to spend time with your family. Do you have a favorite type of cookie you like to make?"
+    }
+}

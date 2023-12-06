@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5536,
+    "prompt": "Nurse: Alright, Mr. Alves. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: In Ohio.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat your question or comment about the low fiber diet?\n\nPatient: I didn't have a question.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that you're clear on the low fiber diet. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I love homemade branch.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what low fiber foods you enjoy as comfort food?\n\nPatient: Homemade bread.",
+    "responses": {
+        "gpt4": "Oh, that sounds lovely, Mr. Alves. Homemade bread can indeed be a good option for a low fiber diet. Just make sure it's made from refined, not whole grain flour. Let's make sure the rest of your meals before the colonoscopy fit into the low fiber category as well. Is there anything else you'd like to discuss about your diet?",
+        "our_model": "Homemade bread sounds delicious, Mr. Alves."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2046,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes. Oh, so good to hear from you. Yes. I have so many questions, and I'm so cared. Oh, gosh. And, like, you know, I tried to call hospital. They never picked up. So just have so many questions.",
+    "responses": {
+        "gpt4": "Hello Paxton Winner, it a pleasure to reach you. I'm here to go over all the details related to your upcoming total knee replacement, and to make sure that you're feeling as prepared and comfortable as possible. If at any point you have questions, feel free to interrupt me and I will do my best to provide clarity. So, may we talk about your procedure now?",
+        "our_model": "I'm glad to hear from you. I'm here to help answer all your questions and make sure you're prepared for your upcoming procedure. Before we dive in, may I ask how your day is going so far?"
+    }
+}

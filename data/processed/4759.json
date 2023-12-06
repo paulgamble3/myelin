@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4759,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Abner Shyam?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December nineteenth nineteen seventy six.\n\nNurse: Thank you for confirming your date of birth, Mr. Shyam. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Well, I'm doing better, but I have a quest question for you.",
+    "responses": {
+        "gpt4": "Absolutely, Mr. Shyam. Feel free to ask, what is the question you have for me?",
+        "our_model": "Of course, Mr. Shyam. What's your question?"
+    }
+}

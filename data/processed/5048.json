@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5048,
+    "prompt": "Nurse: Okay. I'm going to ask you a few more questions. Firstly, have you noticed any signs of illness such as a fever, chills, or muscle aches recently?\n\nPatient: No.\n\nNurse: That's good to hear. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That is still the plan.\n\nNurse: Great. I just want to confirm that you've arranged for a ride home and for someone to stay with you after the procedure. Have you managed to arrange that?\n\nPatient: My daughter is going to give me a ride and then stay with me.\n\nNurse: That's wonderful to hear. It's critical to have someone with you after the procedure. If there's anything else you need to arrange, you still have time to do so. Can I count on you to do all of this?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great to hear! You're doing a fantastic job preparing for this procedure. That concludes all the topics we needed to discuss today, but do you have any other questions or concerns? I'm here to help.",
+        "our_model": "That's great to hear. I believe we've covered all the necessary topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

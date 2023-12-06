@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5050,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Hello, this is Rachel, the AI Nurse calling from Dr. Anna Malakhova's office. May I confirm who I am speaking with, please?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sarkis Koroleva?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 410,
+    "prompt": "Nurse: I'm here to assist you, so my day is going well, thank you. It sounds like you're having a good day. Is there anything in particular that's made your day good so far?\n\nPatient: Well, I mean, I'm off today, and it's Friday. I took a day off from my side to just prepare for the surgery and everything. So\n\nNurse: That's wonderful to hear.\n\nPatient: really riding away.\n\nNurse: That's wonderful to hear. Taking a day off to prepare for your surgery is a great idea. It's critical to have some quiet time before such a procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Sounds so odd. Getting in unique.\n\nNurse: I can imagine it might seem a bit unusual at first.\n\nPatient: You know what I mean?",
+    "responses": {
+        "gpt4": "I can appreciate how the prospect of a knee replacement might seem a bit unusual at first. But it's also an exciting opportunity to improve your quality of life! Once your new knee is in place and you've had time to recover, is there anything specific you're looking forward to doing again, or perhaps something new you'd like to try?",
+        "our_model": "Absolutely, it's a significant change. But remember, this change is for the better. It's a step towards reducing your pain and improving your mobility. Do you have any specific activities or hobbies that you're excited to get back to once you've recovered from your surgery?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2,
+    "prompt": "Patient: Plus\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?\n\nPatient: Yes.\n\nNurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: Having good.",
+    "responses": {
+        "gpt4": "That's wonderful to hear, Alex. Is there anything special you're looking forward to doing this week?",
+        "our_model": "I'm glad to hear that. Is there anything you're looking forward to doing this week?"
+    }
+}

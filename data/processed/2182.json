@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2182,
+    "prompt": "Nurse: Excellent. I see on your chart that you are currently taking Lantus, 5 units once a day. For the day of the procedure, you'll need to adjust this to 2 units of Lantus. Have you already made this adjustment, or is this something you'll need to do in the coming days?\n\nPatient: Yeah. I'll do it.\n\nNurse: Great. It's important to make this adjustment for the day of the procedure. Do you have any questions about this change?\n\nPatient: No.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Alright. Nope.\n\nNurse: That's good to hear. These medications typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure.\n\nPatient: Well,",
+    "responses": {
+        "gpt4": "Have you had a chance to pick these up from the pharmacy yet? If not, I encourage you to do so.",
+        "our_model": "I'm glad to hear that."
+    }
+}

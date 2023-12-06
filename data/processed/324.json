@@ -1,0 +1,8 @@
+{
+    "prompt_id": 324,
+    "prompt": "Nurse: Okay. Now, let's discuss your medications. You're currently taking Amlodipine 5 mg oral tablet, 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes, mother.\n\nNurse: That's great to hear. Now, let's move on to the next medication. You're also prescribed Ferrous sulfate 45 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Lastly, you're prescribed Renvela 400 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear! Keep up the good work. Remember, it's always important to talk to your doctor before starting any new medications or supplements, including over-the-counter ones. This is because some substances might not be safe for someone with your health conditions to take. Do you have any questions about this?",
+        "our_model": "That's great. You're doing a fantastic job managing your medications. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?"
+    }
+}

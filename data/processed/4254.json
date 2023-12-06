@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4254,
+    "prompt": "Nurse: Great, Mr. Shyam. One strategy could be setting reminders on your phone or a clock. Another could be associating taking your medication with a daily routine, like brushing your teeth or having a meal. Would any of these strategies work for you?\n\nPatient: Yeah. That all makes sense. Thanks.\n\nNurse: You're welcome, Mr. Shyam. I'm glad I could help. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. Sure.\n\nNurse: Thank you, Mr. Shyam. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Shyam. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Nope. I have not.",
+    "responses": {
+        "gpt4": "That's great, Mr. Shyam. Now, have you noticed a new or worsening dry cough?",
+        "our_model": "I'm glad to hear that, Mr. Shyam. Have you noticed any new or worsening dry cough?"
+    }
+}

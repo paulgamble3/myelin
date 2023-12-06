@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2337,
+    "prompt": "Nurse: Thank you, Mr. Ponce. You mentioned earlier that you've gained weight and are experiencing shortness of breath. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Right now.\n\nNurse: I see, Mr. Ponce. Swelling can be a sign of fluid buildup, which is something we want to monitor closely. Now, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: Alright, Mr. Ponce. That's good to hear. We've just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: And then I go.\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat your question?\n\nPatient: I still have a question.",
+    "responses": {
+        "gpt4": "Of course, Mr. Ponce. Please feel free to ask any questions you have. I'm here to assist you.",
+        "our_model": "Of course, Mr. Ponce. What's your question?"
+    }
+}

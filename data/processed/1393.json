@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1393,
+    "prompt": "Nurse: Great, Mr. Grewe. After gently scrubbing for about 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Yep.\n\nNurse: I'm sorry, Mr. Grewe, could you please repeat what you just said?\n\nPatient: I just called. I'm sorry.\n\nNurse: No problem at all, Mr. Grewe. I appreciate your patience. To summarize, you'll need to use the chlorhexidine scrub the night before and the morning of your procedure. You'll apply it to a wet, clean washcloth and gently scrub yourself from the neck down, avoiding your face, hair, and crotch area. After 5 minutes, you'll rinse it off and pat dry with a clean towel. Can you remember to do that?\n\nPatient: Yeah.\n\nNurse: That's great, Mr. Grewe. It's important to follow these instructions to help reduce the risk of infection. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I can do that.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Grewe. It's essential to stick to this guideline as it's for your safety during the surgery. Now, let's take a moment to discuss a few more points. Do you have any questions up till now, or is everything clear?",
+        "our_model": "That's great to hear, Mr. Grewe. It's crucial to follow these instructions for your safety during the procedure. Now, I'd like to ask if you've been experiencing any signs of illness, such as a fever, chills, or muscle aches?"
+    }
+}

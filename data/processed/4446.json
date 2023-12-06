@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4446,
+    "prompt": "Nurse: That's good to hear, Mr. Delarosa. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Delarosa. How about a new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Delarosa. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I haven't.\n\nNurse: That's great, Mr. Delarosa. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I've been weighing myself every day.",
+    "responses": {
+        "gpt4": "That's an excellent habit, Mr. Delarosa. Tracking your weight daily can be a great indicator of your CHF. Lastly, have you been using more pillows at night to sleep?",
+        "our_model": "That's excellent, Mr. Delarosa. Regular weight checks are a good way to monitor your health. Lastly, have you been using more pillows at night to sleep?"
+    }
+}

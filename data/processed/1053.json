@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1053,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December twenty fourth nineteen sixty one.\n\nNurse: Thank you for confirming. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been okay.\n\nNurse: I'm glad to hear that. As you prepare for your colonoscopy, how are you feeling about the procedure?\n\nPatient: To get it over with.",
+    "responses": {
+        "gpt4": "It's completely normal to feel that way. I want to acknowledge that it can be quite a process to go through this procedure. It's part of the preventative screening for colon cancer and I'm glad to see you're taking this step for your health. Have you had any particular concerns or questions pop up in your mind that you'd like to go over before we begin?",
+        "our_model": "I can appreciate that sentiment. It's quite a process to go through, but it's an important step in taking care of your health. Do you have any specific concerns or questions you'd like to discuss before we begin?"
+    }
+}

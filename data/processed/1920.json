@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1920,
+    "prompt": "Nurse: That's really cool. Miniature car building sounds like a fun and intricate hobby. Do you have a favorite car model that you're working on right now?\n\nPatient: Currently, I'm working on a fifty seven sell the deer,\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm working on a fifty\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: seven Belvedere Plymouth right now.\n\nNurse: That's impressive. The 1957 Belvedere Plymouth is a classic. It must be quite a project. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. We have a few topics to cover today. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I don't think so.",
+    "responses": {
+        "gpt4": "That's fine. If you do have any questions or topics you'd like to discuss during our conversation, please feel free to mention them. Now, let's move on to the purpose of our call today. Your recent hospital visit indicated high blood pressure. Doctor Rodriguez wants to make sure you're monitoring it daily. Do you have a home blood pressure monitor?",
+        "our_model": "Alright. Let's start with your medications. Are you still taking your Valsartan, Lasix, and Metformin?"
+    }
+}

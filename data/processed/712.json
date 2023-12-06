@@ -1,0 +1,8 @@
+{
+    "prompt_id": 712,
+    "prompt": "Nurse: Thank you for confirming that, Ms. Peck. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Well, I'm feeling alright.\n\nNurse: I'm glad to hear that, Ms. Peck. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well, I'm glad that I'm here with my kitty now.\n\nNurse: That sounds lovely, Ms. Peck. Pets can be such wonderful companions. What's your kitty's name?\n\nPatient: Delilah.\n\nNurse: Delilah sounds like a delightful companion, Ms. Peck. What's your favorite thing about spending time with her?\n\nPatient: Well, she's funny.",
+    "responses": {
+        "gpt4": "Pets like Delilah certainly know how to bring joy into our lives with their antics, don't they? Now, Ms. Peck, I'm calling on behalf of your primary care doctor, Dr. Maria Rodriguez. I have a few topics to cover with you regarding your health, based on the notes she has provided. Before we begin with that, is there anything specific you would like to discuss or any concerns you'd like to address?",
+        "our_model": "I'm sure Delilah brings a lot of joy to your home with her antics. Now, I'm calling on behalf of Doctor Maria Rodriguez and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

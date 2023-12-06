@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6257,
+    "prompt": "Patient: Alves.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first\n\nPatient: I said yes.\n\nNurse: Thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received your prep instructions from Doctor Bailey's office?\n\nPatient: Yes.\n\nPatient: I have.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Alves. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Dr. Meredith Bailey, and you'll need to arrive about 1 hour before at 9:00 AM. Would that be okay with you?",
+        "our_model": "Great, Mr. Alves. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
+    }
+}

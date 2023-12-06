@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1493,
+    "prompt": "Patient: That's why I'm coming in to get the colonoscopy.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: I see, Mr. Valenzuela. When did the diarrhea start?\n\nPatient: It's been a couple of weeks.\n\nNurse: I see, Mr. Valenzuela. Is the diarrhea chronic, or does it come and go?\n\nPatient: It seems to be chronic this time.\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I understand. Have you recently travelled anywhere or eaten anything out of your usual diet that might explain this change?",
+        "our_model": "Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you."
+    }
+}

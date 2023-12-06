@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2163,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this David Grewe?\n\nPatient: Yeah. Yeah. That's it's me.",
+    "responses": {
+        "gpt4": "Great! I am calling in respect to your total knee replacement that's coming up. Is now a good time to discuss some aspects of your upcoming procedure?",
+        "our_model": "Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?"
+    }
+}

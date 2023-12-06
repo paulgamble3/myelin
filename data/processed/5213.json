@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5213,
+    "prompt": "Nurse: That's fantastic! Pilates is a great way to stay active. How long have you been doing Pilates?\n\nPatient: Okay. About two years.\n\nNurse: That's impressive! Sticking with an exercise routine for two years is a great achievement. Can I provide some recommendations about improving your exercise routine in a CHF appropriate manner?\n\nPatient: I don't see how a robot is gonna be able to give me good recommendations for exercise.\n\nNurse: I understand your concern. However, as an AI, I'm programmed with medical knowledge, including exercise recommendations for patients with CHF. It's critical to remember that any exercise routine should be approved by your doctor. Would you like me to share some general recommendations?\n\nPatient: No. Thanks.\n\nNurse: That's perfectly fine. Remember, it's always best to consult with your doctor before starting or changing any exercise routine. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, thank you for your time today. I'll inform Dr. Burke about our discussion. Before we end this call, do you have any other questions or concerns you'd like me to address?",
+        "our_model": "Alright. I'll be sure to inform Doctor Burke about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
+    }
+}

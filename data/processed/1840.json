@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1840,
+    "prompt": "Nurse: Great, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. It was one hundred twenty one today.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if your blood sugar level was high or low?\n\nPatient: I said it was one hundred twenty one.\n\nNurse: Give me a moment to check how I can best support you. Hold on a second while I figure out how I can best support you. Thank you for confirming that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you! It's important to make sure you're eating a diet low in sugar and high in fiber. Regular exercise is also key in managing diabetes. You're already being active with your zumba class, which is great. Try to aim for at least 150 minutes of moderate-intensity exercise per week. Do you feel like you're able to manage that, Ms. Odonnell?\n",
+        "our_model": "Thank you, Ms. Odonnell. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?"
+    }
+}

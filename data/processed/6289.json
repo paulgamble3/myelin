@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6289,
+    "prompt": "Nurse: Yes, Mr. Alves. Could you please list the supplements or anti-diarrheal medications you're currently taking?\n\nPatient: I'm gonna take go lightly,\n\nNurse: Yes, Mr. Alves, GoLYTELY is a laxative solution that you'll be taking as part of your colonoscopy prep. It's not an anti-diarrheal medication. Are there any other supplements or medications that you're currently taking?\n\nPatient: No. Not at the moment.\n\nNurse: Alright, Alright, Mr. Alves. It's good to know that you're not currently taking any other supplements or anti-diarrheal medications. Remember, it's important to stop these types of medications before your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No. I do not have any questions.\n\nNurse: Wonderful, Mr. Alves. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: But I do have questions about Go lightly.",
+    "responses": {
+        "gpt4": "Of course, Mr. Alves. I'm all ears. What questions do you have about GoLYTELY?",
+        "our_model": "Of course, Of course, Mr. Alves. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

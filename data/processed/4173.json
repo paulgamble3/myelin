@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4173,
+    "prompt": "Nurse: Your sodium level was 141 mEq/L, which is within the normal range. Your creatinine level was 0.85 mg/dL, also within the normal range. These levels are good indicators of your kidney function. Do you have any other questions about your lab results, Mr. Peck?\n\nPatient: No. Thank you. I I think I understand everything. Thank you.\n\nNurse: You're welcome, Mr. Peck. I'm glad to hear that you understand your lab results. Now, I'd like to discuss your medications. You're currently taking Losartan 25 mg oral tablet, 50 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Peck. Sticking to your medication schedule is crucial for managing your conditions. Now, let's move on to your next medication. You're also prescribed Lantus 100 iu/ mL prefilled pen, with a dosage of 15 units every night. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Peck. Regularly taking your Lantus as prescribed is important for managing your blood sugar levels. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Peck. Taking your Aspart as prescribed is crucial in managing your blood sugar levels. Do you ever face any challenges in remembering to take your medications on time?",
+        "our_model": "That's wonderful, Mr. Peck. It's great to hear that you're taking all your medications as prescribed. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?"
+    }
+}

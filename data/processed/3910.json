@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3910,
+    "prompt": "Nurse: That's good to hear. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a\n\nNurse: I'm sorry, Carla, could you please repeat what you had for your recent meals?\n\nPatient: They do salads.\n\nNurse: I'm sorry, Carla, could you please repeat what you had for your meals recently?\n\nPatient: I have a vegetable salad with chicken.\n\nNurse: That sounds like a healthy choice. Do you usually include a variety of vegetables in your salad?\n\nPatient: I do.",
+    "responses": {
+        "gpt4": "That's great! Different colored vegetables offer different types of nutrients which are beneficial for health. Now, what about fruits? Do you have a go-to fruit or do you like to mix it up?",
+        "our_model": "That's great. Eating a variety of vegetables can provide a range of nutrients. Do you also include any fruits in your meals?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5042,
+    "prompt": "Nurse: I'm glad to hear that. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes, ma'am.\n\nNurse: Perfect. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that was a lot. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No. I understand.\n\nNurse: Wonderful. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Ma'am.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: Yes. I will definitely be able to handle the core hexadeen scrub.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. Do you have any questions about the chlorhexidine scrub?",
+        "our_model": "That's great to hear. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 543,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lily Adams?\n\nPatient: Yep. That's me.",
+    "responses": {
+        "gpt4": "Great, nice to speak with you, Patient. I'm calling on behalf of your primary care doctor, Dr. Jonathan Chang. How are you feeling now that you're home from the hospital?",
+        "our_model": "Hello. I'm glad to hear from you. I hope you're doing well now that you're back home from the hospital. How are you feeling today?"
+    }
+}

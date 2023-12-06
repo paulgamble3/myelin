@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4530,
+    "prompt": "Nurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: Yeah. I ticket this morning, and it was ninety over one twenty.\n\nNurse: I'm Thank you for sharing that. A blood pressure reading of 90 over 120 is a bit high. High blood pressure can put extra strain on your heart and blood vessels. Would it be okay if I provide some recommendations to help manage your blood pressure?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned that your blood pressure was 90 over 120, correct?\n\nPatient: Yes.\n\nNurse: I appreciate you confirming that. It's critical to keep an eye on your blood pressure levels. Would you be open to some suggestions on how to manage your blood pressure levels?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "I appreciate your response. It's critical to monitor your blood pressure levels. Would you be open to some suggestions on managing your blood pressure levels?",
+        "our_model": "Wonderful. One strategy to help manage your blood pressure is to reduce your salt intake. This can be achieved by eating fewer processed foods and adding less salt to your meals. What do you think about this suggestion?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1061,
+    "prompt": "Nurse: Thank you for confirming that. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Excellent. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Okay. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes, please. Let's move on.",
+    "responses": {
+        "gpt4": "Great. When it comes to your medications, you'll need to stop taking Ferrous Sulfate five days before the procedure. So, counting from today, you should stop this medication on August 12. Does that make sense?",
+        "our_model": "Great. Regarding your medication, Ferrous Sulfate, you will need to stop taking it 5 days prior to your procedure. That means you should stop taking it on August 12. Does that make sense?"
+    }
+}

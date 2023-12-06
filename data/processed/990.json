@@ -1,0 +1,8 @@
+{
+    "prompt_id": 990,
+    "prompt": "Nurse: Thank you for that information. A blood pressure reading of 100 over 80 is within the normal range, which is good news. It's essential to keep monitoring it regularly. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yes. What's in\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Lites does GF Army.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: E.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: By my labs,",
+    "responses": {
+        "gpt4": "I'm sorry, but I didn't get that. Could you please repeat that?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question about your labs?"
+    }
+}

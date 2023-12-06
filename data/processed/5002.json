@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5002,
+    "prompt": "Nurse: I'm glad to hear that. It's always nice to have a good day. Do you have any special plans for the day?\n\nPatient: I'm gonna probably wrap some Christmas presents.\n\nNurse: That sounds like a lovely way to spend the day. Wrapping presents can be quite therapeutic. Do you have a favorite wrapping technique or style?\n\nPatient: I feel like it's\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about wrapping presents?\n\nPatient: the standard style, the same way my mother used to do it.\n\nNurse: That's wonderful, it sounds like a lovely way to keep a family tradition alive. Now, I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your knee replacement?\n\nPatient: I really wanna be able to go for a walk on the",
+    "responses": {
+        "gpt4": "I apologize, the line cut off a bit there. Were you about to say you're looking forward to going for a walk in a specific location?",
+        "our_model": "That sounds like a wonderful goal. Walking is a great way to enjoy the outdoors and it's also beneficial for your overall health. Do you have a favorite place or route you're looking forward to walking?"
+    }
+}

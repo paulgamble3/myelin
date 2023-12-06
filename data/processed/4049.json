@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4049,
+    "prompt": "Nurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling alright. Thank you for asking.\n\nNurse: That's good to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just glad to be back in my own home.\n\nNurse: I can imagine, there's no place like home. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: Yes. I do enjoy building small scale model cars.\n\nNurse: That sounds like a fascinating hobby. It must be quite therapeutic to work on those detailed models. Do you have a favorite model car that you're currently working on?\n\nPatient: Well, I'm not working on one right now. But last month, I did one that's a pink Cadillac just like Elvis Presley would have owned.",
+    "responses": {
+        "gpt4": "That sounds like quite an exciting piece. Elvis Presley's pink Cadillac is indeed iconic. I can imagine your model must look amazing. I'm calling on behalf of Dr. Ellie Ortega to help manage your CHF. I have a few points to discuss with you today. Do you have any concerns or questions you'd like to bring up before I speak about the things on my list?",
+        "our_model": "That sounds fantastic! Elvis' pink Cadillac is quite an iconic car. It must have been a fun project to work on. Now, I'm calling on behalf of Doctor Ellie Ortega and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

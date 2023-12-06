@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6144,
+    "prompt": "Nurse: I'm sorry, Jon, could you please repeat that?\n\nPatient: I said I smoke a pack of cigarettes today. Okay.\n\nNurse: I see, thank you for sharing that. I know it's a sensitive topic, but have you ever considered quitting smoking?\n\nPatient: I'm not ready to quit right now. Thanks.\n\nNurse: That's completely okay. It's a big step and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?\n\nPatient: I just don't want to.\n\nNurse: I understand. It's a personal decision and it's important to do what feels right for you. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share them with you now, or would you prefer to wait until you're ready?\n\nPatient: Not right now.",
+    "responses": {
+        "gpt4": "Okay, that's completely fine. Remember, it's always here for you if you decide you'd like to explore those resources in the future. Now, that concludes the health-related topics that we needed to cover today. Is there anything else on your mind you would like to talk about?",
+        "our_model": "That's perfectly fine. Whenever you feel ready, know that I'm here to provide support and resources. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

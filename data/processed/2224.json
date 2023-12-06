@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2224,
+    "prompt": "Nurse: You're welcome. Do you have any remaining questions about the diet changes?\n\nPatient: No. I don't.\n\nNurse: Alright. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: No. I got it. Thank you.\n\nNurse: You're welcome. Do you have any questions about the bowel prep?\n\nPatient: Nope.\n\nNurse: Alright. Now, let's transition to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great. Is there anything else you're curious about or have concerns with when it comes to the procedure, preparation, or anything else we talked about today?",
+        "our_model": "Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?"
+    }
+}

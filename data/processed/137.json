@@ -1,0 +1,8 @@
+{
+    "prompt_id": 137,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: My name is. It's fine. How about yours?\n\nNurse: I'm here to assist you, Mr. Valenzuela. I'm glad to hear your day is going fine. As an AI, I don't have personal experiences, but I'm here to help make your day better. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: I'm feeling Okay about it.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat how you're feeling about your upcoming colonoscopy procedure?\n\nPatient: I said I'm feeling okay about it.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're feeling okay about your upcoming colonoscopy. Do you have any questions or concerns that I can address for you?",
+        "our_model": "Thank you for sharing that, Mr. Valenzuela. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's making you feel okay about it?"
+    }
+}

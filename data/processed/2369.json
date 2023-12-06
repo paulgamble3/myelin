@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2369,
+    "prompt": "Patient: Oh, gosh. Just, you know, simply just walking. Freeway.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: Just walking freely.\n\nNurse: That sounds wonderful.\n\nPatient: Freely walking simply.\n\nPatient: I just wanna walk without paying.\n\nNurse: That sounds like a wonderful goal. Walking without pain is a significant improvement and it's something you can look forward to. Now, let's move on to discuss some logistics about your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. Let's discuss your preparations for the day before surgery. Have you been given instructions on what to do exactly?",
+        "our_model": "Wonderful. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
+    }
+}

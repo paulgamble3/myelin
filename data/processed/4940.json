@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4940,
+    "prompt": "Nurse: That sounds like a great way to relax. What kind of TV shows do you enjoy watching?\n\nPatient: and quiet with nobody bothering me.\n\nNurse: That sounds like a well-deserved break. Watching your favorite TV shows in peace and quiet can be quite relaxing. What kind of shows do you enjoy?\n\nPatient: I like the history channel.\n\nNurse: The History Channel is a great source of knowledge and entertainment. It's always interesting to learn about the past. Do you have a favorite show or period in history that you enjoy learning about?\n\nPatient: I like movies, action movies, just about anything.\n\nNurse: It sounds like you have a diverse taste. History and action movies can be quite engaging. Do you have a favorite history or action movie that you're looking forward to watching?\n\nPatient: I like in glorious pastures.",
+    "responses": {
+        "gpt4": "The movie \"Inglourious Basterds\" indeed has a great mix of history and action. Quentin Tarantino made a very intriguing blend of the genres. Have you seen it many times or are you looking forward to watching it again soon?",
+        "our_model": "\"Inglourious Basterds\" is indeed a fantastic film. It's great that you have something to look forward to. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

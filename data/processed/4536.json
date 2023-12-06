@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4536,
+    "prompt": "Nurse: That's great to hear. Maintaining a healthy weight can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No. I don't.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's move on to your medications. I'd like to review them with you to ensure you're taking them as prescribed. Let's start with Aspirin. You're prescribed to take an 81 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Atorvastatin. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Plavix. You're prescribed to take a 75 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good to hear. Now, let's discuss Metoprolol ER. You're prescribed to take a 50 mg oral tablet daily. Have you been taking this medication as directed?",
+        "our_model": "That's great to hear. Now, let's move on to Metoprolol. You're prescribed to take a 50 mg oral tablet daily. Have you been taking this medication as directed?"
+    }
+}

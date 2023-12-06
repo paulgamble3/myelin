@@ -1,0 +1,8 @@
+{
+    "prompt_id": 311,
+    "prompt": "Nurse: Okay. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yeah. Took it\n\nNurse: I'm sorry, Damian, your response got cut off.\n\nPatient: today, and it was\n\nNurse: I'm sorry, you were saying?\n\nPatient: ninety over one twenty.\n\nNurse: Thank you for that information. A blood pressure reading of 90 over 120 is within the acceptable range, but the lower number is a bit high. It's important to keep monitoring it. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: No. It wouldn't be okay.",
+    "responses": {
+        "gpt4": "I understand. Thank you for letting me know. Let's move on to another topic then. I noticed some recent lab results in your chart, are there any questions you have about those?",
+        "our_model": "I understand. We can move on to discussing your recent lab results. Do you have any questions about them?"
+    }
+}

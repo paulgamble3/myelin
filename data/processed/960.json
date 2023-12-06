@@ -1,0 +1,8 @@
+{
+    "prompt_id": 960,
+    "prompt": "Patient: Yeah.\n\nNurse: Wonderful. For your DASH diet, it's about eating a variety of nutrient-rich foods. This includes fruits, vegetables, whole grains, lean proteins, and healthy fats. It's also about limiting foods high in saturated fats, such as fatty meats and full-fat dairy products. For your sodium-limited diet, it's about choosing foods that are naturally low in sodium and avoiding those that are high in sodium, like processed foods. It's also about using herbs and spices to flavor your food instead of salt. Does this help?\n\nPatient: I guess.\n\nNurse: I'm glad to hear that. Remember, it's okay to have days where you feel frustrated. It's a big change and it takes time to adjust. Now, let's discuss your other chronic conditions. How has your anemia been lately?\n\nPatient: I guess it's\n\nPatient: fine and, you know, I'm cold a lot.\n\nNurse: I see. Feeling cold can be a symptom of anemia. It's critical to monitor this and let your doctor know if it continues or gets worse. Now, let's talk about your back. How has your back been feeling since your surgeries?\n\nPatient: Alright. Hey. My back surgery. And I haven't been feeling the same since, you know, mad and I'm in pain.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're experiencing pain after your back surgeries. Have you spoken to your doctor about your pain issues?",
+        "our_model": "I'm sorry to hear that you're experiencing pain. It's not uncommon to have some discomfort after back surgery. Have you been taking any pain medications or doing any physical therapy to help manage this?"
+    }
+}

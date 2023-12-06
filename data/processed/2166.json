@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2166,
+    "prompt": "Patient: Yeah. Yeah. That's it's me.\n\nNurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I I I guess [NO RESPONSE]\n\nNurse: I appreciate your time. How has your day been so far?\n\nPatient: It's like\n\nPatient: It's sounds great.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about your day?\n\nPatient: Pretty stressed out.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're feeling stressed. It's normal to feel a bit overwhelmed before a big procedure. Is there anything in particular that's causing your stress, or any questions I might be able to help answer about your upcoming surgery?",
+        "our_model": "I'm sorry to hear that you're feeling stressed. It's completely normal to feel this way before a procedure. Is there anything specific that's causing you stress today?"
+    }
+}

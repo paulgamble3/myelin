@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3553,
+    "prompt": "Nurse: I see, Mr. Gardner. So, you're now taking 80 mg of Valsartan two times a day. That's a significant change. How are you managing with the increased dosage?\n\nPatient: Just five\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Good.\n\nNurse: I'm glad to hear that, Mr. Gardner. It's critical to keep up with your medications. I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, thank you, Mr. Gardner. \n\nI'd like to ask first, have you noticed any new or worsening shortness of breath when you're doing some activity, laying down, or even at rest?",
+        "our_model": "Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

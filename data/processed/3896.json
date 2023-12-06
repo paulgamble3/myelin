@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3896,
+    "prompt": "Nurse: Yes.\n\nPatient: actually need to do it in regards to my diet.\n\nNurse: I'm sorry, Carla, could you please repeat what you said about your diet?\n\nPatient: I wanna know\n\nNurse: I'm sorry, Carla, could you please repeat what you'd like to know about your diet?\n\nPatient: Yes. I was still out to ask a question. In regards to my diet, What dietary changes do I need to make to preserve my kidney function?\n\nNurse: That's a very important question. Would it be okay if we go over a few topics related to your kidney disease and diet?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great. People with kidney disease need to limit salt (sodium), fluids, protein in some cases, and maintain a good balance of potassium, phosphorus, and calcium. A diet that is good for your kidneys can also help control your blood pressure and cholesterol levels. It's best to have a consultation with a dietitian who can give more personalized advice, taking into account your overall health and lifestyle.",
+        "our_model": "Great. Let's start with your blood sugar. Since you have Stage I CKD and Lupus, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?"
+    }
+}

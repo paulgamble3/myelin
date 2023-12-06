@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1846,
+    "prompt": "Nurse: That's great to hear, Ms. Odonnell. Remember, even small changes can make a big difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: Alright. It was one twenty over eighty.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood pressure reading of 120 over 80 is within the normal range, which is good news. It's essential to keep monitoring it regularly. Can I share some suggestions about managing blood pressure?\n\nPatient: Okay.\n\nNurse: Thank you, Ms. Odonnell. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: That sounds good.\n\nNurse: I'm glad to hear that, Ms. Odonnell. Another suggestion is to maintain a healthy weight. Regular physical activity, like your Zumba classes, can help with this. Do you think you could try to incorporate these suggestions into your lifestyle?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's wonderful to hear, Ms. Odonnell. Please remember these are just general suggestions and that it's always best to talk to your doctor before making any significant changes to your diet or exercise routine. Is there anything else you'd like to discuss today?",
+        "our_model": "That's wonderful, Ms. Odonnell. Remember, every little bit helps when it comes to managing blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

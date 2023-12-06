@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3771,
+    "prompt": "Patient: I I'm the patient.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: Down.\n\nNurse: Does the patient report becoming dizzy or lightheaded?\n\nPatient: No.\n\nNurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you.\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please confirm if you're experiencing sudden vision loss?\n\nPatient: No. I'm not. Okay.",
+    "responses": {
+        "gpt4": "I apologize for the confusion earlier, Ms. Odonnell. I'm here to check in on your chronic conditions and provide support. Let's continue with discussing your blood pressure. You mentioned that you're going to try walking more, which is wonderful for your overall health. Now, if it's okay with you, let's transition to discussing your recent labs. Do you have any questions about your recent blood tests or urine labs?",
+        "our_model": "I'm glad to hear that, Ms. Odonnell. Now, let's move on to your recent blood tests and urine labs. Do you have any questions about them?"
+    }
+}

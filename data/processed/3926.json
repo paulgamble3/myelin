@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3926,
+    "prompt": "Nurse: Thank you for confirming. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling good.\n\nNurse: That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: My dog again.\n\nNurse: That sounds wonderful! Dogs can be such great companions. What's your dog's name and what breed is he?\n\nPatient: His name is Rocky, and he is\n\nNurse: Rocky\n\nPatient: a golden retriever.",
+    "responses": {
+        "gpt4": "Golden Retrievers are such loyal and friendly dogs. Rocky must have been so excited to see you. How long have you had him?",
+        "our_model": "sounds like Golden Retrievers like Rocky are such loyal and friendly companions. It's no wonder you've been looking forward to spending time with him. Now, I'm calling on behalf of Doctor Ellie Ortega to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5970,
+    "prompt": "Nurse: Alright, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. Today, it was one twelve.\n\nNurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. A reading of 120 is a bit higher than the target range for fasting blood sugar levels. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: I said it was one\n\nNurse: I apologize for the confusion earlier. Could you please confirm if your blood sugar level was high or low?\n\nPatient: One twenty.",
+    "responses": {
+        "gpt4": "Thank you for confirming. A reading of 120 is slightly above the target range for fasting blood sugar levels in people with diabetes, which is 70-130 mg/dL. However, blood sugar levels can occasionally go a little higher depending on diet, exercise, and other factors. Have you noticed any signs of high blood sugar like increased thirst, frequent urination, or fatigue recently? Also, are you taking any medication or insulin to help manage your blood sugar levels?",
+        "our_model": "I apologize for the confusion earlier. You mentioned that your blood sugar level was 112, correct?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3253,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling a bit anxious. It's completely normal to feel this way after a hospital stay. I'm sure you must be relieved to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: No. Not really.\n\nNurse: That's alright. It's essential to take things one step at a time. Now that you're home, is there anything specific you're looking forward to doing?\n\nPatient: Just hanging out.\n\nNurse: That sounds like a good plan, Patient. Sometimes, just relaxing at home can be the best thing. Do you have any hobbies or interests that you enjoy doing while you're at home?\n\nPatient: I like to read.\n\nNurse: That's wonderful, Patient. Reading is a great way to relax and it can also be very enlightening. What kind of books do you enjoy?\n\nPatient: Fantasy.",
+    "responses": {
+        "gpt4": "That's a great genre! There are so many fantastic worlds and characters to discover. Is there a particular author or series that you like most in Fantasy?",
+        "our_model": "Fantasy books can be quite captivating, taking you to different worlds and adventures. Do you have a favorite fantasy book or author?"
+    }
+}

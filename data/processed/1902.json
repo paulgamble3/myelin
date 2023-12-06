@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1902,
+    "prompt": "Nurse: That's a great question. For your kidney health, it's beneficial to limit your intake of sodium and potassium. Foods like eggs, chicken, and quinoa are generally low in these minerals. However, some salads and brown rice can be high in potassium. It's also important to stay hydrated, but not overdo it, as too much fluid can be hard on your kidneys. Would you like more detailed dietary recommendations?\n\nPatient: That's alright.\n\nNurse: Alright. If you have any questions in the future, don't hesitate to ask. Now, let's talk about your other chronic condition, Lupus. How have you been managing with that?\n\nPatient: It's been alright.\n\nNurse: I'm glad to hear that you're managing well. It's critical to keep an eye on any symptoms that might indicate a flare-up, such as fatigue, joint pain, or rashes. Are you experiencing any of these symptoms currently?\n\nPatient: Nope.\n\nNurse: That's good to hear. It's critical to keep up with your medication and any recommended lifestyle changes to manage your Lupus. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: I smoke a pack of cigarettes today.",
+    "responses": {
+        "gpt4": "I appreciate your openness about your smoking habit. It's a significant step towards better health to acknowledge it. Have you ever thought about quitting smoking?",
+        "our_model": "Thank you for sharing that. I know it's not easy to talk about, but it's important for your health. Have you ever considered quitting smoking?"
+    }
+}

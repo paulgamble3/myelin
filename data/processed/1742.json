@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1742,
+    "prompt": "Nurse: I'm sorry for any confusion, Ms. Winner. You're correct. You should stay in the shower for the scrubbing process. After your normal shower, you'll apply the scrub to a wet washcloth and gently scrub yourself from the neck down. Does that make sense?\n\nPatient: Okay.\n\nNurse: Great, Ms. Winner. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Okay.\n\nNurse: Perfect, Ms. Winner. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Winner. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. Not really.",
+    "responses": {
+        "gpt4": "That's perfectly alright, Ms. Winner. If you do have questions later on, don't hesitate to ask. I want to make sure you feel as comfortable and prepared as possible going into your procedure. \n\nNext, I'd like to ask if you've been experiencing any signs of illness, such as a fever, chills, or muscle aches? It's important that you are in good health before your procedure.",
+        "our_model": "Okay, Ms. Winner. I appreciate your patience. Now, I'd like to ask if you've been experiencing any signs of illness. Do you currently have a fever, chills, or muscle aches?"
+    }
+}

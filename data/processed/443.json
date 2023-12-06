@@ -1,0 +1,8 @@
+{
+    "prompt_id": 443,
+    "prompt": "Nurse: Do you have any other questions about your medications?\n\nPatient: No. I do not.\n\nNurse: Alright. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes, ma'am.\n\nNurse: That's great to hear. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: That sounds great.\n\nNurse: Perfect.\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Perfect. After your shower, what you'll want to do is apply the scrub to a wet, clean washcloth and then gently scrub yourself from the neck down. However, it's important to avoid using scrub on your face, hair, or crotch area. Are you comfortable with that?",
+        "our_model": "Perfect. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
+    }
+}

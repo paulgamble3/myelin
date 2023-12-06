@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1979,
+    "prompt": "Nurse: Hold on a second while I figure out how I can best support you.\n\nPatient: Six seven nineteen eighty three.\n\nNurse: Thank you for confirming your date of birth. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yeah.\n\nNurse: Does the patient have any more information they want to share about this issue?\n\nPatient: What issue?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you.\n\nPatient: Why are you calling?",
+    "responses": {
+        "gpt4": "I apologize for any confusion, Mr. O'Leary. I am calling from O'Connor Hospital regarding your total knee replacement scheduled for August 13th at 9:00 AM. We are simply carrying out a routine check to ensure you're fully prepared for your procedure and have everything you need. I also wanted to ask how your day has been so far?",
+        "our_model": "I apologize if I wasn't clear. I'm calling to discuss your upcoming total knee replacement surgery. It's scheduled for August 13th at 9:00 AM with Doctor Cristina Stevens. Is this a good time to talk about it?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2602,
+    "prompt": "Nurse: That's excellent. Now, let's discuss Hydrochlorothiazide. You're prescribed to take a 12.5 mg tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's wonderful. Now, let's talk about Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg tablet once daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: Alex, I didn't hear a response. Have you been taking your Disulfiram as prescribed?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "That's excellent. Keeping up with your medication schedule is very important for managing your conditions. However, it's not uncommon to occasionally miss a dose. Do you ever have trouble taking your medications on time?",
+        "our_model": "That's excellent. It's critical to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?"
+    }
+}

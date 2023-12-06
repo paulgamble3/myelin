@@ -1,0 +1,8 @@
+{
+    "prompt_id": 744,
+    "prompt": "Nurse: Excellent, Ms. Peck. When you're checking food labels, you'll see the amount of sodium per serving listed. It's important to note the serving size, as some packages contain more than one serving. Also, the label will say if a food is a good source of sodium, meaning it has more than 140 mg per serving, or if it's high in sodium, meaning it has more than 480 mg per serving. Does that make sense so far?\n\nPatient: Not really. I can't keep up\n\nNurse: I'm sorry if I was going too fast, Ms. Peck. Let's simplify it. When you look at a food\n\nPatient: with what you're saying there.\n\nNurse: I apologize if I was speaking too quickly, Ms. Peck. Let's break it down. When you look at a food label, it will tell you how much sodium is in each serving. The label will also say if there's a lot of sodium in the food. If there's 140 mg or more of sodium in a serving, it's a good source of sodium. If there's 480 mg or more of sodium in a serving, it's high in sodium. Does that help clarify things?\n\nPatient: Oh,\n\nNurse: I'm sorry, Ms. Peck, I didn't quite catch that.\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great, Ms. Peck. And of course, if you have any questions or need further clarification, don't hesitate to ask. It's important that you feel comfortable and confident in managing your diet according to your healthcare needs. Is there anything else you would like to discuss today?",
+        "our_model": "I'm glad that makes sense, Ms. Peck. Now, let's talk about phosphorus. It's often found in foods like dairy products, beans, lentils, nuts, and whole grains. It's also added to some processed foods. Would you like more information on this?"
+    }
+}

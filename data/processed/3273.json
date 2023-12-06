@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3273,
+    "prompt": "Nurse: Thank you for confirming, Patient. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Just give me a second to work out the best way I can assist you. Thank you for confirming, Patient. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright, let's move on to your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I'm on a low fodmap diet.",
+    "responses": {
+        "gpt4": "I see, so you're following the low FODMAP diet. Could you share some details about what you've been eating on a daily basis? For instance, what did you have for breakfast, lunch, and dinner yesterday?",
+        "our_model": "That's great to hear, Patient. Could you share a bit more about what you typically eat in a day?"
+    }
+}

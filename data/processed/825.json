@@ -1,0 +1,8 @@
+{
+    "prompt_id": 825,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling well. Thank you.\n\nNurse: That's great to hear, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to spending time with my grandkids.\n\nNurse: That sounds lovely, Mr. Oliver. Spending time with family, especially grandkids, can be such a joy. What activities do you usually enjoy doing with them?\n\nPatient: Oh, I like taking them to the movies or for ice cream. Anything where I get some fun time then.\n\nNurse: Those sound like wonderful ways to spend time with your grandkids, Mr. Oliver. Movies and ice cream are always a hit. Do you have a favorite movie or ice cream flavor that you all enjoy?\n\nPatient: I personally like chocolate chip.",
+    "responses": {
+        "gpt4": "Chocolate chip is a classic choice, Mr. Oliver! It's certainly delicious. Before we further discuss about your kidney disease, is there any existing symptom that you're currently worried about?",
+        "our_model": "Chocolate chip is a classic, Mr. Oliver. It's always a delight. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
+    }
+}

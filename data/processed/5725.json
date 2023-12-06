@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5725,
+    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 121 over 80 is within the acceptable range, but the top number is a bit high. Would it be alright if I share some suggestions about managing blood pressure?\n\nPatient: But it's only high by one number. Is it really that\n\nNurse: Yes, Ms. Aguirre, even a small increase in blood pressure can have an impact on your health. Would you be open to\n\nPatient: big a deal.\n\nNurse: Yes, Ms. Aguirre, even small increases in blood pressure can have a significant impact on your health, especially with your current conditions. Would you be open to discussing some strategies to help manage your blood pressure?\n\nPatient: I guess.\n\nNurse: Thank you, Ms. Aguirre. One strategy is to reduce your sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: I'm already on a low salt diet.",
+    "responses": {
+        "gpt4": "That's fantastic, Ms. Aguirre. Keeping a low-sodium diet is key in managing blood pressure. An alternative suggestion would be maintaining a healthy weight. Regular physical activity and a balanced diet can help in that regard. Do you think you could try to incorporate this into your routine?",
+        "our_model": "That's excellent, Ms. Aguirre. Sticking to a low-salt diet is indeed beneficial for managing blood pressure. Another strategy is to maintain a healthy weight. Regular physical activity and a balanced diet can help with this. Do you think you could continue to focus on this?"
+    }
+}

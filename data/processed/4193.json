@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4193,
+    "prompt": "Nurse: doctor can That's a great question, Mr. Peck. Alcohol can affect your blood sugar levels. It can cause them to rise or fall, depending on how much you drink and how your body responds. If you choose to drink alcohol, it's important to do so in moderation. This means no more than one drink per day for adults. Also, it's best to avoid drinking alcohol on an empty stomach, as this can lead to a rapid rise in blood sugar. Does this answer your question?\n\nPatient: Yes.\n\nNurse: I'm glad I could provide the information you needed, Mr. Peck. Now, I'd like to ask about your smoking habits. Do you\n\nPatient: Yes.\n\nNurse: I'm glad I could provide the information you needed, Mr. Peck. If you have any other questions in the future, don't hesitate to ask. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I do. I smoke.\n\nNurse: Thank you for sharing that with me, Mr. Peck. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: So",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Peck, your response was unclear. Could you please repeat that?",
+        "our_model": "I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat your response?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3296,
+    "prompt": "Nurse: It sounds like you're taking some time to prepare for your surgery, Mr. Winner. That's really important. Is there anything specific you've been doing to get ready?\n\nPatient: Anything specific?\n\nNurse: Yes, Mr. Winner. Could you please share more about what you've been doing to prepare for your surgery?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you were saying?\n\nPatient: Yeah. I went to I went to Walmart, and to buy a grocery,\n\nNurse: I'm sorry, Mr. Winner, could you please repeat that?\n\nPatient: and I just",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Winner. I had a hard time understanding you. Could you please repeat what you just said?",
+        "our_model": "I'm sorry, Mr. Winner, could you please repeat what you were saying?"
+    }
+}

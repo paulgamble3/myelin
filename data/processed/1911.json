@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1911,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sam Martin?\n\nPatient: Yes. It is.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm feeling Britney. Alright.\n\nNurse: I'm glad to hear that. It must be nice to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: I'm looking forward to her last day of being back in my home.\n\nNurse: That sounds wonderful.\n\nPatient: Days.",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? I think I might have misheard you.",
+        "our_model": "I'm sorry, Sam, could you please repeat that?"
+    }
+}

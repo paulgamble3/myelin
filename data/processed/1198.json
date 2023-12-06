@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1198,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Dang. Is there anything else about the logistics that's worrying you or anything else you'd like to know?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Dang. I'm glad to hear that you're comfortable with the logistics. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: I am, but you already asked about my Xarelto.\n\nNurse: I apologize for any confusion, Mr. Dang. You're correct, we did discuss your Xarelto medication. According to the instructions, you will need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Dang. Do you have any questions about stopping your Xarelto medication?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Dang. Now, can you please let me know if you are taking any other medications? This includes over-the-counter items like Advil, Aspirin, Aleeve, or any other blood thinners.",
+        "our_model": "Alright, Mr. Dang. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

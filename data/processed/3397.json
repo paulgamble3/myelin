@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3397,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Okay. My date of is six seven nineteen seventy seven.\n\nNurse: Thank you for confirming your date of birth, Mr. Jimenez. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It is.\n\nNurse: Wonderful, thank you for your time, Mr. Jimenez. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: You know, I'm feeling\n\nNurse: I'm sorry, Mr. Jimenez, your response got cut off. Could you please continue sharing about how you've been feeling today?\n\nPatient: Hello, nervous.",
+    "responses": {
+        "gpt4": "I see, it's perfectly normal to feel a bit anxious before a surgical procedure. Our team will be there to support and guide you every step of the way. What concerns or questions do you have about your upcoming knee replacement?",
+        "our_model": "I'm sorry, Mr. Jimenez, could you please repeat that?"
+    }
+}

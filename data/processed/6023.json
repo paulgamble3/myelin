@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6023,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sarkis Koroleva?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Not really. Can you be quick?\n\nNurse: Of course, Mr. Koroleva. I'll make this as brief as possible. I just wanted to check in with you about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Fine. I just wanna get it over with.",
+    "responses": {
+        "gpt4": "I can imagine that it's a process you want to complete quickly, especially given the unsettling symptoms you've been experiencing, like pus and mucus in your stool. Speaking of which, how are you feeling about that?\n",
+        "our_model": "I can appreciate that, Mr. Koroleva. It's completely normal to want to get procedures like this over and done with. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. It can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

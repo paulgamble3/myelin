@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5905,
+    "prompt": "Nurse: That's okay. It's not always easy to think of these things on the spot. Let's move on to some questions about your health. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, to help reduce your blood sugar levels, try adding more fiber to your diet, and control your carb intake. Regular physical activity is also beneficial, as it helps lower your blood sugar levels. Always stay hydrated, and try to maintain a normal body weight. The better you're able to manage your diabetes, the lesser the risk of potential complications in the future. Also, regularly monitor your blood sugar levels and record them to share with your healthcare provider during your check-up. Does that sound good?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?"
+    }
+}

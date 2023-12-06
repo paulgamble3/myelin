@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1156,
+    "prompt": "Nurse: That's a great start, Mr. Cardenas. Eating a variety of vegetables can provide a wide range of nutrients. Are there any particular vegetables you've been enjoying lately?\n\nPatient: Stay away from processed foods.\n\nNurse: That's a great start, Mr. Cardenas. Focusing on vegetables and avoiding processed foods is beneficial for your health. Can you tell me more about the types of vegetables you're eating and how you're preparing them?\n\nPatient: But I I don't know. I I don't know if I'm doing good or if I'm doing bad.\n\nNurse: It sounds like you're making a good effort to eat healthily, Mr. Cardenas. Focusing on vegetables and staying away from processed foods is a great start. Can you tell me more about the types of vegetables you're eating and how you're preparing them?\n\nPatient: Well, broccoli, asparagus,\n\nNurse: I'm sorry, Mr. Cardenas, could you please repeat the second vegetable you mentioned?\n\nPatient: Brussels sprouts, stuff like that, salads,",
+    "responses": {
+        "gpt4": "That's great! Those are all very healthy choices. Do you have a favorite way of preparing them?",
+        "our_model": "That's a great variety of vegetables, Mr. Cardenas. It's also good to hear that you're including salads in your diet. How are you preparing these vegetables?"
+    }
+}

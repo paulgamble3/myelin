@@ -1,0 +1,8 @@
+{
+    "prompt_id": 332,
+    "prompt": "Patient: I've been following that\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Whenever I hold it down.\n\nNurse: I'm sorry, Damian, I didn't quite catch that.\n\nPatient: Five.\n\nPatient: It's because when I'm done talking, you keep cutting me off.\n\nNurse: I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?\n\nPatient: Jesus Christ.",
+    "responses": {
+        "gpt4": "I'm really sorry if you felt interrupted, Damian. Please go ahead and tell me about the diet you've been following recently.",
+        "our_model": "I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?"
+    }
+}

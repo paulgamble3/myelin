@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2584,
+    "prompt": "Nurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. If you're comfortable with it, I can provide some recommendations on how to manage your blood sugar levels. Would that be alright?\n\nPatient: Sure.\n\nNurse: Okay. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you feel you're able to incorporate this into your daily routine?\n\nPatient: Yes.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you think you could incorporate some form of physical activity into your daily routine?\n\nPatient: Yes.\n\nNurse: That's wonderful. Regular physical activity can really help in managing your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: And three hours ago.",
+    "responses": {
+        "gpt4": "I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the result was?",
+        "our_model": "I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?"
+    }
+}

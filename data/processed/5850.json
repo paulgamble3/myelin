@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5850,
+    "prompt": "Nurse: I see, sometimes days can be quite busy. I hope things ease up for you soon. I'm here to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Hi, I guess.\n\nNurse: I appreciate your response, Mr. Alves. It's completely normal to have mixed feelings about medical procedures. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Alves, I'm here. You mentioned earlier that you guess you're feeling okay about the procedure. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. I see on your chart that you're getting this colonoscopy due to bleeding from the rectum. I realize it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: It's",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Alves but I missed your response. Could you please repeat that?",
+        "our_model": "I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4818,
+    "prompt": "Patient: Call",
+    "responses": {
+        "gpt4": "Hello, this is Rachel, I'm a chronic care management AI Nurse calling on behalf of Dr. Frauke Gerlach. May I ask if I'm speaking with the patient we have on record?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?"
+    }
+}

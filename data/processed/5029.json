@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5029,
+    "prompt": "Patient: No. I have no other question.\n\nNurse: I apologize for the confusion earlier. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Question for you. And, again, the answer is no.\n\nNurse: Alright. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: As I said earlier, yes. I've picked up all of my prescriptions for after the surgery.\n\nPatient: Great.",
+    "responses": {
+        "gpt4": "I apologize for my previous mistake. There was a confusion with your medication. You should not take Oxycodone 10 mg four times a day as previously informed. Instead, you should continue with your Tylenol 500 mg oral tablet, to be taken 1000 mg three times a day as needed. I'm very sorry for the misunderstanding.\n\nTo clarify, after your total knee replacement, please continue your regular Tylenol 500mg with a dosage of 1000mg three times a day, not Oxycodone 10 mg four times a day as I previously mentioned. I apologize for the confusion. Do you have any questions or concerns about this?",
+        "our_model": "I apologize for the confusion earlier. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?"
+    }
+}

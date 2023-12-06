@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4956,
+    "prompt": "Nurse: apologize for I apologize for the confusion, Mr. Hooper. I'm here to help answer your questions. You were asking about managing CHF with dietary supplements and alternative therapies. Is that correct?\n\nPatient: That is precisely what I was asking.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Might you be able to answer the question about dietary supplements and alternative\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nPatient: therapies in managing CHF?\n\nNurse: I appreciate your patience, Mr. Hooper. While dietary supplements and alternative therapies can sometimes be beneficial, it's important to remember that managing CHF typically requires a combination of lifestyle changes, medication, and regular monitoring. Dietary supplements and alternative therapies should be discussed with your doctor, Doctor Trevor Sutton, as they can interact with your current medications or treatments. Would you like me to arrange a consultation with Doctor Sutton to discuss this further?\n\nPatient: I'll bring it up when I see him next time. I kinda thought it was a bunch of bunk",
+    "responses": {
+        "gpt4": "It's important to be cautious when considering new treatments, Mr. Hooper. It's wise to consult with your doctor before pursuing any alternative therapies or supplements. That said, are you currently taking Lasix and Valsartan as prescribed by Doctor Sutton?",
+        "our_model": "That's a"
+    }
+}

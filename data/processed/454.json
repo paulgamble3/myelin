@@ -1,0 +1,8 @@
+{
+    "prompt_id": 454,
+    "prompt": "Nurse: That's good to hear. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Feeling good plan.\n\nNurse: Great, I'm glad to hear that. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: You bet.\n\nNurse: That's wonderful to hear. It's important to have someone to assist you as you recover. If there's anything else you need to arrange, remember you still have time. Do you have any questions about this?\n\nPatient: No dialing. No question. I'm ready to you. I am ready to I am ready to How are you ready to be healthy?\n\nNurse: I'm here to assist you, so I'm ready to help you on your journey to better health. It's great to hear that you're feeling prepared. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "Alright, if you think of any other questions later on, don't hesitate to reach out for help. Before we end our conversation, let's quickly go over some tasks you need to complete before your procedure.",
+        "our_model": "I'm glad to hear that you're feeling ready. It's a positive attitude that will serve you well during your recovery. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

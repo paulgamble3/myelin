@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4764,
+    "prompt": "Nurse: I'm glad to hear you're doing better, Mr. Shyam. As for your question, could you please clarify what you'd like to know?\n\nPatient: Do\n\nNurse: I'm glad to hear you're doing better, Mr. Shyam. It's great that you're back home. I'm here to help answer any questions you have. What would you like to know?\n\nPatient: Later.\n\nNurse: Of course, Mr. Shyam. We can discuss that later. I'm sure you must be relieved to be back home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Just spending time with my kids.\n\nNurse: That sounds wonderful, Mr. Shyam. Family time is precious. How many children do you have?\n\nPatient: I have two.",
+    "responses": {
+        "gpt4": "That's lovely, Mr. Shyam. It must be nice to be surrounded by your family. How old are your children?",
+        "our_model": "That's lovely, Mr. Shyam. It must be nice to have them around. What activities do you enjoy doing with your kids?"
+    }
+}

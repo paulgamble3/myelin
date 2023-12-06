@@ -1,0 +1,8 @@
+{
+    "prompt_id": 44,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December eight nineteen sixty seven.\n\nNurse: Thank you for confirming that, Ms. Ware. I'm calling on behalf of your primary care doctor, Doctor Sarah Forbes. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I've been better. Thanks.\n\nNurse: I'm sorry to hear that, Ms. Ware. It's completely normal to need some time to adjust after a hospital stay. I'm sure you must be relieved to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I just wanna get on with my life.\n\nNurse: I can certainly appreciate that, Ms. Ware. Getting back to your normal routine can be a great step forward. On a lighter note, do you have any hobbies or interests that you enjoy?\n\nPatient: No. Can we get on with this call?",
+    "responses": {
+        "gpt4": "Absolutely, Ms. Ware. Your time is valuable and I want to make our conversation as efficient as possible. I have a few health-related topics to discuss with you on behalf of Dr. Forbes. But before I proceed, is there anything on your mind or any specific concerns you'd like to address?",
+        "our_model": "Of course, Ms. Ware. I'm here to help you with any questions or concerns you might have about your health. Before we go through a few topics, do you have anything specific you'd like to discuss?"
+    }
+}

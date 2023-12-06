@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3634,
+    "prompt": "Nurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: for the urine albumin test.\n\nNurse: That's a good question, Mr. Benton. The urine albumin test measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. This test helps your doctor determine how well your kidneys are working. Does that help clarify things for you?\n\nPatient: But why do I no. Yeah. It does.\n\nNurse: I'm glad I could help clarify that for you, Mr. Benton. Now, that was all the topics for today. Do you have any other questions or concerns?\n\nPatient: Yeah. I have one more question.\n\nNurse: Of course, Mr. Benton. What's your question?\n\nPatient: And I realized it's probably too late to ask this. But what exactly is stage two CKD.",
+    "responses": {
+        "gpt4": "That's an important question, Mr. Benton. CKD stands for chronic kidney disease, and it comes in various stages. Stage II CKD means that your kidneys are mildly damaged and aren't functioning as well they should be. At this stage, you might not experience any symptoms, but it's important to manage your health carefully to prevent further progression. Does that help clarify things?",
+        "our_model": "That's a great question, Mr. Benton. Stage II Chronic Kidney Disease (CKD) means that your kidneys are not working as well as they should, but the damage is still mild. It's usually determined by a Glomerular Filtration Rate (GFR) between 60 and 89, or a urine albumin level of 30 to 299 mg/g. It's critical to manage this condition to prevent further kidney damage. Does that answer your question?"
+    }
+}

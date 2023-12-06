@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2907,
+    "prompt": "Patient: Well, I like to go on, like, thirty ish minute walk few times a day.\n\nPatient: Like, morning Longer one again in the evening.\n\nNurse: That's fantastic, Mr. Douglas.\n\nPatient: I do that probably four days a week.\n\nNurse: That's fantastic, Mr. Douglas. Regular walking is a great way to stay active and manage your CHF. Would it be okay if I provide some recommendations about improving your exercise routine in a CHF appropriate manner?\n\nPatient: Yeah. Sure.\n\nNurse: Thank you, Mr. Douglas. It's great that you're already walking regularly. If you're comfortable with it, you might consider gradually increasing the frequency or duration of your walks. However, it's important to listen to your body and not push yourself too hard. Also, incorporating some light strength training exercises, like lifting small weights or using resistance bands, can be beneficial. Remember, it's always a good idea to consult with your doctor before starting a new exercise routine. Do you have any questions or concerns about what we discussed?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "That's great, Mr. Douglas. I understand that adjusting diet and exercise can be challenging. Remember, every little bit counts and you're not alone in this. Now, I'm here to help, is there anything else you wish to discuss or ask at this point?",
+        "our_model": "Alright, Mr. Douglas. I understand that adjusting diet and exercise can be challenging. It's okay to take small steps and gradually make changes. Remember, the goal is to improve your health and well-being. Do you have any other questions or concerns about what we've discussed so far?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 778,
+    "prompt": "Nurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: What is the target range?\n\nNurse: I apologize for any confusion, Ms. Aguirre. Could you please confirm if your last blood sugar reading was 128?\n\nPatient: Yes.\n\nNurse: Just give me a second to work out the best way I can assist you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming, Ms. Aguirre. The target range for blood sugar levels in people with diabetes is usually between 80 and 130 before meals. Would it be alright if I share some strategies to help manage your blood sugar levels?\n\nPatient: My blood",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, could you repeat that? We were discussing your blood sugar levels, was there something specific about it you wanted to reconfirm?",
+        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said about your blood sugar?"
+    }
+}

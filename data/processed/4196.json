@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4196,
+    "prompt": "Nurse: Thank you for sharing that with me, Mr. Peck. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: So\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yes. But I'm not ready to do that now.\n\nNurse: That's completely okay, Mr. Peck. It's a big step to decide to quit smoking. Can you share with me why you feel you're not ready to quit at this time?\n\nPatient: Because I'm not.\n\nNurse: That's perfectly okay, Mr. Peck. It's a personal decision and it's important that you feel ready. If you ever change your mind, I have a lot of resources that I could share with you to help you quit. Would you like me to share some of these resources now, or would you prefer to wait until you're ready?\n\nPatient: I'm gonna wait until I'm ready.",
+    "responses": {
+        "gpt4": "Absolutely, Mr. Peck. We're here to support you whenever you're ready. Let's move on to another topic. Could you tell me about your physical activity levels? Do you exercise regularly?",
+        "our_model": "That's perfectly fine, Mr. Peck. Whenever you feel ready, know that I'm here to provide you with resources and support. Now, let's move on to the next topic. Is there anything else you'd like to discuss today?"
+    }
+}

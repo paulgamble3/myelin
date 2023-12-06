@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6099,
+    "prompt": "Nurse: I apologize for the confusion earlier. Your phosphorus level is not listed in the information I have. However, it's typically within the normal range of 2.5 to 4.5 mg/dL. Do you have any other questions about your lab results?\n\nPatient: Well,\n\nNurse: Yes?\n\nPatient: can diet\n\nNurse: I'm sorry, Jon, could you please finish your question?\n\nPatient: help me with my phosphorus levels. I I\n\nNurse: Absolutely, diet can play a significant role in managing phosphorus levels. Would it be okay if I provide some recommendations on how to manage your phosphorus levels through diet?\n\nPatient: my friend told me I have to be careful about Fox.",
+    "responses": {
+        "gpt4": "It sounds like your friend has given you some advice about your diet. Could you clarify what they meant by being careful about 'Fox'?",
+        "our_model": "Yes, diet can indeed play a role in managing phosphorus levels. It's generally recommended for CKD patients to limit foods high in phosphorus. These include dairy products, beans, lentils, nuts, and whole grains. Would you like more information on this?"
+    }
+}

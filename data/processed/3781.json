@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3781,
+    "prompt": "Nurse: I apologize for the oversight, Ms. Odonnell. Your potassium level is 3.4 mEq/L. The normal range is typically between 3.6 and 5.2 milliequivalents per liter (mEq/L). Your potassium level is slightly low, which is not uncommon in people with kidney disease. It's essential to monitor this. Do you have any questions about this?\n\nPatient: Wait. I'm sorry. You cut out. What did you say?\n\nNurse: I apologize for the poor connection, Ms. Odonnell. Your potassium level is 3.4 mEq/L. The normal range is typically between 3.6 and 5.2 milliequivalents per liter (mEq/L). Your potassium level is slightly low, which is not uncommon in people with kidney disease. It's essential to monitor this. Do you have any questions about this?\n\nPatient: Well, I guess that's what the blood test for to monitor my potassium.\n\nNurse: Yes, that's correct, Ms. Odonnell. Regular blood tests are used to monitor your potassium levels. It's essential to keep them in the normal range. Now, let's discuss your medications. You're currently taking Apixaban 5 mg oral tablet, 10 mg once daily. Have you been taking this medication as prescribed?\n\nPatient: Wait. I have another question. What what is my GM\n\nNurse: I\n\nPatient: arming.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please repeat your question?",
+        "our_model": "apologize for I'm sorry, Ms. Odonnell, could you please repeat your question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4541,
+    "prompt": "Nurse: That's good to hear. Now, let's discuss Lisinopril. You're prescribed to take a 20 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: I apologize for any confusion earlier. You're actually prescribed to take two 10 mg tablets of Lisinopril daily to achieve the correct dosage of 20 mg daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units every night at bedtime. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as directed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. Now, let's move on to Furosemide. You're prescribed to take a 40 mg oral tablet twice daily. Have you been taking this medication as directed?",
+        "our_model": "That's great to hear. It's critical to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?"
+    }
+}

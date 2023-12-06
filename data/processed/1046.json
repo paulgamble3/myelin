@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1046,
+    "prompt": "Nurse: That's great. Regular exercise is important for managing your conditions. Walking and light weight lifting are good choices. Would it be okay if I provide some recommendations about improving your exercise routine in a CHF appropriate manner?\n\nPatient: Sure.\n\nNurse: Thank you. Given your conditions, it's important to monitor your symptoms during exercise. If you feel short of breath, dizzy, or have chest pain, it's important to stop and rest. It's also a good idea to start with light activities and gradually increase your activity level as your body allows. Do you have any questions or concerns about what we discussed?\n\nPatient: Don't.\n\nNurse: Alright. I understand that adjusting diet and exercise can be challenging. It's important to remember that every little bit helps and it's okay to start slow. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: No. I don't.\n\nNurse: Alright. I'll be sure to inform Doctor Smith about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Now.",
+    "responses": {
+        "gpt4": "Okay. If any questions come up later, feel free to reach out. Remember, we're here to support you. Take care!",
+        "our_model": "I'm sorry, Pete, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

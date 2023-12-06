@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1647,
+    "prompt": "Nurse: Ah, Method brand cleaning products. They're quite popular for their natural ingredients. Do you have a favorite product from their line that you like to use?\n\nPatient: I just like the ones that are scented with grapefruit.\n\nNurse: Grapefruit scent sounds refreshing. It's great that you've found a product that you like and that's also good for your health. Before we move on to discuss your kidney disease, is there anything else you've been feeling or experiencing that you're concerned about?\n\nPatient: No. I think, physically, I am feeling pretty well these days.\n\nNurse: I'm glad to hear that you're feeling well. If you ever have any concerns or questions, feel free to bring them up at any time. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure. That would be fine.\n\nNurse: Great. I see from your records that you have hypertension. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Do you mean high blood pressure. I have high blood pressure.",
+    "responses": {
+        "gpt4": "Yes, hypertension is the medical term for high blood pressure. When was the latest occasion you checked your blood pressure, and do you recall the results?",
+        "our_model": "Yes, hypertension is another term for high blood pressure. I apologize if that was confusing. Could you tell me when you last checked your blood pressure and what the reading was?"
+    }
+}

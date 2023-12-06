@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5724,
+    "prompt": "Nurse: That's great, Ms. Aguirre. Could you please share with me what the result was?\n\nPatient: One twenty one over eighty you.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 121 over 80 is within the acceptable range, but the top number is a bit high. Would it be alright if I share some suggestions about managing blood pressure?\n\nPatient: But it's only high by one number. Is it really that\n\nNurse: Yes, Ms. Aguirre, even a small increase in blood pressure can have an impact on your health. Would you be open to\n\nPatient: big a deal.\n\nNurse: Yes, Ms. Aguirre, even small increases in blood pressure can have a significant impact on your health, especially with your current conditions. Would you be open to discussing some strategies to help manage your blood pressure?\n\nPatient: I guess.",
+    "responses": {
+        "gpt4": "Thank you, Ms. Aguirre. One recommendation is to incorporate regular physical activity into your routine, as this can help lower blood pressure. This could be something as simple as daily walks. Another suggestion is to maintain a low salt diet, as excessive sodium can raise blood pressure. What are your thoughts on these suggestions?",
+        "our_model": "Thank you, Ms. Aguirre. One strategy is to reduce your sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2588,
+    "prompt": "Nurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: And one\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the result was?\n\nPatient: ninety over one cent.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: I took it three hours ago, and it was ninety over one cent.\n\nNurse: I'm sorry, Alex, I didn't quite understand the second part of your response. Could you please repeat what your blood pressure reading was?\n\nPatient: Ninety over a hundred and ten.",
+    "responses": {
+        "gpt4": "Thank you for that information, Alex. It's important to keep an eye on your blood pressure as well. Be sure to report any unusually high or low readings to your doctor. Based on the numbers you've provided, I advise a consultation with your doctor to assess your blood pressure. Is there anything else you feel we should discuss today?",
+        "our_model": "Thank you for sharing that. It's essential to keep an eye on your blood pressure. If you're comfortable with it, I can provide some recommendations on how to manage your blood pressure. Would that be alright?"
+    }
+}

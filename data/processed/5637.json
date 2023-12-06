@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5637,
+    "prompt": "Nurse: That's fantastic. Staying on top of your medication schedule is crucial for managing your conditions. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. It is.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. How about a new or worsening dry cough?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad you're not experiencing that symptom. Now, have you noticed an increase in swelling in your feet, ankles, stomach, or legs?",
+        "our_model": "That's good news. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

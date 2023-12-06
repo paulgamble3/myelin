@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1247,
+    "prompt": "Nurse: That's great, Ms. Raynier. You're following the instructions correctly. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Raynier. It's critical to avoid those medications before your surgery unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: Well, yeah. I\n\nNurse: I'm sorry, Ms. Raynier, you were saying something?\n\nPatient: what I do, I take asthma.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Raynier, could you repeat that, please?",
+        "our_model": "I'm sorry, Ms. Raynier, could you please repeat that?"
+    }
+}

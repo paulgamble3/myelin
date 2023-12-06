@@ -1,0 +1,8 @@
+{
+    "prompt_id": 288,
+    "prompt": "Nurse: I'm sorry to hear that.\n\nPatient: Because everything's terrible. And, yeah, it sucks out here.\n\nNurse: I'm sorry to hear that you're having a tough time.\n\nPatient: Now what do you need from me? Okay. Let's let's get down to the\n\nNurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: business. K?\n\nNurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: No. I don't feel comfortable scrabble.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch that last part. Could you please repeat it?",
+        "our_model": "I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

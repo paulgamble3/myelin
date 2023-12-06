@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3773,
+    "prompt": "Patient: No.\n\nNurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you.\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please confirm if you're experiencing sudden vision loss?\n\nPatient: No. I'm not. Okay.\n\nNurse: I'm glad to hear that, Ms. Odonnell. Now, let's move on to your recent blood tests and urine labs. Do you have any questions about them?\n\nPatient: Actually, I don't know what they are. Don't know what my results are.\n\nNurse: That's perfectly I see, Ms. Odonnell. Your recent lab results show that your sodium level is 134 mEq/L, potassium is 3.4 mEq/L, BUN is 7.10 mmol/L, creatinine is 1.0 mg/dL, GFR is 58 mL/min/1.73m2, and urine albumin is 154 mg/g. These tests help us understand how your kidneys are working. Do you have any specific questions about these results?\n\nPatient: That's perfectly ideal. What are you talking about?",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please clarify what you meant?",
+        "our_model": "I apologize if I wasn't clear, Ms. Odonnell. Sodium is a mineral that your body needs to function properly. The normal range is typically between 135 and 145 milliequivalents per liter (mEq/L). Your sodium level is 134 mEq/L, which is within the normal range. Do you have any questions about this?"
+    }
+}

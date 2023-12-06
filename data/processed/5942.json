@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5942,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.\n\nNurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you.\n\nNurse: When did the change in speech start?\n\nPatient: There has been no change in\n\nPatient: speech.\n\nNurse: I'm Does the patient report sudden arm or leg weakness?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Does the patient report experiencing a sudden severe headache without a known cause?",
+        "our_model": "Does the patient report numbness on their arms or legs?"
+    }
+}

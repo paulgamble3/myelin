@@ -1,0 +1,8 @@
+{
+    "prompt_id": 732,
+    "prompt": "Nurse: Yes,\n\nPatient: I had a tuna sandwich.\n\nNurse: That sounds like a nice lunch, Ms. Peck. How did you prepare your tuna sandwich?\n\nPatient: Use that low carbohydrate bread.\n\nNurse: That sounds like a good choice, Ms. Peck. How about your other meals?\n\nPatient: And then for breakfast, I have and\n\nPatient: egg And\n\nPatient: I had some fruit, I think. I'm trying to remember.",
+    "responses": {
+        "gpt4": "That's alright, Ms. Peck. I understand that sometimes it's hard to remember everything. Eggs and fruit are a good start to the day. Are you following any specific diet plan that Dr. Rodriguez recommended?",
+        "our_model": "Give me a moment while I figure out how I can best help you. That sounds like a good start, Ms. Peck. It's great that you're being mindful of your carbohydrate intake. Can you recall what fruit you had for breakfast?"
+    }
+}

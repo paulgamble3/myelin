@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2414,
+    "prompt": "Nurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Let's see. I do take TYLENOL. That's not a blood thinner. Right?\n\nNurse: That's correct, Tylenol is not a blood thinner. However, it's important to note that you've also been prescribed Tylenol 1000 mg three times a day as needed, Dilaudid 2 mg three times a day as needed, and Gabapentin 300 mg three times a day for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes. I have.\n\nNurse: That's great. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: No. I don't think so.\n\nNurse: Alright. If you have any questions in the future, don't hesitate to ask. Now, let's talk about how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's excellent. You're ahead of the game. To ensure proper use, please follow these steps carefully. You will need to use the scrub the evening before and the morning of your procedure. First, take a normal shower then turn off the water. Does that sound manageable so far?",
+        "our_model": "That's excellent. Now, let's go over the instructions for using the scrub. You'll need to use it the night before and the morning of your procedure. First, you'll take a shower like normal then turn the water off. Does that sound good so far?"
+    }
+}

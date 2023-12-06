@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6037,
+    "prompt": "Nurse: That's good to hear, Mr. Koroleva. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, rice, and pasta, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No.\n\nNurse: Great, Mr. Koroleva. What are some low fiber foods that you enjoy?\n\nPatient: Red rolls.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: Bread rolls.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Koroleva! Bread rolls are a good choice. Since they're made with white flour, they are low in fiber and would work well for the diet. Remember, the aim is to keep your digestive system as clear as possible for the procedure. Next, let's talk about the day before your colonoscopy. You\ufffd\ufffd\ufffdll need to start a clear-liquid diet. Is that okay with you?",
+        "our_model": "Ah, bread rolls! Those can be a part of your low fiber diet. Do you have a favorite way to eat them?"
+    }
+}

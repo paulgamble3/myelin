@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5915,
+    "prompt": "Nurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.\n\nNurse: That's good to hear that you're keeping track. Could you please share with me what the result was?\n\nPatient: Yeah. It was ninety over one twenty.\n\nNurse: Thank you for sharing that. The reading is a bit high. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Yep. That sounds good.",
+    "responses": {
+        "gpt4": "I'm glad you find the suggestion helpful. Another recommendation is to reduce alcohol if you drink. This can significantly help in maintaining healthy blood pressure levels. Do you think this would be possible for you?",
+        "our_model": "I'm glad to hear that. Another suggestion is to increase your intake of fruits and vegetables, which can help lower blood pressure. Do you think you could try that?"
+    }
+}

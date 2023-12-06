@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1415,
+    "prompt": "Nurse: Okay, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: My day is going well. How was yours?\n\nNurse: I'm glad to hear your day is going well, Mr. Valenzuela. As an AI, I don't have personal experiences, but I'm here to assist you. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: I'm feeling Okay. About it. Yeah.\n\nNurse: I'm glad to hear that you're feeling okay about the procedure, Mr. Valenzuela. It's completely normal to have some feelings about it. Is there anything specific that's on your mind or any questions you'd like to discuss before we begin?\n\nPatient: I can't think of any now.\n\nNurse: That's perfectly fine, Mr. Valenzuela. Please remember that you can ask me any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm nervous, but I'm ready.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me, Mr. Valenzuela. It's completely normal to feel nervous. The staff at O'Connor Hospital are highly trained and do their utmost to ensure your comfort. Let's ensure I caught all details correctly. Did you mention earlier that you're experiencing diarrhea?",
+        "our_model": "I'm sorry, Mr. Valenzuela, could you please confirm what you just said?"
+    }
+}

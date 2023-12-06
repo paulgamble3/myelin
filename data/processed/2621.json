@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2621,
+    "prompt": "Nurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you've been looking forward to doing now that you're home?\n\nPatient: Just really being home is good enough.\n\nNurse: I'm glad to hear that being home brings you comfort, Ms. Cruz. It's always nice to be in our own space. By the way, do you have any hobbies or pets that keep you company at home?\n\nPatient: Yes. I have I have family members that are here.\n\nNurse: That's wonderful, Ms. Cruz. Having family around can be a great source of comfort. Do you and your family have any shared hobbies or activities that you enjoy doing together?\n\nPatient: Like, any other\n\nNurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: normal people watching TV,",
+    "responses": {
+        "gpt4": "That's a great way to unwind and spend time together, Ms. Cruz. Is there a specific show that you and your family enjoy watching?",
+        "our_model": "That sounds like a lovely way to relax and spend time together, Ms. Cruz. What kind of shows do you all enjoy watching?"
+    }
+}

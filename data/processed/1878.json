@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1878,
+    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?\n\nPatient: High smoke cigarettes.\n\nNurse: Thank you for sharing that, Ms. Odonnell. I know it's not easy, but have you ever considered quitting smoking?\n\nPatient: You know what I'm thinking about. Yeah.\n\nNurse: That's a big step, Ms. Odonnell. It's great to hear that you're thinking about quitting. Would it be alright if I provide some suggestions and resources to help you quit smoking?\n\nPatient: Yes.\n\nNurse: Thank you, Ms. Odonnell. There are many resources available to help you quit smoking. These include nicotine replacement therapies, medications, and counseling services. It's also beneficial to have a support system in place, which could include friends, family, or a support group. What do you think about these suggestions?\n\nPatient: Sounds good.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Ms. Odonnell. It's never easy to quit smoking, but remember, every attempt is a step closer to quitting for good. Now, I believe we have covered all the topics for today. Do you have any other questions or concerns you'd like to discuss?",
+        "our_model": "I'm glad to hear that, Ms. Odonnell. Remember, it's a journey and every step you take towards quitting is a victory. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6067,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: Well, I have to admit that\n\nNurse: I'm sorry, Jon, you were saying something?\n\nPatient: I am a little scared.\n\nNurse: I'm really sorry to hear that you're feeling scared. Can you tell me a bit more about what's been causing you to feel this way?\n\nPatient: But I'm going to hang on.",
+    "responses": {
+        "gpt4": "It sounds like you're going through a tough time, Jon, and dealing with it bravely. It's okay to feel scared, and I'm here to help you with it. Is there something specific about your health you're scared about or a symptom that's been bothering you?",
+        "our_model": "I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms that you're particularly concerned about?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1985,
+    "prompt": "Nurse: I'm glad to hear that you're feeling okay. It's critical to stay positive as you prepare for your surgery. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: just, you know, getting\n\nNurse: I'm glad to hear you're feeling okay. It sounds like you're preparing for your upcoming procedure. That's great. Are there any specific things you're doing to prepare?\n\nPatient: in kinda nervous.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way before a procedure. Is there anything specific that's been on your mind or any particular concerns you'd like to discuss?\n\nPatient: Off the top of my head, You know, I'm wondering\n\nNurse: Of course, I'm here to help answer any questions you have. What's been on your mind?\n\nPatient: When",
+    "responses": {
+        "gpt4": "Could you please repeat or elaborate on your question? I want to make sure I understand it correctly.",
+        "our_model": "I'm sorry, could you please repeat your question?"
+    }
+}

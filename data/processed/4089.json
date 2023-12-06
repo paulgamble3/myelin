@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4089,
+    "prompt": "Patient: Sure.\n\nNurse: Excellent. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you could incorporate into your daily routine?\n\nPatient: Yes.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be anything from a brisk walk to your tight rope practice. It's recommended to aim for at least 30 minutes of moderate-intensity exercise most days of the week. Do you think this is something you could continue to do?\n\nPatient: Yeah.\n\nNurse: That's wonderful. Regular exercise can really help manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: One\n\nPatient: twenty over eighty.",
+    "responses": {
+        "gpt4": "That is a healthy blood pressure reading. Maintain a healthy lifestyle to keep up the good work. Do you have any recent changes in your medication I should know about?",
+        "our_model": "Thank you for sharing that. That's a good reading. It's essential to keep monitoring your blood pressure regularly. If it's not too much trouble, could you share why it's important to keep track of your blood pressure?"
+    }
+}

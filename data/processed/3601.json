@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3601,
+    "prompt": "Nurse: That's a good start, Mr. Benton. Tomorrow, when you wake up, try to remember to check your blood sugar. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Benton. It's important to keep track of your blood pressure. Can you recall the last time you checked it?\n\nPatient: No.\n\nNurse: That's alright, Mr. Benton. If you don't have a record of your last blood pressure measurement, it's a good idea to take it as soon as you can. Do you have a blood pressure cuff at home?\n\nPatient: I have done. My last\n\nNurse: I'm sorry, Mr. Benton, your last what?\n\nPatient: one was one forty four over eighty four.",
+    "responses": {
+        "gpt4": "Thank you for that information, Mr. Benton. A 144 over 84 reading indicates high blood pressure; it's in what's considered the 'stage 2 hypertension' range. It's important to manage high blood pressure, because if left untreated, it can lead to heart disease or stroke. Has your doctor given you any advice or medication for managing your blood pressure?",
+        "our_model": "Thank you for sharing that, Mr. Benton. It's good to see that you're keeping track of your blood pressure. That reading is a bit high. Would you be open to some suggestions on how to manage your blood pressure?"
+    }
+}

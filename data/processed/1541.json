@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1541,
+    "prompt": "Nurse: That's excellent, Mr. Moran. It's critical to have these medications on hand for after your procedure. Do you have any questions about these medications or any other aspect of your medication regimen?\n\nPatient: No.\n\nNurse: Alright, Mr. Moran. Let's move on to the next topic, which is about preparing your skin for surgery. You'll need to use a chlorhexidine scrub to reduce the risk of infection. Have you already purchased this scrub?\n\nPatient: Yes.\n\nNurse: That's great, Mr. Moran. Now, let's go over the instructions for using the scrub. You'll need to use it the night before and the morning of your procedure. After taking a normal shower and turning the water off, does that sound good so far?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Moran. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, Mr. Moran. Once you've applied the scrub, please remember to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. These instructions might seem a bit detailed. Do you have any questions about the chlorhexidene scrub instructions we just went over?",
+        "our_model": "Great, Mr. Moran. Finally, you'll need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?"
+    }
+}

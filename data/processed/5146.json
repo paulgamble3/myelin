@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5146,
+    "prompt": "Nurse: Absolutely, feel free to ask any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Well, like I said, I'm\n\nNurse: I appreciate your openness.\n\nPatient: I'm not looking forward to it, but I'm grateful that I can have it.\n\nNurse: I appreciate your positive attitude. It's great that you're taking this step for your health. Now, would it be okay if we go over a few topics on preparing for your colonoscopy?\n\nPatient: Sure.\n\nNurse: Perfect. I'm calling today to ensure you have everything you need for your upcoming procedure. I will also call you again the day before your procedure to check in. Let's start with the first item on our checklist. Are you clear on the dietary restrictions you need to follow before your colonoscopy?\n\nPatient: Well, I think so.",
+    "responses": {
+        "gpt4": "That's good to know. Let's first get all the logistics out of the way. Please remember that your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Dr. Meredith Bailey. You'll need to arrive about 1 hour before your scheduled time, which would be 8:00 AM. Is that alright with you?",
+        "our_model": "Great. Just to confirm, you're aware that you need to follow a clear liquid diet the day before your procedure, correct?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2075,
+    "prompt": "Patient: Yes. That makes sense.\n\nNurse: I'm glad to hear that. Do you have any other questions about the chlorhexidine scrub?\n\nPatient: Not about the scrub. No.\n\nNurse: Alright. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes. Ten at night. Correct? Twice, you said?\n\nNurse: Yes, that's correct. You'll need to use the scrub twice - once the night before your procedure and again the morning of your procedure. It's an important step to help reduce the risk of infection. Now, let's discuss the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: So\n\nPatient: Can I have some water",
+    "responses": {
+        "gpt4": "I understand that you would like to know if you could drink water. Unfortunately, it's not recommended to eat or drink anything, including water, after midnight on the day of your procedure. This is to help ensure your stomach is empty during the procedure, which can reduce the risk of complications. Do you think you can manage that?",
+        "our_model": "On the day of your procedure, you can have small sips of water up to 2 hours before your procedure. However, it's important not to have any food or drinks other than water during this time. This is to ensure your stomach is empty for the anesthesia. Does that answer your question?"
+    }
+}

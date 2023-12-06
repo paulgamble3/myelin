@@ -1,0 +1,8 @@
+{
+    "prompt_id": 762,
+    "prompt": "Nurse: Hello, Ms. Aguirre. I was asking how you've been doing lately. Can you hear me?\n\nPatient: I'm doing alright, I guess, considering everything.\n\nNurse: I'm glad to hear that you're doing alright, Ms. Aguirre. It's important to focus on the positive aspects, even when dealing with health challenges. Is there anything you're looking forward to doing this week?\n\nPatient: Oh, well, my\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your plans for this week?\n\nPatient: my mother's gonna come over later this week.\n\nNurse: That sounds lovely, Ms. Aguirre. It's always nice to spend time with family. How often do you get to see your mother?\n\nPatient: Well, I'm sorry. I called her my mother. She's not really my mother. But",
+    "responses": {
+        "gpt4": "That's okay, Ms. Aguirre. It sounds like she holds a special place in your life. Would you like to share a little more about her?",
+        "our_model": "I see, Ms. Aguirre. I apologize for misunderstanding. Could you please tell me more about this special person who's coming to visit?"
+    }
+}

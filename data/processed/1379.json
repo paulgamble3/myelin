@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1379,
+    "prompt": "Nurse: Great, Mr. Grewe. I see on your chart that you're currently taking Lantus, 5 units once a day. For the day of the procedure, you'll need to adjust this to 2 units of Lantus. Have you already made this adjustment, or is this something you need to do in the coming days?\n\nPatient: I have to do that.\n\nNurse: Yes, Mr. Grewe, you'll need to adjust your Lantus dosage to 2 units on the day of the\n\nPatient: The coming days.\n\nNurse: Thank you for confirming that, Mr. Grewe. It's important to adjust your Lantus dosage to 2 units on the day of the procedure. Do you have any questions about this change?\n\nPatient: No.\n\nNurse: Alright, Mr. Grewe. Now, I'd like to ask if you're taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Lantus Foreman.",
+    "responses": {
+        "gpt4": "Thank you for sharing that you're taking Lantus and Metformin, Mr. Grewe. Do you have any questions or concerns about managing these medications around the time of your surgery? It's recommended that you take your usual dose of Metformin the morning of your surgery, with a small sip of water. Your healthcare provider will give you more specific instructions. Does that sound okay?",
+        "our_model": "I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3598,
+    "prompt": "Nurse: Thank you for being open to this, Mr. Benton. It's a small step that can make a big difference in managing your diabetes. When do you think you could start checking your blood sugar daily?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Benton. There's no rush. Whenever you feel ready to start, that's the right time. Now, let's move on to your blood pressure. When was the last time\n\nPatient: Maybe.\n\nNurse: I understand, Mr. Benton. It's a new habit\n\nPatient: Tomorrow.\n\nNurse: That's a good start, Mr. Benton. Tomorrow, when you wake up, try to remember to check your blood sugar. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: I don't know.",
+    "responses": {
+        "gpt4": "That's alright, Mr. Benton. It's important to keep track of your blood pressure, especially because you have diabetes. Would you be able to take a reading soon and let your doctor know the results?",
+        "our_model": "That's okay, Mr. Benton. It's important to keep track of your blood pressure. Can you recall the last time you checked it?"
+    }
+}

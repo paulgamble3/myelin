@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3284,
+    "prompt": "Patient: Every couple days,\n\nPatient: twenty minutes.\n\nNurse: That's a good start, Patient. Walking every couple of days for 20 minutes can be beneficial for your health. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: That's okay.\n\nNurse: Great, thank you. It's recommended that you aim for at least 30 minutes of moderate-intensity exercise, like brisk walking, most days of the week. This can be broken down into shorter sessions if that's more manageable for you. For example, you could aim for three 10-minute walks each day. Remember, it's important to listen to your body and not push yourself too hard. Does this sound doable to you?\n\nPatient: Yes.\n\nNurse: I'm glad to hear that, Patient. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Now, I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great, Patient. I would like to inform you that I will share this conversation with Dr. Valencia so she understands how well you're doing at home. Do you have any remaining questions or concerns before we end the call?",
+        "our_model": "Alright, let's move on. I'll be informing Doctor Valencia about our conversation and how you're doing. Before we end this call, do you have any other questions or concerns you'd like to discuss?"
+    }
+}

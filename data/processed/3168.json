@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3168,
+    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Today, I'm feeling\n\nNurse: I'm sorry, it seems like there was a connection issue and I didn't catch the rest of what you were saying. Could you please repeat that?\n\nPatient: I'm feeling okay.\n\nNurse: I'm glad to hear that you're feeling okay. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Move around without pain after the surgery.",
+    "responses": {
+        "gpt4": "It sounds like being able to move around without pain is a significant goal for you once you've recovered. On your journey, I am here and along with the team at O'Connor Hospital, we're here to support you and get you there. How are you feeling about the upcoming procedure?",
+        "our_model": "I'm glad to hear you're doing okay. It's completely normal to be thinking about how you'll feel after the surgery. With your new knee, do you have any specific plans or activities you're looking forward to doing without pain?"
+    }
+}

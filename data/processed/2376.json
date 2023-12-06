@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2376,
+    "prompt": "Nurse: You should aim to arrive at the hospital around 1 hour before your procedure, so for your 9:00 AM procedure, you should plan to arrive at 8:00 AM. This will give you enough time to check in and prepare for your surgery. Does that help?\n\nPatient: That help. Yeah.\n\nNurse: I'm glad to hear that. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please.\n\nNurse: Okay. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg, which you were instructed to stop 7 days before the procedure?\n\nPatient: Yes. I did.\n\nNurse: That's great. It's important to follow these instructions for your surgery. Do you have any questions about these medications or why you needed to stop the Aspirin?\n\nPatient: Well, something about blood.",
+    "responses": {
+        "gpt4": "Yes, that's correct. Aspirin is a type of medication called a blood thinner. It can increase the risk of bleeding during your surgery, which is why your doctor asked you to stop it for a while before your procedure. Are you taking any other medications like Advil, Aleve, or other blood thinners that we should know about?",
+        "our_model": "Yes, that's correct. Aspirin is a type of medication known as a blood thinner. It's usually stopped before surgery to reduce the risk of excessive bleeding during the procedure. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?"
+    }
+}

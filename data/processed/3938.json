@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3938,
+    "prompt": "Nurse: That's good to hear. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great, keep an eye on your weight as sudden changes can be a sign of fluid buildup which is common in CHF. Lastly, have you needed to use more pillows to sleep comfortably at night?",
+        "our_model": "That's good to hear. Lastly, have you been using more pillows at night to sleep?"
+    }
+}

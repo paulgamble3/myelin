@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6151,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth\n\nNurse: I apologize for any confusion. Could you please provide the\n\nPatient: nineteen sixty eight.\n\nNurse: month, day, Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: It's been really good. How has your day been?",
+    "responses": {
+        "gpt4": "As an AI nurse, I don't experience days in the traditional sense, but I'm here to help and make your day a little better. I'm delighted to hear your day has been good so far. Does your positive day involve any particular activities or happenings that made it special?",
+        "our_model": "I'm glad to hear your day has been good, Mr. Dang. As an AI, I don't have personal experiences, but I'm here to assist you. I'd like to know more about your feelings regarding your upcoming colonoscopy. How are you feeling about the procedure?"
+    }
+}

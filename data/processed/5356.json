@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5356,
+    "prompt": "Nurse: I'm glad That sounds like a good plan, Mr. Gardner. Now, let's talk about your exercise routine. Can you tell me what you currently do for exercise?\n\nPatient: Sure. I usually just walk around my neighborhood.\n\nNurse: That's a great way to stay active, Mr. Gardner. How often do you go for walks and how long are they typically?\n\nPatient: Usually, every day for thirty minutes.\n\nNurse: That's excellent, Mr. Gardner. Walking daily for thirty minutes is a great routine. If it's okay with you, I'd like to provide some recommendations to help you continue to improve your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: Okay.\n\nNurse: Wonderful, Mr. Gardner. One suggestion is to gradually increase the length of your walks. For example, you could aim to walk for 35 minutes next week and then 40 minutes the week after. Remember, it's important to listen to your body and not push yourself too hard. Does that sound doable to you?\n\nPatient: Yes. But how long should I walk for?",
+    "responses": {
+        "gpt4": "Mr. Gardner, the goal is to gradually build up to walking for about an hour, but only if it feels comfortable for you. It's very important not to push yourself too hard and to take rests as needed. Whatever you decide, consistency is key. Does that help answer your question?",
+        "our_model": "That's a great question, Mr. Gardner. The goal is to gradually increase your walking time. For example, if you're currently walking for 30 minutes, you could aim to walk for 35 minutes next week and then 40 minutes the week after. Remember, it's important to listen to your body and not push yourself too hard. Does that sound manageable to you?"
+    }
+}

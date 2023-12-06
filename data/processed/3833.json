@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3833,
+    "prompt": "Nurse: Great questions, Mr. Hardy. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Your GFR is 90 mL/min/1.73m2, which is within the normal range. Albumin is a type of protein that's normally found in the blood. Your urine albumin is 82 mg/g, which is a bit high. This can be a sign of kidney damage. It's critical to continue monitoring this with your doctor. Does that help clarify things for you?\n\nPatient: Yes. It does.\n\nNurse: I'm glad I could help clarify that for you, Mr. Hardy. Now, let's discuss your medications. You're currently taking Lisinopril 5 mg oral tablet, 5 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Hardy. Taking your medication as prescribed is crucial for managing your conditions. Now, let's move on to the next medication. You're also taking Apixaban 5 mg oral tablet, 5 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: I have a question about the apixaban.\n\nNurse: Of course, Mr. Hardy. What would you like to know about Apixaban?\n\nPatient: Do I just need to take one tablet a day?",
+    "responses": {
+        "gpt4": "Actually, Mr. Hardy, it's important that you take Apixaban 5mg tablet twice a day as your doctor prescribed. This medication helps to prevent blood clots. Have you been taking this medication twice a day as directed, or have you only been taking it once a day?",
+        "our_model": "Actually, Mr. Hardy, your prescription for Apixaban is to take 5 mg two times a day. This medication helps prevent blood clots, which is important for your health. Are you currently taking it twice a day?"
+    }
+}

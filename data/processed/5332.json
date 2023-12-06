@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5332,
+    "prompt": "Nurse: That's a beautiful name for a goldfish, Mr. Gardner. It must be nice to have Rachel the goldfish to keep you company. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. You can just go ahead. And if I have any questions, I'll ask.\n\nNurse: Alright, Mr. Gardner. Let's start with your new medication. Have you been able to pick up your Lasix 20 mg oral tablets from the pharmacy?\n\nPatient: Yep.\n\nNurse: Okay, Mr. Gardner. And how have you been taking your Lasix 20 mg tablets?\n\nPatient: I'm sorry. I'm not sure I understand the question.\n\nNurse: I apologize if I wasn't clear, Mr. Gardner. I'm asking if you've been taking your Lasix 20 mg tablets two times a day as prescribed by your doctor. [\n\nPatient: Oh, yes.",
+    "responses": {
+        "gpt4": "Great, Mr. Gardner. You're doing a fantastic job. Now let's talk about your existing medication. Are you still taking Valsartan?",
+        "our_model": "That's great to hear, Mr. Gardner. Now, let's talk about your existing medication. Are you still taking your Valsartan?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3515,
+    "prompt": "Nurse: That's good to hear, Mr. Martin. And are you also continuing with your Metformin?\n\nPatient: Yes. I am.\n\nNurse: Excellent, Mr. Martin. It's essential to keep up with your medications. Now, I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No, I don't. I have three medications, and I take all of them twice a day pretty easy.\n\nNurse: That's fantastic, Mr. Martin. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Martin. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Martin. And what about chest pain? Have you experienced any ongoing or worsening chest pain?",
+        "our_model": "That's good to hear, Mr. Martin. Now, have you experienced any ongoing or worsening chest pain recently?"
+    }
+}

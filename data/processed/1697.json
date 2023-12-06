@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1697,
+    "prompt": "Nurse: That's good to hear, Mr. O'Leary. It's critical to avoid those medications unless specifically recommended by your doctor. Now, I notice that you've also been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: That's great, Mr. O'Leary. It's essential to have those medications on hand for after your procedure. Do you have any questions about these or any other medications?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. If any questions come up later, don't hesitate to ask. Now, let's move on to discussing how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. O'Leary. You're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, Mr. O'Leary. After your shower, you'll want to apply the chlorhexidine scrub to a clean, wet washcloth. From there, you will gently scrub yourself from the neck down. But remember to avoid using the chlorhexidine on your face, hair, or crotch area. Can you do that?",
+        "our_model": "Okay, Mr. O'Leary. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
+    }
+}

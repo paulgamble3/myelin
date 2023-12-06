@@ -1,0 +1,8 @@
+{
+    "prompt_id": 768,
+    "prompt": "Nurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: quite a bit older. So\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: We like to place\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: fight in Maryland.\n\nNurse: That sounds like a fun game, Ms. Aguirre. It's great that you have these moments to enjoy with your aunt. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I mean, I I'm not having any",
+    "responses": {
+        "gpt4": "That's good to hear, Ms. Aguirre. But remember, if you have any questions or concerns at any point, feel free to bring them up. If you don't mind, I'd like to go over a few topics with you to check on how you're doing. Would that be okay with you?",
+        "our_model": "That's good to hear, Ms. Aguirre. If you ever have any concerns or questions, please don't hesitate to bring them up. We're here to support you. Would it be alright if we go over a few topics related to your health now?"
+    }
+}

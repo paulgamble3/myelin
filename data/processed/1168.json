@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1168,
+    "prompt": "Nurse: That sounds like a lovely way to start the weekend, Mr. Cardenas. How long are your hikes usually?\n\nPatient: either drive or ride my bike and go to a particular mountain\n\nNurse: That sounds like a great way to start the weekend, Mr. Cardenas. How long do your hikes usually last, and how challenging are the trails you choose?\n\nPatient: Go for a hike. You know, usually most of the day, stop for lunch, and head back before it gets dark.\n\nNurse: That sounds like a wonderful way to spend a day, Mr. Cardenas. How long are your hikes usually?\n\nPatient: Hike, like, maybe\n\nNurse: I'm sorry, Mr. Cardenas. Could you please repeat how long your hikes usually are?\n\nPatient: jeez. I don't know. Five to seven hours. And",
+    "responses": {
+        "gpt4": "Wow, that's quite an extensive hike, Mr. Cardenas. Can you tell me how challenging the hikes are? Do you find them to be strenuous, or are they more of a leisurely pace?",
+        "our_model": "I'm sorry, Mr. Cardenas, could you please repeat the distance of your hikes?"
+    }
+}

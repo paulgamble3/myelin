@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3108,
+    "prompt": "Nurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: I\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about your recent meals?\n\nPatient: I just eat whatever easy. So, like, go out of microwave stuff.",
+    "responses": {
+        "gpt4": "I see. Convenience is important, but it's also important to make sure we're eating in a way that supports our health, especially given your current health situation. For example, did you know that certain foods might have high sodium content, which might not be recommended in your current condition? Would it be okay if I shared a bit more about this with you?",
+        "our_model": "I see. Convenience is important, especially when you're not feeling your best. Can you share a bit more about what types of microwave meals you typically have?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4373,
+    "prompt": "Nurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Sarah Forbes. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm feeling okay.\n\nNurse: I'm glad to hear that. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Are you still there, Rachel?\n\nNurse: Yes, I'm here. I was asking if there's anything in particular you've been looking forward to doing now that you're home?\n\nPatient: You know, the simple thing just\n\nNurse: Of\n\nPatient: really nice being home. I mean,",
+    "responses": {
+        "gpt4": "I'm really looking forward to spending time with my dog. I missed him while I was in the hospital.",
+        "our_model": "course, the Absolutely, there's no place like home. It's always nice to be in our own space. Do you have any hobbies or pets that you enjoy spending time with at home?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 35,
+    "prompt": "Nurse: That's okay. It's essential to continue monitoring your weight regularly. Regular physical activity and a balanced diet can help manage your weight. Would you like me to provide some suggestions on how to manage your weight?\n\nPatient: No. That's fine, but thank you.\n\nNurse: You're welcome. It's great to hear that you're making an effort to manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?\n\nPatient: I don't drink.\n\nNurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's essential to continue this practice. Do you have any questions or concerns about managing your alcohol use?\n\nPatient: No. Because I don't drink.\n\nNurse: That's great to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I smoke a pack of cigarettes today, but I'm not ready to quit yet.",
+    "responses": {
+        "gpt4": "I hear you, and I realize quitting can feel like a daunting challenge. But I want to emphasize that even small steps towards reducing your smoking can make big differences in your health. Can you share why you're not ready to quit at this moment?\n",
+        "our_model": "I appreciate your honesty. It's a big step to even consider quitting smoking. Could you share with me why you feel you're not ready to quit at this time?"
+    }
+}

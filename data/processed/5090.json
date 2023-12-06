@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5090,
+    "prompt": "Nurse: Alright, Mr. Koroleva. If you change your mind or have any questions about the bowel prep, don't hesitate to ask. Some people don't have any problems and are able to drink all the bowel prep just fine. Do you have any other questions or concerns about this part of the preparation?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. Let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. I know we've covered a lot of information, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. I appreciate your patience. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Koroleva. Staying healthy in the days leading up to your procedure is important. Now, onto my last question. Have you arranged for a ride home after the procedure? You won't be able to drive yourself due to the effects of the sedation.",
+        "our_model": "That's good to hear, Mr. Koroleva. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
+    }
+}

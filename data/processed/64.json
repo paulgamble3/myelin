@@ -1,0 +1,8 @@
+{
+    "prompt_id": 64,
+    "prompt": "Patient: No.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: You asked me that. I said no.\n\nNurse: I apologize for the repetition, Ms. Ware. Does the swelling extend to your arms?\n\nPatient: No.\n\nNurse: Does the swelling extend to your arms, Ms. Ware?\n\nPatient: How many times are you gonna ask me that? I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.",
+    "responses": {
+        "gpt4": "I apologize for the confusion, Ms. Ware. Moving forward, have you noticed a weight gain of more than 2 pounds in a day or 5 pounds in a week?",
+        "our_model": "I apologize for the confusion, Ms. Ware. Can you confirm if the swelling is only in your stomach and not in your arms or legs?"
+    }
+}

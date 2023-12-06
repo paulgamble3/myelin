@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5575,
+    "prompt": "Nurse: Give me a moment to check how I can best support you. Hold on a second while I figure out how I can best support you.\n\nNurse: I apologize for the confusion earlier. I thought you mentioned having a wound. Could you please confirm if you've been experiencing bloody stool?\n\nPatient: And how I'm feeling about my colonoscopy is I'm ready to get it over with.\n\nNurse: I apologize for the confusion earlier. I thought you mentioned having a wound. I see that you're getting this colonoscopy due to pus and mucus in your stool. I hope this procedure gives you and your doctor the answers you're looking for. Before we move on, do you have any questions or concerns you'd like to discuss?\n\nPatient: Yeah. Well, I didn't I didn't mention having a wound.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.\n\nNurse: When did you start having bloody stool?\n\nPatient: Jeez. I don't have bloody stool.",
+    "responses": {
+        "gpt4": "I apologize for the misunderstanding. I think I have some incorrect information. We will need to clear this up before we proceed. Did you ever had any rectal bleeding or black tarry stools?",
+        "our_model": "I apologize for the confusion. Could you please tell me if you have bloody or black, tarry stool?"
+    }
+}

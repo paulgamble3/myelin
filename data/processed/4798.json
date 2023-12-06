@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4798,
+    "prompt": "Nurse: I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No. I understand.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: It already.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I usually take Advil",
+    "responses": {
+        "gpt4": "Given that Advil is also a type of blood thinner, these types of medications typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. Has your doctor discussed with you about stopping Advil?",
+        "our_model": "Thank you for sharing that. It's essential to note that medications like Advil, which are blood thinners, typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. Have you been instructed to continue taking Advil?"
+    }
+}

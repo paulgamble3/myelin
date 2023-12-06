@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1792,
+    "prompt": "Nurse: Okay, thank you for your time, Mr. Jimenez. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: And just what is something wrong?\n\nNurse: I'm sorry if I gave you the wrong impression, Mr. Jimenez. There's nothing wrong. I'm here to help you prepare for your upcoming surgery and answer any questions you might have. How has your day been so far?\n\nPatient: It's okay. I just\n\nNurse: I'm glad to hear that, Mr. Jimenez. It's important to keep a positive attitude. Do you have any plans for the day?\n\nPatient: So nothing's wrong. Right?\n\nNurse: That's correct, Mr. Jimenez. Everything is on track for your surgery. I'm here to ensure you're well-prepared and to address any concerns you might have. Is there anything in particular that's been on your mind today?\n\nPatient: I mean, obviously, the procedure",
+    "responses": {
+        "gpt4": "Absolutely, it's natural to have the procedure on your mind, Mr. Jimenez. It must feel like a big step getting a new knee. Do you have any specific plans for activities you're looking forward to doing with less pain after your knee replacement?",
+        "our_model": "Of course, the upcoming procedure is a significant event. It's completely normal to have thoughts and feelings about it. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

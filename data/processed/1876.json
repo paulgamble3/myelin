@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1876,
+    "prompt": "Patient: No.\n\nPatient: Well, yes.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?\n\nPatient: Did I smoke?\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?\n\nPatient: High smoke cigarettes.\n\nNurse: Thank you for sharing that, Ms. Odonnell. I know it's not easy, but have you ever considered quitting smoking?\n\nPatient: You know what I'm thinking about. Yeah.",
+    "responses": {
+        "gpt4": "That's a big step, Ms. Odonnell, and I'm really proud of you for considering it. Quitting smoking can significantly improve your health and help manage your chronic conditions better. Would you like me to share some resources or suggestions that could aid in your decision to quit?",
+        "our_model": "That's a big step, Ms. Odonnell. It's great to hear that you're thinking about quitting. Would it be alright if I provide some suggestions and resources to help you quit smoking?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2605,
+    "prompt": "Patient: No. I don't.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Yeah. I'm trying to eat healthier now. And I Added a lot of salad.\n\nPatient: And\n\nPatient: eating\n\nPatient: I'm adding to the salad dressing. Which is the Italian bone.\n\nNurse: It sounds like you're making some great changes to your diet.\n\nPatient: Would you be able to tell me how much salt is in that dressing?",
+    "responses": {
+        "gpt4": "Of course. This information is typically listed on the nutritional facts label on the bottle. The specific sodium content can vary between brands, so it's a good idea to check. Too much sodium can lead to high blood pressure, which is something we should aim to avoid.",
+        "our_model": "I'm sorry, Alex, I didn't quite catch that. Could you please repeat your question about the salad dressing?"
+    }
+}

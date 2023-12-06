@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2508,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?\n\nPatient: Yes. It is.\n\nNurse: Hello, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: Well, considering all of my various ailments I think I'm doing okay today.\n\nNurse: I'm glad to hear that you're doing okay today, Mr. Oliver. It's important to focus on the good days. Is there anything you're looking forward to doing this week?\n\nPatient: Well, let's see. I've gotta get some online Christmas shopping done for my family.",
+    "responses": {
+        "gpt4": "That sounds lovely, Mr. Oliver. Online shopping can be really convenient. Are there any gifts in particular you're excited about finding? Perhaps for a grandchild or maybe a close friend?",
+        "our_model": "That sounds like a wonderful way to spend your time, Mr. Oliver. Online shopping can be quite convenient. Are there any specific gifts you're planning to get for your family?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4307,
+    "prompt": "Patient: L\n\nPatient: mushroom, tomatoes, and onions.\n\nNurse: That's a great start to a healthy salad. Did you add any dressing or other toppings?\n\nPatient: Yeah.\n\nNurse: Could you share what kind of dressing or other toppings you added?\n\nPatient: I\n\nNurse: I'm sorry, you were saying?\n\nPatient: I had",
+    "responses": {
+        "gpt4": "I'm sorry, you were saying? Can you please repeat what kind of dressing or toppings you added to your salad?",
+        "our_model": "I'm sorry, you were saying something about your salad?"
+    }
+}

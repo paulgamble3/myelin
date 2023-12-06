@@ -1,0 +1,8 @@
+{
+    "prompt_id": 400,
+    "prompt": "Nurse: I'm sorry, Mr. Koroleva, but using Uber or any other ride-sharing service is not recommended after a colonoscopy. It's important to have someone you know and trust to take you home. Do you have a friend or family member who could help with this?\n\nPatient: I'll find someone.\n\nNurse: That's great to hear, Mr. Koroleva.\n\nPatient: I still have some time, so that's good.\n\nNurse: That's great to hear, Mr. Koroleva. It's critical to have someone you trust to take you home after the procedure. Do you have any other questions or concerns about the logistics of your colonoscopy?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: I do not.",
+    "responses": {
+        "gpt4": "I see, Mr. Koroleva. I want to make sure that we've covered everything. To summarize, we discussed the schedule for your procedure, your current medications, diet and laxative preparations, when to stop eating and drinking, plus the critical fact that you will need to arrange a ride home afterward. Does all of this sound accurate to you?",
+        "our_model": "Alright, Mr. Koroleva. To summarize, we discussed your upcoming colonoscopy on August 17 at 11:00 AM with Doctor Meredith Bailey. We went over your medication changes, diet preparation, and the bowel prep with NuLYTELY. You've agreed to stop taking Xarelto 5 days before the procedure, start a low fiber diet today, and arrange for a ride home after the procedure. Does that sound right?"
+    }
+}

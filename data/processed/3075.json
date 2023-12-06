@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3075,
+    "prompt": "Nurse: Of course, Mr. Hardy. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Specifically, it estimates how much blood passes through the tiny filters in your kidneys, called glomeruli, each minute. Urine Albumin refers to the amount of a protein called albumin in your urine. A high level of albumin can indicate kidney damage. Does that help clarify those terms for you, Mr. Hardy?\n\nPatient: Yeah. Boy, you are full of good information. Then.\n\nNurse: I'm glad you found the information helpful, Mr. Hardy. Is there anything else you'd like to know or discuss?\n\nPatient: Yeah. Do I need to take\n\nNurse: Yes, Mr. Hardy.\n\nPatient: one tablet a day of my of my app. A apixaban.\n\nNurse: I'm sorry, Mr. Hardy, could you please repeat your question?\n\nPatient: Yes. Do I need to just take one tablet a day of my prescription called apixaban.",
+    "responses": {
+        "gpt4": "Regarding your medication, Apixaban, you are prescribed to take it two times a day. So that would be one tablet in the morning and one in the evening. Are you taking it as prescribed, Mr. Hardy?",
+        "our_model": "According to your medication list, you should be taking Apixaban 5 mg two times a day, not just once. This medication is important for preventing blood clots, especially with your condition of Atrial Fibrillation. Are you currently taking it as prescribed, Mr. Hardy?"
+    }
+}

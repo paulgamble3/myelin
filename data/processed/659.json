@@ -1,0 +1,8 @@
+{
+    "prompt_id": 659,
+    "prompt": "Nurse: I apologize for the confusion. Are you still taking Digoxin?\n\nPatient: And, yes, I'm taking that in Enalapril.\n\nNurse: Good to hear. How about Sumpatriptan and Triamcinolone ointment?\n\nPatient: It is Summa Sumatriptan\n\nNurse: I apologize for the mispronunciation. Are you still taking Sumatriptan and applying Triamcinolone ointment as prescribed?\n\nPatient: and triamcinolone. And yes.\n\nNurse: Thank\n\nPatient: I am taking them",
+    "responses": {
+        "gpt4": "That's great to hear. How about Metformin and Riboflavin? Are you still taking those?\n",
+        "our_model": "you for That's great. Now, are you still taking Metformin and Riboflavin?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6219,
+    "prompt": "Nurse: Great. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Nothing else is\n\nNurse: I'm glad to hear that. I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: worrying me or that I want to discuss about the logistic\n\nNurse: I'm glad to hear that the logistics are clear. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good. Are there any other medications, like Advil, Aspirin, Aleeve, or other blood thinners, that you're currently taking?",
+        "our_model": "That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

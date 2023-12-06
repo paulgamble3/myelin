@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5598,
+    "prompt": "Nurse: That's a great choice, pasta is indeed a comfort food for many. Do you have a favorite pasta dish you're planning to make?\n\nPatient: I hadn't really thought about it. I mean, it's only one day.\n\nNurse: I see. It's a rare time when doctors want their patients to be eating low fiber comfort foods. It's a small change, but it can make a big difference in your colonoscopy prep. Let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. You will need to stop any supplements or anti-diarrheal medications before your colonoscopy. Do you have any questions about this?\n\nPatient: No. No.\n\nNurse: Alright. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me. It sounds like you're feeling a bit apprehensive about this part of the prep process. That's a normal feeling and most people say the procedure itself is no problem at all but the bowel prep can be tough. But, don't worry, we're here to support you every step of the way. Does that help you feel a little more at ease?",
+        "our_model": "I understand that it's not something you're looking forward to. Most people say the procedure itself is no problem at all but the bowel prep can be a bit tough. But we're here to support you every step of the way. Do you"
+    }
+}

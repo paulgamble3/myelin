@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1011,
+    "prompt": "Nurse: I apologize for misunderstanding. It's great to hear that you've been able to maintain a healthy weight. This is an important part of managing your conditions. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol intake?\n\nPatient: Yes.\n\nNurse: That's excellent to hear. Managing your alcohol intake is crucial for your overall health and particularly for managing your conditions. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes.\n\nNurse: Thank you for sharing that with me. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: No.\n\nNurse: I see. It's a big step to even consider quitting. Can you share with me why you feel you're not ready to quit at this time?\n\nPatient: Four.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, could you please repeat what you said?"
+    }
+}

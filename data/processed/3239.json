@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3239,
+    "prompt": "Nurse: Great, thank you. The recommendations are to limit your fluid intake to 1 liter per day and to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Okay.\n\nNurse: I understand that these changes can be challenging. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Yes, please.\n\nNurse: Absolutely. For example, instead of a burger, you might consider a grilled chicken salad. It's a lighter meal that can still be satisfying. As for the milkshake, perhaps you could try a fruit smoothie. It's a refreshing alternative that can be just as enjoyable. Remember, these are just suggestions. It's critical to find what works best for you.\n\nPatient: [NO RESPONSE]\n\nNurse: I understand that making dietary changes can be challenging. Do you have any questions or concerns about these suggestions?\n\nPatient: Sounds good.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you found the suggestions helpful. Remember, every small change can make a difference, and it's ok to take things one step at a time. Would you like to talk about your current exercise routine?",
+        "our_model": "I'm glad to hear that. Remember, the goal is to find a balance that you're comfortable with. Now, let's talk about exercise. Can you tell me about your current exercise routine?"
+    }
+}

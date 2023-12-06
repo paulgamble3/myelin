@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3629,
+    "prompt": "Nurse: That's great to hear, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?\n\nPatient: Yeah. I have some more questions about some of the earlier\n\nNurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: Off.\n\nNurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: What exactly would a high blood sugar be?\n\nNurse: Of course, Mr. Benton. A blood sugar level less than 140 mg/dL is considered normal. A reading of more than 200 mg/dL after two hours indicates diabetes. A reading between 140 and 199 mg/dL indicates prediabetes. Does that answer your question?\n\nPatient: Yeah. And then why exactly do I have to pee in a cup for the urine albumin test.",
+    "responses": {
+        "gpt4": "That's a great question, Mr. Benton. The urine albumin test is a urine test that measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. If you have type 2 diabetes, a urine albumin test is important because it helps your doctor check for kidney damage. Does this answer your question?",
+        "our_model": "I'm sorry, Mr. Benton, I didn't quite catch that. Could you please confirm what you said about your blood sugar?"
+    }
+}

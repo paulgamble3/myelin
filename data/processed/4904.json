@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4904,
+    "prompt": "Nurse: That sounds like a lovely way to spend your time. Do you have any favorite Christmas TV shows that you're excited to watch?\n\nPatient: Oh, you know, the Hallmark Christmas movies.\n\nNurse: Those Hallmark Christmas movies are indeed a delight to watch. They always bring a sense of warmth and joy. Do you have a favorite one from their collection?\n\nPatient: No. Not really.\n\nNurse: That's perfectly fine. The joy is in watching them all and discovering new stories. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: Well, I have quite a few things going on with my help. What does stage two kidney disease mean?\n\nNurse: Stage II CKD, or Chronic Kidney Disease, means that your kidneys are not functioning at their full capacity. It's a condition where your kidneys are not able to filter waste from your blood as effectively as they should. This can lead to a buildup of waste in your body. It's important to manage this condition to prevent it from progressing to more severe stages. Do you have any other questions or concerns about your health?\n\nPatient: Let's see.",
+    "responses": {
+        "gpt4": "Take your time. If there's anything you're unsure about or any symptoms you've been experiencing, feel free to discuss them. I'm here to assist.\n",
+        "our_model": "Of course, take your time. I'm here to help answer any questions you may have."
+    }
+}

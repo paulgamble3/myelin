@@ -1,0 +1,8 @@
+{
+    "prompt_id": 546,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lily Adams?\n\nPatient: Yep. That's me.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well now that you're back home from the hospital. How are you feeling today?\n\nPatient: I'm doing pretty good. Thanks. How are you feeling?\n\nNurse: As an AI, I don't have feelings, but I'm here to assist you. I'm glad to hear you're doing well. It must be nice to be back home. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Well, Just looking for just seeing my family more. We're actually all going on a cruise in a couple of weeks, so we're pretty excited for that.\n\nNurse: That sounds wonderful. Family time is precious, and a cruise sounds like a fantastic way to spend it. What kind of activities are you planning to do on the cruise?\n\nPatient: Well, it's an Alaskan cruise. So it's gonna do a lot of sites seeing And",
+    "responses": {
+        "gpt4": "That's intriguing. Alaskan cruises are known for their breathtaking views and close encounters with wildlife. I hope you'll get to see some of Alaska's renowned sights such as glaciers and maybe even the Northern Lights. Do you enjoy nature and wildlife often or is this going to be a new experience for you?",
+        "our_model": "That sounds amazing."
+    }
+}

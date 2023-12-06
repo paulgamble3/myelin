@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1970,
+    "prompt": "Nurse: I'm here to assist you, so I don't have feelings, but I can tell you that it's normal to have some anxiety before a procedure. However, your surgeon, Doctor Cristina Stevens, is highly experienced and will take great care of you. Do you have any questions or concerns you'd like to discuss before we move on to the logistics of your procedure?\n\nPatient: No. We can move on.\n\nNurse: Alright, let's move on to the logistics then. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Mhmm. Sure.\n\nNurse: Great, let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Okay.\n\nNurse: You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "I'm sorry, I think we may have had a small hiccup. Are you okay with the time and date for your knee replacement that I just mentioned, which is August 13th at 9:00 AM, with arrival at 8:00 AM?",
+        "our_model": "You'll need to arrive about 1 hour before your procedure, so at 8:00 AM. Does that work for you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3208,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Hello Patient. I hope you're doing well. I can imagine you must be glad to be finally home from the hospital. May I ask, what are you looking forward to doing now that you're back home?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 638,
+    "prompt": "Nurse: That's great, Ms. Raynier. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Completely understand.\n\nNurse: I'm glad to hear that, Ms. Raynier. It's crucial to follow these instructions for your safety. Now, I know I've shared a lot of information with you, but we're almost done. I have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: For you.\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I have a question for you.\n\nNurse: Of course, Ms. Raynier. What's your question?\n\nPatient: So since I'm getting a new",
+    "responses": {
+        "gpt4": "I apologize, Ms. Raynier, could you please complete your question? You mentioned you're getting a new knee and then your sentence cut off.",
+        "our_model": "I'm sorry for the interruption, Ms. Raynier. Could you please repeat your question?"
+    }
+}

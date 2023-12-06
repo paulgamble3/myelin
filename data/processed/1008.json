@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1008,
+    "prompt": "Nurse: That's good to hear. Regular monitoring and managing your blood pressure is key in managing hypertension. Now, let's talk about your obesity. Have you been able to maintain a healthy weight or have there been any changes recently?\n\nPatient: Nope.\n\nNurse: I see. Maintaining a healthy weight is important for managing your conditions. Have you tried any weight loss strategies or do you have any plans to start?\n\nPatient: I said no to any changes. I've not had any changes.\n\nNurse: I see, thank you for clarifying. If you're open to it, I can provide some suggestions on how to manage your weight. Would you like me to do that?\n\nPatient: So I have been able to maintain a healthy weight.\n\nNurse: I apologize for misunderstanding. It's great to hear that you've been able to maintain a healthy weight. This is an important part of managing your conditions. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol intake?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good news. Managing alcohol use is an important part of your overall health plan. Do you have any concerns or questions about this that you would like to discuss?",
+        "our_model": "That's excellent to hear. Managing your alcohol intake is crucial for your overall health and particularly for managing your conditions. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
+    }
+}

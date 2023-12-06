@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5161,
+    "prompt": "Nurse: Wonderful. I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Oh, you mentioned them. I like rice and pasta mashed potatoes, yogurt\n\nNurse: Those are all excellent choices. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you usually cook these at home or do you have a favorite place where you get them from?\n\nPatient: It's\n\nNurse: a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods or any questions about the diet?\n\nPatient: Oh, I said I like white bread.\n\nNurse: White bread is also a good choice. It's great that you're aware of these low fiber foods. Do you have any other questions about the diet or shall we move on to discuss supplements?\n\nPatient: You can move on.",
+    "responses": {
+        "gpt4": "Alright. In preparation for your colonoscopy, you will also need to stop any supplements you take including Psyllium husk and any anti-diarrheal medications. Are you currently taking any?",
+        "our_model": "Alright. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

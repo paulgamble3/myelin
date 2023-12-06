@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3125,
+    "prompt": "Patient: Yes.\n\nNurse: Excellent, Mr. Valenzuela. I hope your day is going well so far. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling good. I mean, I just wanna get it over with, you know,\n\nPatient: Get it done.\n\nNurse: Absolutely, Mr. Valenzuela. It's completely normal to feel that way. It's a big step, but it's also a crucial one in managing your health. Before we dive into the details, do you have any questions or concerns you'd like to discuss?\n\nPatient: Not really. Let's let's dive in.\n\nNurse: Alright, Mr. Valenzuela. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I know it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I am feeling hopeful",
+    "responses": {
+        "gpt4": "That's a positive approach, Mr. Valenzuela. I sincerely hope this procedure gives you and your doctor the answers you're looking for. Now, if it's alright with you, I'd like to go over a few topics on prep for your colonoscopy to make sure you're fully prepared. How does that sound?",
+        "our_model": "That's a wonderful attitude to have, Mr. Valenzuela. We hope this procedure gives you and your doctor the answers you're looking for. If it's alright with you, I'd like to go over a few topics on prep for your colonoscopy. Is that okay?"
+    }
+}

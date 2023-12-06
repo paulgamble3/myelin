@@ -1,0 +1,8 @@
+{
+    "prompt_id": 815,
+    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. It sounds like you're making an effort to include a variety of foods in your diet. Can you tell me more about the types of vegetables you used in your chicken soup?\n\nPatient: Oh,\n\nNurse: When did the change in speech start?\n\nPatient: bill with Tara.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat the types of vegetables you used in your chicken soup?\n\nPatient: And celery.\n\nNurse: When did the change in speech start?\n\nPatient: And I put some green beans in there.",
+    "responses": {
+        "gpt4": "When did you first notice a change in your speech, Ms. Aguirre?",
+        "our_model": "When did the change in speech start?"
+    }
+}

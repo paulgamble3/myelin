@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4004,
+    "prompt": "Patient: Yes. I am. Taking all my meds.\n\nPatient: Thank you for asking.\n\nNurse: That's great to hear, Ms. Warrell. Staying on top of your medications is an important part of managing your health. Are you taking them twice a day as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent, Ms. Warrell. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?\n\nPatient: Oh, no. I don't. I have a pretty good\n\nNurse: That's fantastic, Ms. Warrell. It's great to hear that you've found a system that works for you. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Too.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Warrell, but your response was cut off. Could you please repeat that? Do you give permission for me to proceed with the symptom check?",
+        "our_model": "That's fantastic, Ms. Warrell. Having a good routine is key to managing medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

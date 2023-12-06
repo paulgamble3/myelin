@@ -1,0 +1,8 @@
+{
+    "prompt_id": 900,
+    "prompt": "Nurse: I'm glad to hear that you're feeling at home. Is there anything you're looking forward to doing this week?\n\nPatient: I'm really looking forward to hanging out with you and my friend.\n\nNurse: That sounds like a wonderful plan. What activities do you usually enjoy doing with your friend?\n\nPatient: We love to go see the movies.\n\nNurse: That's great! Watching movies is a wonderful way to relax and enjoy some time off. Do you have a favorite genre or a movie you're planning to see?\n\nPatient: I really like anything that like, dramatic. But I also really like to laugh, so a good comedy has never heard.\n\nNurse: It sounds like you have a great balance of interests. Laughter and drama can both be very therapeutic. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: I don't think so.",
+    "responses": {
+        "gpt4": "Alright. If any health concerns come to mind during our call, please feel free to share them. Do you have any questions for me before we delve into some topics related to your health?",
+        "our_model": "Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?"
+    }
+}

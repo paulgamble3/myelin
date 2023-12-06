@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6331,
+    "prompt": "Nurse: That's a great question, Mr. Gardner. The fluid restriction of 1.5 liters is a daily limit. It includes all fluids, not just water, such as soup, coffee, or any other beverages. One way to measure it could be using a measuring cup. Do you have any other questions or concerns about your diet or anything else?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Gardner. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yeah.\n\nNurse: That's great to hear, Mr. Gardner. Are you taking the Lasix 20 mg tablets two times a day as prescribed?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Gardner. You're doing a great job. Now, are you still taking your Valsartan?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Great, Mr. Gardner. It's common to sometimes forget to take a medication here or there. Do you ever have trouble remembering to take your medications on time?",
+        "our_model": "That's good to hear, Mr. Gardner. It's critical to continue taking your Valsartan as it helps manage your CHF and HTN. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

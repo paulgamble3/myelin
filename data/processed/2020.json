@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2020,
+    "prompt": "Nurse: I appreciate you sharing your concerns with me. It's important to address these feelings. Remember, you can ask me any questions at any time during our conversation. Now, I'd like to ask, what are you looking forward to doing once you've recovered from your knee replacement?\n\nPatient: I just like to be able to walk without painting.\n\nNurse: That's a wonderful goal. Walking without pain can significantly improve your quality of life. It's a simple pleasure that we often take for granted. Do you have a favorite place or route you're excited to walk again without pain?\n\nPatient: Cool. I just walked around my neighborhood.\n\nNurse: That sounds lovely. Walking in your neighborhood can be a great way to enjoy the outdoors and stay active. It's a goal worth looking forward to. Now, let's move on to some logistics. Is it okay if we review a few topics related to your upcoming procedure?\n\nPatient: Okay.\n\nNurse: Perfect, thank you. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Fantastic. Once you arrive at O'Connor hospital, your check-in location will be on the 1st floor. Does that sound good to you?",
+        "our_model": "Wonderful. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

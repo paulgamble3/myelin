@@ -1,0 +1,8 @@
+{
+    "prompt_id": 386,
+    "prompt": "Nurse: Of course, Mr. Koroleva.\n\nPatient: instructions. Right? That seems like I have to take it in the morning and it's evening, and I don't understand why do I have to take it\n\nNurse: Absolutely, Mr. Koroleva.\n\nPatient: in the morning and evening.\n\nNurse: That's a great question, Mr. Koroleva. The NuLYTELY laxative solution is designed to clean out your colon. You'll start drinking it the night before your procedure, around 6 PM. Then, you'll wake up early the morning of the procedure to finish the second half of the solution. This timing ensures that your colon is as clean as possible for the procedure. Does that help clarify things?\n\nPatient: It does. Yes. And early morning, what time do I need to start this solution in the morning.\n\nNurse: You'll need to start drinking the second half of the NuLYTELY laxative solution around 6 AM, Mr. Koroleva. This will give it enough time to work before your procedure at 11 AM. Does that make sense?\n\nPatient: Yeah. I mean, I guess so.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Koroleva. Would you like some tips on making the bowel prep easier?",
+        "our_model": "I'm glad to hear that, Mr. Koroleva. It's essential to follow these instructions to ensure your colonoscopy goes smoothly. Would you like some tips on making the bowel prep easier?"
+    }
+}

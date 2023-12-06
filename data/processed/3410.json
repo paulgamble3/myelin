@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3410,
+    "prompt": "Nurse: Wonderful, thank you, Mr. Jimenez. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Great, thank you for confirming, Mr. Jimenez. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Jimenez. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No. Not really.\n\nNurse: Alright, Mr. Jimenez. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Fantastic, Mr. Jimenez. I see on your chart that you take several medications which include Tylenol 500 mg, Celebrex 100 mg, and Atorvastatin 40 mg. Can you please confirm that you've continued taking these as instructed?",
+        "our_model": "Thank you, Mr. Jimenez. I see on your chart that you are currently taking Tylenol, Celebrex, and Atorvastatin. There are no changes to these medications before your surgery. Are you still taking these medications as prescribed?"
+    }
+}

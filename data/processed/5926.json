@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5926,
+    "prompt": "Nurse: I apologize for the confusion earlier. The correct dosage for Metoprolol is actually two 25 mg extended-release (ER) oral tablets daily, not a single 50 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. The correct dosage for Lisinopril is actually two 10 mg oral tablets daily, not a single 20 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss Lantus. You should be taking 15 units every night at bedtime. Have you been able to do that?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. Now, let's discuss Metformin. You should be taking a 1000 mg oral tablet twice daily. Have you been able to do this?",
+        "our_model": "That's good to hear. Now, let's discuss Aspart. You should be taking 5 units three times a day. Have you been able to do that?"
+    }
+}

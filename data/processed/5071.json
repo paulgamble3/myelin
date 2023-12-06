@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5071,
+    "prompt": "Patient: Yep.\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nNurse: I'm glad to hear that, Mr. Koroleva. Is there anything else about the logistics that's worrying you or anything else you'd like to know?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications, but I want to make sure you're ready. Can we proceed?\n\nPatient: Yep.\n\nNurse: Thank you, Mr. Koroleva. I see on your chart that you're currently taking Xarelto 10 mg once a day. Given the instructions for your colonoscopy, you'll need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Just a moment here, Mr. Koroleva. I want to be sure I'm giving you the best support I can. Do you have any questions about stopping Xarelto or about the medication itself?",
+        "our_model": "Okay, Mr. Koroleva. Do you have any questions about stopping Xarelto or any concerns about how this might affect you?"
+    }
+}

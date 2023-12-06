@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2128,
+    "prompt": "Patient: Hello.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Timoteo Valenzuela?\n\nPatient: Yes. It is.\n\nNurse: Great, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yeah. Absolutely.\n\nNurse: Excellent, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: Day has been pretty good. A little worried about the upcoming seizure, but all in all a good day.",
+    "responses": {
+        "gpt4": "I appreciate your honesty about feeling worried about your upcoming colonoscopy. It's completely normal to feel a bit anxious about medical procedures. Would you like me to provide more information about the procedure, or is there something specific that's concerning you about it?",
+        "our_model": "I'm glad to hear that you're having a good day, Mr. Valenzuela. It's completely normal to have some worries about upcoming medical procedures. How are you feeling about your colonoscopy procedure?"
+    }
+}

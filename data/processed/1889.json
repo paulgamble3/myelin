@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1889,
+    "prompt": "Nurse: A murder mystery party sounds exciting! Have you been to one before?\n\nPatient: Yes. They're very fun.\n\nNurse: That's wonderful! It's always a good time when you can enjoy a mystery. Before we move on, is there anything you've been feeling concerned about health-wise?\n\nPatient: Nope.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your kidney disease now?\n\nPatient: Sure.\n\nNurse: Excellent. Since you have Stage I CKD, it's important to monitor your blood pressure regularly. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: One twenty two over eighty two.",
+    "responses": {
+        "gpt4": "That's a good reading within the normal range. Maintaining a healthy blood pressure is one key factor in managing your kidney disease. Do you measure your blood pressure regularly?",
+        "our_model": "Thank you for sharing that. It's great that you're keeping track of your blood pressure. It's a bit high, but not too far off. Would you like some suggestions on how to manage your blood pressure?"
+    }
+}

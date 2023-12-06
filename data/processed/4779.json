@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4779,
+    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been very good. Thank you for asking, Rachel.\n\nNurse: I'm glad to hear that. What made your day good so far?\n\nPatient: Well, it's very sunny and pretty here.\n\nNurse: That sounds lovely, sunny days can indeed make a day better. Do you have any special plans to enjoy the weather?\n\nPatient: And",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite get that. Could you please repeat?",
+        "our_model": "I'm sorry, could you please repeat the last part?"
+    }
+}

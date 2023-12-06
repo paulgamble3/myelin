@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2767,
+    "prompt": "Nurse: I'm sorry, Mr. Stevens, could you please repeat your question?\n\nPatient: Yes. I think I'm through with the call. Thank you so much.\n\nNurse: You're welcome, Mr. Stevens. I appreciate your time and patience. If you have any questions in the future, don't hesitate to reach out. Take care and have a great day! [\n\nPatient: Summarize what we talked about. Can you\n\nNurse: Of course, Mr. Stevens. We discussed your symptoms, medications, and dietary recommendations. You're doing well with your medications and haven't noticed any new or worsening symptoms. We also talked about the Cardiac diet, DASH diet, and Sodium Limited Diet, which can help manage your CHF, HTN, and CKD. Remember to keep an eye on your symptoms and continue following these dietary recommendations. If you have any questions or concerns in the future, don't hesitate to reach out. [\n\nPatient: Tell me what we talked about.\n\nNurse: Of course, Mr. Stevens. We discussed your hobby of baking, particularly cupcakes and bread. We also confirmed that you're taking your medications as prescribed and reviewed your symptoms. I provided some dietary recommendations, including the Cardiac diet, the DASH diet, and the Sodium Limited Diet. I hope this summary is helpful. Do you have any other questions or concerns?\n\nPatient: Rachel?",
+    "responses": {
+        "gpt4": "Yes, Mr. Stevens, I'm here. How can I assist you further?",
+        "our_model": "Yes, Mr. Stevens, I'm here. Is there anything else you'd like to discuss?"
+    }
+}

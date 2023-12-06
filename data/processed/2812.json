@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2812,
+    "prompt": "Nurse: Alright, if any questions come up later, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. There's nothing I'd like to discuss. I have no questions.\n\nNurse: Alright, let's move on to the first of my last two questions. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of the procedure or anything else you'd like to discuss?\n\nPatient: No, ma'am. I have no questions at all.",
+    "responses": {
+        "gpt4": "Alright, thank you for answering those questions. If anything else arises before the day of your procedure, don't hesitate to call us. That being said, is there anything else you'd like to discuss or are you feeling ready for the conclusion of our call today?",
+        "our_model": "Alright, if any questions come up later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

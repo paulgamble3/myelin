@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5096,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Good to connect with you. I'm calling to discuss your upcoming colonoscopy. Is this a good time to talk? Also, how has your day been?",
+        "our_model": "Good morning. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?"
+    }
+}

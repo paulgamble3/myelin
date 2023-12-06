@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4409,
+    "prompt": "Nurse: Excellent. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?\n\nPatient: Yeah.\n\nNurse: That's great to hear. It's essential to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No.\n\nNurse: Alright. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I'm not.\n\nNurse: That's good to hear. It's critical to avoid those medications before surgery unless specifically recommended by your doctor. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yeah. I have.",
+    "responses": {
+        "gpt4": "Excellent, you are well prepared. Do you have any questions about these medications or how to take them?",
+        "our_model": "That's excellent. It's critical to have those medications on hand for after your procedure. Do you have any questions about these medications or their usage?"
+    }
+}

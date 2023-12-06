@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5776,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that last part. Could you please repeat it?\n\nPatient: Oh, I said yogurt.\n\nNurse: Ah, yogurt is a great choice! It's a good source of protein and can be a comforting food. Just remember to choose a low-fiber variety. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Yeah.\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: I didn't say anything.",
+    "responses": {
+        "gpt4": "My apologies for the confusion. Could you please clarify if you are taking any supplements or anti-diarrheal medications currently?",
+        "our_model": "My apologies for the confusion. Let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

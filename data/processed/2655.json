@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2655,
+    "prompt": "Nurse: I'm glad to hear that you're eating well, Ms. Cruz. Could you share a bit more about the types of meals you've been having?\n\nPatient: That's my meals.\n\nNurse: That's great to hear, Ms. Cruz. Could you share a bit more about what you consider to be \"good stuff\" in your meals?\n\nPatient: Yeah. Lots of vegetables. Oh,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat what you said about your meals?\n\nPatient: a lot of I love tomatoes,\n\nNurse: That's wonderful, Ms. Cruz. Tomatoes are a great source of vitamins and antioxidants. How do you usually prepare your tomatoes?\n\nPatient: salads. I'd really love salads. Like, Greek",
+    "responses": {
+        "gpt4": "I'm glad to hear you enjoy making salads, especially Greek salads, Ms. Cruz. They are indeed nutritious. Is there anything else you would like to share about your meals or diet?",
+        "our_model": "That sounds delicious, Ms. Cruz. Greek salads can be a great way to include a variety of vegetables in your diet. Do you usually have any protein like chicken or fish with your salad?"
+    }
+}

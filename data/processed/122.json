@@ -1,0 +1,8 @@
+{
+    "prompt_id": 122,
+    "prompt": "Patient: I see, like, a first grade I can do that. So Well, I can do it too.\n\nNurse: I'm glad to hear you found the tips helpful. It's all about making the process as comfortable as possible for you. Do you have any other questions about the bowel prep or is there anything else you'd like to discuss?\n\nPatient: No questions.\n\nNurse: Alright, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: So I need to stop\n\nPatient: Having anything, you said? What does that mean?\n\nNurse: That's a great question. It means that you should stop consuming any food or drink, including water, 4 hours before your procedure. This is to ensure your stomach is empty for the procedure. I'll make a note of your concerns for your care team to review. Does that answer your question?\n\nPatient: So I cannot even have water, you say?",
+    "responses": {
+        "gpt4": "Yes, that's correct. You should not consume anything, including water, 4 hours prior to your procedure. This is to make sure your stomach and intestines are as empty as possible for the colonoscopy. Is there anything else you're curious about?",
+        "our_model": "Yes, that's correct. You should stop consuming any food or drink, including water, 4 hours before your procedure. This is to ensure your stomach is empty for the procedure. I'll make a note of your concerns for your care team to review. Does that make sense?"
+    }
+}

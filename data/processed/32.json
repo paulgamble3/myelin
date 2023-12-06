@@ -1,0 +1,8 @@
+{
+    "prompt_id": 32,
+    "prompt": "Nurse: Chicken soup sounds delicious. How did you prepare it?\n\nPatient: I also been trying to eat healthier. And I started to eat a lot of salad. I'm using this Italian dressing. It's called Wishbone Italian dressing. Can you tell me How much salt is in that dressing?\n\nNurse: I'm glad to hear you're making an effort to eat healthier. As for the Wishbone Italian dressing, it contains approximately 260 mg of sodium per serving, which is about 2 tablespoons. It's essential to monitor your sodium intake, especially with your conditions. Would you like me to provide some suggestions on how to manage your sodium intake?\n\nPatient: No. It's okay. Thank you.\n\nNurse: You're welcome. It's great to hear that you're making an effort to eat healthier. Now, let's discuss your obesity. Have you noticed any changes in your weight recently?\n\nPatient: No. I haven't.\n\nNurse: That's okay. It's essential to continue monitoring your weight regularly. Regular physical activity and a balanced diet can help manage your weight. Would you like me to provide some suggestions on how to manage your weight?\n\nPatient: No. That's fine, but thank you.",
+    "responses": {
+        "gpt4": "Of course, please feel free to reach out if you change your mind or have any questions in the future. I\ufffd\ufffd\ufffdd like to ask about your smoking habits, if there are any. Do you currently smoke or use e-cigarettes?",
+        "our_model": "You're welcome. It's great to hear that you're making an effort to manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?"
+    }
+}

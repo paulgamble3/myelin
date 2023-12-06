@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5947,
+    "prompt": "Patient: No.\n\nNurse: Does the patient develop a severe headache?\n\nPatient: No.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: No.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you.\n\nNurse: Does the patient report trouble walking?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Then they should understand that if any of the FAST signs occur in the future they should call 911 immediately. It's important to remember the acronym FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 911. I appreciate you answering those questions. \n\nNow, to move forward with checking on your chronic health conditions, can you share how your Stage IIIA CKD has been? Have you noticed any changes in your energy levels or symptoms?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6004,
+    "prompt": "Nurse: Hello, I'm here. I was saying that it's great you're eating salads and I'd like to provide some suggestions on how to make your meals align better with the renal diet. Is that okay?\n\nPatient: Well, I was\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Wishbone salad dressing. I'm\n\nNurse: I'm sorry, could you please repeat\n\nPatient: Is that\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: okay. I mean, is there a lot of salt in that or something? Or or",
+    "responses": {
+        "gpt4": "I understand your concern. Different salad dressings have varying levels of sodium. In general, it's always good to check the nutrition facts on the label. The recommended daily allowance (RDA) for sodium is less than 2,300 mg - that's about 1 teaspoon of table salt. Specifically for Wishbone Italian dressing, one serving (2 tablespoons) contains 320 mg of sodium, which is quite high. There isn't a one-size-fits-all answer because sodium needs can vary, especially for patients with diet restrictions due to conditions such as hypertension or kidney diseases. But as a general guideline, foods with less than 120 mg of sodium per 100 grams are considered low in sodium. Would you like some suggestions on alternatives or how to make your own low-sodium dressing?",
+        "our_model": "I'm sorry, could you please repeat your question?"
+    }
+}

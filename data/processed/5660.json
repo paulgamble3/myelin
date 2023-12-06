@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5660,
+    "prompt": "Nurse: Excellent. It's important to listen to your body while exercising. If you feel short of breath or fatigued, it's okay to slow down or take a break. Also, consider incorporating some light strength training exercises into your routine, as they can help improve your overall strength and endurance. Remember, it's always a good idea to consult with your doctor before starting any new exercise routine. Does this sound manageable to you?\n\nPatient: It does. Can I ask a question?\n\nNurse: Of course, you can. What's your question?\n\nPatient: Are there specific environmental\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Extreme temperatures that I should be cautious of with CHF?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Are there specific environmental factors?",
+    "responses": {
+        "gpt4": "I'm sorry, you were saying?",
+        "our_model": "I apologize for the confusion earlier. You asked about specific environmental factors to be cautious of with CHF, correct?"
+    }
+}

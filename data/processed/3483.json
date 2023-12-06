@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3483,
+    "prompt": "Patient: I said I really like clock.\n\nPatient: Done?\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: I really like pasta.\n\nNurse: That's great!\n\nPatient: Done.\n\nNurse: That's great! Pasta is a good choice for a low fiber diet. You can enjoy it with a simple sauce. Do you have a favorite pasta dish?\n\nPatient: Just like it plain.",
+    "responses": {
+        "gpt4": "Plain pasta can be quite comforting. Just remember to remove any high fiber ingredients like tomatoes or vegetables in the days leading up to your colonoscopy. Any questions on this topic?",
+        "our_model": "Plain pasta is a good choice. It's simple and easy to digest. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5889,
+    "prompt": "Nurse: Thank you for your confirmation, Mr. Dang. Is there anything else about the logistics that's worrying you?\n\nPatient: No. I don't have any concern with the logistics.\n\nNurse: I'm glad to hear that, Mr. Dang. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Ready to move on.\n\nNurse: I see on your chart that you're currently taking Xarelto 10 mg once a day. You'll need to stop this medication 5 days before the procedure. That means you should stop taking Xarelto on August 12. Does that make sense, Mr. Dang?\n\nPatient: Yes. It does.\n\nNurse: Do you have any questions about stopping Xarelto, Mr. Dang?\n\nPatient: For",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that?",
+        "our_model": "I'm sorry, Mr. Dang, could you please repeat your question?"
+    }
+}

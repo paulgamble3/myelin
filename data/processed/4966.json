@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4966,
+    "prompt": "Nurse: That's good to hear, Mr. Hooper. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Hooper. How about a new or worsening dry cough?\n\nPatient: No dry cough whatsoever. Hooper.\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat your response?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Hooper. Now, have you noticed any increased swelling\n\nPatient: Dry,",
+    "responses": {
+        "gpt4": "I apologize for the misunderstanding. You mentioned that you haven't experienced any dry cough. Let's move on. Have you noticed any more swelling in your ankles or feet than usual?",
+        "our_model": "in your"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3269,
+    "prompt": "Nurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you. Thank you for confirming, Patient. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear, Patient. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: So\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.",
+    "responses": {
+        "gpt4": "I apologize for misunderstanding earlier. It seems there may have been a miscommunication of some sort. Did you mention that you have a cough?",
+        "our_model": "Thank you for confirming, Patient. Lastly, have you been using more pillows at night to sleep?"
+    }
+}

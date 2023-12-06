@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1603,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Damian Benton?\n\nPatient: Yes.\n\nNurse: Great, Mr. Benton. I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso, to check in on you. How have you been doing lately?\n\nPatient: Well, I think with all of my health issues, I'm doing pretty good, you know, considering\n\nNurse: I'm glad to hear that you're doing well, Mr. Benton. It's important to focus on the positive. Is there anything you're looking forward to doing this week?\n\nPatient: Probably do a little Christmas baking.\n\nNurse: That sounds like a lovely plan, Mr. Benton. Christmas baking can be such a joy. What kind of treats are you planning to make?\n\nPatient: Well, I have all these healthy recipes that I've discovered",
+    "responses": {
+        "gpt4": "That's fantastic, Mr. Benton! Incorporating health-conscious recipes into favorite holiday traditions can be a great way. What's one of your favorite healthy recipes you're excited to try?",
+        "our_model": "That's wonderful, Mr. Benton."
+    }
+}

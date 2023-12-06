@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6256,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling exhausted, Mr. Alves. Procedures like colonoscopies can indeed be quite a process. I hope this procedure gives you and your doctor the answers you're looking for. Do you have any specific questions or concerns you'd like to discuss before we begin?\n\nPatient: No. I just wanna get it over with.\n\nNurse: I can appreciate that, Mr. Alves. It's essential to feel prepared and informed. If you have any questions at any point during our conversation, please feel free to ask. Are you okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Alves.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first\n\nPatient: I said yes.",
+    "responses": {
+        "gpt4": "Thank you for your confirmation, Mr. Alves. Let's start with your diet before the colonoscopy. From two days before the procedure, you'll need to follow a low-residue diet to help ensure your colon is as clean as possible. This diet includes clear broths, plain noodles, white bread, and cooked eggs. We will send you a detailed diet guideline over email. Could you confirm your email address for me, please?",
+        "our_model": "Thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received your prep instructions from Doctor Bailey's office?"
+    }
+}

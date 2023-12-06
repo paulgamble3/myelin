@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1249,
+    "prompt": "Nurse: That's good to hear, Ms. Raynier. It's critical to avoid those medications before your surgery unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: Well, yeah. I\n\nNurse: I'm sorry, Ms. Raynier, you were saying something?\n\nPatient: what I do, I take asthma.\n\nNurse: I'm sorry, Ms. Raynier, could you please repeat that?\n\nPatient: Oh, sorry. I normally take Advent Adventville, but not at the moment.\n\nNurse: I see, Ms. Raynier. You're currently not taking Albuterol for your asthma, correct?\n\nPatient: I don't have asthma.",
+    "responses": {
+        "gpt4": "I apologize for the confusion, Ms. Raynier. Let me clarify. You were discussing the medications you have been prescribed after your surgery, Tylenol and Tramadol. Have you gotten these medications yet?",
+        "our_model": "My apologies for misunderstanding, Ms. Raynier. I see that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2248,
+    "prompt": "Nurse: I appreciate your patience, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: All\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat your response?\n\nPatient: No. I said no.\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, or have you experienced any feelings of faintness or dizziness?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for sharing, Mr. Valenzuela. Have you had any fever or severe abdominal pain along with your diarrhea?",
+        "our_model": "Have you had a fever, Mr. Valenzuela?"
+    }
+}

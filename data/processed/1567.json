@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1567,
+    "prompt": "Nurse: I see, Mr. Reynolds. The preparation for a colonoscopy can indeed be a bit uncomfortable. It's designed to clean out your colon so that Doctor\n\nPatient: For hours. And\n\nNurse: Give me a moment to check how I can best support you.\n\nPatient: then you gotta go have somebody pick up two above your butt. So\n\nNurse: I see, I'm sorry, Mr. Reynolds, I didn't quite catch the last part of what you said. Could you please repeat that?\n\nPatient: It's not fun.\n\nNurse: I can see why you might find the preparation and the procedure itself a bit challenging, Mr. Reynolds. It's definitely not the most comfortable of experiences. However, it's great that you're taking this step for your health. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright then, Mr. Reynolds. While it's not the most pleasant procedure, the colonoscopy is very important for the early detection and prevention of conditions like colon cancer. Your doctor wants to ensure your best health, and this is one of the most effective ways to do so. We appreciate your understanding and cooperation. Remember that our team is here for you if you have any concerns or questions in the lead-up to your procedure.\n\nNow, shall we proceed with the preparation instructions for your colonoscopy?",
+        "our_model": "Alright, Mr. Reynolds. Please remember that you can ask me any questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

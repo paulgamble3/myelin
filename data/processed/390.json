@@ -1,0 +1,8 @@
+{
+    "prompt_id": 390,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Koroleva. It's essential to follow these instructions to ensure your colonoscopy goes smoothly. Would you like some tips on making the bowel prep easier?\n\nPatient: Yes, please. What are the tips?\n\nNurse: I'm glad you asked, Mr. Koroleva. Here are a couple of tips that might make the bowel prep easier for you. First, you can drink the laxative solution cold, which some people find makes it more palatable. Second, you can drink the solution through a straw, which can help it go down easier. What do you think about these tips?\n\nPatient: I okay. I'll try it out. We'll see how it goes. But I'm gonna just chug it.\n\nNurse: That's a good attitude, Mr. Koroleva. It's all about finding what works best for you. Do you have any other questions about the bowel prep?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. Now, let's move on to the next part of your prep, which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Does that make sense?\n\nPatient: Well, I'm glad that it's in the morning. So in the morning, I don't not that hungry, so that's good.",
+    "responses": {
+        "gpt4": "Absolutely, Mr. Koroleva. That's why your doctor scheduled your procedure for the morning. It can be much tougher to fast later in the day. Are there any concerns you have about this step of the prep?",
+        "our_model": "I'm glad to hear that, Mr. Koroleva. It's indeed easier when you're not too hungry. Do you have any questions about when to stop eating and drinking before your procedure?"
+    }
+}

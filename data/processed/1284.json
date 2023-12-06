@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1284,
+    "prompt": "Nurse: Thank you, Mr. O'Leary. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yes.\n\nNurse: Great, let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. O'Leary. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. O'Leary. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. O'Leary. I'm glad I could help clarify things for you. Let's now move on to discuss your medications, is that okay with you?",
+        "our_model": "Alright, Mr. O'Leary. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications. Is it okay if we proceed?"
+    }
+}

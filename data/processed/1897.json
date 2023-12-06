@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1897,
+    "prompt": "Nurse: Alright. Let's move on to your medications. You're currently taking Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No.\n\nNurse: That's excellent. It's important to take your medication as prescribed to manage your conditions effectively. Now, I'd like to remind you that there are certain medications and supplements that aren't safe for patients with CKD to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Let's see. I'll eat eggs. Salad, chicken, quinoa, brown rice, things like that.",
+    "responses": {
+        "gpt4": "Those are all healthy choices, good job. It sounds like you manage to maintain a balanced diet. Do you mind if I provide some suggestions to continue supporting your overall health and your kidney health?",
+        "our_model": "It sounds like you're making some healthy choices with your meals. Eggs, salad, chicken, quinoa, and brown rice are all good options. Do you mind if I provide some suggestions to further align your diet with your health needs?"
+    }
+}

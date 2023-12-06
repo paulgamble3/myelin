@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4432,
+    "prompt": "Nurse: I'm sorry I can imagine it's quite a relief to be back in your own space, Mr. Delarosa. It's completely normal to have a mix of emotions after a hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Nothing in particular. I'm just happy to be home.\n\nNurse: That's perfectly fine, Mr. Delarosa. There's no place like home, after all. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Oh, I don't know. I I like knitting.\n\nNurse: Knitting is a wonderful hobby, Mr. Delarosa. It's therapeutic and can be quite relaxing. What do you usually knit?\n\nPatient: Socks.\n\nNurse: That's impressive, Mr. Delarosa. Knitting socks requires a lot of skill and patience. Do you have a favorite pair that you've made?\n\nPatient: No. I like them all.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Delarosa. Your enjoyment in knitting every pair of socks speaks volumes about your passion. Now let's move to the main purpose of this call. Do you have any questions or concerns about your health that you'd like Dr. Gervais to know?",
+        "our_model": "That's wonderful, Mr. Delarosa. It's great to hear that you enjoy your hobby. Now, I'm calling on behalf of Doctor Gervais and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

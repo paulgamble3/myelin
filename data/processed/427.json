@@ -1,0 +1,8 @@
+{
+    "prompt_id": 427,
+    "prompt": "Patient: Have I started\n\nNurse: I apologize for any confusion.\n\nPatient: Hold on. Let me review my medications because I have so many. That I need to take a look at it.\n\nNurse: Of course, take your time. It's important to be sure about your medications.\n\nPatient: Give me just a second.\n\nNurse: Of course, take your time. It's essential to be sure about your medications.\n\nPatient: So five days. Yeah. Right? Yeah. I did stop it. Thank you. I\n\nPatient: take a look. That's one of the medications that I did got taken. Yep.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. It's very important to follow the pre-surgery medication instructions to ensure everything goes smoothly on the day of your surgery. Now, let's move on to the next medication. I see that you're also taking Metoprolol 100 mg once a day. You can continue to take this medication normally, including on the morning of surgery with a sip of water. Does that sound right to you?",
+        "our_model": "That's great to hear. It's important to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2885,
+    "prompt": "Nurse: I can imagine that it's been a lot to take in, Mr. Douglas. It's completely normal to feel a bit scared after a hospital stay. But remember, you're not alone in this. We're here to support you. Is there anything specific you're looking forward to doing now that you're back home?\n\nPatient: No. I'm just glad to be home. You know?\n\nNurse: Absolutely, Mr. Douglas. There's no place like home. It's great to hear that you're back in your comfort zone. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I'm just, like, watching travel shows\n\nNurse: That sounds like a wonderful way to relax, Mr. Douglas. Travel shows can be so fascinating. Do you have a favorite destination or show that you particularly enjoy?\n\nPatient: Not really. I just kinda like seeing where people are going. You know?\n\nNurse: That's a great way to explore the world from the comfort of your own home, Mr. Douglas. It's like a virtual vacation. Now, I'm calling on behalf of your primary care doctor, Doctor Malcom Garrett. We have a few topics to cover today. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Douglas. Let's move forward then. I wanted to check about the new medications that have been prescribed to you. Have you been able to pick up the Captopril 12.5 mg tablets from the pharmacy?",
+        "our_model": "Alright, Mr. Douglas. Let's start with your new medications. Have you been able to pick up your Captopril 12.5 mg oral tablets from the pharmacy?"
+    }
+}

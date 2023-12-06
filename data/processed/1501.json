@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1501,
+    "prompt": "Nurse: Excellent, Mr. Valenzuela. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep.\n\nNurse: Great, Mr. Valenzuela. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: I wanted to ask\n\nNurse: Of course, Mr. Valenzuela. What would you like to ask about the logistics of your procedure?\n\nPatient: Why does cancer risk increase so much with age?\n\nNurse: That's a very insightful question, Mr. Valenzuela. As we age, our cells go through many cycles of growth, damage, and repair. Over time, these cycles can lead to mutations that may cause cancer. Additionally, our immune system, which helps protect us from cancer, can weaken with age. This is why it's important to have regular screenings like colonoscopies, especially as we get older. Does that help clarify things for you?\n\nPatient: Yes. Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Mr. Valenzuela. I'm glad I could provide some clarification. Before we move on to discuss your medications, I want to ask if you feel comfortable to proceed or if there's anything else about the logistics you'd like to understand better?",
+        "our_model": "You're welcome, Mr. Valenzuela. I'm glad I could provide some clarity. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
+    }
+}

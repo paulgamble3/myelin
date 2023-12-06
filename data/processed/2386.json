@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2386,
+    "prompt": "Nurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Go on\n\nNurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yeah.\n\nNurse: Wonderful. After you've scrubbed gently for 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No. Pretty clear. Put pretty pretty true. Trade up.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you found the instructions clear. It's good you're going to be prepared for this important step. Remember, this needs to happen the night before and the morning of the procedure. Can you remember to do that?",
+        "our_model": "I'm glad to hear that. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?"
+    }
+}

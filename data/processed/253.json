@@ -1,0 +1,8 @@
+{
+    "prompt_id": 253,
+    "prompt": "Nurse: No, Mr. O'Leary, you don't need to reschedule your surgery. It's okay if you missed the exact day to stop taking Aspirin. However, it's important that you stop taking it immediately. Your surgery is still scheduled for August 13th at 9:00 AM. Is it okay if we move forward with the rest of the details?\n\nPatient: Yes.\n\nNurse: Okay, thank you, Mr. O'Leary. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. O'Leary. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. That's okay with me.\n\nNurse: Excellent, Mr. O'Leary. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes. That sounds good.",
+    "responses": {
+        "gpt4": "Great, I'm glad to hear that, Mr. O'Leary. Is there anything else about the logistics of your procedure that's worrying you or anything else you're unsure about?",
+        "our_model": "Okay, Mr. O'Leary. Is there anything else about the logistics that's worrying you or anything else you'd like to know?"
+    }
+}

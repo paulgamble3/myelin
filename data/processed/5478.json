@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5478,
+    "prompt": "Nurse: That sounds I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: I volunteer sometimes at theater.\n\nNurse: That sounds wonderful, Ms. Aguirre. What kind of volunteer work do you do at the theater?\n\nPatient: So\n\nNurse: That sounds wonderful, Ms. Aguirre. You volunteer at a theater, is that correct?\n\nPatient: Correct. Yes.\n\nNurse: That's fantastic, Ms. Aguirre. What do you enjoy most about volunteering at the theater?\n\nPatient: Community team.",
+    "responses": {
+        "gpt4": "It sounds like you really enjoy the sense of community and teamwork at the theater. That's a wonderful thing to be part of. Thanks for sharing that with me. Do you have any health related questions or concerns you'd like to talk about today?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat what you enjoy most about volunteering at the theater?"
+    }
+}

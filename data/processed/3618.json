@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3618,
+    "prompt": "Patient: Well, I guess that I'm on the dash diet.\n\nPatient: It's a lot of low salt stuff.\n\nNurse: That's excellent, Mr. Benton. The DASH diet is indeed a good choice for managing your conditions. Can you share a specific meal you've had recently?\n\nPatient: Are there any dietary changes you think I can make to ask actually preserve my kidney function.\n\nNurse: It's great to hear that you're following the DASH diet, Mr. Benton. It's a good choice for managing your conditions. As for preserving kidney function, it's important to limit foods high in phosphorus and potassium. These include dairy products, bananas, oranges, and potatoes. Would you be open to some suggestions on how to adjust your diet?\n\nPatient: S.\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I guess.",
+    "responses": {
+        "gpt4": "That's great, Mr. Benton. Some adjustments could include reducing your protein intake as high amounts may increase the workload of your kidneys. Also, continue to limit your sodium intake and try to choose foods lower in potassium and phosphorus like apples, berries, green beans, and bell peppers. How do these suggestions sound to you?",
+        "our_model": "I'm sorry, Mr. Benton, I thought you said something about a change in speech. Could you please confirm what you said?"
+    }
+}

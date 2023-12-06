@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5747,
+    "prompt": "Nurse: I apologize for the confusion earlier, Ms. Aguirre. Could you please confirm whether you're experiencing any back pain at the moment?\n\nPatient: Not currently. But if I do have some back flare ups. Can I take my Tylenol for pain?\n\nNurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Yes, Ms. Aguirre, you can take Tylenol for back pain if needed. It's prescribed to you as needed, so you can take it when you experience pain. However, it's important not to exceed the prescribed dosage. Does that answer your question?\n\nPatient: Yes.\n\nNurse: I'm glad I could help clarify that for you, Ms. Aguirre. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: A good rest of the day.\n\nNurse: I apologize for the confusion earlier, Ms. Aguirre. Could you please confirm whether you currently smoke cigarettes or use any vaping devices?\n\nPatient: I said I smoke a pack of cigarettes a day.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me, Ms. Aguirre. I know it's a big step, but have you ever considered quitting smoking?",
+        "our_model": "Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?"
+    }
+}

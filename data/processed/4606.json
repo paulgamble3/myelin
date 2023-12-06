@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4606,
+    "prompt": "Nurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: pre acne levels. Okay.\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: Can I keep my crease?\n\nNurse: I'm sorry, Mr. Peck, could you please clarify your question?\n\nPatient: Bernadine levels healthy.\n\nNurse: I apologize for any confusion earlier, Mr. Peck. Could you please repeat your question?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Thank you for your patience, Mr. Peck. I believe I understand your question now. You're asking about how to keep your creatinine levels healthy, correct? If so, maintaining a balanced diet and keeping your blood pressure under control can be helpful. Limiting your intake of high protein foods and alcohol can also contribute positively. Moreover, it's crucial to drink plenty of water to help your kidneys clear creatinine from your body. Staying active can assist as well. Do you think you could incorporate these habits into your lifestyle?",
+        "our_model": "confusion earlier, Mr. Peck. Could you please repeat your question?"
+    }
+}

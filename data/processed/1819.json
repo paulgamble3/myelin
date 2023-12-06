@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1819,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling achy, Mr. Jimenez. It's not uncommon to feel some aches and pains before a procedure, especially with the condition of your knee. However, if you notice any significant changes in your symptoms or if you develop a fever, please contact your doctor immediately. Can I count on you to do that?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Jimenez. It's important to keep your healthcare team informed. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes. It is. Definitely.\n\nNurse: That's great to hear, Mr. Jimenez. Going home after the procedure is usually the best for recovery, as it allows you to rest in a familiar and comfortable environment. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Jimenez. It's essential to have someone to assist you after the procedure, as you may still be feeling the effects of the anesthesia and may need help with daily activities. If there's anything else you need to discuss, feel free to let me know. [\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Jimenez. I believe we have covered all the necessary topics for today. Before we end, do you have any other thoughts or concerns you'd like to discuss?",
+        "our_model": "Alright, Mr. Jimenez. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2377,
+    "prompt": "Nurse: I'm glad to hear that. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please.\n\nNurse: Okay. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg, which you were instructed to stop 7 days before the procedure?\n\nPatient: Yes. I did.\n\nNurse: That's great. It's important to follow these instructions for your surgery. Do you have any questions about these medications or why you needed to stop the Aspirin?\n\nPatient: Well, something about blood.\n\nNurse: Yes, that's correct. Aspirin is a type of medication known as a blood thinner. It's usually stopped before surgery to reduce the risk of excessive bleeding during the procedure. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: I'm not taking any, so I'm good.",
+    "responses": {
+        "gpt4": "That's good to hear. I also see that you've been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?",
+        "our_model": "That's good to hear. It's critical to avoid those medications unless your doctor specifically recommended otherwise. Now, I notice you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?"
+    }
+}

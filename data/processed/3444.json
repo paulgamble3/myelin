@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3444,
+    "prompt": "Nurse: I'm sorry for any confusion, Ms. Aguirre. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming, Ms. Aguirre. I understand that you don't want any recommendations at this time. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Today.\n\nNurse: That's great, Ms. Aguirre. Could you please tell me what the result was?\n\nPatient: One twenty over eighty five.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 120 over 85 is within the acceptable range. It's essential to keep monitoring it regularly. Do you have any questions about your blood pressure or the readings you've been getting?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear. If you do have any questions in the future, don't hesitate to ask. Moving on, are you experiencing any complications related to your diabetes or high blood pressure that we haven't discussed yet?",
+        "our_model": "Alright, Ms. Aguirre. If you have any questions in the future, don't hesitate to ask. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

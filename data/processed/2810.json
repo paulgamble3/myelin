@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2810,
+    "prompt": "Nurse: Alright, if you change your mind and want some tips later, don't hesitate to ask. Do you have any questions about the bowel prep or is there anything else you'd like to discuss before we move on?\n\nPatient: Nope.\n\nNurse: Alright, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: No. No questions.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. There's nothing I'd like to discuss. I have no questions.\n\nNurse: Alright, let's move on to the first of my last two questions. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear. It's important to be as healthy as possible going into your procedure. Lastly, have you arranged for a ride home after your colonoscopy? You will be sedated and cannot drive yourself home.",
+        "our_model": "That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
+    }
+}

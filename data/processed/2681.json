@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2681,
+    "prompt": "Nurse: That's a That's a great question, Ms. Cruz. For this week, you might start with a short walk of 5 minutes after each meal. If you feel comfortable, you could gradually increase this to 10 minutes by the end of the week. Remember, it's important to listen to your body and not push yourself too hard. Does that sound like a good plan to you?\n\nPatient: So you suggest to walk after eating?\n\nNurse: Yes, Ms. Cruz. Walking after eating can help with digestion and blood sugar control. It's a good way to incorporate more activity into your day. Do you have any concerns about doing this?\n\nPatient: No. Let's\n\nNurse: That's great to hear, Ms. Cruz. I understand that adjusting diet and exercise can be hard. Do you have any other questions or concerns about what we've discussed?\n\nPatient: Pretty easy, easy. Right?\n\nNurse: Yes, Ms. Cruz. Walking is a simple and effective way to stay active. I'm glad to hear you're comfortable with this plan. Now, I'm going to inform Doctor Crane about our conversation and how you're doing. Do you have any other questions or concerns you'd like me to pass along to him?\n\nPatient: Well,",
+    "responses": {
+        "gpt4": "Yes, Ms. Cruz. Walking is a simple way to stay active. Starting slow and incrementally increasing your walk duration as comfort allows is a good approach. Now, I'm going to inform Doctor Crane about our conversation and how you're doing. Do you have any other questions or concerns you'd like me to pass along to him?",
+        "our_model": "Yes, Ms. Cruz. What would you like to share with Doctor Crane?"
+    }
+}

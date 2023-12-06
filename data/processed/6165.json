@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6165,
+    "prompt": "Patient: No.\n\nNurse: That's good to hear, Mr. Dang. Do you have any chest pain or flank pain associated with your abdominal pain?\n\nPatient: No.\n\nNurse: Have you noticed any black or tarry stool or blood in your stool, Mr. Dang?\n\nPatient: No.\n\nNurse: Do you have any active nausea, vomiting, or diarrhea, Mr. Dang?\n\nPatient: No.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
+    "responses": {
+        "gpt4": "I'm triggering a RED kickout for your abdominal pain, Mr. Dang. We're going to get a nurse on the line to assist you further.",
+        "our_model": "I'm sorry to hear about your abdominal pain, Mr. Dang. I'm going to trigger a RED kickout for your abdominal_pain. A nurse will be on the line shortly to assist you further. Please stay on the line. ["
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5345,
+    "prompt": "Nurse: I'm sorry, Mr. Gardner. I thought I heard you say you've been using more pillows to sleep. Could you please confirm that?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you. I apologize for the confusion, Mr. Gardner. Thank you for confirming. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I've been managing my CHF for a long time.\n\nNurse: I see, Mr. Gardner. It's great that you're familiar with managing your CHF. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: One moment, please.\n\nNurse: Of course, Mr. Gardner. Take your time. I'm interested in hearing about what you've been eating recently. [\n\nPatient: Yeah. Sorry. I had to yell at my goldfish Yes. Catcher's been trying to eat pretty healthy.",
+    "responses": {
+        "gpt4": "That's alright, Mr. Gardner. Seems like Rachel keeps you on your toes. Now, when you say you've been trying to eat healthy, what does that look like for you? Can you provide an example of what you had for breakfast, lunch, and dinner yesterday?",
+        "our_model": "It sounds like you're making an effort to eat healthily, Mr. Gardner. That's great. Can you share a bit more about what you typically eat in a day?"
+    }
+}

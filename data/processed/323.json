@@ -1,0 +1,8 @@
+{
+    "prompt_id": 323,
+    "prompt": "Nurse: I see. Done is short for BUN, which stands for Blood Urea Nitrogen. It's a waste product that's produced in your body when protein is broken down. Creatinine is another waste product that's produced by your muscles. Both of these are normally removed from your blood by your kidneys. When your kidneys aren't working as well as they should, these levels can rise. A high BUN or creatinine level could indicate that your kidneys aren't functioning as well as they should be. Does that help clarify things?\n\nPatient: Yep.\n\nNurse: Okay. Now, let's discuss your medications. You're currently taking Amlodipine 5 mg oral tablet, 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes, mother.\n\nNurse: That's great to hear. Now, let's move on to the next medication. You're also prescribed Ferrous sulfate 45 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Lastly, you're prescribed Renvela 400 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "That's wonderful! You're doing a great job managing your medications, which is so important for your health. Are there ever times when it's difficult to remember to take your medication?",
+        "our_model": "That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

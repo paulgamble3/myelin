@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3317,
+    "prompt": "Nurse: Great, Mr. Winner. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg as instructed?\n\nPatient: Yes. Let's see.\n\nNurse: That's good to hear, Mr. Winner.\n\nPatient: Yes. I have stopped. Yes. I have stopped it.\n\nNurse: That's good to hear, Mr. Winner. It's essential to follow these instructions to prepare for your surgery. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I'm not. No. I actually, I stopped aspirin.\n\nNurse: That's correct, Mr. Winner.\n\nPatient: Because I knew that I'm going to the procedure. It's in two days. [NO RESPONSE]",
+    "responses": {
+        "gpt4": "That's correct, Mr. Winner. It's important to stop aspirin and other blood thinners before your knee replacement unless your doctor specifically instructed otherwise. Also, I see in your chart that you have been prescribed Tylenol and Celebrex for after the procedure. Have you picked them up from your pharmacy?",
+        "our_model": "That's correct, Mr. Winner. It's important to stop taking Aspirin before your procedure. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3855,
+    "prompt": "Nurse: That sounds like a fun approach. Trying out new places can be quite exciting. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yeah. I have.\n\nNurse: That's great to hear. Could you please share your last blood sugar reading at home?\n\nPatient: It was one twelve",
+    "responses": {
+        "gpt4": "That's within the desired range for someone with diabetes. Good job on keeping your blood sugar levels stable. Moving on, I wanted to ask when was the last time you took your blood pressure measurement and what was the result?",
+        "our_model": "Thank you for sharing that. It's essential to keep your blood sugar levels in check. If you're open to it, I can provide some recommendations to help manage your blood sugar levels. Would that be alright?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4145,
+    "prompt": "Nurse: That's a healthy choice. Do you also add any herbs or spices to your dressing?\n\nPatient: Pepper, and a little bit of lime.\n\nNurse: That sounds delicious and healthy. It's great that you're making your own dressing. Now, I'd like to share some dietary recommendations. Is that okay with you?\n\nPatient: That's fine.\n\nNurse: Thank you. As a CHF and CKD patient, it's important to limit your intake of sodium and potassium. Also, as a vegetarian, you'll want to ensure you're getting enough protein. Are you currently taking any supplements to help with this?\n\nPatient: No. I'm not.\n\nNurse: Alright. It might be beneficial to discuss this with your dietician. They can provide more personalized advice. Now, let's talk about your exercise routine. Could you tell me about your current routine?\n\nPatient: I go for a walk everyday for thirty minutes.",
+    "responses": {
+        "gpt4": "That's fantastic. Physical activity is very important for managing your conditions. Are there any other exercises you do regularly?",
+        "our_model": "That's great! Regular walking is a good way to stay active. Do you usually walk at a steady pace or do you vary your speed?"
+    }
+}

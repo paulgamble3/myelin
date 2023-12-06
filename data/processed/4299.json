@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4299,
+    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: Can you explain that?\n\nNurse: Of course. Your sodium level, which is a measure of the amount of salt in your body, is 141 mEq/L. This is within the normal range, which means your body has a good balance of salt. Your GFR, or Glomerular Filtration Rate, is 88 mL/min/1.73m2. This is a measure of how well your kidneys are filtering waste from your blood. A higher number is better. Your result is slightly lower than the ideal range, which is something your doctor may be monitoring. Does that help clarify these results for you?\n\nPatient: Yes. It does.\n\nNurse: I'm glad to hear that. If you have any other questions about your lab results, feel free to ask. Now, let's review your medications. You're currently taking Losartan 25 mg oral tablet, 50 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Now, let's move on to your next medication. You're also taking Lantus 100 iu/ mL prefilled pen, with a dosage of 15 units every night. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent, it's important to take your medications as indicated. The last medication I want to confirm is Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?",
+        "our_model": "That's excellent. Lastly, you're taking Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?"
+    }
+}

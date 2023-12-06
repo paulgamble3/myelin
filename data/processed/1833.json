@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1833,
+    "prompt": "Nurse: That's great to hear, Ms. Odonnell. The warm-up sounds like a fun and energizing part of your Zumba class. Before we\n\nPatient: Match up\n\nNurse: That sounds like a great way to start your class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: of dance songs.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat that?\n\nPatient: Yeah. I love our warm ups. They're a lot of fun.\n\nNurse: That sounds like a great way to start your Zumba class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. But what symptoms should I watch for that might indicate",
+    "responses": {
+        "gpt4": "That my kidney disease is getting worse?",
+        "our_model": "That's a great question, Ms. Odonnell. With your Stage IIIA CKD, it's important to monitor for symptoms such as swelling in your hands, feet, or ankles, changes in urination like frothy or bubbly urine, or any sudden weight gain or loss. If you notice any of these, please let your doctor know. Do you have any other questions or concerns at this time?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1596,
+    "prompt": "Patient: Is still there?\n\nNurse: Yes, I'm here, Mr. Reynolds. I was asking about your favorite type of bread. [\n\nPatient: [NO RESPONSE] I said I like a nice\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nPatient: by getch with butter or breeze.\n\nNurse: When did the change in speech start?\n\nPatient: Under under\n\nPatient: standing me.",
+    "responses": {
+        "gpt4": "Could you please describe to me these changes in your speech? How long has this been occurring?",
+        "our_model": "Does the patient report sudden arm or leg weakness?"
+    }
+}

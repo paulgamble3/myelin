@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3971,
+    "prompt": "Nurse: Give me a moment to check how I can best support you. Yes, I'm here, Mr. Dang. I was saying that starting today, you'll want to eat a low fiber diet. This means you can eat foods like white bread, pasta, and rice. You should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I'm curious, what low fiber foods do you enjoy as comfort food?\n\nPatient: White. Right.\n\nNurse: White bread is a good choice, Mr. Dang. It's low in fiber and can be a comforting food. Do you usually have it with anything specific?\n\nPatient: Butter.\n\nNurse: Butter on white bread can be a simple and comforting meal, Mr. Dang. Just remember, it's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet or any other foods you're considering?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, Mr. Dang, if any questions come up in the future, please don't hesitate to ask. Let's move onto supplements. You'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?",
+        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, let's move on to discuss supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

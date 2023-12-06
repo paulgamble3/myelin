@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3243,
+    "prompt": "Nurse: I'm glad to hear that. Remember, the goal is to find a balance that you're comfortable with. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: I don't exercise.\n\nNurse: That's okay. Exercise can be a challenge, especially when you're not feeling your best. If it's alright with you, I'd like to share some recommendations about starting an exercise routine in a CHF appropriate manner. Is that okay?\n\nPatient: Yes, please.\n\nNurse: Great, thank you. For someone with CHF, it's often recommended to start with light activities, such as walking or gentle stretching. You could start with a short walk around your home, gradually increasing the distance as you feel comfortable. Remember, it's important to listen to your body and not push yourself too hard.\n\nPatient: [NO RESPONSE] Sounds good.\n\nNurse: I'm glad to hear that. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Alright. I'd like to summarize what we discussed today and the changes you've agreed to make. You've agreed to try incorporating some dietary changes like having a grilled chicken salad instead of a burger and a fruit smoothie instead of a milkshake. You've also agreed to introduce some light exercise into your routine, beginning with a short walk. Is everything correct?",
+        "our_model": "Alright. I'll be sure to inform Doctor Forbes about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
+    }
+}

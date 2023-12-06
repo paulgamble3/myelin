@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5499,
+    "prompt": "Nurse: Thank you for confirming that, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one twenty eight.\n\nNurse: Thank you\n\nPatient: So\n\nNurse: for sharing I'm sorry, Ms. Aguirre, could you please repeat your last blood sugar reading?\n\nPatient: Yes. One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great, thank you, Ms. Aguirre. Diabetes management includes a healthy balance of diet, exercise, and medication. Eating meals and snacks at regular times every day can help keep your blood sugar levels within your target range. Physical activity can also help lower your blood sugar level. Your medication is also crucial in keeping your blood sugar controlled. Would it be alright if we discuss your current medication regimen?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please confirm if your blood sugar level is high or low?"
+    }
+}

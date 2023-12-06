@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4717,
+    "prompt": "Nurse: That's great to hear. Just to confirm, you're taking 3.125 mg of Carvedilol three times a day, correct?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that. Now, let's discuss your Hydrochlorothiazide. Have you been able to pick up your Hydrochlorothiazide 50 mg oral tablets from the pharmacy?\n\nPatient: Yes.\n\nNurse: That's good to hear. Just to confirm, you're taking 50 mg of Hydrochlorothiazide two times a day, correct?\n\nPatient: Correct.\n\nNurse: Great, thank you for confirming that. Now, are you still taking your Metformin?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "Thank you for confirming. I understand taking medication can sometimes be difficult to remember. If you don't mind me asking, do you ever have trouble taking your medication on time?",
+        "our_model": "That's good to hear. It's critical to keep up with your medications. I understand that it can be challenging to remember to take them sometimes. Do you ever have trouble taking your medication on time?"
+    }
+}

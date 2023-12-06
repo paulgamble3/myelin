@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1873,
+    "prompt": "Patient: I said no.\n\nNurse: I apologize for the confusion, Ms. Odonnell. If you ever have any questions or need any suggestions in the future, don't hesitate to ask. Now, let's move on to discuss your other chronic conditions. You also have hypertension. How have you been managing your blood pressure?\n\nPatient: It's been going fine.\n\nNurse: I'm glad to hear that, Ms. Odonnell. It's essential to keep monitoring your blood pressure regularly. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's fine.\n\nNurse: I'm glad to hear that your recovery is going well, Ms. Odonnell. It's critical to continue with any physical therapy or exercises recommended by your doctor. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: No.\n\nPatient: Well, yes.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me, Ms. Odonnell. I understand that smoking is a difficult habit to break. May I ask if you have ever considered quitting? It's completely okay if you haven't.",
+        "our_model": "I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?"
+    }
+}

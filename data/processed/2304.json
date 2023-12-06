@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2304,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Kageyama. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Kageyama. How has your day been so far?\n\nPatient: I'm having a good day. Thank you.\n\nNurse: I'm glad to hear that, Mr. Kageyama. Do you have any special plans for the day?\n\nPatient: No. I'm just gonna relax and watch TV.\n\nNurse: Relaxation sounds like a good plan, Mr. Kageyama. What kind of shows do you enjoy watching?\n\nPatient: Tommy's.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what show you like to watch?",
+        "our_model": "I'm sorry, Mr. Kageyama, I didn't quite catch that. Could you please repeat the name of the show you enjoy watching?"
+    }
+}

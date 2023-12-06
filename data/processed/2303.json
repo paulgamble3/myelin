@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2303,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March second nineteen fifty five.\n\nNurse: Thank you for confirming your date of birth, Mr. Kageyama. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Kageyama. How has your day been so far?\n\nPatient: I'm having a good day. Thank you.\n\nNurse: I'm glad to hear that, Mr. Kageyama. Do you have any special plans for the day?\n\nPatient: No. I'm just gonna relax and watch TV.",
+    "responses": {
+        "gpt4": "That sounds like a perfectly relaxing way to spend the day. Is there a particular show you're planning to watch, Mr. Kageyama?",
+        "our_model": "Relaxation sounds like a good plan, Mr. Kageyama. What kind of shows do you enjoy watching?"
+    }
+}

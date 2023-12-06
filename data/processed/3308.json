@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3308,
+    "prompt": "Nurse: Yes, Mr. Winner. The goal of a total knee replacement is to relieve pain and improve function in your knee. Most people experience significant pain relief and improved mobility after recovery. However, it's important to remember that everyone's recovery process is different. Do you have any other questions or concerns about the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Winner. I'm here to help, so feel free to ask any questions at any time during our conversation. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: I can't\n\nNurse: Of course, Mr. Winner. Let's move on to discuss a few topics to ensure you have everything you need for your upcoming procedure. Is that okay with you?\n\nPatient: Thank you.\n\nNurse: You're welcome, Mr. Winner.\n\nPatient: That's okay.",
+    "responses": {
+        "gpt4": "Great, Mr. Winner. The most important thing to remember is to ask any questions you may have. This could be about the procedure itself, what to expect during recovery, or any concerns you have. Your surgeon and healthcare team are there to help you. Is there anything that comes to mind right now?",
+        "our_model": "Great, Mr. Winner."
+    }
+}

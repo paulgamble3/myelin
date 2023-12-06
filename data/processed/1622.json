@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1622,
+    "prompt": "Nurse: That's excellent, Mr. Benton. Taking your Renvela as prescribed is crucial for managing your kidney disease. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I'm actually pretty good about that.\n\nNurse: That's fantastic, Mr. Benton. Sticking to your medication schedule is crucial for managing your conditions. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: Nope. I don't think so.\n\nNurse: Alright, Mr. Benton. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Like, you mean what I eat?\n\nNurse: Yes, Mr. Benton. Could you share some examples of what you've been eating recently?\n\nPatient: Well, I've been eating a lot of salad. And I'm on that new dach diet and low salt diet.",
+    "responses": {
+        "gpt4": "Good for you, Mr. Benton. Incorporating salads and following the DASH diet are great steps in managing your health conditions. Can you tell me what kinds of things you typically put in your salads?",
+        "our_model": "It sounds like you're making some great choices with your diet, Mr. Benton."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2645,
+    "prompt": "Nurse: That's great, Ms. Cruz. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: I do not know. I do not\n\nNurse: That's okay, Ms. Cruz. It's critical\n\nPatient: way myself.\n\nNurse: That's okay, Ms. Cruz. It's essential to keep an eye on any sudden weight changes as they can be a sign of fluid retention. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Cruz. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: I do not have questions. Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Ms. Cruz. I'm glad to hear that you're feeling confident about this. Remember, if you notice any changes in your symptoms, it's essential to contact your healthcare team. For now, continue taking your medications as prescribed and keep an eye on your health. It was nice talking to you. Have a great day!",
+        "our_model": "I apologize for the confusion earlier, Ms. Cruz. Could you please confirm if you've been using more pillows at night to sleep?"
+    }
+}

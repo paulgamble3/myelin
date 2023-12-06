@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4308,
+    "prompt": "Nurse: That's a great start to a healthy salad. Did you add any dressing or other toppings?\n\nPatient: Yeah.\n\nNurse: Could you share what kind of dressing or other toppings you added?\n\nPatient: I\n\nNurse: I'm sorry, you were saying?\n\nPatient: I had\n\nNurse: I'm sorry, you were saying something about your salad?\n\nPatient: The bone Italian salad dressing? But I'm not sure. Can you tell me how much salt is in that dressing?",
+    "responses": {
+        "gpt4": "I'm glad you asked. A typical serving of Italian salad dressing can contain around 300-400 milligrams of sodium. However, the specific amount can vary between brands. It's always a good idea to check the nutrition label on the bottle for specific information. Do you have the bottle handy? We could look at the label together.",
+        "our_model": "I'm sorry, but as an AI, I don't have real-time information on the exact sodium content of specific foods or products. It's always a good idea to check the nutrition label on the product for the most accurate information. Would you like some general tips on how to reduce sodium in your diet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 86,
+    "prompt": "Nurse: I can imagine that it might feel overwhelming with all the preparations. It's quite a process to go through. How are you feeling about the procedure itself?\n\nPatient: So much preparation. You know? It's exhausting.\n\nNurse: I can imagine that it might feel overwhelming with all the preparation involved. It's quite a process to go through, especially for a preventative screening like this. How are you holding up with all of this?\n\nPatient: It's\n\nNurse: I can imagine that it might feel overwhelming with all the preparation involved. It's quite a process to go through, especially for a preventative screening like this. How are you coping with these feelings?\n\nPatient: What a great question? How am I coping? I don't know. I I don't know. I I gosh.\n\nNurse: It's completely normal to feel a bit overwhelmed.\n\nPatient: I do not have an answer. For you.",
+    "responses": {
+        "gpt4": "That's perfectly fine. We're here to talk through any of your concerns or fears. Is there anything specific you'd like to discuss regarding the procedure?",
+        "our_model": "That's okay. It's completely normal to feel this way. I'm here to help you through this process. Before we begin, do you have any specific questions or concerns you'd like to discuss?"
+    }
+}

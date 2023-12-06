@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5226,
+    "prompt": "Nurse: I'm sorry, Mr. Oliver, but as an AI, I don't have the ability to look up specific nutritional information. However, I would recommend checking the nutrition label on the bottle for the sodium content. It's critical to monitor your sodium intake, especially with your conditions. Would you like me to note this for your care team to review?\n\nPatient: Sure. That'll be good. Thank you.\n\nNurse: You're welcome, Mr. Oliver. I'll make sure to note that for your care team. Now, if it's okay with you, I'd like to go over a few topics related to your health. Is that alright?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Could you please share your most recent blood sugar reading?\n\nPatient: It was a hundred and twelve.",
+    "responses": {
+        "gpt4": "That's a good reading, Mr. Oliver. It's well within the desired range for individuals managing Type II Diabetes. Keeping it up! Now, when did you last measure your blood pressure, and do you recall what the reading was?",
+        "our_model": "Thank you for sharing that, Mr. Oliver. Your blood sugar level is within the target range, which is good news. Now, when was the last time you took your blood pressure measurement, and do you remember what the result was?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2511,
+    "prompt": "Nurse: I'm glad to hear that you're doing okay today, Mr. Oliver. It's important to focus on the good days. Is there anything you're looking forward to doing this week?\n\nPatient: Well, let's see. I've gotta get some online Christmas shopping done for my family.\n\nNurse: That sounds like a wonderful way to spend your time, Mr. Oliver. Online shopping can be quite convenient. Are there any specific gifts you're planning to get for your family?\n\nPatient: Well, my significant other wants a SURFboard. So I'm getting that\n\nNurse: That sounds like a thoughtful gift, Mr. Oliver. SURFboards can be a lot of fun. How long have you been surfing?\n\nPatient: Well, it's not for me. It's for my partner.\n\nNurse: I see, Mr. Oliver. It sounds like your partner is quite the surfer. That's a great gift idea. Before we move on to discuss your kidney disease, is there anything else you've been feeling concerned about health-wise?\n\nPatient: Let's see. Well,",
+    "responses": {
+        "gpt4": "Yes, Mr. Oliver, please take your time and let me know about any health concerns you've been having recently. It's important for us to address them.",
+        "our_model": "Yes, Mr. Oliver?"
+    }
+}

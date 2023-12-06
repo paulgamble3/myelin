@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1773,
+    "prompt": "Patient: Okay.\n\nNurse: Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: Alright.\n\nPatient: I don't.\n\nPatient: Just\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I said I don't take any",
+    "responses": {
+        "gpt4": "Thank you for clarifying. It's good to note that you don't take any supplements or anti-diarrheal medications. Let's move forward to the next step. On the day prior to your colonoscopy, you'll begin the bowel prep. It involves drinking a prescribed solution to clean out your colon. Your doctor will provide specific instructions, but typically, the medication is taken in two doses. Have you received this medication, and do you have any questions on how to use it?",
+        "our_model": "Thank you for clarifying."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6343,
+    "prompt": "Nurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: So I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: It said go ahead.\n\nNurse: Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: I apologize for the confusion earlier, Mr. Gardner. You had mentioned that you're not experiencing any new or worsening shortness of breath, correct?\n\nPatient: That's right.",
+    "responses": {
+        "gpt4": "Great, Mr. Gardner. It's a good sign that your breathing hasn't worsened. Now, have you been experiencing any wheezing or difficulty breathing out?",
+        "our_model": "Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you. That's good to hear, Mr. Gardner. Now, have you had any ongoing or worsening chest pain?"
+    }
+}

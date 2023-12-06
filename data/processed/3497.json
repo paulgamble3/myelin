@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3497,
+    "prompt": "Nurse: Alright. Some people don't have any problems and are able to drink all the bowel prep just fine. It's critical to follow the instructions to ensure the colonoscopy goes smoothly. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "That's excellent. It's important to have someone available to take you home after the procedure because you won't be able to drive yourself. You've been doing a great job preparing for your procedure. Is there anything on your mind that you'd like to talk about?",
+        "our_model": "That's great to hear. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the logistics of your procedure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5904,
+    "prompt": "Nurse: That's That's perfectly fine. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing in your free time that you find relaxing or enjoyable?\n\nPatient: I mean, I guess so, but I can't think of it right now.\n\nNurse: That's okay. It's not always easy to think of these things on the spot. Let's move on to some questions about your health. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.",
+    "responses": {
+        "gpt4": "Thank you for sharing that. Your reading is a bit higher than the normal range, which is usually under 120. With your consent, can I provide some recommendations? These strategies could help you lower your blood sugar?",
+        "our_model": "Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?"
+    }
+}

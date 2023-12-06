@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5080,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Koroleva. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: No. I like rice.\n\nNurse: Rice is a great choice, Mr. Koroleva. It's low in fiber and can be quite comforting. Do you usually cook it yourself or do you have a favorite way it's prepared at a restaurant?\n\nPatient: Oh my god. I just couldn't get myself Can we please just stick to, like, what we need to talk about?\n\nNurse: Of course, Mr. Koroleva. I apologize if I went off-topic. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's critical to avoid those supplements and medications before a colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Okay, let's move on then. The next topic is the clear liquid diet and NuLYTELY laxative solution. I know this is often the toughest part of the prep. How are you feeling about it, Mr. Koroleva?",
+        "our_model": "Alright, Mr. Koroleva. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

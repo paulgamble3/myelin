@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1175,
+    "prompt": "Nurse: Thank you, Mr. Cardenas. It's critical to remember that with CHF, it's crucial to listen to your body. If you feel short of breath or fatigued, it's okay to slow down or take a break. Also, consider incorporating some light strength training exercises into your routine, as they can help improve your overall strength and endurance. Lastly, remember to stay hydrated and avoid extreme temperatures. Does this information help you understand how to adjust your exercise routine?\n\nPatient: I yes. I think I'll be fine. Thank you.\n\nNurse: You're welcome, Mr. Cardenas. I'm glad I could provide some helpful information. Remember, adjusting your diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No. Not\n\nNurse: Alright, Mr. Cardenas. I'm glad to hear that you're feeling confident about these changes. Now, I'll be informing Doctor Rodriguez about our conversation and how you're doing. Before we end the call,\n\nPatient: about what we discussed, but I do have a question if you don't mind.\n\nNurse: Of course, Mr. Cardenas. What's your question?\n\nPatient: Congestive heart failure.",
+    "responses": {
+        "gpt4": "I apologize for the confusion earlier, Mr. Cardenas. Could you please elaborate on your question about congestive heart failure?",
+        "our_model": "I'm sorry, Mr. Cardenas, could you please clarify your question?"
+    }
+}

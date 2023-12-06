@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3597,
+    "prompt": "Nurse: I see, Mr. Benton. It's really important to monitor your blood sugar levels regularly when you have diabetes. Would you be open to starting this practice?\n\nPatient: I guess.\n\nNurse: Thank you for being open to this, Mr. Benton. It's a small step that can make a big difference in managing your diabetes. When do you think you could start checking your blood sugar daily?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Benton. There's no rush. Whenever you feel ready to start, that's the right time. Now, let's move on to your blood pressure. When was the last time\n\nPatient: Maybe.\n\nNurse: I understand, Mr. Benton. It's a new habit\n\nPatient: Tomorrow.",
+    "responses": {
+        "gpt4": "That's a positive step ahead, Mr. Benton. Starting from tomorrow is a great decision. Try to make it a part of your daily routine. Now, let's move on to your kidney health. When was the last time you had a medical check-up?",
+        "our_model": "That's a good start, Mr. Benton. Tomorrow, when you wake up, try to remember to check your blood sugar. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3999,
+    "prompt": "Nurse: I'm here to assist you, Ms. Warrell. It's great to hear that you're feeling good. Being home after a hospital stay can be a relief. Is there anything in particular you're looking forward to doing now that you're back home?\n\nPatient: Yes. Just having whom\n\nNurse: I'm sorry, Ms. Warrell, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: homemade meals.\n\nNurse: That sounds wonderful, Ms. Warrell. There's nothing quite like a home-cooked meal. What's your favorite dish to prepare when you're at home?\n\nPatient: Chicken pot pie.\n\nNurse: Chicken pot pie sounds delicious, Ms. Warrell. It's a classic dish that always hits the spot. Do you have a special recipe that you follow or do you like to experiment with different ingredients?\n\nPatient: It's the same recipe over and over again.",
+    "responses": {
+        "gpt4": "Consistency often leads to perfection, doesn't it, Ms. Warrell? A well-cooked chicken pot pie must be a delightful treat. Aside from cooking, do you enjoy any other activities at home, perhaps a hobby or watching a certain sports game?",
+        "our_model": "That's perfectly fine, Ms. Warrell. Sometimes, it's the familiarity and comfort of a tried-and-true recipe that makes it special. Now, I'm calling on behalf of Doctor Benson and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

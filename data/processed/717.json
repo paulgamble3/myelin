@@ -1,0 +1,8 @@
+{
+    "prompt_id": 717,
+    "prompt": "Nurse: Alright, Ms. Peck. Let's move on to your medications. Are you still taking your Valsartan and Lasix tablets?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Peck. And how about your Metformin?\n\nPatient: Yep. Me taking that.\n\nNurse: I'm sorry, Ms. Peck, I didn't quite catch that. Could you please confirm if you're still taking your Metformin?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Ms. Peck. It's important to keep up with your medications. Are you taking them twice a day as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. And how about any side effects? Have you noticed any changes since you started taking these medications?",
+        "our_model": "That's excellent, Ms. Peck. You're doing a great job managing your medications. Now, it's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
+    }
+}

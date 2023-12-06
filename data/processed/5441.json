@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5441,
+    "prompt": "Nurse: Great, thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fifth nineteen sixty five.\n\nNurse: Thank you for confirming. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: I guess so.\n\nNurse: Thank you. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Oh, I guess I'm just\n\nNurse: I'm sorry, Liz, you were saying?\n\nPatient: frustrated, and I need all these tests now that I'm getting older.",
+    "responses": {
+        "gpt4": "I can imagine that it's not easy to undergo these kinds of procedures, especially when they seem to pile up as we age. It can indeed feel a bit overwhelming. However, these screenings, such as your upcoming colonoscopy, play a crucial role in ensuring your health and catching any potential issues early. Please feel free to share any concerns or ask any questions you might have at this point.",
+        "our_model": "I'm sorry to hear that you're feeling frustrated. It's completely normal to feel this way, especially when facing medical procedures as we age. Is there anything specific about the colonoscopy that's causing you concern?"
+    }
+}

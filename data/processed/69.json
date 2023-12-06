@@ -1,0 +1,8 @@
+{
+    "prompt_id": 69,
+    "prompt": "Nurse: When did the swelling start, Ms. Ware?\n\nPatient: Today.\n\nNurse: Just give me a second to work out the best way I can assist you. Does the swelling start suddenly, Ms. Ware?\n\nPatient: I woke up with it.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: How many times are you gonna ask me that?\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: I said it started today.",
+    "responses": {
+        "gpt4": "Has the swelling worsened or improved throughout the day, Ms. Ware?",
+        "our_model": "Does the swelling start suddenly, Ms. Ware?"
+    }
+}

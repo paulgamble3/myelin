@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2972,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: No. That's okay.\n\nNurse: Alright, if you change your mind or have any questions about managing your blood sugar levels, please don't hesitate to ask. Now, when was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: This morning?",
+    "responses": {
+        "gpt4": "Great! Could you please confirm the reading for me?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could"
+    }
+}

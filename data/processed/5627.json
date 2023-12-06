@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5627,
+    "prompt": "Nurse: That sounds lovely. Dogs can bring so much joy. What's your dog's name and what breed is he?\n\nPatient: His name is Rocky,\n\nNurse: Rocky sounds like a great companion. What breed is he?\n\nPatient: and he is a brown lab\n\nNurse: Rocky sounds like a great companion. Labs are known for their friendly nature. Do you have a favorite place where you like to walk Rocky?\n\nPatient: A little lake that is not far from our house.\n\nNurse: That sounds like a peaceful place to walk. Now, I'm calling today to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: So we go for walks, and he loves to",
+    "responses": {
+        "gpt4": "That sounds very pleasant and a good way to get in some light exercise. A walk by the lake with Rocky must make your day enjoyable. Now, I would like to go over some topics related to your health, that Dr. Smith has asked me to discuss with you. Would you like to continue with this, or are there any particular questions or concerns that you wish to discuss now?",
+        "our_model": "That sounds like a wonderful place to spend time with Rocky. Now, I'm calling on behalf of Doctor Jack Smith and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

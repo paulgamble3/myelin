@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5228,
+    "prompt": "Nurse: Great, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Could you please share your most recent blood sugar reading?\n\nPatient: It was a hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. Your blood sugar level is within the target range, which is good news. Now, when was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: And it was a few hours\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat the last part of your response?\n\nPatient: ago, and it was ninety over one twenty.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Oliver. Your blood pressure reading of 120/90 is a little on the high side, especially the bottom number. The ideal blood pressure for most individuals is often considered to be around 120/80. Because maintaining regular blood pressure is so crucial for your health, could we discuss some strategies for managing it?",
+        "our_model": "Thank you for that information, Mr. Oliver. Your blood pressure reading is slightly elevated. It's essential to keep it under control. Would you like me to share some suggestions on how to manage your blood pressure?"
+    }
+}

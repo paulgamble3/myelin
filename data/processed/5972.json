@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5972,
+    "prompt": "Nurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. A reading of 120 is a bit higher than the target range for fasting blood sugar levels. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: I said it was one\n\nNurse: I apologize for the confusion earlier. Could you please confirm if your blood sugar level was high or low?\n\nPatient: One twenty.\n\nNurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 112, correct?\n\nPatient: One twelve.\n\nNurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 112, correct?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you for confirming. A blood sugar level of 112 mg/DL in fasting is just slightly above the normal range. It's recommended to aim for between 70 to 100 mg/dL when fasting. It's great that you are keeping track of your blood sugar levels. Continue monitoring and maintaining a healthy diet and regular exercise. If you notice persistent higher readings, please consult with your healthcare provider.",
+        "our_model": "Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you. Thank you for confirming that. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're managing your blood sugar levels well. Let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
+    }
+}

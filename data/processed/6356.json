@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6356,
+    "prompt": "Nurse: Yes, Mr. Gardner. Could you tell me about some of the meals you've had since you got back from the hospital?\n\nPatient: lasix night, I had\n\nNurse: I'm sorry, Mr. Gardner, your voice cut out a bit there. Could you please repeat what you said about your meals since you got back from the hospital?\n\nPatient: So\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said about your meals since you got back from the hospital?\n\nPatient: dish with some vegetables.\n\nNurse: That sounds like a healthy choice, Mr. Gardner. Can you tell me more about the dish and the types of vegetables you\n\nPatient: And",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Gardner, your response got cut off. Could you please repeat your answer?",
+        "our_model": "I'm sorry, Mr. Gardner, I didn't quite catch the last part of your meal. Could you please repeat it?"
+    }
+}

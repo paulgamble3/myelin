@@ -1,0 +1,8 @@
+{
+    "prompt_id": 814,
+    "prompt": "Patient: Like a cantaloupe.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for sharing that, Ms. Aguirre. It sounds like you're making an effort to include a variety of foods in your diet. Can you tell me more about the types of vegetables you used in your chicken soup?\n\nPatient: Oh,\n\nNurse: When did the change in speech start?\n\nPatient: bill with Tara.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat the types of vegetables you used in your chicken soup?\n\nPatient: And celery.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Ms. Aguirre. Adding a variety of vegetables to your meals is a great way to increase your intake of vitamins and minerals without adding many calories. Do you feel like you're able to eat enough at your meals, or do you often find yourself feeling full quickly?",
+        "our_model": "When did the change in speech start?"
+    }
+}

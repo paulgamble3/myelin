@@ -1,0 +1,8 @@
+{
+    "prompt_id": 62,
+    "prompt": "Nurse: Is the swelling on one side or two sides, Ms. Ware?\n\nPatient: It's in my stomach.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: No.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: You asked me that. I said no.\n\nNurse: I apologize for the repetition, Ms. Ware. Does the swelling extend to your arms?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're experiencing this discomfort, Ms. Ware. Do you have any pain associated with this swelling?",
+        "our_model": "Does the swelling extend to your arms, Ms. Ware?"
+    }
+}

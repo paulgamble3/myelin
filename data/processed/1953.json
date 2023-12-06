@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1953,
+    "prompt": "Nurse: Alright. I understand that adjusting diet and exercise can be challenging. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: Hello?\n\nNurse: Hello. I was asking if you have any questions or concerns about what we've discussed so far.\n\nPatient: No. I do not.\n\nNurse: Alright. I'll be sure to inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: You know, I can't really think of any.\n\nNurse: That's perfectly fine. To summarize, you've agreed to consider incorporating more walking and stretching exercises into your routine, and to continue monitoring your symptoms. Can you confirm that you'll do these things?\n\nPatient: I'll get another shot.",
+    "responses": {
+        "gpt4": "That's fantastic, Sam. It sounds like you're on the right path. If you need to discuss anything further, you can call 641-381-6523. I really appreciate your time today. Goodbye.",
+        "our_model": "I'm sorry, Sam, could you please repeat that?"
+    }
+}

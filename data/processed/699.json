@@ -1,0 +1,8 @@
+{
+    "prompt_id": 699,
+    "prompt": "Nurse: I understand. Thank you for your time. Now, could you tell me about your current exercise routine?\n\nPatient: I'm walking.\n\nNurse: That's great! Walking is a\n\nPatient: That's about all I can do right now. Is locked.\n\nNurse: Walking\n\nPatient: And I'm walking.\n\nNurse: is a That's great. Walking is a wonderful form of exercise. How often and for how long do you walk?\n\nPatient: Daily?",
+    "responses": {
+        "gpt4": "That's wonderful. Walking daily is a great way to maintain physical health. How long are your walks typically?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please tell me how long you walk for each day?"
+    }
+}

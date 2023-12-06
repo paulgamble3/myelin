@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3725,
+    "prompt": "Nurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: March second.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: Nineteen sixty.\n\nNurse: Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?\n\nPatient: I don't know. I'm I'm a little scared, but of\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been causing you to feel scared?\n\nPatient: these things that are happening to me.",
+    "responses": {
+        "gpt4": "I can imagine it's tough, Ms. Odonnell. Dealing with health conditions can indeed be unsettling. Can you share a bit more about the specific things that are causing you concern? Perhaps there's a particular symptom or issue you're worried about?",
+        "our_model": "I'm really sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?"
+    }
+}

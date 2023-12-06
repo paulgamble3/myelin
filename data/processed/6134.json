@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6134,
+    "prompt": "Nurse: I'm glad to hear that you're feeling okay. It's critical to manage your CAD by taking your prescribed medications, eating a healthy diet, and getting regular exercise. Have you been able to do these things?\n\nPatient: Yes. I'm going to\n\nNurse: That's great to hear. Regular exercise is an important part of managing CAD. What kind of exercise do you enjoy doing?\n\nPatient: Get back to walk you with my dog.\n\nNurse: That's wonderful to hear. Walking is a great form of exercise. Now, let's discuss your type II diabetes. How have you been managing your blood sugar levels?\n\nPatient: Well, I told you, you know,\n\nNurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: About it.",
+    "responses": {
+        "gpt4": "I'm sorry, Jon, I didn't quite catch that. Could you please repeat that?",
+        "our_model": "Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. It's critical to keep your blood sugar levels within a target range. Have you noticed any patterns or changes in your blood sugar levels?"
+    }
+}

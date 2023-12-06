@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5811,
+    "prompt": "Patient: Sure.\n\nNurse: Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. We'll discuss the preparation process, what to expect during the procedure, and any post-procedure care. I will also call you again the day before your procedure to check in. Let's start with the preparation process. Are you clear on what you need to do in the days leading up to your colonoscopy?\n\nPatient: Thank\n\nPatient: Well, I've been reading all of the paperwork the doctor sent home with me.\n\nNurse: That's excellent. Reading the provided information is a great way to prepare. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Okay. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: That's fine.",
+    "responses": {
+        "gpt4": "Great. Is there anything else about the logistics that might be worrying you?",
+        "our_model": "Wonderful. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?"
+    }
+}

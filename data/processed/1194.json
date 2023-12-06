@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1194,
+    "prompt": "Nurse: I see, Mr. Dang. I hope this procedure will provide you and your doctor with the answers you're looking for regarding your abdominal pain. If it's alright with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that okay?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Dang. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Let's start with your current medication. You're taking Xarelto 10 mg once a day, correct?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that, Mr. Dang. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep. So I'm just fine.",
+    "responses": {
+        "gpt4": "I'm pleased to hear that, Mr. Dang. Is there anything else about the logistics that's causing you any concerns?",
+        "our_model": "I'm glad to hear that, Mr. Dang. Is there anything else about the logistics that's worrying you or anything else you'd like to know?"
+    }
+}

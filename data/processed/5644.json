@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5644,
+    "prompt": "Nurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No. I think I understand. Just go down the list\n\nNurse: I apologize for the confusion earlier. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: of symptoms and make sure I'm not experiencing any of them.\n\nNurse: I apologize for the confusion earlier. You mentioned that you haven't been using more pillows to sleep, correct?\n\nPatient: That is correct.\n\nNurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that. Now, let's move on to your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to",
+    "responses": {
+        "gpt4": "I'm sorry about the disconnect earlier in our conversation. I just want to make sure I understand it correctly. Did you mention earlier that you've been trying to adhere to a particular type of diet? If yes, could you tell me more about it?",
+        "our_model": "I'm sorry, you were saying?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1335,
+    "prompt": "Nurse: I'm glad that works for you. I'd like to remind you that due to current health guidelines, we have a limited visitor policy. You're allowed to bring one person with you on the day of your surgery. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?\n\nPatient: No. Up. No.\n\nNurse: Alright, I'm glad to hear that. I'm here to support you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you. I see on your chart that you're currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Well,\n\nNurse: Yes, I'm here. Have you been taking your Tylenol as prescribed, which is 1000 mg three times a day as needed?\n\nPatient: I thought that was for pain.",
+    "responses": {
+        "gpt4": "Yes, that's correct. Tylenol is a common medication used to relieve pain and reduce fever. It's often used by patients with osteoarthritis, like yourself, to manage pain. Have you been taking your Tylenol as prescribed, which is 1000 mg three times a day as needed?",
+        "our_model": "Yes, you're correct. Tylenol is often used to manage pain. You've been prescribed it to help manage your pain from osteoarthritis. Have you been taking it as directed, which is 1000 mg three times a day as needed?"
+    }
+}

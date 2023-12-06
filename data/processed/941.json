@@ -1,0 +1,8 @@
+{
+    "prompt_id": 941,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling aggravated. Would you like to share what's been bothering you?\n\nPatient: I'm just really annoyed. By this whole situation, And the stupid diet that I have to be on, dealing with my high blood sugar. It's all just a bunch of Milari.\n\nNurse: I'm sorry, Damian, could you please repeat the last part?\n\nPatient: Bye.\n\nNurse: I'm sorry to hear that you're feeling this way. It's understandable that managing diet and health conditions can be frustrating. I'm here to help you navigate through this. Is there anything you're looking forward to doing this week that might help lift your spirits?\n\nPatient: No. I hate everything.\n\nNurse: I'm really sorry to hear that you're feeling this way. It's completely okay to have days like this. If you don't mind, I'd like to go over a few topics with you to check on how you're doing. Is that okay with you?\n\nPatient: I guess it has to be",
+    "responses": {
+        "gpt4": "Thank you for that, Damian. Let's start with your blood sugar levels. Have you been checking them daily? If so, what was your last reading at home?",
+        "our_model": "Thank you for your time. I'd like to start by asking about your blood sugar levels. Have you been checking your blood sugar daily?"
+    }
+}

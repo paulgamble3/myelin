@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3316,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Winner. Let's move on to discuss your medications. Before we do, I want to make sure you're ready to move forward. Can we proceed?\n\nPatient: Yes. If we can proceed.\n\nNurse: Great, Mr. Winner. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg as instructed?\n\nPatient: Yes. Let's see.\n\nNurse: That's good to hear, Mr. Winner.\n\nPatient: Yes. I have stopped. Yes. I have stopped it.\n\nNurse: That's good to hear, Mr. Winner. It's essential to follow these instructions to prepare for your surgery. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I'm not. No. I actually, I stopped aspirin.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Winner. It's important to stop blood thinners unless your doctor has given specific instructions to continue. Just to reiterate, you're also prescribed Tylenol and Celebrex for after the procedure. Have you been able to pick them up yet?",
+        "our_model": "That's correct, Mr. Winner."
+    }
+}

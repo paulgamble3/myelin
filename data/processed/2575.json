@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2575,
+    "prompt": "Nurse: Cooking and baking cookies sounds like a wonderful way to spend time with your family. Do you have a favorite type of cookie you like to make?\n\nPatient: love to bake.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat what you enjoy doing with your family?\n\nPatient: Baking.\n\nNurse: Baking sounds like a wonderful activity to share with your family. Do you have a favorite type of cookie or dessert that you enjoy baking together?\n\nPatient: We love gingerbread.\n\nNurse: Gingerbread cookies sound delicious!\n\nPatient: Thank you.",
+    "responses": {
+        "gpt4": "You're welcome! If you have any other questions or need support in the future, feel free to ask. Take care!",
+        "our_model": "Gingerbread cookies sound delicious. It's great that you have a favorite activity that brings you all together. Before we move on to discuss your kidney disease, is there anything else you've been feeling or experiencing that you're concerned about?"
+    }
+}

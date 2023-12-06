@@ -1,0 +1,8 @@
+{
+    "prompt_id": 905,
+    "prompt": "Nurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. And when I last checked yesterday, and it was one twenty eight.\n\nNurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. However, a reading of 128 is a bit higher than the target range for people with diabetes. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, thank you. Regular physical activity can help your body use insulin more effectively. Try to aim for at least 30 minutes of brisk walking, biking, or any other moderate activity each day. Are you currently doing any of this?",
+        "our_model": "Great, thank you. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks that contain a mix of carbohydrates, protein, and fat. Another strategy is regular physical activity, as it can help your body use insulin more effectively. Lastly, it's important to take your medication as prescribed. Do these suggestions make sense to you?"
+    }
+}

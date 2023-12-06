@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5892,
+    "prompt": "Nurse: Do you have any questions about stopping Xarelto, Mr. Dang?\n\nPatient: For\n\nNurse: I'm sorry, Mr. Dang, could you please repeat your question?\n\nPatient: the colonoscopy.\n\nNurse: Are you taking any other medications that we should be aware of, Mr. Dang?\n\nPatient: No. Nothing else.\n\nNurse: I appreciate your response, Mr. Dang. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "That's good to know, Mr. Dang. I actually see that you've already checked it off, but we generally recommend stopping all kinds of herbal supplements 7 days before the procedure. Just something that could be helpful for future reference. Sounds good?",
+        "our_model": "Thank you for confirming that, Mr. Dang. Do you have any questions about medications before we move on to discussing your diet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2042,
+    "prompt": "Nurse: That's good to hear. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Great, that's what we have on record as well. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone to assist you as you recover. If there's anything else you need to discuss or any other questions you have, feel free to ask.\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Alright. We've covered all the topics for today. Before we end this call, do you have any other questions or concerns that I can address for you?",
+        "our_model": "Alright, I believe we've covered all the necessary topics for today. Before we wrap up, do you have any other questions or concerns?"
+    }
+}

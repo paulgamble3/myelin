@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2648,
+    "prompt": "Nurse: That's good to hear, Ms. Cruz. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: I do not have questions. Thank you.\n\nNurse: I apologize for the confusion earlier, Ms. Cruz. Could you please confirm if you've been using more pillows at night to sleep?\n\nPatient: No. I do not.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: Thank you.\n\nNurse: You're welcome, Ms. Cruz. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Some meals that I've had",
+    "responses": {
+        "gpt4": "Of course, Ms. Cruz. Could you please share what some of your recent meals have looked like? This would help us understand your regular diet.",
+        "our_model": "I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?"
+    }
+}

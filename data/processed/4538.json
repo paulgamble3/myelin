@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4538,
+    "prompt": "Nurse: That's great to hear. Now, let's move on to Atorvastatin. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Plavix. You're prescribed to take a 75 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Metoprolol. You're prescribed to take a 50 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Lisinopril. You're prescribed to take a 20 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's fantastic. Now, would you be okay if we review some of your prescription-specific details, such as the medications and the quantities you're taking? And can we discuss the ways you're managing these?",
+        "our_model": "I apologize for any confusion earlier. You're actually prescribed to take two 10 mg tablets of Lisinopril daily to achieve the correct dosage of 20 mg daily. Have you been taking this medication as directed?"
+    }
+}

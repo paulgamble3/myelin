@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3310,
+    "prompt": "Nurse: Of course, Mr. Winner. Let's move on to discuss a few topics to ensure you have everything you need for your upcoming procedure. Is that okay with you?\n\nPatient: Thank you.\n\nNurse: You're welcome, Mr. Winner.\n\nPatient: That's okay.\n\nNurse: Great, Mr. Winner.\n\nPatient: Yes.\n\nNurse: Great, Mr. Winner. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Fantastic, Mr. Winner. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor of O'Connor Hospital. Does that sound good to you?",
+        "our_model": "Excellent, Mr. Winner. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

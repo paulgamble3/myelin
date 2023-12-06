@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1228,
+    "prompt": "Nurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: August eighth nineteen eighty one.\n\nNurse: Thank you for confirming, Ms. Raynier. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Okay, thank you for taking the time to speak with me, Ms. Raynier. How has your day been so far?\n\nPatient: So I'm\n\nNurse: I'm sorry, Ms. Raynier, you were saying something about your day?\n\nPatient: I'm very anxious about the surgery.",
+    "responses": {
+        "gpt4": "I can certainly appreciate that, Ms. Raynier. It's absolutely normal to feel a bit anxious before a major procedure like this. Our team, including your surgeon Dr. Cristina Stevens, who is an excellent Orthopedic Surgeon with over 1000 successful total knee replacements, are committed to providing the best care. They're going to ensure everything goes smoothly. Is there anything specific that's making you feel this way?",
+        "our_model": "I'm sorry to hear that you're feeling anxious, Ms. Raynier. It's completely normal to feel this way before a major procedure. Is there anything specific that's causing you to feel anxious?"
+    }
+}

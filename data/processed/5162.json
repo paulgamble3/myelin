@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5162,
+    "prompt": "Nurse: Those are all excellent choices. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you usually cook these at home or do you have a favorite place where you get them from?\n\nPatient: It's\n\nNurse: a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods or any questions about the diet?\n\nPatient: Oh, I said I like white bread.\n\nNurse: White bread is also a good choice. It's great that you're aware of these low fiber foods. Do you have any other questions about the diet or shall we move on to discuss supplements?\n\nPatient: You can move on.\n\nNurse: Alright. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I am not.",
+    "responses": {
+        "gpt4": "That's excellent. Many supplements and anti-diarrheal medications can interfere with the procedure, so it's best to avoid them. Even though that's the case, do you have any concerns or queries about the interaction of supplements and your colonoscopy procedure?",
+        "our_model": "That's good to hear. Do you have any questions about why it's necessary to stop these supplements or any other questions related to this topic?"
+    }
+}

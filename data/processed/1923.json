@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1923,
+    "prompt": "Nurse: That's impressive. The 1957 Belvedere Plymouth is a classic. It must be quite a project. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. We have a few topics to cover today. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I don't think so.\n\nNurse: Alright. Let's start with your medications. Are you still taking your Valsartan, Lasix, and Metformin?\n\nPatient: Yep.\n\nNurse: Wonderful. And how are you taking them?\n\nPatient: Orally?\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: Like, I'm taking them or only, like, through my tablet and mouse.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat that for me?",
+        "our_model": "I see, thank you for clarifying. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
+    }
+}

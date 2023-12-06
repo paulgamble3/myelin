@@ -1,0 +1,8 @@
+{
+    "prompt_id": 292,
+    "prompt": "Nurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I did not feel comfortable telling you\n\nNurse: I see. That's perfectly okay. It's important that you feel comfortable during our conversations. Let's move on to discussing your health. Is there anything specific you've been concerned about regarding your kidney disease that you'd like to discuss?\n\nPatient: Let me think about it a second, I guess. Hold on. Let's\n\nNurse: Of course, take your time.\n\nPatient: you.\n\nNurse: Of course, take your time. I'm here to help.\n\nPatient: There you are. Okay.",
+    "responses": {
+        "gpt4": "Great! How can I assist you, Damian?",
+        "our_model": "I'm here. If you have any questions or concerns, feel free to share them with me."
+    }
+}

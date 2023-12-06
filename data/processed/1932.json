@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1932,
+    "prompt": "Nurse: That's good to hear. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Nope.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Yeah. You asked me so many questions. How do I remember Which one? To us myself for the future.",
+    "responses": {
+        "gpt4": "I understand it might be a lot to remember. An easier way might be to keep a symptom diary where each day you can write down if you're experiencing any of these symptoms: Increasing shortness of breath, chest pain, dry cough, swelling in your feet, ankles, stomach, or legs, weight gain of more than 2 pounds in a day or 5 pounds in a week, and needing more pillows to sleep at night. Would this approach be helpful for you?",
+        "our_model": "I understand your concern. It can be a lot to remember. One way to keep track is to write down your symptoms each day. You can use a notebook or a symptom tracker app on your phone. This can help you notice any changes over time. Would you like me to send you some resources on how to track your symptoms?"
+    }
+}

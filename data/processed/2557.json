@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2557,
+    "prompt": "Nurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's reassuring. What about a new or worsening dry cough, have you noticed anything like this?",
+        "our_model": "I'm glad to hear that. Have you noticed any new or worsening dry cough?"
+    }
+}

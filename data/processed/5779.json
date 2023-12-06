@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5779,
+    "prompt": "Patient: I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Nope. I am not.\n\nNurse: That's good to hear. It's essential to avoid those supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this?\n\nPatient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Well, like I said, I'm not looking forward to it, but\n\nPatient: I guess I've gotta do it. If they wanna get a good picture of my colon,",
+    "responses": {
+        "gpt4": "Absolutely, your perspective is important. Not looking forward to it, but recognizing its importance is a common sentiment. Many people find the procedure itself to be no problem, but preparing for it can be a bit challenging. However, we're here to support you every step of the way. Is there anything specific you'd like to discuss about this part of the prep?",
+        "our_model": "Absolutely. It's a crucial part of the process to ensure we get the best possible results. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions or concerns about this part of the process?"
+    }
+}

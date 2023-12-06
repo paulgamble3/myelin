@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1510,
+    "prompt": "Patient: Pasta.\n\nNurse: Pasta is a great choice, Mr. Valenzuela. It's not only low in fiber but also a comfort food for many. You can enjoy it with a simple sauce, just remember to avoid high fiber ingredients. Do you usually make your own pasta or do you have a favorite type of pasta that you buy from the store?\n\nPatient: I just buy it from the store. It you know, I haven't put that much sought into it since it's only one day.\n\nNurse: I see, Mr. Valenzuela. It's good that you're keeping it simple. This is indeed a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Are you there, Rachel?\n\nNurse: I'm sorry, Mr. Valenzuela, I didn't quite catch that. Could you please confirm if you're currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.\n\nNurse: Give me a moment to check how I can best support you.",
+    "responses": {
+        "gpt4": "Okay, Mr. Valenzuela. Now, can you tell me if there any information you would like to share about this issue?",
+        "our_model": "Alright, Mr. Valenzuela. If you have any questions later, feel free to ask. Now, I'd like to move onto the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

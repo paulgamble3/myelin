@@ -1,0 +1,8 @@
+{
+    "prompt_id": 605,
+    "prompt": "Nurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Talked to\n\nNurse: Thank you, Ms. Chabot. Let's start\n\nPatient: someone.\n\nNurse: I'm glad to hear that, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Hello, Rachel. Are you there?\n\nNurse: Yes, Ms. Chabot, I'm here. I was asking about any\n\nPatient: Rachel, are you there?",
+    "responses": {
+        "gpt4": "Yes, I'm here, Ms. Chabot. I apologize if there was any confusion. Can you please confirm if you prefer not to be contacted over the phone or if you would rather talk with a human instead of an AI?",
+        "our_model": "I'm sorry, Ms. Chabot, I didn't quite catch that. Could you please confirm what you just said?"
+    }
+}

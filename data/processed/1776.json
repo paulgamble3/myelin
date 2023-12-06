@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1776,
+    "prompt": "Nurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I said I don't take any\n\nNurse: Thank you for clarifying.\n\nPatient: supplements.\n\nNurse: Thank you for clarifying. It's critical to avoid those supplements as they can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: I do not. No.\n\nNurse: Alright. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I am feeling how am I feeling about it?",
+    "responses": {
+        "gpt4": "Yes, how are you feeling about moving onto a clear liquid diet and using the laxative solution as part of preparation for your colonoscopy? It can be a challenge for some people and I'm here to offer any guidance and support you may need.",
+        "our_model": "I'm sorry for the confusion."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4579,
+    "prompt": "Nurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: I said I go with a group.\n\nNurse: That sounds like a great way to enjoy the theater, Mr. Peck. Is it a social group or a group of friends who share the same interest in theater?\n\nPatient: Yes. It's my senior group.\n\nNurse: That's wonderful, Mr. Peck. It's great to have a group of friends with similar interests. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?\n\nPatient: Well,\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you said?\n\nPatient: What kind of healthy habits?",
+    "responses": {
+        "gpt4": "I'm sorry for the misunderstanding, Mr. Peck. What I meant to ask was: Is there anything concerning about your health or well-being that you'd like to discuss, particularly related to your kidney disease? It's crucial for us to keep track of any changes or discomfort you might be experiencing.",
+        "our_model": "I apologize for any confusion earlier, Mr. Peck. You were saying something about your health. Could you please repeat that for me?"
+    }
+}

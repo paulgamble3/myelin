@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1676,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: June seven\n\nNurse: I'm sorry, could you please repeat the year of your birth?\n\nPatient: nineteen eighty three.\n\nNurse: Thank you for confirming, Mr. O'Leary. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Okay, thank you for your time, Mr. O'Leary. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm just really sick of this arthritis pain in my knee.",
+    "responses": {
+        "gpt4": "I'm truly sorry to hear that you're in pain, Mr. O'Leary. Osteoarthritis can indeed be very challenging to deal with. However, the good news is that you're scheduled for a total knee replacement which is very effective for relieving arthritis pain. With this upcoming procedure, you could greatly reduce these pains and enhance the quality of your life. Once your new knee is in and healed up, what are you looking forward to being able to do again?",
+        "our_model": "I'm sorry to hear that you're experiencing pain, Mr. O'Leary. It's certainly not easy dealing with such discomfort. It's great that you're taking steps to address it with the upcoming knee replacement. Are there any activities you've had to put on hold due to the pain?"
+    }
+}

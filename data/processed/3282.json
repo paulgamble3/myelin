@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3282,
+    "prompt": "Patient: Yes.\n\nNurse: I'm glad to hear that, Patient. It's critical to remember that these dietary changes can help manage your CHF symptoms. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: I take walks.\n\nNurse: That's great, Patient. Walking is a wonderful form of exercise. How often do you go for walks and how long are your walks usually?\n\nPatient: Every couple days,\n\nPatient: twenty minutes.\n\nNurse: That's a good start, Patient. Walking every couple of days for 20 minutes can be beneficial for your health. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: That's okay.",
+    "responses": {
+        "gpt4": "Thank you, Patient. Here's a possible goal you could work towards: You could try gradually increasing your walking time, perhaps adding an additional 5 minutes every week, until you're walking for about 30 to 45 minutes at a time. You could also aim for walking on most days of the week. Does this seem like a doable goal for you?",
+        "our_model": "Great, thank you. It's recommended that you aim for at least 30 minutes of moderate-intensity exercise, like brisk walking, most days of the week. This can be broken down into shorter sessions if that's more manageable for you. For example, you could aim for three 10-minute walks each day. Remember, it's important to listen to your body and not push yourself too hard. Does this sound doable to you?"
+    }
+}

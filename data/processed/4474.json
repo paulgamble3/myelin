@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4474,
+    "prompt": "Nurse: I'm sorry I'm sorry for any confusion, Mr. Delarosa. I understand that managing multiple health conditions can be challenging. I'm here to help you understand your dietary recommendations. Would it be okay if I shared some information about this?\n\nPatient: Yeah. I was asking you about the fluid\n\nNurse: I\n\nPatient: striction. I hate\n\nNurse: apologize for\n\nPatient: having to monitor that.\n\nNurse: I understand, I understand your frustration, Mr. Delarosa. Monitoring fluid intake can be challenging. However, it's an important part of managing your CHF. Would it be okay if I shared some tips on how to manage your fluid intake?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, Mr. Delarosa. When managing your fluid intake, here are a few tips:\n\n1. Limit your fluid intake to 2 liters a day. This includes all fluids like water, milk, tea, coffee, and soups.\n2. Measure your drinks, so you know exactly how much you're consuming.\n3. If you feel thirsty, try sucking on a piece of ice or eating a frozen grape. This can help quench your thirst without adding too much liquid to your diet.\n4. Avoid foods high in sodium as they can cause your body to retain more fluids.\n\nDoes this tip sounds helpful?",
+        "our_model": "Thank you, Mr. Delarosa. One strategy could be to use a measuring cup to pour your drinks. This way, you can keep track of how much fluid you're consuming. Also, try to spread your fluid intake throughout the day. This can help you feel less thirsty. How does that sound?"
+    }
+}

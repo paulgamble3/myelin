@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3806,
+    "prompt": "Nurse: I apologize if it feels like we're going in circles, Ms. Odonnell. I'm here to help you navigate through this. You mentioned earlier that you're scared because you feel like you have a lot going on. Can you tell me more about what specifically is causing you to feel this way?\n\nPatient: A call. I'm hanging up.\n\nNurse: I apologize for any confusion, Ms. Odonnell. I'm here to help you. Let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I smoke cigarettes.\n\nNurse: Thank you for sharing that with me, Ms. Odonnell. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: Need to quit right now. Thanks, though.\n\nNurse: I understand, Ms. Odonnell. It's a big step and it's normal to feel unsure about when to start. Can I ask why you feel you're not ready to quit smoking yet?\n\nPatient: I don't think that's any of your business. I don't Odonnell quit smoking. Doesn't matter why.",
+    "responses": {
+        "gpt4": "I'm sorry if it felt like I was prying, Ms. Odonnell. My intention was to support you. Please remember that if or when you ever decide that you're ready to quit, there are resources available. Would it be okay if I share these with you?",
+        "our_model": "I apologize if I upset you, Ms. Odonnell. It's completely your decision and I respect that. If you ever change your mind, I have a lot of resources that could help you. Now, that was all the topics for today. Do you have any other questions or concerns?"
+    }
+}

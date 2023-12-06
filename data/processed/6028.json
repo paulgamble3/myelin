@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6028,
+    "prompt": "Nurse: I appreciate your patience, Mr. Koroleva. I hope this procedure gives you and your doctor the answers you're looking for. Before we wrap up, do you have any questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. If you have any questions at any point, feel free to ask. I'm here to help. I'll also be calling you again the day before your procedure to ensure you have everything you need. Is it okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: I guess.\n\nNurse: Thank you, Mr. Koroleva. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Koroleva. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Thank you for confirming that, Mr. Koroleva. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?",
+        "our_model": "Perfect, Mr. Koroleva. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?"
+    }
+}

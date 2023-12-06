@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3262,
+    "prompt": "Nurse: That's good to hear, Patient. It's important to continue taking your existing medications as prescribed. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's excellent, Patient. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Thank you, Patient. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Patient. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Patient. The reason I'm asking these specific questions is because we want to make sure that your heart is functioning correctly and that your medications are working as expected. Now, have you noticed any increase in swelling, particularly in your feet, ankles, or legs?",
+        "our_model": "I'm sorry, could you please confirm what you just said?"
+    }
+}

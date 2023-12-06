@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5212,
+    "prompt": "Nurse: That's great to hear. Remember, these changes can have a big impact on your health. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: I go to Pilates every day.\n\nNurse: That's fantastic! Pilates is a great way to stay active. How long have you been doing Pilates?\n\nPatient: Okay. About two years.\n\nNurse: That's impressive! Sticking with an exercise routine for two years is a great achievement. Can I provide some recommendations about improving your exercise routine in a CHF appropriate manner?\n\nPatient: I don't see how a robot is gonna be able to give me good recommendations for exercise.\n\nNurse: I understand your concern. However, as an AI, I'm programmed with medical knowledge, including exercise recommendations for patients with CHF. It's critical to remember that any exercise routine should be approved by your doctor. Would you like me to share some general recommendations?\n\nPatient: No. Thanks.",
+    "responses": {
+        "gpt4": "I understand. Please remember that regular physical activity promotes heart health and helps manage some of your conditions. If you ever have any questions or wish to discuss it, feel free to ask. I know adjusting diet and exercise can be challenging. Do you have any questions or concerns about what we discussed?",
+        "our_model": "That's perfectly fine. Remember, it's always best to consult with your doctor before starting or changing any exercise routine. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?"
+    }
+}

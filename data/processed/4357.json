@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4357,
+    "prompt": "Nurse: That's great to hear, Mr. Oliver. Now, let's move on to your Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Lastly, let's discuss your Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Mr. Oliver. It's essential to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Oliver. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I'm trying to eat healthier, and I started eating a lot of salad.",
+    "responses": {
+        "gpt4": "That's excellent, Mr. Oliver. Including more salads in your diet is a great way to get more vegetables in. Could you give me a bit more detail about what goes in those salads? For example, what types of vegetables, dressings, or proteins you're using?",
+        "our_model": "That's fantastic, Mr. Oliver! Eating salads can be a great way to incorporate more vegetables into your diet. What kinds of dressings and toppings are you using on your salads?"
+    }
+}

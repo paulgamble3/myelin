@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1538,
+    "prompt": "Nurse: Thank you, Mr. Moran. I see on your chart that you are currently taking Metformin, Fluticasone, and Albuterol. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear, Mr. Moran. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: Great, Mr. Moran. I also notice that you've been prescribed Tylenol, Oxycodone, Gabapentin, and Tramadol for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes. I picked them up today.\n\nNurse: That's excellent, Mr. Moran. It's critical to have these medications on hand for after your procedure. Do you have any questions about these medications or any other aspect of your medication regimen?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Moran. That's good to hear. Let's now talk about another important step in preparing for your surgery - using a chlorhexidine scrub. This is something you'll do to prepare your skin for surgery and to reduce the risk of infection. Have you already purchased this scrub?",
+        "our_model": "Alright, Mr. Moran. Let's move on to the next topic, which is about preparing your skin for surgery. You'll need to use a chlorhexidine scrub to reduce the risk of infection. Have you already purchased this scrub?"
+    }
+}

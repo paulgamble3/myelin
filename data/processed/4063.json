@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4063,
+    "prompt": "Nurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No. That was all pretty straightforward.\n\nNurse: I'm glad to hear that. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I am on a ketogenic cardiac diet, and I wanna be honest, it's been stressful to follow such a strict diet. Don't even know what food that you need, that not only go with the diet, but also help manage my obesity and cardiac heart failure.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me. Following a diet plan can indeed be difficult, especially when managing multiple health concerns. You're not alone in feeling this way. Have you tried any new recipes or found any meals that you particularly enjoy within your dietary recommendations?",
+        "our_model": "I can imagine that it's challenging to adjust to a new diet, especially when managing multiple health conditions. It's great that you're committed to following a diet that supports your health. Can you share what you had for breakfast, lunch, and dinner yesterday?"
+    }
+}

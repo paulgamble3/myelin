@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4934,
+    "prompt": "Patient: I am.\n\nNurse: Thank you for confirming, Mr. Hooper. For verification purposes, could you please provide your date of birth?\n\nPatient: December five\n\nPatient: nineteen sixty one.\n\nNurse: Thank you for confirming that, Mr. Hooper. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling reasonably well.\n\nNurse: That's good to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Yes. I'm feeling so much better now.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Hooper. You just being in your familiar surroundings can make a big difference. Out of curiosity, do you have any hobbies or activities that you enjoy doing at home or in your free time?",
+        "our_model": "That's wonderful to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5335,
+    "prompt": "Nurse: I apologize if I wasn't clear, Mr. Gardner. I'm asking if you've been taking your Lasix 20 mg tablets two times a day as prescribed by your doctor. [\n\nPatient: Oh, yes.\n\nNurse: That's great to hear, Mr. Gardner. Now, let's talk about your existing medication. Are you still taking your Valsartan?\n\nPatient: Yes.\n\nNurse: That's good to hear, Mr. Gardner. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great. I'll start with how your breathing is. Have you noticed new or worsening shortness of breath with activity, while laying down, or at rest?",
+        "our_model": "Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

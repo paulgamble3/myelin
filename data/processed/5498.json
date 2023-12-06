@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5498,
+    "prompt": "Nurse: Hello, Ms. Aguirre. I was asking if you have been checking your blood sugar levels daily?\n\nPatient: I said yes.\n\nNurse: Thank you for confirming that, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one twenty eight.\n\nNurse: Thank you\n\nPatient: So\n\nNurse: for sharing I'm sorry, Ms. Aguirre, could you please repeat your last blood sugar reading?\n\nPatient: Yes. One twenty eight.",
+    "responses": {
+        "gpt4": "Thank you for sharing your blood sugar level, Ms. Aguirre. That's a good number for managing your Type II Diabetes. It's important to keep monitoring your levels and aim for a range of 80-130 mg/dL before meals. Are you experiencing any issues with your diabetes management?",
+        "our_model": "Thank you for sharing that, Ms. Aguirre. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

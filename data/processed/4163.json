@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4163,
+    "prompt": "Nurse: Alright, Mr. Peck. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Mr. Peck. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Peck. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was one forty eight.\n\nNurse: Thank you for sharing that, Mr. Peck. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Peck. One way to help control your blood sugar is through diet. Eating meals with a balance of protein, vegetables, and a small portion of complex carbohydrates can help to maintain stable blood sugar levels. Do you think this is something you can incorporate into your meals?",
+        "our_model": "Great, thank you for being open to suggestions, Mr. Peck. One strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, and vegetables. What do you think about this suggestion?"
+    }
+}

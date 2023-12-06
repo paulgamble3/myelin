@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6199,
+    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yeah. I'm\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: a little bit jittery about it, but this is a good time to talk.\n\nNurse: I'm glad to hear that you're available to talk. It's completely normal to feel a bit jittery before a procedure. How has your day been so far?\n\nPatient: Just trying to pack some things up to take with me to the hospital, just some things that'll\n\nNurse: That sounds like a good idea. Having some familiar items with you can make the hospital stay more comfortable. What kind of things are you planning to take?\n\nPatient: bring me some comfort.",
+    "responses": {
+        "gpt4": "Comfort items can indeed make a significant difference. Are they perhaps things like a favorite book or cozy blanket perhaps? It's important to feel as at ease as possible during your stay.",
+        "our_model": "That sounds like a great idea. Having familiar comforts can make a big difference during your stay. What kind of things are you packing?"
+    }
+}

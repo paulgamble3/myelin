@@ -1,0 +1,8 @@
+{
+    "prompt_id": 319,
+    "prompt": "Nurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: And what what do I mean and what\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I wanna know what done in creatinine is\n\nNurse: Done and creatinine are both substances found in your blood. When your kidneys are working well, they filter out these substances.\n\nPatient: And what does that mean? And what if they're what are they what's the high\n\nNurse: I see. You're asking about BUN and Creatinine. BUN stands for Blood Urea Nitrogen.\n\nPatient: goes.",
+    "responses": {
+        "gpt4": "I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I see. Done is short for BUN, which stands for Blood Urea Nitrogen. It's a waste product that's produced in your body when protein is broken down. Creatinine is another waste product that's produced by your muscles. Both of these are normally removed from your blood by your kidneys. When your kidneys aren't working as well as they should, these levels can rise. A high BUN or creatinine level could indicate that your kidneys aren't functioning as well as they should be. Does that help clarify things?"
+    }
+}

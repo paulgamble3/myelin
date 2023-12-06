@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5274,
+    "prompt": "Patient: What does bun mean and what does creatine mean?\n\nNurse: I apologize for the confusion, Ms. Rivers. Could you please repeat your question?\n\nPatient: On my blood work, There's something that says b u n, and then there's another one that says prazaminin.\n\nPatient: What do they mean?\n\nNurse: Thank you for clarifying, Ms. Rivers. BUN stands for Blood Urea Nitrogen. It's a waste product that's produced in your body and is filtered out by your kidneys. A high BUN level could indicate that your kidneys aren't working as well as they should be. Creatinine is another waste product that your kidneys filter out. A high creatinine level could also indicate kidney problems. Does that help clarify things for you?\n\nPatient: Yeah.\n\nNurse: I'm glad to hear that, Ms. Rivers. If you have any other questions about your lab results, feel free to ask.\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Great, Ms. Rivers. If any other questions come up in the future, please don't hesitate to ask. Now, I would like to talk about your medications if that's alright with you. Let's start with the first one, Captopril. This medication is prescribed at a dosage of 25 mg daily. Have you been taking this medication as prescribed?",
+        "our_model": "I'm glad I could help clarify that for you, Ms. Rivers. Now, I'd like to review your medications with you. You're currently taking Captopril 12.5 mg oral tablet, 25 mg daily. Have you been taking this medication as prescribed?"
+    }
+}

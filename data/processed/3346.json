@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3346,
+    "prompt": "Patient: Do I have any No. No. I think I'm all clear. You told me a lot about things, and I'm ready to do the scrub the surgery is in two days. So I'm kinda, like, really scared\n\nPatient: Am ready. I'm ready. Ready.\n\nNurse: I can certainly understand your feelings, Mr. Winner. It's completely normal to feel a bit scared before a procedure. But remember, you're in good hands with Doctor Stevens and the team at O'Connor Hospital. They've done this many times before and they're going to take great care of you. Do you have any specific concerns or questions you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Winner. I'm here to support you, so feel free to ask any questions at any time. Now, let's summarize what you still need to do before your procedure. You'll need to use the chlorhexidine scrub the night before and the morning of your procedure. You also need to stop eating and drinking after midnight before your procedure. Can I count on you to do all of this?\n\nPatient: You can call me.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: Me. Yes.",
+    "responses": {
+        "gpt4": "Great, Mr. Winner! I'm happy to hear you're feeling prepared. Remember, everyone at O'Connor Hospital is there to support you. That includes me, even if I'm just on the end of the phone. I'm looking forward to hearing about your successful procedure and recovery.",
+        "our_model": "That's great to hear, Mr. Winner. I know you're going to do well. Remember, I'm here for you every step of the way. If you have any questions at any time, you can call me back at 641-381-6523."
+    }
+}

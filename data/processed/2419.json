@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2419,
+    "prompt": "Nurse: Wonderful. After that, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's essential to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.\n\nNurse: Excellent. Finally, you'll need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Okay.\n\nNurse: Finally, you'll need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: It well, and I also have the instructions in the box.\n\nNurse: That's great. Having the instructions handy will be very helpful. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: I can certainly try.",
+    "responses": {
+        "gpt4": "I'm confident that you'll be able to manage it. Now, let's move on to the final topic for today. This is regarding when to stop eating and drinking before your surgery. You need to avoid eating and drinking anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?",
+        "our_model": "That's all we can ask for. Your effort is greatly appreciated."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5914,
+    "prompt": "Nurse: I'm glad to hear that. Another suggestion is to incorporate some physical activity into your day, even if it's just a short walk. This can help your body use insulin more effectively. Do you think you could try that?\n\nPatient: Sure.\n\nNurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.\n\nNurse: That's good to hear that you're keeping track. Could you please share with me what the result was?\n\nPatient: Yeah. It was ninety over one twenty.\n\nNurse: Thank you for sharing that. The reading is a bit high. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, thank you. Regular exercise can help lower your blood pressure. Also, a diet rich in fruits, vegetables, and low-fat dairy products, and low in cholesterol and saturated fats can also help to lower your blood pressure. What do you think about these suggestions?",
+        "our_model": "Thank you. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?"
+    }
+}

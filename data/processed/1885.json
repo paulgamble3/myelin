@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1885,
+    "prompt": "Nurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jack Smith, to check in on you. How have you been doing lately?\n\nPatient: Avenue. Alright.\n\nNurse: I'm glad to hear that you're doing alright. Is there anything you're looking forward to doing this week?\n\nPatient: I'm going to a birthday party tomorrow.\n\nNurse: That sounds like a lot of fun! Whose birthday party is it?\n\nPatient: My neighbor.\n\nNurse: Oh, that's nice! It's always great to celebrate with neighbors. Do you have any special plans for the party?\n\nPatient: Well, it's a murder mystery party.",
+    "responses": {
+        "gpt4": "A murder mystery party, how exciting! Those tend to be quite entertaining. Will you be playing a specific character?",
+        "our_model": "A murder mystery party sounds exciting! Have you been to one before?"
+    }
+}

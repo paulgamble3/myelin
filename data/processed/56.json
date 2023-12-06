@@ -1,0 +1,8 @@
+{
+    "prompt_id": 56,
+    "prompt": "Nurse: That's good to hear, Ms. Ware. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Ms. Ware. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Ware. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Binkles now.\n\nNurse: I'm sorry, Ms. Ware, I didn't quite catch that. Are you saying you have swelling in one of your legs?\n\nPatient: What did you say?",
+    "responses": {
+        "gpt4": "My apologies for any confusion, Ms. Ware. My note indicates that you might be experiencing some swelling in one of your legs. Could you please confirm?",
+        "our_model": "Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you."
+    }
+}

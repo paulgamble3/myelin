@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3321,
+    "prompt": "Nurse: That's correct, Mr. Winner. It's important to stop taking Aspirin before your procedure. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: He's up.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: I apologize for the confusion, Mr. Winner. I was asking if you've picked up your Tylenol and Celebrex from the pharmacy yet.\n\nPatient: Yes. I did.\n\nNurse: That's great, Mr. Winner. It's critical to have those medications on hand for after your procedure. Do you have any questions about your medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great, Mr. Winner. If you have any questions in the future, don't hesitate to ask. Now, onto your medical clearance. I see that you saw your primary care doctor, Dr. Singh, on July 29th and your Cardiologist, Dr. Patel, on July 30th. Is that correct?",
+        "our_model": "Alright, Mr. Winner. Let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection by using a chlorhexidine scrub. Have you already purchased the scrub?"
+    }
+}

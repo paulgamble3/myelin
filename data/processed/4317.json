@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4317,
+    "prompt": "Nurse: I'm sorry, I didn't quite understand your response. Could you please tell me how you've been managing your blood sugar levels?\n\nPatient: Trying to eat healthier.\n\nNurse: That's a great start. Eating a balanced diet can really help manage your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to make sure and take it.\n\nNurse: That's excellent. Staying on top of your diet and taking your medications as prescribed are key in managing your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to stay on top of it.\n\nNurse: That's good to hear. Staying on top of your blood pressure is crucial for your overall health.\n\nPatient: Making sure it doesn't go high.",
+    "responses": {
+        "gpt4": "That's a wise strategy. Regularly checking your blood pressure can help keep it under control. Now, I'd like to ask about your smoking habits. Do you smoke cigarettes or vape?",
+        "our_model": "That's a good approach. Regular monitoring and maintaining a healthy lifestyle can help keep your blood pressure under control. Now, let's move on to a different topic. Do you smoke cigarettes or vape?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1253,
+    "prompt": "Nurse: My apologies for misunderstanding, Ms. Raynier. I see that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier, Ms. Raynier. I thought you mentioned Advent Adventville, which I couldn't find in our records. Could you please clarify which medication you were referring to?\n\nPatient: In.\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat which medication you were referring to earlier?\n\nPatient: Let's move on.\n\nNurse: Of course, Ms. Raynier. Do you have any questions about your medications or is there anything else you'd like to discuss regarding them?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Ms. Raynier. Are there any other questions or concerns that you have at this point? I'm here to help.",
+        "our_model": "Alright, Ms. Raynier. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?"
+    }
+}

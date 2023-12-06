@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1355,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this David Grewe?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Okay. It",
+    "responses": {
+        "gpt4": "Great! Please share the month, day, and year of your birth.",
+        "our_model": "I'm sorry, I didn't quite catch that. Could"
+    }
+}

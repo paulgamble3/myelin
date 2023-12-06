@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4506,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: stuff I've got going on, but\n\nNurse: I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: Well, I've had a little bit of weight gain and some\n\nNurse: I see, weight gain can be a concern. May I ask how much weight you've gained and over what period of time?\n\nPatient: and swelling in my lower legs.\n\nNurse: I'm sorry to hear that you're experiencing some weight gain and swelling in your lower legs. Can you confirm if it's just one leg or both legs that are swollen?\n\nPatient: So, folks,",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat yourself?",
+        "our_model": "I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

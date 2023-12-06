@@ -1,0 +1,8 @@
+{
+    "prompt_id": 313,
+    "prompt": "Nurse: I'm sorry, you were saying?\n\nPatient: ninety over one twenty.\n\nNurse: Thank you for that information. A blood pressure reading of 90 over 120 is within the acceptable range, but the lower number is a bit high. It's important to keep monitoring it. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: No. It wouldn't be okay.\n\nNurse: I understand. We can move on to discussing your recent lab results. Do you have any questions about them?\n\nPatient: Yeah.\n\nNurse: Of course. What would you like to know?\n\nPatient: I wanna know",
+    "responses": {
+        "gpt4": "Of course, feel free to ask your question. I'm here to assist you.",
+        "our_model": "Yes. What would you like to know about your recent lab results?"
+    }
+}

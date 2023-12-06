@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5049,
+    "prompt": "Nurse: That's good to hear. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That is still the plan.\n\nNurse: Great. I just want to confirm that you've arranged for a ride home and for someone to stay with you after the procedure. Have you managed to arrange that?\n\nPatient: My daughter is going to give me a ride and then stay with me.\n\nNurse: That's wonderful to hear. It's critical to have someone with you after the procedure. If there's anything else you need to arrange, you still have time to do so. Can I count on you to do all of this?\n\nPatient: Yes.\n\nNurse: That's great to hear. I believe we've covered all the necessary topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Perfect. Just to summarize, what you still need to do before your procedure is: \n\n1. Continue taking your medication as prescribed. \n2. Use the chlorhexidine scrub the night before and the morning of your procedure. \n3. Remember to stop eating and drinking after midnight before your procedure. \n4. Make sure your daughter is ready to drive you home and stay with you afterwards.\n\nCan I count on you to do all of this?",
+        "our_model": "Alright. Before we end the call, I want to remind you that you can call me back at any time if you have questions. The callback number is 641-381-6523. I'm here for you every step of the way. I'm glad to hear that you're looking forward to your walk on the beach next summer. It's a wonderful goal to work towards. Thank you for your time today. Goodbye for now. ["
+    }
+}

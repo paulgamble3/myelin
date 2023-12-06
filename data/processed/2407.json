@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2407,
+    "prompt": "Nurse: I can certainly appreciate your feelings. It's a big step, but remember, you're not alone in this. Your healthcare team, including Doctor Stevens and all of us at O'Connor Hospital, are here to support you every step of the way. Now, if it's okay with you, I'd like to review a few topics to ensure you have everything you need for your procedure. Is that alright?\n\nPatient: Okay.\n\nNurse: Wonderful.\n\nPatient: Yes.\n\nNurse: Great. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent. Is there anything else about the logistics that's concerning you? Anything else you need to know about the day of the procedure?",
+        "our_model": "Okay. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?"
+    }
+}

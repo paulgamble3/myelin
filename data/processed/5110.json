@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5110,
+    "prompt": "Nurse: Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Wonderful. Is there anything else about the logistics that's worrying you or anything else you'd like to know about the day of the procedure?\n\nPatient: No. Not really.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. I'm here to help. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes. I'm ready.\n\nNurse: Excellent. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Are you clear on this?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "I'm glad that's clear for you. Do you have any questions about this medication or any other medications that you are currently taking?",
+        "our_model": "Excellent. Do you have any questions about your Tylenol medication or any concerns about how it might interact with your upcoming procedure?"
+    }
+}

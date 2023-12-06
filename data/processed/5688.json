@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5688,
+    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you. That's good to hear. Now, have you had any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: That's good to hear. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's excellent to hear. Have you been feeling lightheaded or dizzy, especially when getting up from sitting or lying down?",
+        "our_model": "That's good to hear. Lastly, have you been using more pillows at night to sleep?"
+    }
+}

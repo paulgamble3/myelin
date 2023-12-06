@@ -1,0 +1,8 @@
+{
+    "prompt_id": 792,
+    "prompt": "Nurse: Excellent, Ms. Aguirre. Another suggestion is to increase your intake of fruits and vegetables, which can help lower blood pressure. Do you think you could incorporate more fruits and vegetables into your diet?\n\nPatient: Well, I probably could. What kinds of fruits and vegetables\n\nNurse: That's great to hear, Ms. Aguirre. All fruits and vegetables can be beneficial, but some, like bananas, tomatoes, and leafy greens, are particularly good\n\nPatient: staples are the best for someone like me.\n\nNurse: That's a great question, Ms. Aguirre. Fruits and vegetables are generally good for everyone, but some are particularly beneficial for managing blood pressure and kidney health. For example, bananas, avocados, and tomatoes are rich in potassium, which can help manage blood pressure. However, it's important to note that some fruits and vegetables are high in potassium, which might not be suitable for your kidney condition. Would you like me to provide more specific suggestions?\n\nPatient: Yes. Specific.\n\nNurse: Great, Ms. Aguirre. Some fruits and vegetables that are generally considered good for both blood pressure and kidney health include apples, berries, cherries, and leafy green vegetables like spinach and kale. These are all low in sodium and potassium. However, it's always a good idea to consult with your doctor or a dietitian for personalized advice. Does this information help?\n\nPatient: Suggestions that are not confusing, like, what you just",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat your question or concern?",
+        "our_model": "I"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1639,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ola Farrell?\n\nPatient: This is Ola Farrell.\n\nNurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Robert Benson, to check in on you. How have you been doing lately?\n\nPatient: Okay.\n\nNurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Robert Benson, to check in on you. How have you been doing lately?\n\nPatient: I think I've been feeling pretty well. Thank you for calling.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're feeling well. Is there something you're looking forward to doing this week?",
+        "our_model": "That's great to hear. Is there anything you're looking forward to doing this week?"
+    }
+}

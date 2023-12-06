@@ -1,0 +1,8 @@
+{
+    "prompt_id": 497,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Hello, may I ask if I am speaking with the individual intended for this call?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?"
+    }
+}

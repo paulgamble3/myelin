@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6366,
+    "prompt": "Nurse: I'm sorry, Mr. Gardner, I'm having a bit of trouble understanding. Could you please confirm what you had for your meal?\n\nPatient: I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could\n\nPatient: fish?\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: With vegetables, and bread.\n\nNurse: Thank you for confirming that, Mr. Gardner. It's good to hear that you're including fish and vegetables in your meals. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?\n\nPatient: Yeah. Go ahead.",
+    "responses": {
+        "gpt4": "I apologize for the confusion earlier, Mr. Gardner. You had mentioned that you had fish with vegetables and bread for your meal. That sounds like a healthy, balanced meal. Now, would you be able to walk me through a typical breakfast, lunch, and dinner for you?",
+        "our_model": "When did the change in speech start?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3973,
+    "prompt": "Nurse: White bread is a good choice, Mr. Dang. It's low in fiber and can be a comforting food. Do you usually have it with anything specific?\n\nPatient: Butter.\n\nNurse: Butter on white bread can be a simple and comforting meal, Mr. Dang. Just remember, it's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet or any other foods you're considering?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, let's move on to discuss supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's important to avoid those supplements and medications before your colonoscopy. Do you have any questions about this or any other aspect of your preparation?\n\nPatient: I don't.",
+    "responses": {
+        "gpt4": "That's great, Mr. Dang. I'm here to answer any questions you might have. Now, let's move on to talking about the next step in preparing for your colonoscopy, which is your clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the preparation. How are you feeling about this step?",
+        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

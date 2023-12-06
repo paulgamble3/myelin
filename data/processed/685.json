@@ -1,0 +1,8 @@
+{
+    "prompt_id": 685,
+    "prompt": "Nurse: I apologize for the confusion earlier. Could you please confirm if you've been using more pillows to sleep at night?\n\nPatient: I said\n\nNurse: Just give me a second to work out the best way I can assist you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: No. The best way you can assist me is to wrap up this call.\n\nNurse: I understand. Before we wrap up, I'd like to discuss your diet briefly. Could you tell me about your recent meals?\n\nPatient: Yes.\n\nNurse: Could you please share what you've been eating recently?\n\nPatient: I'm watching my liquid intake.",
+    "responses": {
+        "gpt4": "That's good to hear. Managing fluid intake is important particularly in managing CHF. Can you share which foods you've been eating recently?",
+        "our_model": "That's great to hear. Could you share a bit more about what you've been eating recently?"
+    }
+}

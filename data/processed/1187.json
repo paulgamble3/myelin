@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1187,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Dang. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm feeling good about it.\n\nNurse: That's great to hear, Mr. Dang. It's critical to approach these procedures with a positive attitude. Do you have any questions or concerns you'd like to discuss before we begin?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, Mr. Dang, if you have any inquiries at any point during our conversation, don't hesitate to interrupt me. According to your medical records, you'll be undergoing this colonoscopy due to unexplained abdominal pain. It can be quite a process to go through this procedure. Since we're doing this because of your abdominal pain, it's my hope this procedure will give you and Dr. Bailey the answers you're looking for. Is there anything you want to know about that?",
+        "our_model": "Alright, Mr. Dang. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

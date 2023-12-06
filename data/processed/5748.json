@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5748,
+    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Yes, Ms. Aguirre, you can take Tylenol for back pain if needed. It's prescribed to you as needed, so you can take it when you experience pain. However, it's important not to exceed the prescribed dosage. Does that answer your question?\n\nPatient: Yes.\n\nNurse: I'm glad I could help clarify that for you, Ms. Aguirre. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: A good rest of the day.\n\nNurse: I apologize for the confusion earlier, Ms. Aguirre. Could you please confirm whether you currently smoke cigarettes or use any vaping devices?\n\nPatient: I said I smoke a pack of cigarettes a day.\n\nNurse: Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: Not really.",
+    "responses": {
+        "gpt4": "I see, Ms. Aguirre. Quitting smoking can be a challenging step, but it can significantly improve your health, especially considering your current conditions. If you ever decide to consider it, would you like me to provide you with some resources for smoking cessation?",
+        "our_model": "I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting. Can you share with me why you feel you're not ready to quit smoking?"
+    }
+}

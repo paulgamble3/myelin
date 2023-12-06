@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4387,
+    "prompt": "Nurse: That's great to hear. How about Gabapentin, are you taking that as needed?\n\nPatient: Yes.\n\nNurse: Good to know. And are you taking your Tylenol as needed, up to three times a day?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes.\n\nNurse: I apologize for the oversight earlier. Are you taking your Tylenol 500 mg oral tablets, with a dosage of 1000 mg, three times a day as needed?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "Great. It's important to always take medications as recommended by your doctor. If you're taking Tylenol 500mg tablets, you should be taking two tablets at each dose to make a total of 1000mg, up to three times a day. This is not just \"up to three times a day\" without specifying the 1000 mg dose. Can you confirm that this is how you've been taking it?",
+        "our_model": "That's excellent. It's essential to take your medications as prescribed. I understand that sometimes it can be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?"
+    }
+}

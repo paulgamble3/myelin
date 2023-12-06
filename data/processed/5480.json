@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5480,
+    "prompt": "Nurse: That sounds wonderful, Ms. Aguirre. You volunteer at a theater, is that correct?\n\nPatient: Correct. Yes.\n\nNurse: That's fantastic, Ms. Aguirre. What do you enjoy most about volunteering at the theater?\n\nPatient: Community team.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what you enjoy most about volunteering at the theater?\n\nPatient: Yes. Community.\n\nNurse: It's great to hear that you enjoy being a part of the community at the theater, Ms. Aguirre. Is there a particular play or performance you're excited about?\n\nPatient: Oh, yeah. Billy Curtis.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch that clearly. Are you looking forward to a performance by someone named Billy Curtis?",
+        "our_model": "That's exciting, Ms. Aguirre! Is Billy Curtis a play or a performance?"
+    }
+}

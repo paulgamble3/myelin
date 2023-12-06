@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1330,
+    "prompt": "Nurse: Yes, that's correct. Osteoarthritis, which you have, is a degenerative joint disease that affects the cartilage in your joints. It's often related to age or injury. Rheumatoid arthritis, on the other hand, is an autoimmune disease that causes inflammation in the joints. It's not related to age or injury, but rather a problem with the immune system. Is there anything else you'd like to know about these conditions?\n\nPatient: No. Thanks.\n\nNurse: Alright, You're welcome. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.\n\nNurse: Great, thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Thank you for confirming. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "I'm glad that works for you. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you would like to discuss?",
+        "our_model": "Give me a moment to check how I can best support you."
+    }
+}

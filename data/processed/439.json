@@ -1,0 +1,8 @@
+{
+    "prompt_id": 439,
+    "prompt": "Nurse: Of course, I apologize if I misunderstood your question earlier. Could you please repeat it?\n\nPatient: The the medications that they prescribed to me. What are they for?\n\nNurse: Absolutely, let me explain.\n\nPatient: Why?\n\nNurse: Absolutely, let me explain. Tylenol is a pain reliever and is often used to manage mild to moderate pain. It's often used after surgery to help manage any discomfort you might experience. Tramadol, on the other hand, is a stronger pain reliever. It's typically used for more severe pain and is often prescribed after surgeries like yours. Does that help clarify things for you?\n\nPatient: Very much. So. Yes. Thank you.\n\nNurse: You're welcome. I'm glad I could help clarify that for you. Do you have any other questions about your medications?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Alright. If you have any further questions, feel free to ask at any time. Moving on, it's important to have someone able to drive you home after your surgery, as you won't be able to do so yourself. Do you already have arrangements in place for this?",
+        "our_model": "Do you have any other questions about your medications?"
+    }
+}

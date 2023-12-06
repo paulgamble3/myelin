@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2145,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Valenzuela. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Well, I like things like ice cream. I like things like putting\n\nNurse: Ice cream is a great choice, Mr. Valenzuela. It's a low fiber food that can be quite comforting.\n\nPatient: The sorts of things that are probably not too good for me.\n\nNurse: Ice cream is a popular choice, Mr. Valenzuela. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Just remember to avoid any fruit toppings that are high in fiber. Do you have any other favorite low fiber comfort foods?\n\nPatient: No. I think I'm an ice cream person.\n\nNurse: Ice cream sounds like a great choice, Mr. Valenzuela. Just remember to enjoy it in moderation. Now, let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I don't take those.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Valenzuela. It's always important to have these things checked. Do you have any questions about supplements or anti-diarrheal medications?",
+        "our_model": "That's good to hear, Mr. Valenzuela. It's important to avoid those supplements and medications before your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss in this regard?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5995,
+    "prompt": "Nurse: Great, thank you. Let's start with Valsartan. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to take your medications as prescribed to manage your conditions effectively. Now, let's discuss Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: I have.\n\nNurse: That's excellent, it's important to take your insulin as prescribed to manage your blood sugar levels. Now, let's move on to Hydrochlorothiazide. You're prescribed to take a 12.5 mg oral tablet daily. Have you been taking this medication as prescribed?\n\nPatient: I have.\n\nNurse: That's great to hear. Taking your Hydrochlorothiazide as prescribed can help manage your blood pressure. Now, let's discuss Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's excellent to hear, Aspart is important for controlling your blood sugar levels. Now, let's discuss the last medication, Disulfiram. You're prescribed to take a 250 mg oral tablet once daily. Are you taking this medication as directed?",
+        "our_model": "That's excellent, it's important to take your Aspart as prescribed to manage your blood sugar levels. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg oral tablet once daily. Have you been taking this medication as prescribed?"
+    }
+}

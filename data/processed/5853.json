@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5853,
+    "prompt": "Nurse: Alright, Mr. Alves. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. I see on your chart that you're getting this colonoscopy due to bleeding from the rectum. I realize it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I just want to get it over with\n\nNurse: I can appreciate that, Mr. Alves. It's natural to want to resolve health concerns quickly. I hope this procedure provides you and your doctor with the answers you're looking for. Would it be alright if we go over a few topics on preparing for your colonoscopy?\n\nPatient: That's fine.\n\nNurse: Okay, thank you, Mr. Alves. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received and understood the instructions about the dietary restrictions and bowel preparation for your colonoscopy?\n\nPatient: Alves.",
+    "responses": {
+        "gpt4": "My apologies! Mr. Alves, it's important that you understand the dietary restrictions and bowel preparation before your colonoscopy. Have you received those instructions?",
+        "our_model": "I'm sorry, Mr. Alves, I didn't quite understand your response. Could you please repeat what you said?"
+    }
+}

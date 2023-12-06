@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5039,
+    "prompt": "Nurse: That's great to hear. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: I\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you'll take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Sounds great.\n\nNurse: I'm glad to hear that. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes, ma'am.",
+    "responses": {
+        "gpt4": "Great. After you've scrubbed from the neck down, rinse off the scrub completely. Once you're dry, make sure to put on freshly washed clothes and sleep in freshly washed sheets. You're going to repeat this process the morning of your surgery. Does all of that make sense?",
+        "our_model": "Perfect. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that was a lot. Do you have any questions about the chlorhexidine scrub?"
+    }
+}

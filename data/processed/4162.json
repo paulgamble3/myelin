@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4162,
+    "prompt": "Nurse: That sounds delightful, Mr. Peck. Santa on the roof with reindeer must be a beautiful sight. Before we move on to discuss your kidney disease, do you have any symptoms or health concerns you'd like to share with me?\n\nPatient: No.\n\nNurse: Alright, Mr. Peck. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Mr. Peck. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Peck. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was one forty eight.",
+    "responses": {
+        "gpt4": "Thank you for sharing that valuable information. Since your reading is slightly high, would it be okay if I provide some suggestions to help you manage your blood sugar levels better?",
+        "our_model": "Thank you for sharing that, Mr. Peck. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4025,
+    "prompt": "Nurse: That sounds wonderful, Ms. Warrell. Could you tell me a bit more about the dish?\n\nPatient: And I've been needing it every day since she's made it.\n\nNurse: That sounds delicious, Ms. Warrell. Could you tell me a bit more about this vegetarian dish?\n\nPatient: It's been so good.\n\nNurse: That sounds delicious, Ms. Warrell. It's wonderful that you're enjoying a meal prepared with love. Could you tell me a bit more about the dish?\n\nPatient: Yeah. Just really good. Vegetarian stock.\n\nNurse: That sounds nourishing, Ms. Warrell. It's great that you're enjoying a vegetarian dish. It's also important to note that a cardiac diet is recommended for your health. This includes eating plenty of fruits and vegetables, whole grains, lean proteins, and limiting sodium, added sugars, and unhealthy fats. Is it okay if I share some dietary recommendations with you?\n\nPatient: All vegetables, potatoes,",
+    "responses": {
+        "gpt4": "Your dish sounds nutritious and heart-friendly, Ms. Warrell, with all the vegetables and potatoes. Eating a variety of colored vegetables can provide different nutrients and compounds beneficial for health. Would you like to learn more about how your diet aids in managing your CHF?",
+        "our_model": "That sounds like a hearty and nutritious dish, Ms. Warrell. It's great that you're enjoying it. How often do you usually prepare vegetarian meals like this?"
+    }
+}

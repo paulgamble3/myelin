@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3291,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes. It is.\n\nNurse: Great, Mr. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Pretty good time to talk. Yes.\n\nNurse: I'm glad to hear that, Mr. Winner. How has your day been so far?\n\nPatient: Not bad. Just you know,",
+    "responses": {
+        "gpt4": "That's nice to hear, Mr. Winner. Certainly, days leading up to a procedure can be a mixed bag of feelings. Are you managing to keep up with your usual routines despite the anticipation of the knee replacement?",
+        "our_model": "I'm glad to hear that, Mr. Winner. It's always good to have a day that's not bad. Is there anything in particular that's made your day better?"
+    }
+}

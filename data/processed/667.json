@@ -1,0 +1,8 @@
+{
+    "prompt_id": 667,
+    "prompt": "Nurse: That's good to hear. Lastly, are you still taking Tramadol, Levothyroxine, and Tylenol as needed?\n\nPatient: Tramadol, levothyroxine, and Tylenol as needed. Yes.\n\nNurse: Thank you for confirming that. I understand it can be a lot to manage. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: You must be kidding me.\n\nNurse: I understand it can be challenging at times. If it's okay with you, I'd like to provide some suggestions that might help. Would that be alright?\n\nPatient: Yes.\n\nNurse: Wonderful. One strategy could be using a pillbox with compartments for each day of the week. This can help you see at a glance if you've taken your medications for the day. Another option could be setting reminders on your phone or a clock. Would any of these suggestions be helpful for you?\n\nPatient: I already do those things. It is a full time job",
+    "responses": {
+        "gpt4": "I can imagine it feels like that sometimes, managing medications can indeed be a demanding task. Since you're keeping up with these best practices already, that's excellent work on your part! Please keep it up. Now, with your permission, I would like to ask a few questions about your symptoms to help understand how you're doing at home. Is that okay?",
+        "our_model": "I see, I can imagine it's quite a task to manage all these medications. You're doing a great job. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
+    }
+}

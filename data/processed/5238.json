@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5238,
+    "prompt": "Nurse: That's great to hear, Mr. Oliver. Sticking to your medication schedule is crucial for managing your conditions. Now, let's move on to your next medication. You're also prescribed Lantus 100 IU/mL prefilled pen, with a dosage of 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Regularly taking your Lantus as prescribed is important for managing your blood sugar levels. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's wonderful, Mr. Oliver. It's essential to take your Aspart as prescribed to help manage your blood sugar levels. I understand that it can be challenging to remember to take medications on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No. I don't.\n\nNurse: That's fantastic, Mr. Oliver. It's really important to take your medications as prescribed, and it sounds like you're doing a great job. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Alright, Mr. Oliver. Moving on, let's discuss your diet. Can you tell me about some of the meals you've been eating recently?",
+        "our_model": "Alright, Mr. Oliver. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

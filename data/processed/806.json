@@ -1,0 +1,8 @@
+{
+    "prompt_id": 806,
+    "prompt": "Nurse: Alright, Ms. Aguirre. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, for lunch? I had some shoes.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you had for lunch?\n\nPatient: I made some nice chicken soup with vegetables and\n\nPatient: price.\n\nPatient: Very good.\n\nNurse: I'm I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you\n\nPatient: And",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, your response got cut off. Could you please tell me again what you had for lunch?",
+        "our_model": "please repeat I'm sorry, Ms. Aguirre, I"
+    }
+}

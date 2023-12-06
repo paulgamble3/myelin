@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6172,
+    "prompt": "Patient: Yes.\n\nNurse: Okay, thank you, Mr. Dang. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yeah. I know.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: Excellent, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sounds fine.\n\nNurse: Excellent, Mr. Dang. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Good to hear, Mr. Dang. I'm here to help you feel prepared for your appointment. Now, before we continue, could you confirm if it's okay for us to talk about your medications for a moment?",
+        "our_model": "Give me a moment while I figure out how I can best help you. Give me a moment while I figure out how I can best help you. Alright, Mr. Dang. I'm glad to hear that the logistics seem clear to you. I'm going to take a moment to figure out the best way I can support you. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?"
+    }
+}

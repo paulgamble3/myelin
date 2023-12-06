@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3478,
+    "prompt": "Nurse: Okay. Do you have any questions about the Ferrous Sulfate or the instructions to stop it?\n\nPatient: No.\n\nNurse: Alright. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.\n\nNurse: Alright. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, rice, and pasta, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Sounds good. Since we're talking about food, what are some of your favorite low-fiber foods that you might enjoy as comfort food during this time?",
+        "our_model": "Wonderful. What are some low fiber foods that you enjoy?"
+    }
+}

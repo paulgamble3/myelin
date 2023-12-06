@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2661,
+    "prompt": "Nurse: That's great, Ms. Cruz. Including protein in your salads can help you feel full and satisfied. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?\n\nPatient: Sure.\n\nNurse: Thank you, Ms. Cruz. One of the recommendations is to limit your fluid intake to 1.5 liters per day. This includes all fluids, not just water. Are you currently following this recommendation?\n\nPatient: ID\n\nNurse: I'm sorry, Ms. Cruz, I didn't quite catch your response. Are you currently following the fluid restriction of 1.5 liters per day?\n\nPatient: I do. I I try my best. So Hello?\n\nNurse: That's great That's great to hear, Ms. Cruz. It can be challenging, but it's important for managing your CHF. Now, another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. Are you currently following this recommendation?\n\nPatient: Yes. I am.",
+    "responses": {
+        "gpt4": "That's excellent to hear, Ms. Cruz. Sticking to these dietary choices can have a significant impact on your heart health. Besides your diet and medication, physical activity is also crucial. How have you been doing with staying active?",
+        "our_model": "That's excellent, Ms. Cruz. You're doing a great job managing your diet. Now, based on what you've shared about your meals, it sounds like you're already making healthy choices. Just remember to keep an eye on the sodium content in pre-packaged foods, as they can be high in sodium. Do you have any questions about your diet or any foods in particular?"
+    }
+}

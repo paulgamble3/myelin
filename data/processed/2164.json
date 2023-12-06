@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2164,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this David Grewe?\n\nPatient: Yeah. Yeah. That's it's me.\n\nNurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I I I guess [NO RESPONSE]",
+    "responses": {
+        "gpt4": "Thank you, Patient. I hope your day has been going well so far. Could you share how you've been doing?",
+        "our_model": "I appreciate your time. How has your day been so far?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4390,
+    "prompt": "Nurse: I apologize for the oversight earlier. Are you taking your Tylenol 500 mg oral tablets, with a dosage of 1000 mg, three times a day as needed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. It's essential to take your medications as prescribed. I understand that sometimes it can be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't. I'm good.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear. What about any ongoing or worsening chest pain, have you experienced any of that?",
+        "our_model": "That's good to hear. Have you experienced any ongoing or worsening chest pain?"
+    }
+}

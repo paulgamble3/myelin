@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3566,
+    "prompt": "Nurse: Hello, Mr. Gardner. I was asking if you have any questions about monitoring your symptoms at home. [\n\nPatient: No. I'm fine.\n\nNurse: I'm glad to hear that, Mr. Gardner. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating pretty healthy It's more of the\n\nNurse: I'm sorry, Mr. Gardner, your voice cut out a bit there. Could you please repeat what you said about your recent meals?\n\nPatient: Do. Could you give me more information about that?\n\nNurse: I'm glad to hear that you're focusing on eating healthy, Mr. Gardner. Could you share a bit more about what you typically eat in a day?\n\nPatient: I mean, yeah,",
+    "responses": {
+        "gpt4": "I'd love to hear a bit more about what you eat in a day, Mr. Gardner. What do you typically have for breakfast, lunch, and dinner?",
+        "our_model": "I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you typically eat in a day?"
+    }
+}

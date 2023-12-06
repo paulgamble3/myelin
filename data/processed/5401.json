@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5401,
+    "prompt": "Patient: Oh,\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?\n\nPatient: Yes. It is.\n\nNurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling very calm. Thank you for asking.\n\nNurse: I'm glad to hear that you're feeling calm, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to playing with my dog and watching some movies.",
+    "responses": {
+        "gpt4": "That sounds like a delightful way to spend your time, Mr. Hardy. Do you have a specific movie in mind that you're excited to watch? And would you mind sharing your dog's name and breed with me? I'd love to hear more.",
+        "our_model": "That sounds like a lovely plan, Mr. Hardy. What kind of movies do you enjoy watching?"
+    }
+}

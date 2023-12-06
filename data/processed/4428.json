@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4428,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Curtis Delarosa?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May eleventh nineteen seventy five.\n\nNurse: Thank you for confirming your date of birth, Mr. Delarosa. I'm calling on behalf of your primary care doctor, Doctor Jose Gervais. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing okay. I'm a little emotional about my episode in hospital, but I'm happy to be home.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're home and starting to feel better, Mr. Delarosa. I'm sure it has been a challenging time for you and it's perfectly normal to feel emotional about it. Being at home can be a real boost for recovery. Is there anything specific you've been looking forward to doing now that you're back home?",
+        "our_model": "I'm sorry I can imagine it's quite a relief to be back in your own space, Mr. Delarosa. It's completely normal to have a mix of emotions after a hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?"
+    }
+}

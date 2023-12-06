@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4464,
+    "prompt": "Nurse: When did the change in speech start, Mr. Delarosa?\n\nPatient: No change in speech. What are you talking about? I don't have any change in speech.\n\nNurse: I apologize for any confusion, Mr. Delarosa. I was asking if you've noticed any sudden arm or leg weakness recently?\n\nPatient: Why? No.\n\nNurse: Thank you for your response, Mr. Delarosa. Now, do you report any numbness on your arms or legs?\n\nPatient: What does that have to do with anything?\n\nNurse: I understand your concern, Mr. Delarosa. These questions are part of a standard procedure to ensure your well-being. Have you noticed any numbness on your arms or legs recently?\n\nPatient: No. I haven't.",
+    "responses": {
+        "gpt4": "I appreciate your patience, Mr. Delarosa. Have you experienced any recent visual disturbances, such as sudden blurred vision or double vision?",
+        "our_model": "Give me a moment while I figure out how I can best help you."
+    }
+}

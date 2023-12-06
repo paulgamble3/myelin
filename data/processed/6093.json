@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6093,
+    "prompt": "Nurse: Alright. I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Well, actually, I don't know what they are.\n\nNurse: I see, would it be okay if I explain them to you in a simple and patient-friendly way?\n\nPatient: Yes.\n\nNurse: Excellent. Your sodium level, which is important for many body functions, is 145 mEq/L. This is within the normal range. Your potassium level, which helps your nerves and muscles work properly, is 3.7 mEq/L, also within the normal range. Your BUN, or Blood Urea Nitrogen, measures the amount of waste product in your blood and is 7.12 mmol/L. Your creatinine, a waste product from muscle activity, is 1.0 mg/dL, which is within the normal range. Your GFR, or Glomerular Filtration Rate, measures how well your kidneys are filtering waste and is 55 mL/min/1.73m2. Lastly, your urine albumin, a protein that can indicate kidney damage, is 121 mg/g. Do you have any questions about these results?\n\nPatient: What was my password?\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat your question?\n\nPatient: Level.",
+    "responses": {
+        "gpt4": "Are you referring to a specific lab result? Could you clarify which level you're asking about?",
+        "our_model": "I apologize for any confusion earlier. Your BUN, or Blood Urea Nitrogen, measures the amount of waste product in your blood and is 7.12 mmol/L. This is within the normal range. Do you have any questions about this or any other lab results?"
+    }
+}

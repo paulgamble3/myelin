@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4445,
+    "prompt": "Nurse: Thank you, Mr. Delarosa. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: I haven't noticed that now.\n\nNurse: That's good to hear, Mr. Delarosa. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Delarosa. How about a new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Delarosa. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I haven't.",
+    "responses": {
+        "gpt4": "That's positive, Mr. Delarosa. No swelling is a good sign. Now, have you gained more than 2 pounds in the past day or 5 pounds in the past week? This is crucial to monitor as sudden weight gain may point to fluid buildup.",
+        "our_model": "That's great, Mr. Delarosa. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?"
+    }
+}

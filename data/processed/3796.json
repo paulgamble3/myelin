@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3796,
+    "prompt": "Nurse: Alright, Ms. Odonnell. If you have any questions in the future, don't hesitate to ask. Now, let's discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: What do you mean by that?\n\nNurse: I'm asking about the types of foods you've been eating, Ms. Odonnell. For example, what did you have for breakfast, lunch, and dinner yesterday?\n\nPatient: That's a I had oatmeal for breakfast.\n\nNurse: That's a great start to the day, Ms. Odonnell. Oatmeal is a whole grain and a good source of fiber. What did you have for lunch and dinner yesterday?\n\nPatient: Much for lunch, and I had\n\nNurse: I'm sorry, Ms. Odonnell, you cut out a bit there. Could you please repeat what you had for lunch and dinner yesterday?\n\nPatient: Lazagna for dinner.",
+    "responses": {
+        "gpt4": "Lasagna can indeed be a satisfying meal, Ms. Odonnell. Now, based on your diet, let me provide some suggestions to align with dietary recommendations for your conditions. Would that be okay?",
+        "our_model": "Thank you for sharing that, Ms. Odonnell. Lasagna can be a good source of protein, but it can also be high in sodium. Would it be okay if I provide some suggestions about how to adjust your diet to better manage your health conditions?"
+    }
+}

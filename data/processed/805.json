@@ -1,0 +1,8 @@
+{
+    "prompt_id": 805,
+    "prompt": "Nurse: That's excellent, Ms. Aguirre. Regularly taking your Atorvastatin is important for managing your hyperlipidemia. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Aguirre. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, for lunch? I had some shoes.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you had for lunch?\n\nPatient: I made some nice chicken soup with vegetables and\n\nPatient: price.\n\nPatient: Very good.",
+    "responses": {
+        "gpt4": "That sounds like a delicious and healthy meal, Ms. Aguirre. Well done! By eating home-cooked meals, you can better control the amount of salt and other additives in your food. That's very helpful in managing your blood pressure and your kidney disease. When you have a moment, would you tell me a bit about your exercise routine, if any? Are you able to get in any light activity during the week?",
+        "our_model": "I'm I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you"
+    }
+}

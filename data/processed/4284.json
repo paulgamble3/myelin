@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4284,
+    "prompt": "Nurse: That's a very proactive question. It's important to manage your blood sugar levels, as high blood sugar can damage your kidneys over time. Are you checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes, please.\n\nNurse: Great. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you can incorporate into your daily routine?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's wonderful to hear, Bernadine. Another important strategy is regular exercise, which can help lower your blood sugar levels. Your morning walks are a great form of this. Now, when was the last time you checked your blood pressure, and do you remember the result?",
+        "our_model": "That's wonderful to hear. Another strategy is regular physical activity. Walking, like your morning walks, is a great way to stay active. If you're able, aim for at least 30 minutes of moderate activity most days of the week. Does this sound manageable to you?"
+    }
+}

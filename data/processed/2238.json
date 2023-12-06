@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2238,
+    "prompt": "Nurse: Thank you for confirming, Mr. Valenzuela. Could you please provide your date of birth for verification purposes?\n\nPatient: July fourth nineteen sixty six.\n\nNurse: Thank you for confirming your date of birth, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: It's been pretty good.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm looking forward to getting it over with.",
+    "responses": {
+        "gpt4": "I appreciate your candor, Mr. Valenzuela. Undergoing a medical procedure such as a colonoscopy can come with mixed feelings. I see that you're having this colonoscopy due to unexplained and long-lasting diarrhea. That seems like quite a process and your resilience is commendable. Are there any concerns or questions you'd like to discuss about it?",
+        "our_model": "I can appreciate that sentiment, Mr. Valenzuela. It's quite a process to go through, but it's an important step in addressing your health concerns. Before we begin, do you have any specific questions or concerns you'd like to discuss?"
+    }
+}

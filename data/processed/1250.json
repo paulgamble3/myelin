@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1250,
+    "prompt": "Nurse: I'm sorry, Ms. Raynier, you were saying something?\n\nPatient: what I do, I take asthma.\n\nNurse: I'm sorry, Ms. Raynier, could you please repeat that?\n\nPatient: Oh, sorry. I normally take Advent Adventville, but not at the moment.\n\nNurse: I see, Ms. Raynier. You're currently not taking Albuterol for your asthma, correct?\n\nPatient: I don't have asthma.\n\nNurse: My apologies for misunderstanding, Ms. Raynier. I see that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Raynier. Just to clarify, you mentioned a medication earlier, \"Advent Adventville\", is this a medication you're currently taking or have been prescribed? As it doesn't correspond to a recognized medication, I'm trying to clarify if you meant \"Advair\" or another medication. Also, could you kindly confirm your conditions for which you take medications since you shared you do not have asthma? So we can have a correct overview of your health.",
+        "our_model": "I apologize for the confusion earlier, Ms. Raynier. I thought you mentioned Advent Adventville, which I couldn't find in our records. Could you please clarify which medication you were referring to?"
+    }
+}

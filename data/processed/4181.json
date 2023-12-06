@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4181,
+    "prompt": "Nurse: That's a great start, Mr. Peck. Salads can be a healthy choice. Could you tell me a bit more about the ingredients in your salads?\n\nPatient: lantus Carrets,\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat the ingredients in your salads?\n\nPatient: cucumbers,\n\nNurse: Thank you for sharing that, Mr. Peck. Cucumbers and carrots are great for a salad. They're both low in sodium and phosphorus. Can I provide some suggestions to further optimize your salad for your dietary needs?\n\nPatient: sometimes tomatoes, Sprouts,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is a good way to get necessary\n\nPatient: onions,",
+    "responses": {
+        "gpt4": "Those are all healthy choices for salads, Mr. Peck. Each of them provides important nutrients. Including a mix of vegetables in your salads can ensure you're getting a well-rounded diet. Is there a particular dressing you prefer for your salads?\n",
+        "our_model": "Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is excellent. Can I provide some suggestions to further optimize your diet?"
+    }
+}

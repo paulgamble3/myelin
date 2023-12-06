@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5612,
+    "prompt": "Nurse: Alright. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. My last question is about your transportation after the procedure. Have you arranged for a ride home after your colonoscopy?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up after the procedure. Do you have any questions about the logistics of your procedure day?\n\nPatient: No.\n\nNurse: Alright. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: So how can I slow the progression of CKD?",
+    "responses": {
+        "gpt4": "There are several things you can do to slow the progression of Chronic Kidney Disease (CKD). Some of these include controlling your blood sugar levels, keeping your blood pressure in the target range, limiting protein, sodium, and potassium in your diet, and maintaining a healthy weight. Do you have any specific concerns about managing your CKD?",
+        "our_model": "I'm glad you're thinking about your health proactively. Would you like some general advice on how to slow the progression of Chronic Kidney Disease?"
+    }
+}

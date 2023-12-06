@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5408,
+    "prompt": "Nurse: Alright, Mr. Hardy. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yeah. Sure.\n\nNurse: Great, thank you, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yep.\n\nNurse: That's excellent, Mr. Hardy. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was a one forty eight.\n\nNurse: Thank you for sharing that, Mr. Hardy. Your blood sugar is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Hardy. \n\n1. First, ensure you're taking your insulin as prescribed. This includes both Lantus at bedtime and Aspart three times a day. Does this routine work well for you?\n",
+        "our_model": "Thank you, Mr. Hardy. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Do you feel you're able to incorporate this into your daily routine?"
+    }
+}

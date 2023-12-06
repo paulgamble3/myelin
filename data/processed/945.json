@@ -1,0 +1,8 @@
+{
+    "prompt_id": 945,
+    "prompt": "Nurse: Thank you for your time. I'd like to start by asking about your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Not really.\n\nNurse: I see. It's really important to keep track of your blood sugar levels, especially with Type II Diabetes. Would you be open to starting to check it daily?\n\nPatient: Oh, I guess.\n\nNurse: That's a good step. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: It was yesterday. It was\n\nNurse: I'm sorry, you were saying?\n\nPatient: one ninety nine over one twenty.",
+    "responses": {
+        "gpt4": "I see. That is a bit higher than normal. Would you mind if I shared some recommendations on how you can manage your blood pressure? Let's go through these one at a time to ensure you're comfortable with them.",
+        "our_model": "Thank you for sharing that information. It's important to monitor your blood pressure regularly, especially given your conditions. May I share some suggestions on how to manage your blood pressure?"
+    }
+}

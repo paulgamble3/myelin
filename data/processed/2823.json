@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2823,
+    "prompt": "Nurse: I'm glad to hear that. As we move forward, I want to know how you're feeling about your upcoming colonoscopy procedure.\n\nPatient: just Yeah. Well, we get done though. Alright? It was just kinda cut to the chase.\n\nNurse: I appreciate your directness. I'm here to help you prepare for your colonoscopy and answer any questions you might have. How are you feeling about the procedure?\n\nPatient: Fine, I guess.\n\nNurse: I'm glad to hear that. It's normal to have some feelings about a procedure like this. Is there anything specific you'd like to discuss before we go over some details about the colonoscopy?\n\nPatient: No.\n\nNurse: Alright, please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to pus and mucus in your stool. I know it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Fine.",
+    "responses": {
+        "gpt4": "Okay, it's important to uncover any underlying issues. We hope this procedure gives you and your doctor the answers you're looking for. I'd like to take some time to talk about the preparation and what to expect during your colonoscopy. Are you okay with that?",
+        "our_model": "I'm glad to hear that. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?"
+    }
+}

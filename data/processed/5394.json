@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5394,
+    "prompt": "Patient: No. I need to lose weight. Is get to you lose weight, that would be good. But not\n\nPatient: lasix.\n\nNurse: I appreciate your honesty, Mr. O'Leary. It's critical to manage your weight for your overall health, but it's also crucial to avoid any signs of illness before your procedure. Lasix is a medication that helps manage fluid levels in your body, and it's not typically used for weight loss. Do you have any other questions about your health or medications?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. Let's move on to the next topic. Your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming that, Mr. O'Leary. It's important to have a safe and comfortable place to recover after your procedure. My last question is about your transportation and support after the procedure. Have you arranged for a ride home and for someone to stay with you afterwards?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. O'Leary. Having someone to help you after the procedure is important for your safety and recovery. If plans change and you're unable to secure a ride home, remember that you still have some time to figure it out, but you will indeed need someone on standby to pick you up when the hospital calls. Can I assist you with anything else on this topic?",
+        "our_model": "That's great to hear, Mr. O'Leary. It's critical to have someone to assist you after the procedure. If there's anything else you need to arrange, you still have time to do so. Do you have any questions about your discharge plan or anything else?"
+    }
+}

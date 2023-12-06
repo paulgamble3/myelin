@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1721,
+    "prompt": "Nurse: I'm sorry, Ms. Winner, I didn't quite understand. Could you please tell me more about the activities you enjoy doing with your grandchildren?\n\nPatient: Difference. Stuff.\n\nNurse: It's lovely that you enjoy a variety of activities with your grandchildren, Ms. Winner. It's clear that they bring you a lot of happiness. Now, how are you feeling about your upcoming procedure?\n\nPatient: By\n\nNurse: I'm sorry, Ms. Winner, I didn't quite catch that. Could you please share your feelings about the upcoming procedure?\n\nPatient: pretty anxious about it to tell you the truth.\n\nNurse: I can imagine that it's a bit nerve-wracking, Ms. Winner. It's completely normal to feel anxious before a procedure. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: Well, I'm just wondering, am I gonna be able to move around",
+    "responses": {
+        "gpt4": "That's a great question, Ms. Winner. One of the goals of a total knee replacement is to help you move around more easily and with less pain. After the operation and with the appropriate physical therapy, you should see a significant improvement in mobility. It's going to require some work and patience, but there's a good chance you'll be able to enjoy moving around with your grandchildren again. Is there anything else on your mind about the procedure?",
+        "our_model": "Absolutely, Ms. Winner. The goal of a total knee replacement is to relieve pain and help you regain function in your knee, which includes moving around. You should be able to walk with the aid of a walker or crutches within a day"
+    }
+}

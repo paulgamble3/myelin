@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4689,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Audrey Cruz?\n\nPatient: Yes. This is Audrey.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: February nineteen nineteen fifty five.\n\nNurse: Thank you for confirming that. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Absolutely petrified.",
+    "responses": {
+        "gpt4": "I'm really sorry to hear that you're feeling this way, Audrey. It's completely normal to feel a bit overwhelmed after a hospital discharge. You\ufffd\ufffd\ufffdre not alone in this. We're going to help you set a clear plan for your road to recovery. Before we start, is there anything particular you are worried about or anything you'd like to discuss?",
+        "our_model": "I'm really sorry to hear that you're feeling this way. It's completely normal to feel a bit overwhelmed after a hospital stay. Is there anything in particular that you're looking forward to doing now that you're back home?"
+    }
+}

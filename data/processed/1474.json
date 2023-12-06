@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1474,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Valenzuela. These tips can make the process a bit more comfortable. Do you have any questions about the bowel prep or anything else you'd like to discuss?\n\nPatient: No. I don't think so.\n\nNurse: Alright, Mr. Valenzuela. The last part of your prep is to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this or anything else you'd like to discuss?\n\nPatient: No. I don't think so?\n\nNurse: Alright, Mr. Valenzuela. I'm glad to hear that you're clear on the instructions. Remember, we're here to support you every step of the way. If you have any questions or concerns at any point, don't hesitate to reach out. Is there anything else you'd like to discuss today?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you, Mr. Valenzuela. Now, I would like to ask you a few questions for everyone's safety. Have you been experiencing any signs of illness that you haven't told us about already such as fever, chills, or muscle aches?",
+        "our_model": "Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?"
+    }
+}

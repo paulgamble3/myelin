@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6281,
+    "prompt": "Nurse: Ah, the convenience of a boxed macaroni and cheese, Mr. Alves. It's understandable, especially during a busy time. Just remember to check the sodium content, as it can be high in some brands. Do you usually follow the instructions on the box or do you have your own way of preparing it?\n\nPatient: Of course, I do.\n\nNurse: That's great, Mr. Alves. Having a personal touch can make even a boxed meal feel special. Do you mind sharing your secret to a perfect macaroni and cheese?\n\nPatient: I'll just\n\nNurse: That's great, Mr. Alves. Having a personal touch can make even a\n\nPatient: I just\n\nNurse: That's great, Mr. Alves. It sounds like you have a special way of preparing your macaroni and cheese. It's always nice to have a dish that you enjoy and can prepare just the way you like it. Shall we move on to discuss supplements and other medications you should stop\n\nPatient: you know, sometimes I read, sometimes I don't. I don't know. Just",
+    "responses": {
+        "gpt4": "Just follow the instructions, Mr. Alves. It's important to enjoy the process. Cooking can be a great way to relax and take your mind off things. Is there a specific reason you opted to use boxed macaroni and cheese?",
+        "our_model": "That's perfectly fine, Mr. Alves. We all have those days where we just want to wing it in the kitchen. As long as you're enjoying it, that's what matters. Now, let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?"
+    }
+}

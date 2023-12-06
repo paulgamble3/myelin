@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4521,
+    "prompt": "Patient: This morning.\n\nNurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No. I do not.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: That's good to hear. It's important to keep an eye on your blood sugar levels. Would you be open to some suggestions on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned that you're not currently experiencing any symptoms like sweating, correct?\n\nPatient: Correct.",
+    "responses": {
+        "gpt4": "Apologies for the confusion, but did you say earlier that you've been experiencing sweating? Just want to make sure I understood you correctly.",
+        "our_model": "Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you."
+    }
+}

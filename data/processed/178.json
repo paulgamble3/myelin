@@ -1,0 +1,8 @@
+{
+    "prompt_id": 178,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yeah.\n\nNurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "I'm sorry, but could you please tell me the month, day, and year of your birth?",
+        "our_model": "I apologize for the confusion. Could you please provide the month, day, and year of your birthday?"
+    }
+}

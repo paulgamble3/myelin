@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2198,
+    "prompt": "Nurse: Great. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yeah. It's a good time.\n\nNurse: Excellent. I hope your day is going well so far. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling a little bit anxious.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. We're here to support you every step of the way. Do you have any specific concerns or questions you'd like to discuss before we go over the details of your colonoscopy?\n\nPatient: Let's\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. We're here to support you every step of the way. Do you have any specific concerns or questions you'd like to discuss before we go over the details of your colonoscopy?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "That's okay. Please remember you can ask any questions at anytime during this call. I noticed in your chart, the unexplained abdominal pain is the reason you're getting this colonoscopy. I recognize that it's not easy to go through this process.",
+        "our_model": "Alright. If you have any questions at any point during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

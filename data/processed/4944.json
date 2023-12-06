@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4944,
+    "prompt": "Nurse: \"Inglourious Basterds\" is indeed a fantastic film. It's great that you have something to look forward to. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I haven't seen that one in a while. Looking forward to watching it again.\n\nNurse: \"Inglourious Basterds\" is indeed a fantastic film. It's always a treat to re-watch a favorite movie. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Hi.\n\nNurse: Hello. Is there something you'd like to share or a question you have at the moment?\n\nPatient: Do have a a\n\nNurse: I'm sorry, Mr. Hooper, your voice cut out a bit there. Could you please repeat your question or concern?\n\nPatient: question about congestive heart failure. If this is something I read a",
+    "responses": {
+        "gpt4": "It sounds like you have a question about CHF. Is there something specific you read that you would like to discuss?",
+        "our_model": "Of course, Mr. Hooper. Congestive Heart Failure, or CHF, is a condition where the heart doesn't pump blood as well as it should. This can lead to a buildup of fluid in the body, which can cause symptoms like shortness of breath, fatigue, and swelling in the legs and ankles. It's important to manage"
+    }
+}

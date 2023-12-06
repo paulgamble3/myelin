@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6246,
+    "prompt": "Nurse: I'm sorry to hear that, Mr. Alves. I'm here to help you prepare for your procedure and answer any questions you might have. How has your day been so far?\n\nPatient: whatever. What do you need? What do you need? Just just let's move on and take care of it.\n\nNurse: I appreciate your time, Mr. Alves. I'm here to ensure you have all the information you need for your upcoming colonoscopy. How has your day been so far?\n\nPatient: Even\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said about your day?\n\nPatient: My day's been better before your call.\n\nNurse: I'm sorry to hear that, Mr. Alves. I'm here to help make your upcoming procedure as smooth as possible. How are you feeling about your colonoscopy?\n\nPatient: Why do you care?",
+    "responses": {
+        "gpt4": "As a healthcare professional, your wellbeing, including your feelings about medical procedures, is important to us. It can help us provide the best support and care for you. Now, do you have any questions or concerns about the upcoming colonoscopy?",
+        "our_model": "I care because it's my job to ensure you feel prepared and comfortable with your upcoming procedure, Mr. Alves. It's completely normal to have feelings about it. Can you share more about how you're feeling?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4743,
+    "prompt": "Nurse: Soup can be a good choice, especially if it's homemade and not high in sodium. Would you like me to share some dietary recommendations that could help manage your CHF and diabetes?\n\nPatient: That sort of thing. Nothing fancy, basic food, but\n\nNurse: I see. Soup can be a good choice, as long as it's not too high in sodium. Would it be okay if I shared some dietary recommendations with you?\n\nPatient: what I wanna eat, and I do have sweets because sometimes I\n\nNurse: I see. It's important to enjoy what we eat. However, due to your condition, there are certain dietary recommendations to help manage your CHF and diabetes. Would it be okay if I share these with you?\n\nPatient: I just feel so down and out. I need something to perk me out.\n\nNurse: I understand that food can be a source of comfort. It's important to enjoy what we eat. However, for managing CHF and diabetes, we need to be mindful of certain dietary recommendations. Would it be okay if I share some of these with you?\n\nPatient: Why it's important because",
+    "responses": {
+        "gpt4": "Understanding the importance of our diet can motivate us to make healthier choices. For CHF and diabetes, it's important to maintain a diet that helps manage your blood sugar levels and reduce fluid buildup. Specific recommendations include limiting your fluid intake to 1.5 liters per day and restricting your sodium intake to 1500 mg per day. Would you like some suggestions on how to follow these guidelines?",
+        "our_model": "I understand that it can feel overwhelming to make dietary changes. However, these changes are important because they can help manage your"
+    }
+}

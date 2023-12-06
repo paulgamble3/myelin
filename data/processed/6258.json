@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6258,
+    "prompt": "Patient: Yes.\n\nNurse: Great, thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first\n\nPatient: I said yes.\n\nNurse: Thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received your prep instructions from Doctor Bailey's office?\n\nPatient: Yes.\n\nPatient: I have.\n\nNurse: Great, Mr. Alves. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes. It's okay with me.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Alves. I also want to share with you that when you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound alright to you?",
+        "our_model": "Perfect, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

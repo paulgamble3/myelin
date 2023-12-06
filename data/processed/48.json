@@ -1,0 +1,8 @@
+{
+    "prompt_id": 48,
+    "prompt": "Nurse: Of course, Ms. Ware. I'm here to help you with any questions or concerns you might have about your health. Before we go through a few topics, do you have anything specific you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Ware. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Ware. How about your Gabapentin?\n\nPatient: Yeah.\n\nNurse: Good to know, Ms. Ware. And are you also continuing with your Tylenol and Potassium as needed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Well done, Ms. Ware. Missing a dose here or there happens to everyone. No worries if it has happened to you too. Do you often have trouble remembering to take your medication or taking them at the right time?",
+        "our_model": "That's excellent, Ms. Ware. It's essential to keep up with your medications. I understand that sometimes it can be challenging to remember all the doses. Do you ever have trouble taking your medication on time?"
+    }
+}

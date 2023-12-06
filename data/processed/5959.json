@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5959,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May second nineteen thirty nine.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: I'm okay, I guess. Sure.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Sandline.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: My family will be visiting me.",
+    "responses": {
+        "gpt4": "That's wonderful to hear. Spending time with family can be so rewarding. Is there anything else you need assistance with or do you have any questions?",
+        "our_model": "That sounds lovely, family visits are always something to look forward to. How often do you get to see your family?"
+    }
+}

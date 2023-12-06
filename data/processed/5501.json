@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5501,
+    "prompt": "Nurse: for sharing I'm sorry, Ms. Aguirre, could you please repeat your last blood sugar reading?\n\nPatient: Yes. One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: I'm sorry, Ms. Aguirre, could you please confirm if your blood sugar level is high or low?\n\nPatient: Sure. Yeah. Please tell me.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: Say it again. I'm sorry.",
+    "responses": {
+        "gpt4": "I apologize if I wasn't clear, Ms. Aguirre. I just wanted to confirm whether your blood sugar is currently high or low. Could you please let me know?",
+        "our_model": "I apologize for any confusion, Ms. Aguirre. Your blood sugar level of 128 is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1492,
+    "prompt": "Patient: angels to get it over with.\n\nNurse: I'm sorry, Mr. Valenzuela, I didn't quite catch that. Could you please confirm if you've been experiencing diarrhea?\n\nPatient: That's why I'm coming in to get the colonoscopy.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: I see, Mr. Valenzuela. When did the diarrhea start?\n\nPatient: It's been a couple of weeks.\n\nNurse: I see, Mr. Valenzuela. Is the diarrhea chronic, or does it come and go?\n\nPatient: It seems to be chronic this time.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that, Mr. Valenzuela. Have you noticed if your stools are watery, bloody, black, or tarry?",
+        "our_model": "I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?"
+    }
+}

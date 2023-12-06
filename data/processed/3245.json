@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3245,
+    "prompt": "Nurse: Great, thank you. For someone with CHF, it's often recommended to start with light activities, such as walking or gentle stretching. You could start with a short walk around your home, gradually increasing the distance as you feel comfortable. Remember, it's important to listen to your body and not push yourself too hard.\n\nPatient: [NO RESPONSE] Sounds good.\n\nNurse: I'm glad to hear that. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: No. I don't.\n\nNurse: Alright. I'll be sure to inform Doctor Forbes about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright, I just want to summarize the changes we discussed. You agreed to consider incorporating some dietary changes, like having a grilled chicken salad instead of a burger and a fruit smoothie instead of a milkshake. You also agreed to start a light exercise routine, such as walking around your home. Can you confirm that you're comfortable with these changes?\n\nPatient: I am comfortable.",
+    "responses": {
+        "gpt4": "That's wonderful to hear. Please know that you're doing a great job, and it's okay to take small steps. Keep up the good work, and if you need any further help, don't hesitate to reach out. Have a nice day!",
+        "our_model": "I'm sorry, could you please repeat that?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4783,
+    "prompt": "Nurse: I'm sorry, could you please repeat the last part?\n\nPatient: just getting ready for Christmas.\n\nNurse: That sounds lovely. Christmas preparations can indeed make the day brighter. What are you looking forward to the most this Christmas?\n\nPatient: Jeez. I don't even know. I'm being able to hang out with\n\nNurse: I'm sorry, you were saying?\n\nPatient: my daughter,\n\nNurse: That's wonderful. Spending time with loved ones is always special. What activities do you usually enjoy doing with your daughter?\n\nPatient: Usually, baking. We bake cookies and cupcakes,",
+    "responses": {
+        "gpt4": "That's a sweet tradition! What's your daughter's favorite kind of cookie or cupcake to bake with you?",
+        "our_model": "Baking"
+    }
+}

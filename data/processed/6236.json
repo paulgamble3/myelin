@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6236,
+    "prompt": "Nurse: Yes, the knee is indeed a joint. I apologize if my question was unclear. I'm asking about general signs of illness such as a fever, chills, or muscle aches that are not specific to your knee joint. Have you experienced any of these recently?\n\nPatient: but I thought that the muscles were attached, and they have been aching too.\n\nNurse: I see, so you've been experiencing muscle aches in addition to the knee pain. I'm sorry to hear that. It's critical to note these symptoms. Now, let's move on to the next question. After your procedure, do you plan to go home or will you be staying at a rehab facility?\n\nPatient: I'll be going home.\n\nNurse: That's good to hear. It's important to have a comfortable and safe place to recover. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Daughter will be with me for the duration.\n\nNurse: That's wonderful to hear that your daughter will be there to support you. Will she also be able to drive you home after the procedure?\n\nPatient: Of course.",
+    "responses": {
+        "gpt4": "That's great to hear. Having someone to assist you during the initial period after the procedure is crucial. I believe that covers everything on my list. We went through a lot today. I\ufffd\ufffd\ufffdm here for you every step of the way. Do you have any questions or concerns, Simone?",
+        "our_model": "That's great to hear. It's essential to have someone you trust to help you during this time. If there's anything else you need, don't hesitate to ask. Now, that was all the topics for today. Do you have any other questions or concerns?"
+    }
+}

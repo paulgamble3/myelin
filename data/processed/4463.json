@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4463,
+    "prompt": "Nurse: Hold on a second while I figure out how I can best support you.\n\nPatient: trying to monitor my fluid restriction.\n\nNurse: When did the change in speech start, Mr. Delarosa?\n\nPatient: No change in speech. What are you talking about? I don't have any change in speech.\n\nNurse: I apologize for any confusion, Mr. Delarosa. I was asking if you've noticed any sudden arm or leg weakness recently?\n\nPatient: Why? No.\n\nNurse: Thank you for your response, Mr. Delarosa. Now, do you report any numbness on your arms or legs?\n\nPatient: What does that have to do with anything?",
+    "responses": {
+        "gpt4": "I understand that my question may seem a bit odd. However, these potential symptoms can help us assess your overall health condition. We will use your responses to determine if we need to adjust your care plan. Now, have you encountered difficulties in understanding language or confusion recently?",
+        "our_model": "I understand your concern, Mr. Delarosa. These questions are part of a standard procedure to ensure your well-being. Have you noticed any numbness on your arms or legs recently?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 358,
+    "prompt": "Nurse: I can imagine that it's a lot to take in, Mr. Koroleva. It's completely normal to feel this way. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. It can indeed be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Exactly. You said it right?\n\nNurse: Yes, Mr. Koroleva. It's a significant step, and I hope this procedure gives you and your doctor the answers you're looking for. If it's okay with you, I'd like to go over a few topics on prep for your colonoscopy. Would that be alright?\n\nPatient: Yes.\n\nNurse: Great, Mr. Koroleva. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Do you have any questions or concerns you'd like to discuss before we move forward?\n\nPatient: Not at the moment.\n\nPatient: Thank you.\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "Alright, Mr. Koroleva. Let's first get all the logistics out of the way. You have your colonoscopy procedure scheduled with Dr. Meredith Bailey on August 17 at 11:00 AM. I would like to ask you to arrive about 1 hour before at 10:00 AM. Does this work for you?",
+        "our_model": "Alright, Mr. Koroleva. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?"
+    }
+}

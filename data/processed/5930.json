@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5930,
+    "prompt": "Nurse: That's good to hear. Now, let's discuss Aspart. You should be taking 5 units three times a day. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating a lot of steamed vegetables, a lot of yogurt,\n\nNurse: That sounds like a good start. Steamed vegetables and yogurt can be part of a healthy diet. Can you tell me more about the types of vegetables you're eating and if\n\nPatient: a lot of past that?\n\nNurse: I'm sorry, could you please repeat the last part of your response?\n\nPatient: Pasta.",
+    "responses": {
+        "gpt4": "Thank you for clarifying. Keeping pasta portions in moderation and opting for whole grain versions can be a healthy choice. Would there be anything else you would like to add or discuss?",
+        "our_model": "Thank you for clarifying. It sounds like you're making an effort to include a variety of foods in your diet. That's great. Would it be okay if I provide some suggestions to further optimize your diet based on your health conditions?"
+    }
+}

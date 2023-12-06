@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4348,
+    "prompt": "Nurse: That's great, Mr. Oliver. Could you please share with me when you last took your blood pressure and what the reading was?\n\nPatient: It was a hundred over eighty.\n\nNurse: Thank you for sharing that, Mr. Oliver. It's good to see that you're keeping track of your blood pressure. Would it be alright if I share some suggestions on how to manage your blood pressure?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to meals. What do you think about this suggestion?\n\nPatient: That's fine.\n\nNurse: I'm glad to hear that, Mr. Oliver. Another suggestion is to incorporate more physical activity into your daily routine. This could be as simple as taking a walk after meals. Do you think you could try that?\n\nPatient: Yes. I think I can try that.",
+    "responses": {
+        "gpt4": "That sounds like a great plan, Mr. Oliver. Regular physical activity can be very beneficial for controlling blood pressure. Now, if it's okay with you, I'd like to talk about your recent lab results. Do you have any questions about them?",
+        "our_model": "That's wonderful to hear, Mr. Oliver. Regular physical activity can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

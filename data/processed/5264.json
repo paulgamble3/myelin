@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5264,
+    "prompt": "Nurse: That's perfectly fine, Mr. Rivers. Sometimes, it's nice to have a quiet week. Is there anything you enjoy doing in your free time that you might do this week?\n\nPatient: Yeah. I don't know. I don't not that I can think of.\n\nNurse: That's alright, Mr. Rivers. It's perfectly fine to have some quiet time. If you think of anything later, feel free to share. Now, I'd like to ask if you've been checking your blood sugar daily?\n\nPatient: Yeah. I have.\n\nNurse: That's great to hear, Mr. Rivers. Could you please share what your last blood sugar reading at home was?\n\nPatient: It was\n\nNurse: I'm sorry, Mr. Rivers, I didn't catch your last blood sugar reading. Could you please repeat it?\n\nPatient: One thirty two.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Rivers. It's a bit high, as we generally aim for readings below 120. Would you be open to discussing some strategies to help manage your blood sugar levels?",
+        "our_model": "Thank you for sharing that, Mr. Rivers. A blood sugar level of 132 is a bit higher than the target range for people with diabetes. Would it be okay if I share some recommendations to help manage your blood sugar levels?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1925,
+    "prompt": "Nurse: Wonderful. And how are you taking them?\n\nPatient: Orally?\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: Like, I'm taking them or only, like, through my tablet and mouse.\n\nNurse: I see, thank you for clarifying. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I'm pretty good about thinking I'm in.\n\nNurse: That's great to hear. You're doing a fantastic job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Of course.",
+    "responses": {
+        "gpt4": "Thank you. Have you been experiencing new or worsening shortness of breath with activity, while laying down, or at rest?",
+        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4711,
+    "prompt": "Patient: No.\n\nNurse: Does the patient have any more information they want to share about this issue?\n\nPatient: I'm trying to talk to you about my recent\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: CHF diagnosis.\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: Why do you refer to me as\n\nPatient: the patient.",
+    "responses": {
+        "gpt4": "I apologize for the confusion. Has the patient ever planned or prepared to end their life?",
+        "our_model": "I apologize if that came across as impersonal. I'm here to help you. Do you have any more information you want to share about this issue?"
+    }
+}

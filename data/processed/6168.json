@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6168,
+    "prompt": "Nurse: Do you have any active nausea, vomiting, or diarrhea, Mr. Dang?\n\nPatient: No.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: I'm sorry to hear about your abdominal pain, Mr. Dang. I'm going to trigger a RED kickout for your abdominal_pain. A nurse will be on the line shortly to assist you further. Please stay on the line. [\n\nPatient: [NO RESPONSE] Are we going to continue with the call?\n\nNurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you.\n\nNurse: Yes, Mr. Dang, we will continue with the call. I'm here to ensure you have everything you need for your upcoming colonoscopy. Is it okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Dang. Before we dive into those, let's first get all the logistics out of the way. I want to remind you that your colonoscopy procedure with Dr. Meredith Bailey is scheduled on August 17 at 10:00 AM, and you'll need to arrive about 1 hour before at 9:00 AM for check-in. Does this work for you?",
+        "our_model": "Okay, thank you, Mr. Dang. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5231,
+    "prompt": "Patient: ago, and it was ninety over one twenty.\n\nNurse: Thank you for that information, Mr. Oliver. Your blood pressure reading is slightly elevated. It's essential to keep it under control. Would you like me to share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Great, Mr. Oliver. One way to manage your blood pressure is by reducing your salt intake. As you mentioned earlier, it's important to check the sodium content in your salad dressing. Another strategy is regular physical activity, such as a daily walk. Lastly, maintaining a healthy weight can also help manage your blood pressure. Do you have any questions about these suggestions?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Oliver. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: I actually do.\n\nPatient: What the g s",
+    "responses": {
+        "gpt4": "Are you referring to the GFR result from your lab tests, Mr. Oliver?",
+        "our_model": "Of course, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Your GFR is 67 mL/min/1.73m2, which is within the normal range. This means your kidneys are functioning well. Do you have any other questions about your lab results?"
+    }
+}

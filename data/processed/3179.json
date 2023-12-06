@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3179,
+    "prompt": "Nurse: I see, it's completely normal to have questions, especially when it comes to conditions like arthritis. I'm here to help answer any questions you have. What seems to be your main concern about your arthritis and the upcoming procedure?\n\nPatient: My friend keeps sending me arthritis\n\nNurse: I see, it's completely normal to have questions, especially when it comes to our health. Is there anything specific you'd like to know about how your arthritis might affect your recovery or any other concerns you have?\n\nPatient: Jured diet LYNX.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: Could that really work?\n\nNurse: I'm sorry, could you please repeat what your friend has been sending you?\n\nPatient: My friend has been sending emails",
+    "responses": {
+        "gpt4": "I apologize for any misunderstanding, but could you please repeat or clarify what emails or advice your friend has been giving you about arthritis?",
+        "our_model": "I see, your friend has been sending you emails. Could you please share more about the content of these emails?"
+    }
+}

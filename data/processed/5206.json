@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5206,
+    "prompt": "Nurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?\n\nPatient: Yeah. So I guess I just eat normally. I have, like, chicken, and salad and oatmeal and eggs. And for\n\nNurse: I'm sorry, you were saying something about your meals?\n\nPatient: And vegetables and fruit.\n\nNurse: That sounds like a balanced diet. It's great that you're including a variety of foods. Can I share some dietary recommendations that might be beneficial for your health conditions?\n\nPatient: I guess.",
+    "responses": {
+        "gpt4": "Thank you. Based on your conditions, you might benefit from a cardiac low sodium diet which is beneficial for managing CHF. This means limiting your salt intake to help control your blood pressure and prevent fluid buildup. Can we discuss this a bit further?",
+        "our_model": "Thank you. Given your health conditions, it's recommended that you follow a cardiac low sodium diet. This means limiting foods high in sodium, like processed foods, and choosing more fresh fruits, vegetables, and lean proteins. It's also recommended that you limit your fluid intake to 2 liters per day. This includes all fluids, not just water. Lastly, I see that you're lactose intolerant. It's essential to avoid foods that contain lactose, as they can cause digestive issues. Do you have any questions about these recommendations?"
+    }
+}

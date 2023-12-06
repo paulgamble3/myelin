@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4975,
+    "prompt": "Nurse: That's good to hear, Mr. Hooper. Lastly, have you been using more pillows at night to sleep?\n\nPatient: Nope.\n\nNurse: That's great, Mr. Hooper. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: If I can remember what you asked\n\nNurse: I apologize for the confusion earlier, Mr. Hooper. You mentioned that you\n\nPatient: Able to do it.\n\nNurse: I apologize for the confusion earlier, Mr. Hooper. You mentioned that you haven't been using more pillows to sleep. Is that correct?\n\nPatient: That is correct.",
+    "responses": {
+        "gpt4": "Great, thank you for confirming that for me, Mr. Hooper. I'm glad to hear that you're not having to use more pillows to sleep. This can sometimes be a sign of worsening heart failure, so it's good that this is not the case for you. Continue to monitor your symptoms and don't hesitate to reach out to your healthcare team if anything changes. Do you have any other questions or concerns today?",
+        "our_model": "Give me a moment while I figure out how I can best help you. That's good to hear, Mr. Hooper. Now, I'd like to talk about your diet. Could you tell me about your recent meals?"
+    }
+}

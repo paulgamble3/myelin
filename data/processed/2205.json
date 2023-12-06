@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2205,
+    "prompt": "Nurse: Great job. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Okay. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that. Before we move on to talk about your medications, I want to take a pause to see if you're ready to move on. Are you okay to continue?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. I see on your chart that you are prescribed Plavix 75 mg, taken once a day. For your upcoming procedure, you'll need to stop Plavix 5 days before. That means you should stop taking Plavix from August 8. Could you confirm this information meets your understanding?",
+        "our_model": "Okay. I see on your chart that you're currently taking Plavix 75 mg once a day. For your colonoscopy, you'll need to stop taking Plavix 5 days before the procedure. That means you should stop taking it on August 8th, which is 2 days from today. Does that make sense?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4182,
+    "prompt": "Nurse: I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat the ingredients in your salads?\n\nPatient: cucumbers,\n\nNurse: Thank you for sharing that, Mr. Peck. Cucumbers and carrots are great for a salad. They're both low in sodium and phosphorus. Can I provide some suggestions to further optimize your salad for your dietary needs?\n\nPatient: sometimes tomatoes, Sprouts,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is a good way to get necessary\n\nPatient: onions,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: peppers,",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a diverse range of vegetables into your salads, which is great. Do you have any allergies or dietary restrictions we should be aware of when offering suggestions?",
+        "our_model": "Thank you for sharing that, Mr. Peck. It sounds like you're including a variety of vegetables in your salads, which is excellent. Can I provide some suggestions to further optimize your diet?"
+    }
+}

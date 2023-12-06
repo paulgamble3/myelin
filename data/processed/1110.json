@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1110,
+    "prompt": "Nurse: Wonderful. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Mhmm.\n\nNurse: Wonderful. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that the logistics seem clear to you. Let's move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yeah.\n\nNurse: Excellent. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Great. Also, are you taking any other medications we need to be aware of, such as Advil, Aspirin, Aleeve, or other blood thinners?",
+        "our_model": "That's great to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

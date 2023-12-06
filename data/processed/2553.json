@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2553,
+    "prompt": "Nurse: Oh, Chihuahuas are such lively little companions. What's your Chihuahua's name?\n\nPatient: Rancho.\n\nNurse: Rancho, that's a unique name. I bet he's a joy to have around. Now, I'm calling on behalf of Doctor Jack Smith and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. Not at the moment.\n\nNurse: Alright, let's move on to your medications. Are you still taking your Valsartan and Lasix tablets?\n\nPatient: Yes.\n\nNurse: Great, and how about your Methotrexate?\n\nPatient: Mhmm. I am taking it",
+    "responses": {
+        "gpt4": "That's really good to hear. I understand that sometimes it might seem like a lot and if you ever have trouble remembering to take your medications on time, it's actually pretty common. Do you ever experience this?",
+        "our_model": "That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
+    }
+}

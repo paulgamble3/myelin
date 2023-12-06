@@ -1,0 +1,8 @@
+{
+    "prompt_id": 340,
+    "prompt": "Nurse: I'm sorry, Damian, you were saying something?\n\nPatient: I'm not I'm talking Rachel, I'm not done talking\n\nNurse: I apologize for interrupting. Please continue. You were saying you're doing low salt stuff online?\n\nPatient: No. I said I'm trying my best\n\nNurse: I see. That's commendable.\n\nPatient: to follow a low salt diet\n\nNurse: That's wonderful. It's essential for managing your conditions. Can you share a bit more about what you typically eat in a day?\n\nPatient: and",
+    "responses": {
+        "gpt4": "Sure, Damian, go ahead. I'm listening.",
+        "our_model": "I see. That's a great effort. It's essential for managing your conditions."
+    }
+}

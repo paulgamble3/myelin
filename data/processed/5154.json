@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5154,
+    "prompt": "Nurse: Perfect. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that the logistics are clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.\n\nNurse: Wonderful. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Are you clear on this?\n\nPatient: Yes.\n\nNurse: Excellent. Do you have any questions about your Tylenol medication?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great. Are you currently taking any other medications, such as Advil, Aspirin, Aleve, or other blood thinners, that we should know about?",
+        "our_model": "Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

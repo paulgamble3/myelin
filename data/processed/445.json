@@ -1,0 +1,8 @@
+{
+    "prompt_id": 445,
+    "prompt": "Nurse: That's great to hear. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: That sounds great.\n\nNurse: Perfect.\n\nPatient: Yes.\n\nNurse: Perfect. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: That's helpful to know, but the instructions are there.\n\nNurse: Yes, the instructions are indeed on the package.\n\nPatient: So it's pretty easy to follow. They have it in the instruction.",
+    "responses": {
+        "gpt4": "Yes, the instructions are indeed on the packaging. However, it's sometimes helpful to review them out loud. I'm glad to hear you've got it under control! Are there any parts of this process that you're unsure about or have questions on?",
+        "our_model": "That's correct, the instructions are there for your convenience. I'm just here to ensure you understand them. After you've applied the scrub, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot. Do you have any questions about the chlorhexidine scrub?"
+    }
+}

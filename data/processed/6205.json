@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6205,
+    "prompt": "Nurse: I'm sorry, Simone, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: like, a scented candle. I'm not gonna like the candle, of course, but it has a nice aroma\n\nNurse: That sounds lovely, scents can indeed bring a lot of comfort. What scent did you choose?\n\nPatient: My in my phone that I'm going to play.\n\nNurse: That sounds lovely. Scent can indeed have a powerful effect on our mood. And having your phone with you will certainly keep you connected and entertained. It's clear you're preparing well. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Just basic things like that, a nice, rope,\n\nNurse: Those sound like wonderful comforts, especially the scented candle and your favorite music on your phone. It's always nice to have things that bring us a bit of home while we're in the hospital. Are there any specific songs or artists you're looking forward to listening to?\n\nPatient: Just some classical music seems to relax me.",
+    "responses": {
+        "gpt4": "It sounds like you've made excellent choices to make your hospital stay as comfortable as possible. Classical music can be very soothing and calming. Do you have a particular piece or composer that you like most?",
+        "our_model": "Classical music can indeed be very relaxing. It's a great choice. I imagine you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

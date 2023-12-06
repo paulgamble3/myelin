@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2243,
+    "prompt": "Patient: No.\n\nNurse: Alright, Mr. Valenzuela. Please remember that you can ask me questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I hope this procedure provides you and your doctor with the answers you're looking for. Would it be alright if we go over a few topics on preparing for your colonoscopy?\n\nPatient: Sure.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm that you've been experiencing unexplained and long-lasting diarrhea?\n\nPatient: Are you there, Rachel?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you.\n\nNurse: Yes, I'm here, Mr. Valenzuela. I need to ask, when did your diarrhea start?\n\nPatient: It's been a couple of weeks.",
+    "responses": {
+        "gpt4": "Thank you for sharing that information, Mr. Valenzuela. Could you please tell me if there's been blood in your stool?",
+        "our_model": "I see, thank you for sharing that, Mr. Valenzuela. Is this a chronic issue or something that has recently started?"
+    }
+}

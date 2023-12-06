@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3595,
+    "prompt": "Nurse: Alright, Mr. Benton. If you have any questions or concerns at any point during our conversation, please feel free to share them. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: I guess.\n\nNurse: Thank you, Mr. Benton. I see from your records that you have Type II Diabetes. Have you been checking your blood sugar daily?\n\nPatient: Not really.\n\nNurse: I see, Mr. Benton. It's really important to monitor your blood sugar levels regularly when you have diabetes. Would you be open to starting this practice?\n\nPatient: I guess.\n\nNurse: Thank you for being open to this, Mr. Benton. It's a small step that can make a big difference in managing your diabetes. When do you think you could start checking your blood sugar daily?\n\nPatient: I don't know.",
+    "responses": {
+        "gpt4": "That's perfectly fine, Mr. Benton. Perhaps you could try to start checking your blood sugar tomorrow morning before you have breakfast. I could give you some more pointers. Would that be okay with you?",
+        "our_model": "That's okay, Mr. Benton. There's no rush. Whenever you feel ready to start, that's the right time. Now, let's move on to your blood pressure. When was the last time"
+    }
+}

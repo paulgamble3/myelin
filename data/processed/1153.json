@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1153,
+    "prompt": "Nurse: I'm sorry to hear that you're finding it challenging, Mr. Cardenas. Could you please tell me more about the difficulties you're experiencing with your diet?\n\nPatient: And so I I'm not sure what dietary restrictions\n\nNurse: I understand that managing dietary restrictions can be challenging, Mr. Cardenas. Could you please share more about the meals you've had recently?\n\nPatient: or supplements that I need to take with that.\n\nNurse: I understand that managing your diet with Fanconi-Bickel disease can be challenging, Mr. Cardenas. Could you share more about the specific foods you've been eating recently?\n\nPatient: Well, I've been really trying to focus on just vegetables\n\nNurse: That's a great start, Mr. Cardenas. Eating a variety of vegetables can provide a wide range of nutrients. Are there any particular vegetables you've been enjoying lately?\n\nPatient: Stay away from processed foods.",
+    "responses": {
+        "gpt4": "You're on the right track, Mr. Cardenas. Avoiding processed foods can be very beneficial. Could you please tell me more about the types of meals you've been preparing with your vegetables?",
+        "our_model": "That's a great start, Mr. Cardenas. Focusing on vegetables and avoiding processed foods is beneficial for your health. Can you tell me more about the types of vegetables you're eating and how you're preparing them?"
+    }
+}

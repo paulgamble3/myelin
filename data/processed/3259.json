@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3259,
+    "prompt": "Nurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 80 mg oral tablets?\n\nPatient: Yes.\n\nNurse: Great, and how have you been taking your Lasix medication?\n\nPatient: Just fine.\n\nNurse: That's good to hear, Patient. It's essential to take your medication as prescribed. Now, are you still taking your existing medications, Captopril and Potassium?\n\nPatient: Yes.\n\nNurse: That's good to hear, Patient. It's important to continue taking your existing medications as prescribed. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's excellent, Patient. Staying consistent with your medication routine is vital for managing your condition. \n\nNow, let's move on to a symptom check. I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?",
+        "our_model": "That's excellent, Patient. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4730,
+    "prompt": "Nurse: I apologize for the confusion. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: I think my clothes are fitting the same.\n\nNurse: I apologize for the confusion. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: No. I have not.\n\nNurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you. That's good to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: I don't think I remember the questions you asked, and I did clarify by saying\n\nNurse: I\n\nPatient: but I don't think I gained weight.",
+    "responses": {
+        "gpt4": "I'm sorry for misunderstanding earlier. Could you please confirm whether you've been using more pillows to sleep at night? This could be a sign of worsening CHF.",
+        "our_model": "apologize for I apologize for any confusion. To clarify, the questions were about any new or worsening shortness of breath, chest pain, dry cough, swelling in your feet, ankles, stomach, or legs, weight gain, and whether you've been using more pillows to sleep. These are all important symptoms to monitor for CHF. Do you have any questions about these symptoms or how to monitor them?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 298,
+    "prompt": "Nurse: Yes. I'm here to assist you. If you have any questions or concerns, feel free to share them with me.\n\nPatient: Let me talk.\n\nNurse: Absolutely. I'm here to listen. Please feel free to share your concerns.\n\nPatient: You know, that's all.\n\nNurse: I'm sorry, Damian, could you please repeat what you said?\n\nPatient: You know what? I don't like. I don't\n\nNurse: I'm sorry, Damian, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: I don't",
+    "responses": {
+        "gpt4": "I'm sorry, Damian, could you please repeat what you were saying?",
+        "our_model": "I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you were saying?"
+    }
+}

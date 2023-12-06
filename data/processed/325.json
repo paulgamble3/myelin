@@ -1,0 +1,8 @@
+{
+    "prompt_id": 325,
+    "prompt": "Nurse: That's great to hear. Now, let's move on to the next medication. You're also prescribed Ferrous sulfate 45 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Lastly, you're prescribed Renvela 400 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's great. You're doing a fantastic job managing your medications. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great! Let's move onto a different subject. Could you tell me about your meals yesterday? Remember, your diet plays a key role in managing your conditions.",
+        "our_model": "Alright. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?"
+    }
+}

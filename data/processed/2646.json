@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2646,
+    "prompt": "Nurse: That's okay, Ms. Cruz. It's critical\n\nPatient: way myself.\n\nNurse: That's okay, Ms. Cruz. It's essential to keep an eye on any sudden weight changes as they can be a sign of fluid retention. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Cruz. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: I do not have questions. Thank you.\n\nNurse: I apologize for the confusion earlier, Ms. Cruz. Could you please confirm if you've been using more pillows at night to sleep?\n\nPatient: No. I do not.",
+    "responses": {
+        "gpt4": "That's good to hear, Ms. Cruz. I was under the impression that you might be using more pillows to sleep, which could indicate a potential problem. But I'm happy to hear that's not the case. As a reminder, if you do notice anything unusual, such as needing more pillows to sleep comfortably, please let your doctor know right away. Do you have any other questions or concerns I can help you with today?",
+        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
+    }
+}

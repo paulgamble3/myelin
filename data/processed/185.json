@@ -1,0 +1,8 @@
+{
+    "prompt_id": 185,
+    "prompt": "Nurse: That sounds lovely, Ms. Aguirre. It's always a joy to spend time with family. What activities do you usually enjoy doing with your daughter when she visits?\n\nPatient: We just\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: you know, sit and talk.\n\nNurse: That sounds like a wonderful way to spend time together, Ms. Aguirre. Conversations can be such a comfort. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. Doing okay.\n\nNurse: I'm glad to hear that you're doing okay, Ms. Aguirre. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, Ms. Aguirre. As part of managing your Type II Diabetes, it's important to check your blood sugar levels regularly at home. May I ask if you have been checking your blood sugar daily? If so, do you recall what your last blood sugar reading was?",
+        "our_model": "Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
+    }
+}

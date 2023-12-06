@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4726,
+    "prompt": "Nurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: I should clarify. I have not been weighing myself. So",
+    "responses": {
+        "gpt4": "That's all right. Could you please start to weigh yourself daily and track any changes? This can be an important indicator of fluid retention. Do you have a scale at home that you can use?",
+        "our_model": "I apologize for the confusion. Could you please confirm whether you've been using more pillows at night to sleep?"
+    }
+}

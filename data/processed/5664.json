@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5664,
+    "prompt": "Nurse: I apologize for the confusion earlier. You asked about specific environmental factors to be cautious of with CHF, correct?\n\nPatient: Like extreme temperatures,\n\nNurse: I apologize for the confusion earlier. You're asking about specific environmental factors, like extreme temperatures, that you should be cautious of with CHF, correct?\n\nPatient: that I should be cautious of with congestive heart failure.\n\nNurse: Yes, extreme temperatures can indeed affect individuals with CHF. Both hot and cold weather can put extra strain on your heart. In hot weather, the body works harder to maintain a normal temperature, which can worsen CHF symptoms. In cold weather, the heart works harder to keep the body warm, which can also worsen symptoms. It's best to stay indoors during extreme weather conditions and to dress in layers to maintain a comfortable body temperature. Does this answer your question?\n\nPatient: Yes. It does. Thank you so much.\n\nNurse: You're welcome. I'm glad I could provide the information you needed. I understand that adjusting diet and exercise can be challenging. Do you have any other questions or concerns about what we discussed?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Alright, it sounds like you're doing really well managing your conditions at home. That's excellent! Please don't hesitate to reach out if you have any other questions in the future. Have a great day, and take care!",
+        "our_model": "Alright. I'm glad I could assist you today. I'll be sure to inform Doctor Smith about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
+    }
+}

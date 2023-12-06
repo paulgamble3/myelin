@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4501,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jon Chavez?\n\nPatient: Yeah. That's me.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.",
+    "responses": {
+        "gpt4": "Great, thank you for the confirmation, Jon. I am your chronic care management support line calling on behalf of your primary care provider, Dr. Robert Jackson. I'm here to check in on how you've been doing and discuss a few items on your health. You can ask me any questions you have at any time during this call.\n\nTo start, I'm interested to know how you have been feeling lately?",
+        "our_model": "Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?"
+    }
+}

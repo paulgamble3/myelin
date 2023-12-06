@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6305,
+    "prompt": "Nurse: Okay, Mr.\n\nPatient: No questions.\n\nNurse: Great, Mr. Alves. I'm glad to hear that you're clear on when to stop eating and drinking before your procedure. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: But can you tell me about how long it's gonna last? The go lightly. And when do I need to take it?\n\nNurse: Of course,\n\nPatient: Great ticket.\n\nNurse: Of course, Of course, Mr. Alves. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM the day before your procedure. Then, you'll wake up early the morning of the procedure to finish drinking the second half of the solution. The bowel prep process usually takes about 1 to 2 hours to complete, but it can vary from person to person. Does that answer your question?\n\nPatient: Two days before three days before",
+    "responses": {
+        "gpt4": "No, Mr. Alves, you'll start the bowel prep with the GoLYTELY solution the day before your procedure. Specifically, you'll start drinking the first half of the solution around 6 PM, and then finish drinking the second half early on the morning of the procedure. Do you have any other questions about the bowel prep or the GoLYTELY solution?",
+        "our_model": "I'm sorry, Mr. Alves, could you please repeat your question?"
+    }
+}

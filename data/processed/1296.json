@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1296,
+    "prompt": "Nurse: Great, Mr. O'Leary. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. O'Leary. After you've gently scrubbed for 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. Just to reiterate, you'll need to use the chlorhexidine scrub the night before and the morning of your procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: That's great, Mr. O'Leary. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Perfect, Mr. O'Leary. I know we've covered a lot already, and you're doing great. Are there any other questions that have come to mind so far?",
+        "our_model": "Alright, Mr. O'Leary. I'm glad to hear that you understand the importance of not eating or drinking after midnight before your procedure. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?"
+    }
+}

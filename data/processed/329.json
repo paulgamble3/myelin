@@ -1,0 +1,8 @@
+{
+    "prompt_id": 329,
+    "prompt": "Patient: I've been following that\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: called. What the hell is it called?\n\nNurse: Are you referring to the DASH diet?\n\nPatient: I've been bought\n\nPatient: Let me talk.\n\nNurse: Of course, please go ahead. You were saying you've been following a certain diet?\n\nPatient: I've been following that",
+    "responses": {
+        "gpt4": "I'm sorry, Damian, your response got cut off. Could you please repeat what diet you've been following?",
+        "our_model": "I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

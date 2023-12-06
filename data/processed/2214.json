@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2214,
+    "prompt": "Patient: I'd like to hear bread. [NO RESPONSE]\n\nNurse: Bread is a great choice. It's low in fiber and can be quite comforting. Do you have a favorite type of bread or a way you like to eat it?\n\nPatient: Multigram toast.\n\nPatient: With cream cheese.\n\nNurse: Multigrain toast with cream cheese sounds delicious. It's a good choice for your low fiber diet. Do you usually have it for breakfast or as a snack?\n\nPatient: Ass of math sometimes.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat when you usually have your multigrain toast with cream cheese?\n\nPatient: During breakfast?",
+    "responses": {
+        "gpt4": "Great choice! A nice breakfast of multigrain toast with cream cheese can be a good start to your day, especially on the days leading up to your colonoscopy. Let's move on to the next step in your colonoscopy prep. Starting two days before your colonoscopy, you'll need to start a clear liquid diet. Are you familiar with this diet or would you like me to go over it?",
+        "our_model": "That sounds like a great way to start the day. It's a good choice for your low fiber diet. Now, let's move on to the next topic. You'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

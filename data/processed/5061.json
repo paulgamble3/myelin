@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5061,
+    "prompt": "Nurse: Hold on a second while I figure out how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: I'm fine.\n\nNurse: When did you first notice the pus and mucus in your stool, Mr. Koroleva?\n\nPatient: Couple weeks ago.\n\nNurse: Have you had any fever recently, Mr. Koroleva?\n\nPatient: No.\n\nNurse: Have you noticed any rapid spreading of warmth, swelling, or redness around the area where you've seen the pus and mucus, Mr. Koroleva?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Mr. Koroleva, is the pus and mucus in your stool associated with pain?",
+        "our_model": "Has the area where you've seen the pus and mucus become larger or more open, Mr. Koroleva?"
+    }
+}

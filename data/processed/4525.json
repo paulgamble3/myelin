@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4525,
+    "prompt": "Patient: Correct.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please confirm if you're feeling dizzy at the moment?\n\nPatient: No. I'm not feeling busy.\n\nNurse: I'm glad to hear that you're not feeling dizzy. It's critical to monitor your blood sugar levels regularly. Would you be open to some suggestions on how to manage your blood sugar levels?\n\nPatient: Yep.\n\nNurse: Okay. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: Sounds good.",
+    "responses": {
+        "gpt4": "Great. Now, about the weight gain you mentioned earlier, let's discuss some potential strategies for that. Regular physical activity, even light workouts, can help you maintain a healthy weight. In addition to improving your diet, would you consider adding simple exercises into your daily routine?",
+        "our_model": "I'm glad you think so. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could incorporate this into your routine?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2973,
+    "prompt": "Nurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: No. That's okay.\n\nNurse: Alright, if you change your mind or have any questions about managing your blood sugar levels, please don't hesitate to ask. Now, when was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: This morning?\n\nNurse: I'm sorry, I didn't quite catch that. Could\n\nPatient: And it was one hundred over ninety.",
+    "responses": {
+        "gpt4": "That's a bit on the high side. What's your normal blood pressure reading? Do you generally have high blood pressure?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?"
+    }
+}

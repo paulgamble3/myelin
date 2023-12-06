@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6262,
+    "prompt": "Nurse: Perfect, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Alves.\n\nNurse: I'm sorry, Mr. Alves, could you please confirm if the check-in location on the 1st Floor of O'Connor Hospital sounds good to you?\n\nPatient: I said Alves.\n\nNurse: I apologize for the confusion, Mr. Alves. I want to make sure you're comfortable with all the details. Is the check-in location on the 1st Floor of O'Connor Hospital acceptable to you?\n\nPatient: I said yes. Yes.\n\nNurse: Thank you for confirming, Mr. Alves. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Alves. Before we move on to discuss medications, I want to ensure there is nothing else we need to address regarding logistics. Are you ready to move forward?",
+        "our_model": "Alright, Mr. Alves. I'm glad to hear that the logistics seem clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
+    }
+}

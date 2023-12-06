@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3287,
+    "prompt": "Nurse: I'm glad to hear that, Patient. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Now, I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.\n\nNurse: Alright, let's move on. I'll be informing Doctor Valencia about our conversation and how you're doing. Before we end this call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Hello?\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: I said no.\n\nNurse: Thank you for confirming, Patient. To summarize, you've agreed to try and gradually increase your walking time to a total of 30 minutes per day, split into shorter sessions if needed. You're also doing well managing your medications and your symptoms are stable. Can I count on you to continue these efforts?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "That's wonderful to hear, Patient. Additionally, I want to provide you with a callback number. It's 641-381-6523. You can call this number if you have any questions or concerns in the future. Finally, I'd like to thank you for your time today. Please continue to take good care of yourself. Goodbye for now!",
+        "our_model": "That's great to hear, Patient. If you have any questions or need assistance in the future, please don't hesitate to call us back at 641-381-6523. Thank you for your time today. Goodbye, and take care. ["
+    }
+}

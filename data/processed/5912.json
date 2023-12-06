@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5912,
+    "prompt": "Nurse: Excellent, thank you. One strategy is to ensure you're eating balanced meals with a good mix of proteins, fats, and carbohydrates. This can help prevent blood sugar spikes. What do you think about this suggestion?\n\nPatient: Sonia.\n\nNurse: I'm sorry, I didn't quite understand your response. Could you please let me know what you think about the suggestion to eat balanced meals?\n\nPatient: It sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to incorporate some physical activity into your day, even if it's just a short walk. This can help your body use insulin more effectively. Do you think you could try that?\n\nPatient: Sure.\n\nNurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.",
+    "responses": {
+        "gpt4": "Perfect. Could you please share with me what that reading was?",
+        "our_model": "That's good to hear that you're keeping track. Could you please share with me what the result was?"
+    }
+}

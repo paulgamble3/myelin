@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2263,
+    "prompt": "Nurse: Absolutely, Mr. Valenzuela. Are you aware of the preparation steps involved in a colonoscopy procedure?\n\nPatient: Rachel, are you there?\n\nNurse: Yes, I'm here, Mr. Valenzuela. I apologize for the brief pause. Let's proceed with the questions about your colonoscopy preparation. Are you aware of the dietary restrictions and the need to take a bowel prep solution before the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Valenzuela. It's critical to follow these instructions closely for the best results. Have you been able to arrange for someone to accompany you to the procedure and drive you home afterwards?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Valenzuela. It's essential to have someone with you for support and assistance. Is there anything else you'd like to know or discuss about the colonoscopy or the preparation process?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Valenzuela. If you have any other questions leading up to the procedure, don't hesitate to contact us. We're here to help and want to make sure you feel fully prepared. Take care and we'll see you on the day of your colonoscopy.",
+        "our_model": "Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to reach out. I'll also call you the day before your procedure to check in. Is there anything else you'd like to discuss at this time?"
+    }
+}

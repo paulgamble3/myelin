@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2732,
+    "prompt": "Nurse: Baking sounds like a delightful hobby, Mr. Stevens. What kind of baked goods do you enjoy making?\n\nPatient: What what\n\nNurse: I'm sorry, Mr. Stevens. Could you please repeat what you said?\n\nPatient: I like making cupcakes and bread.\n\nNurse: Cupcakes and bread sound delicious, Mr. Stevens. Do you have a favorite flavor or type of cupcake that you enjoy making?\n\nPatient: It's really amazing.\n\nNurse: That sounds delicious, Mr. Stevens. Baking cupcakes and bread must be a rewarding activity. Do you have a favorite type of cupcake or bread that you enjoy making the most?\n\nPatient: Yes. Carrot cake.",
+    "responses": {
+        "gpt4": "Carrot cake cupcakes sound delicious, Mr. Stevens! That must be quite a treat. Now let's move on to the main purpose of our call. Your doctor wanted me to check in on your recovery process. How have you been feeling since your discharge from the hospital?",
+        "our_model": "Carrot cake is indeed a delightful choice, Mr. Stevens. It's a great way to incorporate vegetables into a sweet treat. Now, I'm calling on behalf of Doctor Marcuso and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

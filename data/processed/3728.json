@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3728,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been causing you to feel scared?\n\nPatient: these things that are happening to me.\n\nNurse: I'm really sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?\n\nPatient: Well, I just\n\nNurse: Yes, Ms. Odonnell, please go ahead and share what's been happening. I'm here to listen and help you. [\n\nPatient: seem to have a lot of medical conditions that I've been\n\nNurse: I'm really sorry to hear that you're feeling overwhelmed, Ms. Odonnell. It's definitely a lot to manage. Can you tell me which specific symptoms or conditions are causing you the most concern right now?\n\nPatient: diagnosed with, and I'm very afraid that I'm going to have to",
+    "responses": {
+        "gpt4": "It's completely okay to be anxious about all these conditions, Ms. Odonnell. When adjusting to several diagnoses it can be quite overwhelming. May I ask what exactly you are afraid that you might have to do or face?",
+        "our_model": "I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's completely normal to feel overwhelmed with multiple health conditions. Can you tell me more about what specific concerns you have about your conditions?"
+    }
+}

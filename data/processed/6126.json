@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6126,
+    "prompt": "Nurse: I understand that managing diet can sometimes feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: what I'm supposed to eat anymore. Right? I'm on such a restricted diet.\n\nNurse: I can understand how managing dietary restrictions can feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: I have cereal for breakfast. I have pizza for lunch. And I had\n\nNurse: I'm sorry, Jon, could you please repeat what you had for dinner yesterday?\n\nPatient: And and\n\nNurse: I'm sorry, Jon, you were saying?\n\nPatient: string beans for dinner.",
+    "responses": {
+        "gpt4": "Thank you for sharing. It's great to see that you're including vegetables in your dinner. I'm wondering if I may offer some suggestions about adjusting your current diet to better manage your conditions, keeping your CKD diagnosis in mind. Would this be okay with you?",
+        "our_model": "Thank you for sharing that. It sounds like you're making an effort to include a variety of foods in your diet. I noticed that you had pizza for lunch. Pizza can sometimes be high in sodium. Would it be okay if I provide some suggestions on how to manage your sodium intake?"
+    }
+}

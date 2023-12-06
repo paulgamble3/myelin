@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2816,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Good morning! My name is Rachel from O'Connor Hospital. I'm calling in regard to your upcoming colonoscopy procedure scheduled for August 17 at 11:00 AM. May I ask whether this is a convenient time for us to discuss this? By the way, how has your day been so far?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sarkis Koroleva?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3355,
+    "prompt": "Nurse: I'm sorry, Mr. Kageyama, I didn't quite catch\n\nPatient: Sure.\n\nNurse: Okay, thank you, Mr. Kageyama. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Not too bad about it.\n\nNurse: I'm glad to hear that, Mr. Kageyama. It's quite a process to go through, so it's good that you're feeling okay about it. This colonoscopy is a preventative screening for colon cancer. How are you feeling about this?\n\nPatient: I think it's good. You know? I wanna make sure that I\n\nNurse: Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Do you have any questions or concerns about the procedure that you'd like to discuss before we move forward?\n\nPatient: catch anything early. You know?",
+    "responses": {
+        "gpt4": "That's an excellent perspective, Mr. Kageyama. Early detection is key in maintaining health. I'd like to go over a few things regarding your colonoscopy preparation if that's alright with you?",
+        "our_model": "Absolutely, Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Regular screenings can indeed help in early detection and treatment. Before we delve into the details of your colonoscopy preparation, do you have any specific questions or concerns you'd like to discuss?"
+    }
+}

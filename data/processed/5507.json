@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5507,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Aguirre. Another suggestion is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could try this?\n\nPatient: Honestly, I would never thought of it.\n\nNurse: I'm glad to hear you're open to the idea, Ms. Aguirre. Walking after meals can be a simple yet effective way to manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Thought,\n\nNurse: I'm glad to hear you're open to the idea, Ms. Aguirre. Walking after meals can be a simple yet effective way to manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: In the morning,\n\nNurse: Thank you for sharing that, Ms. Aguirre. Could you please tell me what the result of your last blood pressure measurement was?\n\nPatient: So I did it in the morning, and it was",
+    "responses": {
+        "gpt4": "Thank you, Ms. Aguirre. Could you please share the exact reading of your last blood pressure measurement?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat what your blood pressure reading was in the morning?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3221,
+    "prompt": "Nurse: Good, and are you also taking Tylenol as needed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: [NO RESPONSE]\n\nNurse: I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Great job! Sticking to your medication schedule is an important part of managing your condition. \n\nNow, I'd like to ask a series of brief questions about your symptoms to help understand how you're doing at home. Is that alright with you?",
+        "our_model": "That's fantastic. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4993,
+    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Hooper. It sounds like you're following a Jain vegetarian diet, which includes fasting and avoiding foods that come from animals. Can you tell me more about the types of fruits and vegetables you usually have?\n\nPatient: That will be both cardiac And Jane Vegetarian? In nature,\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. It sounds like you're looking for foods that are both cardiac and Jain vegetarian friendly. Would it be okay if I share some dietary recommendations with you?\n\nPatient: That's what I'm looking for.\n\nNurse: Wonderful, Mr. Hooper. For a cardiac and Jain vegetarian diet, you should focus on foods that are low in sodium and water content. This includes fresh fruits and vegetables, especially those that grow above the ground like apples, berries, and cucumbers. You can also have whole grains, legumes, and nuts. However, it's important to limit the intake of salt, oil, and certain fruits and vegetables that grow underground like potatoes and carrots due to their high water content. Does that help?\n\nPatient: Yeah. That helps. There's a dish called\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat what you were saying?\n\nPatient: Would",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Hooper, your message got cut off. Could you please repeat that?",
+        "our_model": "I'm sorry, Mr. Hooper, could you please repeat the name of the dish you mentioned?"
+    }
+}

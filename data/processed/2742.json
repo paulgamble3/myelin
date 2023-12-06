@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2742,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Stevens. Moving on, have you noticed any new or worsening dry cough?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Stevens. I was asking if you've noticed any new or worsening dry cough recently?\n\nPatient: No. I don't.\n\nNurse: That's good to hear, Mr. Stevens. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Stevens. I was asking if you've noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Hello? Okay.",
+    "responses": {
+        "gpt4": "I'm here, Mr. Stevens. Have you experienced any increased swelling in your feet, ankles, stomach, or legs recently?",
+        "our_model": "Yes, Yes, Mr. Stevens. I was asking if you've noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

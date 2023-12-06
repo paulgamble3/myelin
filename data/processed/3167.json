@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3167,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure. June seventh nineteen seventy seven.\n\nNurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Today, I'm feeling\n\nNurse: I'm sorry, it seems like there was a connection issue and I didn't catch the rest of what you were saying. Could you please repeat that?\n\nPatient: I'm feeling okay.",
+    "responses": {
+        "gpt4": "That's good to hear. Have you been preparing for your knee replacement in any specific way? Maybe some exercises or relaxation methods to help you get through the day?",
+        "our_model": "I'm glad to hear that you're feeling okay. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

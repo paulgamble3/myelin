@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4979,
+    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. That's good to hear, Mr. Hooper. Now, I'd like to talk about your diet. Could you tell me about your recent meals?\n\nPatient: My recent meals are vegetarian. I cracked this Janeism,\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat that?\n\nPatient: and I am on a strict\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat the last part of your response?\n\nPatient: Jane Vegetarian Diet.\n\nNurse: I apologize if I misunderstood earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Which includes a great deal",
+    "responses": {
+        "gpt4": "I'm happy to hear you're taking your diet seriously, Mr. Hooper. A vegetarian diet can have numerous health benefits, especially for CHF management. Could you tell me more about what your meals typically comprise? Are there certain foods or food groups that you usually include?",
+        "our_model": "I apologize for the confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?"
+    }
+}

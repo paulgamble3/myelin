@@ -1,0 +1,8 @@
+{
+    "prompt_id": 455,
+    "prompt": "Nurse: Great, I'm glad to hear that. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: You bet.\n\nNurse: That's wonderful to hear. It's important to have someone to assist you as you recover. If there's anything else you need to arrange, remember you still have time. Do you have any questions about this?\n\nPatient: No dialing. No question. I'm ready to you. I am ready to I am ready to How are you ready to be healthy?\n\nNurse: I'm here to assist you, so I'm ready to help you on your journey to better health. It's great to hear that you're feeling prepared. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm glad to hear that you're feeling ready. It's a positive attitude that will serve you well during your recovery. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No, darling.",
+    "responses": {
+        "gpt4": "That's great to hear. Before we wrap up, let's quickly summarize what you still need to do before your procedure. Make sure to use your chlorhexidine scrub the night before and the morning of your surgery. Remember not to eat or drink anything after midnight before your procedure. Can I count on you to do all of this?",
+        "our_model": "Alright. Before we end the call, let's summarize what you still need to do before your procedure. You need to use the chlorhexidine scrub the night before and the morning of your procedure. You also need to remember not to eat or drink anything after midnight before your procedure. Can I count on you to do all of this?"
+    }
+}

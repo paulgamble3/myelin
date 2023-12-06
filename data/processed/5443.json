@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5443,
+    "prompt": "Nurse: Thank you. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Oh, I guess I'm just\n\nNurse: I'm sorry, Liz, you were saying?\n\nPatient: frustrated, and I need all these tests now that I'm getting older.\n\nNurse: I'm sorry to hear that you're feeling frustrated. It's completely normal to feel this way, especially when facing medical procedures as we age. Is there anything specific about the colonoscopy that's causing you concern?\n\nPatient: Well,\n\nNurse: Yes, I'm here to help. What's on your mind about the colonoscopy?\n\nPatient: to be honest, I've never had one before, and I can't believe that I'm at the age where I actually we need one.",
+    "responses": {
+        "gpt4": "I can see why this might feel like a significant milestone for you, and it's okay to have these feelings. The truth is, annual screenings like colonoscopies are extremely beneficial in terms of preventative care. They help us spot issues early and can greatly improve outcomes. May I ask if you have any specific concerns about the procedure, or any questions in general?",
+        "our_model": "I see, I see, it's completely normal to feel a bit overwhelmed when facing a new medical procedure, especially one as significant as a colonoscopy. It's a preventative screening for colon cancer, and it's great that you're taking this step to take care of your health. Do you have any specific questions or concerns you'd like to discuss before we go over the preparation for the procedure?"
+    }
+}

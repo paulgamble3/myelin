@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5426,
+    "prompt": "Nurse: That's wonderful, Mr. Hardy. It's critical to take your medications as prescribed to manage your blood sugar levels effectively. I want to remind you that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: Yeah.\n\nNurse: Of course, Mr. Hardy.\n\nPatient: Why am I taking that specific dosage number of app, Pick n Pay,\n\nNurse: I'm sorry, Mr. Hardy, could you please repeat your question?\n\nPatient: Yeah. Why am I taking that specific dosage of act act apixaban.\n\nNurse: Your specific dosage of Apixaban is determined by your doctor based on your medical history, current health status, and response to the medication. Apixaban is an anticoagulant, or blood thinner, used to prevent blood clots in people with certain heart conditions, like atrial fibrillation, which you have. The goal is to prevent strokes and blood clots in your legs and lungs. Your doctor has prescribed a dosage of 5 mg two times a day. It's essential to take this medication as prescribed to manage your condition effectively. Does that answer your question, Mr. Hardy?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "I'm glad I could answer your question, Mr. Hardy. Do you have any other questions or concerns that you would like to discuss?",
+        "our_model": "I'm glad I could provide the information you needed, Mr. Hardy. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

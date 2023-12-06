@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3908,
+    "prompt": "Nurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medication. Just a reminder, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I know.\n\nNurse: That's good to hear. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a\n\nNurse: I'm sorry, Carla, could you please repeat what you had for your recent meals?\n\nPatient: They do salads.",
+    "responses": {
+        "gpt4": "That's great. Salads are a healthy food option that can be part of a kidney-friendly diet. Just remember to be mindful of the dressing and toppings, as they can sometimes be high in salt. Did you use a store-bought dressing or make your own?",
+        "our_model": "I'm sorry, Carla, could you please repeat what you had for your meals recently?"
+    }
+}

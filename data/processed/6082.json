@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6082,
+    "prompt": "Nurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Give me a moment to check how I can best support you.\n\nNurse: When was your blood sugar level of 128 taken?\n\nPatient: This morning when I\n\nPatient: out of.\n\nNurse: I'm sorry, Jon, could you please repeat when you took your blood sugar level of 128?\n\nPatient: This morning when I got up.",
+    "responses": {
+        "gpt4": "Thank you for sharing, Jon. Are you taking any medication for your blood sugar levels as prescribed by your doctor?",
+        "our_model": "Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?"
+    }
+}

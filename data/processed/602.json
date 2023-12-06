@@ -1,0 +1,8 @@
+{
+    "prompt_id": 602,
+    "prompt": "Nurse: I'm glad to hear that you've found a routine that works for you, Ms. Chabot. It's really important for managing your conditions. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Go for it. That's\n\nNurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening\n\nPatient: that's actually\n\nNurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with\n\nPatient: awesome.\n\nNurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Talked to",
+    "responses": {
+        "gpt4": "I apologize if I did not understand that clearly, Ms. Chabot. Are you experiencing any new or worsening shortness of breath with activity, laying down, or at rest?",
+        "our_model": "Thank you, Ms. Chabot. Let's start"
+    }
+}

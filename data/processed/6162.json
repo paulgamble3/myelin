@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6162,
+    "prompt": "Patient: It ranges\n\nPatient: from\n\nNurse: I'm sorry, Mr. Dang, could you please specify the range of your pain on a scale of 0 to 10?\n\nPatient: a three to a seven.\n\nNurse: I'm sorry to hear that, Mr. Dang. Do you currently have a fever or a high temperature?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. Do you have any chest pain or flank pain associated with your abdominal pain?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for letting me know. Are you currently experiencing any nausea or vomitting associated with your abdominal pain?",
+        "our_model": "Have you noticed any black or tarry stool or blood in your stool, Mr. Dang?"
+    }
+}

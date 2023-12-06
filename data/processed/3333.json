@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3333,
+    "prompt": "Patient: Yes. I can remember. But also, like, I'm gonna scrap the you know, I'm gonna scrap my body like a crazy Paxton. I'm just so scared of this surgery. I mean, I don't want any infection.\n\nNurse: I can certainly understand your concerns, Mr. Winner. It's completely normal to feel this way before a procedure. The chlorhexidine scrub is a very effective way to reduce the risk of infection. It's great that you're taking this step seriously. Do you have any other questions or concerns about the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Winner.\n\nPatient: Know.\n\nPatient: I mean, I'm just I'm just Looking forward to get this pain out of my body, and really being being Healthy.\n\nNurse: I can hear your determination, Mr. Winner. It's inspiring. Now, let's discuss the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: I think oh, okay. So okay. So",
+    "responses": {
+        "gpt4": "Yes, Mr. Winner. Is there something specific you'd like to ask about?",
+        "our_model": "Yes, Mr. Winner."
+    }
+}

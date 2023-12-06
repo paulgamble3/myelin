@@ -1,0 +1,8 @@
+{
+    "prompt_id": 688,
+    "prompt": "Nurse: Could you please share what you've been eating recently?\n\nPatient: I'm watching my liquid intake.\n\nNurse: That's great to hear. Could you share a bit more about what you've been eating recently?\n\nPatient: I have eliminated salt from my diet.\n\nNurse: That's great to hear. Could you share a bit more about what you typically eat in a day?\n\nPatient: Sticking with\n\nNurse: I'm sorry, you were saying something about your diet?\n\nPatient: unprocessed Foods",
+    "responses": {
+        "gpt4": "Thank you for sharing that. Eating unprocessed foods is a great choice. How about your intake of fruits and vegetables? Are you making sure to incorporate them into your meals?",
+        "our_model": "That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?"
+    }
+}

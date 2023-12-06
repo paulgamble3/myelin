@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4121,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: Is it Chihuahua?\n\nNurse: Yes, that's correct! Chihuahuas are such lively little dogs. Cheeto must be a joy to have around. Now, I'm calling on behalf of Doctor Robert Benson and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I stopped\n\nNurse: I'm sorry, Paula, could you please repeat what you said?\n\nPatient: questions in regards to my diet. Can you tell me\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question about your diet?\n\nPatient: Which diet should I be following?",
+    "responses": {
+        "gpt4": "Typically, it depends on your health condition. Doctor Benson would be able to provide you with the most accurate dietary advice. However, a balanced diet with plenty of fruits, vegetables, lean proteins, and whole grains is usually beneficial. It's also important to stay hydrated and maintain portion control. Would you like me to schedule an appointment for you to speak with Dr. Benson about this?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question?"
+    }
+}

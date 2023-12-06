@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4034,
+    "prompt": "Patient: Well, they told me\n\nNurse: I'm sorry, Ms. Warrell, you were saying something about what you were told about your diet?\n\nPatient: Ever since\n\nPatient: I\n\nNurse: I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: have this congestive heart failure,\n\nNurse: Yes, Ms. Warrell, managing your diet is an important part of managing CHF. It sounds like you're already making some good choices with the vegetarian dish you mentioned earlier. Just remember to keep an eye on the sodium content, as it can impact your CHF. Do you have any questions\n\nPatient: So it's not a problem.",
+    "responses": {
+        "gpt4": "That's great, Ms. Warrell. Eating a balanced diet low in sodium is key to managing Congestive Heart Failure (CHF). Can you share how you have been doing with restricting your fluid intake to less than 2 liters per day?",
+        "our_model": "That's great to hear, Ms. Warrell. It sounds like you're already doing a good job following a cardiac diet. Remember, it's important to keep this up for your health. Now, let's talk about exercise. Could you tell me about your current exercise routine?"
+    }
+}

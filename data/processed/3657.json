@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3657,
+    "prompt": "Nurse: I understand. It's important to monitor this closely.\n\nPatient: because after that,\n\nNurse: I see. It's essential to monitor this closely. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Yeah. Yeah. How about three pounds?\n\nNurse: Thank you for sharing that.\n\nPatient: In the past day.\n\nNurse: I see. Sudden weight gain can be a sign of fluid retention, which is something we need to monitor closely. Have you been using more pillows at night to sleep?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good news. What we just went through is a simple check for your CHF symptoms. Trying to keep track of these symptoms can seem complicated. Do you have any questions about how to keep a track of these symptoms at home?",
+        "our_model": "Alright. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
+    }
+}

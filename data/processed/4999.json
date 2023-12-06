@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4999,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August third nineteen eighty two.\n\nNurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It is.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm doing pretty good.\n\nNurse: I'm glad to hear that. It's always nice to have a good day. Do you have any special plans for the day?\n\nPatient: I'm gonna probably wrap some Christmas presents.",
+    "responses": {
+        "gpt4": "That sounds lovely. Wrapping presents can be quite relaxing and enjoyable, especially if there's some holiday music in the background. Do you enjoy wrapping presents, or is there someone special you are wrapping the gifts for?",
+        "our_model": "That sounds like a lovely way to spend the day. Wrapping presents can be quite therapeutic. Do you have a favorite wrapping technique or style?"
+    }
+}

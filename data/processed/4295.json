@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4295,
+    "prompt": "Nurse: Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial in managing your blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yes. About my sodium and my\n\nPatient: Click create name.\n\nPatient: Level?",
+    "responses": {
+        "gpt4": "I see, you want to discuss your sodium and creatinine levels from your recent blood tests. Is that correct?",
+        "our_model": "I'm sorry, could you please repeat your question?"
+    }
+}

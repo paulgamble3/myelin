@@ -1,0 +1,8 @@
+{
+    "prompt_id": 141,
+    "prompt": "Nurse: Thank you for sharing that, Mr. Valenzuela. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's making you feel okay about it?\n\nPatient: No. I feel fine.\n\nNurse: I see, Mr. Valenzuela. It's great that you're feeling okay about the procedure. Before we move forward, do you have any questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm ready.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: They said I'm ready.",
+    "responses": {
+        "gpt4": "Okay, Mr. Valenzuela. I am just trying to clarify the information I have here. Apologies if I misunderstood, but did you mention that you've been experiencing diarrhea?",
+        "our_model": "Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you."
+    }
+}

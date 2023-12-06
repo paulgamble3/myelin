@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4436,
+    "prompt": "Nurse: That's wonderful, Mr. Delarosa. It's great to hear that you enjoy your hobby. Now, I'm calling on behalf of Doctor Gervais and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Not at the moment. They may come up later.\n\nNurse: Of course, Mr. Delarosa. Feel free to ask any questions as they come up. Now, let's talk about your new medication. Have you been able to pick up your Metoprolol 25 mg oral tablets from the pharmacy?\n\nPatient: Hello. I said yes.\n\nNurse: I apologize for the confusion earlier, Mr. Delarosa. I understand that you've picked up your Metoprolol 25 mg oral tablets. The prescribed dosage is 12.5 mg once a day, which may require splitting the 25 mg tablet in half. Have you been taking it as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Delarosa. Taking your medication as prescribed is crucial for managing your conditions. Now, let's briefly discuss your existing medications. Are you still taking Hydrochlorothiazide, Albuterol inhaler, and Fluticasone?\n\nPatient: You mean fluticasone?",
+    "responses": {
+        "gpt4": "Yes, Mr. Delarosa. I'm referring to the fluticasone, used to help manage your asthma symptoms. Are you still taking that medication along with the Hydrochlorothiazide and Albuterol inhaler?",
+        "our_model": "Yes, I apologize for the confusion, Mr. Delarosa. I meant to ask about Fluticasone. Are you still taking it along with Hydrochlorothiazide and Albuterol inhaler?"
+    }
+}

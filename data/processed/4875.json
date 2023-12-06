@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4875,
+    "prompt": "Nurse: That's good to hear. Are you taking any other medications that we haven't discussed, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I take Tylenol.\n\nNurse: I see. Tylenol is usually safe to continue taking, but it's always best to confirm with your doctor. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Celebrex 100 mg two times a day as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: That's great, you're well-prepared. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: Well,\n\nNurse: Yes?\n\nPatient: I stopped my aspirin Because I thought I needed to stop taking that prior to the procedure. Is that correct?",
+    "responses": {
+        "gpt4": "Yes, that's correct. It's typically advised to stop taking Aspirin and other blood thinners a week prior to surgery as they can cause an increased risk of bleeding during the procedure. You've done well to remember that. Have any other questions come up about your medications?",
+        "our_model": "Yes, that's correct. It's generally recommended to stop taking Aspirin about 7 days before the procedure. It's good to hear that you've already stopped. Is there anything else you're unsure about regarding your medications?"
+    }
+}

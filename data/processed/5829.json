@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5829,
+    "prompt": "Nurse: Alright. Let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to avoid those supplements and medications before a colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: Thank you.\n\nNurse: You're welcome. Now, I'd like to move onto the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Thanks.\n\nNurse: Of course. How are you feeling about this part of the preparation?\n\nPatient: Not looking forward to this at all. I'm grateful I can have the procedure.",
+    "responses": {
+        "gpt4": "It sounds like you're not very excited about this part of the prep work. Most people say the procedure itself is no problem at all but the bowel prep was a little bit tough. But remember, we're here to support you every step of the way. Do you have any specific questions about the clear liquid diet or the PLENVU laxative solution?",
+        "our_model": "I can understand that it's not something to look forward to, but it's really commendable that you're taking this step for your health. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about this part of the preparation?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 46,
+    "prompt": "Nurse: I'm sorry to hear that, Ms. Ware. It's completely normal to need some time to adjust after a hospital stay. I'm sure you must be relieved to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I just wanna get on with my life.\n\nNurse: I can certainly appreciate that, Ms. Ware. Getting back to your normal routine can be a great step forward. On a lighter note, do you have any hobbies or interests that you enjoy?\n\nPatient: No. Can we get on with this call?\n\nNurse: Of course, Ms. Ware. I'm here to help you with any questions or concerns you might have about your health. Before we go through a few topics, do you have anything specific you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Ware. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great, Ms. Ware. How about Gabapentin and Tylenol? Are you taking these medications as well?",
+        "our_model": "That's great to hear, Ms. Ware. How about your Gabapentin?"
+    }
+}

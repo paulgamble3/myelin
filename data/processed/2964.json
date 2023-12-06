@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2964,
+    "prompt": "Nurse: Thank you for confirming. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Playing with my dog\n\nNurse: That sounds lovely! What kind of dog do you have and what's their name?\n\nPatient: Australian Shepherd named Pippa.\n\nNurse: Pippa sounds like a wonderful companion. What's your favorite activity to do with Pippa?\n\nPatient: She likes to play for s b.",
+    "responses": {
+        "gpt4": "Playing fetch can be a great bonding time for both of you. Before we progress with our topics regarding your kidney disease, are there any symptoms or concerns that have been troubling you lately?",
+        "our_model": "That sounds like a lot of fun! Playing fetch can be a great way to spend time with our furry friends. Before we move on to discuss your kidney disease, do you have any symptoms or health concerns that you'd like to share with me?"
+    }
+}

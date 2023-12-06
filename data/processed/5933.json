@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5933,
+    "prompt": "Nurse: I'm sorry, could you please repeat the last part of your response?\n\nPatient: Pasta.\n\nNurse: Thank you for clarifying. It sounds like you're making an effort to include a variety of foods in your diet. That's great. Would it be okay if I provide some suggestions to further optimize your diet based on your health conditions?\n\nPatient: Sure.\n\nNurse: Thank you. Since you have Chronic Kidney Disease, it's important to limit your sodium intake to less than 2000 mg per day. This means avoiding adding extra salt to your meals and being mindful of processed foods, which often contain hidden sodium. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to limit your phosphorus intake to 0.8 grams per day. This can be achieved by avoiding certain foods like dairy products, beans, and nuts. Do you think you could try that?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "That's great to hear. Remember, your dietitian is also a fantastic resource to help you navigate your dietary needs. Lastly, I want to talk about physical activity. Regular exercise can help improve mood, decrease blood pressure and better control blood sugar. Do you usually incorporate physical activity into your daily routine?",
+        "our_model": "That's great to hear. Lastly, since you have Type II Diabetes, it's beneficial to control your carbohydrate intake. This can be achieved by eating a variety of foods and keeping an eye on portion sizes. What do you think about this suggestion?"
+    }
+}

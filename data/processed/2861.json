@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2861,
+    "prompt": "Nurse: I'm sorry, Ola, I didn't quite catch that. Could you please repeat what you were saying?\n\nPatient: I've been good.\n\nNurse: I'm glad to hear that you're doing well. Is there anything you're looking forward to doing this week?\n\nPatient: She's resting and staying at home.\n\nNurse: That sounds like a good plan. Resting and staying at home can be very beneficial for your health. Do you have any hobbies or activities that you enjoy doing at home?\n\nPatient: Yes. I'd like to organize and clean.\n\nNurse: That's wonderful. Organizing and cleaning can be very therapeutic. Do you have a particular system or routine that you follow when you're organizing your space?\n\nPatient: Well,",
+    "responses": {
+        "gpt4": "Sure, Ola. I apologize if I cut you off earlier. Please go on.",
+        "our_model": "Yes?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2982,
+    "prompt": "Patient: This is Wallace.",
+    "responses": {
+        "gpt4": "Hello, Wallace. I hope you're feeling more comfortable now at home after your recent hospital visit. Can you tell me how are you getting along after coming home?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Wallace Ponce?"
+    }
+}

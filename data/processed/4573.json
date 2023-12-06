@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4573,
+    "prompt": "Nurse: I'm glad to hear that you're doing okay, Mr. Peck. Is there anything you're looking forward to doing this week?\n\nPatient: Yes. I'm going to the theater.\n\nNurse: That sounds exciting, Mr. Peck! What play are you planning to see at the theater?\n\nPatient: Samalite.\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch the name of the play. Could you please repeat it for me?\n\nPatient: Camelot.\n\nNurse: I'm sorry, Mr. Peck, I didn't quite understand. Are you saying that you're experiencing a change in your speech?\n\nPatient: No. We were talking about what play I was going to see. Never mind. We can move on.",
+    "responses": {
+        "gpt4": "Oh, I see. I apologize for misunderstanding, Mr. Peck. The title of the play is Camelot \ufffd\ufffd\ufffd what an excellent choice! Is there anything else we need to discuss regarding your health?",
+        "our_model": "Just give me a second to work out the best way I can assist you. Of course, Mr. Peck. I apologize for any confusion earlier. You were saying you're going to see the play Camelot. That's wonderful! Are you a fan of theater and have you seen this play before?"
+    }
+}

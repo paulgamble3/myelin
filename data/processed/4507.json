@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4507,
+    "prompt": "Nurse: I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: Well, I've had a little bit of weight gain and some\n\nNurse: I see, weight gain can be a concern. May I ask how much weight you've gained and over what period of time?\n\nPatient: and swelling in my lower legs.\n\nNurse: I'm sorry to hear that you're experiencing some weight gain and swelling in your lower legs. Can you confirm if it's just one leg or both legs that are swollen?\n\nPatient: So, folks,\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Both legs.",
+    "responses": {
+        "gpt4": "Thank you for confirming. Swelling in both legs could be a symptom of different health issues, such as a circulation problem or kidney disease, among others. It's advisable to consult with Doctor Jackson about this as soon as possible. Would you like me to send him a message?",
+        "our_model": "Hold on a second while I figure out how I can best support you. Thank you for clarifying that. Swelling in both legs can be a sign of fluid buildup, which can be related to your kidney disease and other conditions. It's important to monitor this closely. Have you noticed any changes in your diet or physical activity recently that might have contributed to this?"
+    }
+}

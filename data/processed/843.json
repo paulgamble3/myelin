@@ -1,0 +1,8 @@
+{
+    "prompt_id": 843,
+    "prompt": "Nurse: That's excellent, Mr. Oliver. Taking your medication as prescribed is crucial in managing your conditions. Now, let's move on to your next medication. You're also prescribed Lantus, 15 units two times a day. Have you been taking this medication as directed?\n\nPatient: Mhmm.\n\nNurse: That's great to hear, Mr. Oliver. Regularly taking your Lantus as prescribed is important for managing your blood sugar levels. Lastly, you're prescribed Aspart, 5 units three times a day. Have you been taking this medication as directed?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Oliver, I'm here. Have you been taking your Aspart medication, 5 units three times a day, as prescribed?\n\nPatient: I have.\n\nNurse: That's wonderful, Mr. Oliver. It's important to take your medications as prescribed to manage your conditions effectively. I want to remind you that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: I do have one question, but it doesn't have to do with medication.",
+    "responses": {
+        "gpt4": "Of course, Mr. Oliver. I'm here to help answer your questions. What would you like to know?",
+        "our_model": "Give me a moment to check how I can best support you."
+    }
+}

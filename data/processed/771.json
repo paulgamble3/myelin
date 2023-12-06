@@ -1,0 +1,8 @@
+{
+    "prompt_id": 771,
+    "prompt": "Nurse: That sounds like a fun game, Ms. Aguirre. It's great that you have these moments to enjoy with your aunt. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I mean, I I'm not having any\n\nNurse: That's good to hear, Ms. Aguirre. If you ever have any concerns or questions, please don't hesitate to bring them up. We're here to support you. Would it be alright if we go over a few topics related to your health now?\n\nPatient: symptoms, but I am concerned about\n\nNurse: I'm sorry, Ms. Aguirre, you were saying you're concerned about something. Could you please continue?\n\nPatient: following buy it in stage four.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you?\n\nPatient: On a kidney disease.",
+    "responses": {
+        "gpt4": "You're correct, Ms. Aguirre, the CKD refers to Chronic Kidney Disease, and you're at stage IV. Living with this condition can certainly be challenging, and it's okay to feel worried. If you like, we can take a few moments now to discuss any specific concerns you may have about managing your CKD. Would that be helpful for you?",
+        "our_model": "I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you or what questions you have about your condition?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 327,
+    "prompt": "Patient: No.\n\nNurse: That's great. You're doing a fantastic job managing your medications. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Hello?\n\nPatient: I've been following that\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: called. What the hell is it called?",
+    "responses": {
+        "gpt4": "Are you trying to remember the name of a specific diet plan you're following?",
+        "our_model": "Are you referring to the DASH diet?"
+    }
+}

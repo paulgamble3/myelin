@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4457,
+    "prompt": "Nurse: Thank you for sharing, Mr. Delarosa. It's quite common to skip meals. Can you tell me what you had for dinner yesterday?\n\nPatient: And I had some\n\nNurse: I'm sorry, Mr. Delarosa, your voice cut out a bit there. Could you please repeat what you had for dinner yesterday?\n\nPatient: chicken and potatoes for dinner.\n\nNurse: Thank you for sharing that, Mr. Delarosa. It sounds like you're incorporating some good protein sources into your meals. How about your fluid intake?\n\nPatient: What does that mean?\n\nNurse: I apologize if my question was unclear, Mr. Delarosa. I was asking about the types and amounts of fluids you drink in a day. For example, how many glasses of water or other beverages do you typically have?\n\nPatient: To follow these guidelines. I I I don't really understand, like,",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Delarosa, I didn't understand that. Are you having a hard time understanding my question about your fluid intake? Could you please clarify?",
+        "our_model": "I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1009,
+    "prompt": "Nurse: I see. Maintaining a healthy weight is important for managing your conditions. Have you tried any weight loss strategies or do you have any plans to start?\n\nPatient: I said no to any changes. I've not had any changes.\n\nNurse: I see, thank you for clarifying. If you're open to it, I can provide some suggestions on how to manage your weight. Would you like me to do that?\n\nPatient: So I have been able to maintain a healthy weight.\n\nNurse: I apologize for misunderstanding. It's great to hear that you've been able to maintain a healthy weight. This is an important part of managing your conditions. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol intake?\n\nPatient: Yes.\n\nNurse: That's excellent to hear. Managing your alcohol intake is crucial for your overall health and particularly for managing your conditions. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "I appreciate your honesty. Deciding to talk about tobacco use is a big step. Have you ever considered quitting smoking?",
+        "our_model": "Thank you for sharing that with me. I know it's not easy to talk about. Have you ever considered quitting smoking?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3022,
+    "prompt": "Nurse: Great. The preparation for a colonoscopy is crucial. You'll need to follow a clear liquid diet the day before your procedure. This includes broths, clear juices, and jello. You should avoid any red or purple colored liquids as they can interfere with the procedure. You'll also need to take a bowel prep solution, which will help clean out your colon. This is a crucial step as a clean colon allows for a more accurate procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Wonderful. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Okay. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. Let's take a little pause. Are you okay if we move on to discuss some important details regarding your medications?",
+        "our_model": "Alright. I'm glad we could go over the logistics. Before we move on to discuss your medications, I want to take a pause. Are you ready to move forward?"
+    }
+}

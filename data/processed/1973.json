@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1973,
+    "prompt": "Patient: Low.",
+    "responses": {
+        "gpt4": "Hello. May I confirm, am I speaking with the individual in care, please?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this John O'Leary?"
+    }
+}

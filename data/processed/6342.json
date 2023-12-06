@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6342,
+    "prompt": "Nurse: You're absolutely right, Mr. Gardner. I should have said high blood pressure instead of HTN. I apologize for any confusion. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: So I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: It said go ahead.\n\nNurse: Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Gardner. Now, have you noticed any new or worsening wheezing?",
+        "our_model": "I apologize for the confusion earlier, Mr. Gardner. You had mentioned that you're not experiencing any new or worsening shortness of breath, correct?"
+    }
+}

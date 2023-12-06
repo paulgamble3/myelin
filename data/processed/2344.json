@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2344,
+    "prompt": "Nurse: I'm sorry, Mr. Ponce, could you please repeat what you had for your meal?\n\nPatient: South Carolina two.\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you had for your meal?\n\nPatient: And\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that.\n\nPatient: Let me check it.\n\nNurse: Of course, Mr. Ponce. Take your time. I'd like to get a good idea of your regular diet.\n\nPatient: I have chickens and veggies.",
+    "responses": {
+        "gpt4": "That sounds like a balanced meal, Mr. Ponce. It's good to see that you're including lean proteins and vegetables in your diet. These are particularly beneficial considering your recent hospital discharge. Is there anything else you want me to know or any other questions you have regarding your health?",
+        "our_model": "Thank you for sharing that, Mr. Ponce. It's great that you're including vegetables in your meals. Can you tell me more about the types of vegetables you usually have and how you prepare them?"
+    }
+}

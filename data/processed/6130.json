@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6130,
+    "prompt": "Nurse: Thank you for sharing that. It sounds like you're making an effort to include a variety of foods in your diet. I noticed that you had pizza for lunch. Pizza can sometimes be high in sodium. Would it be okay if I provide some suggestions on how to manage your sodium intake?\n\nPatient: Okay.\n\nNurse: Okay. One strategy is to choose foods that are low in sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also a good idea to limit processed foods, which often contain high amounts of sodium. What do you think about this suggestion?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that. Now, let's move on to discuss your\n\nPatient: I could try it.\n\nNurse: phosphorus intake. That's great to hear. Remember, small changes can make a big difference. Now, let's move on to discuss your other chronic conditions. How have you been managing your coronary artery disease (CAD)?\n\nPatient: I don't know. I guess I'm okay.",
+    "responses": {
+        "gpt4": "It's good to hear that you're doing okay. Have you been experiencing any symptoms such as chest pain, shortness of breath, or fatigue?",
+        "our_model": "I'm glad to hear that you're feeling okay. It's critical to manage your CAD by taking your prescribed medications, eating a healthy diet, and getting regular exercise. Have you been able to do these things?"
+    }
+}

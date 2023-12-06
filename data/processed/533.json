@@ -1,0 +1,8 @@
+{
+    "prompt_id": 533,
+    "prompt": "Nurse: Great, thank you for confirming. Now, let's discuss the other main step to remember, which is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6 PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: No. Thank you. As I said, I've done it before.\n\nNurse: I appreciate your patience, and I'm glad to hear that you're familiar with the process. Just to confirm, you're comfortable with the instructions for drinking the GoLYTELY laxative solution, correct?\n\nPatient: Correct.\n\nNurse: Great, thank you for confirming. Now, let's move on to the next part of your prep, which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, I'm glad that's clear. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions or concerns about anything we've discussed so far?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, thank you for letting me know. Now, my next question for you is about your current health status. Are you experiencing any signs of illness right now, such as a fever, chills, or muscle aches?",
+        "our_model": "Alright, let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2085,
+    "prompt": "Patient: That's build a plan.\n\nNurse: Okay. It's essential to have a comfortable and safe place to recover after your procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Of course, girl.\n\nNurse: That's great to hear. It's important to have someone to assist you as you recover, especially in the first few days after the procedure. If you need any help arranging this, please let us know. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I don't. I\n\nPatient: So the procedure is in two days.\n\nNurse: Yes, your procedure is scheduled for August 13th, which is two days from today. It's normal to feel a bit nervous before a procedure, but remember, you're in good hands with Doctor Stevens and the team at O'Connor Hospital. Before your procedure, remember to use the chlorhexidine scrub the night before and the morning of your procedure, and to stop eating and drinking after midnight before your procedure. Can I count on you to do all of this?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. Remember, we're here for you every step of the way. You can call us back at any time if you have questions or concerns. The callback number is 641-381-6523.",
+        "our_model": "That's great to hear. Remember, I'm here for you every step of the way."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 625,
+    "prompt": "Nurse: Okay, Ms. Raynier. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Great, Ms. Raynier. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.\n\nNurse: Perfect, Ms. Raynier. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to your procedure. Have you already stopped taking Plavix?\n\nPatient: Yes, ma'am.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Raynier. Remember to stick to that instruction. Have you got any questions about Plavix?",
+        "our_model": "That's great to hear, Ms. Raynier. You're doing exactly what you need to do to prepare for your procedure. Do you have any questions about Plavix or why it was necessary to stop it before your surgery?"
+    }
+}

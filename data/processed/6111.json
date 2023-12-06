@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6111,
+    "prompt": "Nurse: That's great. Now, let's move on to the next medication. You're prescribed Lantus 100 IU/mL, with a dosage of 15 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: I have been taking it, and I'm wondering why do I need to take it? I thought\n\nNurse: Lantus is a type of insulin that helps control blood sugar levels in people with diabetes. It's used to help keep your blood sugar levels\n\nPatient: I had diabetes type two.\n\nNurse: Lantus is a type of insulin that helps control blood sugar levels in people with diabetes. It's used to keep your blood sugar levels within a target range. Do you have any other questions about this medication?\n\nPatient: Yes. I do.\n\nNurse: Of course. What other questions do you have about your medications?\n\nPatient: Well, I thought",
+    "responses": {
+        "gpt4": "Could you please complete your sentence? I want to ensure I understand your question.",
+        "our_model": "I'm sorry, Jon, could you please repeat your question?"
+    }
+}

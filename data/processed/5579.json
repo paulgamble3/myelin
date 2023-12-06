@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5579,
+    "prompt": "Nurse: I apologize for the confusion. Could you please tell me if you have bloody or black, tarry stool?\n\nPatient: I have pus and mucus in my stool.\n\nNurse: I apologize for the confusion. I'm here to help. Do you have bloody or black, tarry stool?\n\nPatient: No.\n\nNurse: Do you have abdominal pain?\n\nPatient: No.\n\nNurse: Do you have a hemorrhoid or a lump at rectum and red streak on stool?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Are you experiencing any unintentional weight loss?",
+        "our_model": "Do you have a cut near your rectum?"
+    }
+}

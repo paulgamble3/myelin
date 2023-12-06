@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1735,
+    "prompt": "Nurse: Alright, Ms. Winner. I also see that you've been prescribed Tylenol 1000 mg three times a day as needed, and Celebrex 100 mg two times a day as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: That's great, Ms. Winner. It's important to have those medications on hand for after your procedure. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: No.\n\nNurse: Alright, Ms. Winner. If any questions come up later, don't hesitate to ask. Now, I'd like to discuss how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?\n\nPatient: Yep.\n\nNurse: That's excellent, Ms. Winner. You're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great, Ms. Winner. Now, after turning off the water, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Are you comfortable doing that?",
+        "our_model": "Great, Ms. Winner. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
+    }
+}

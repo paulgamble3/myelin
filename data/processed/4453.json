@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4453,
+    "prompt": "Nurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you.\n\nPatient: said no.\n\nNurse: Thank you for clarifying, Mr. Delarosa. I apologize for the confusion earlier. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Delarosa. I was asking if you could tell me about some of the meals you've had recently?\n\nPatient: Some of the meals.\n\nNurse: Yes, Mr. Delarosa. Could you share what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: Sure. I had to open up for breakfast. Let's see. I think I skip lunch.",
+    "responses": {
+        "gpt4": "Thank you for sharing, Mr. Delarosa. It's important to maintain regular meals during the day. For dinner, what did you have?",
+        "our_model": "Thank you for sharing, Mr. Delarosa. It's quite common to skip meals. Can you tell me what you had for dinner yesterday?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3856,
+    "prompt": "Nurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yeah. I have.\n\nNurse: That's great to hear. Could you please share your last blood sugar reading at home?\n\nPatient: It was one twelve\n\nNurse: Thank you for sharing that. It's essential to keep your blood sugar levels in check. If you're open to it, I can provide some recommendations to help manage your blood sugar levels. Would that be alright?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great! First, maintaining a balanced diet is key. Including a variety of healthy foods like lean proteins, whole grains, and vegetables in your meals can help control blood sugar levels. Second, regular physical activity can increase insulin sensitivity and help lower your blood sugar. Can we discuss how you can implement these strategies in your routine?",
+        "our_model": "Wonderful. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Another strategy is regular physical activity. This doesn't necessarily mean going to the gym, it could be as simple as a daily walk. Lastly, taking your prescribed medications as directed is crucial. Do these suggestions sound manageable to you?"
+    }
+}

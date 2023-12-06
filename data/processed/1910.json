@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1910,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sam Martin?\n\nPatient: Yes. It is.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm feeling Britney. Alright.\n\nNurse: I'm glad to hear that. It must be nice to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: I'm looking forward to her last day of being back in my home.",
+    "responses": {
+        "gpt4": "That's wonderful. It's definitely comforting to be in your own home environment. If I may, could I ask \ufffd\ufffd\ufffd do you happen to have any hobbies or pets that you\ufffd\ufffd\ufffdre happy to be getting back to? Or perhaps, are you a sports fan?",
+        "our_model": "That sounds wonderful."
+    }
+}

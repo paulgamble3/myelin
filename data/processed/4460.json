@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4460,
+    "prompt": "Patient: To follow these guidelines. I I I don't really understand, like,\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: this whole fluid restriction\n\nPatient: stuff.\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I hate following this diet and\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nPatient: trying to monitor my fluid restriction.",
+    "responses": {
+        "gpt4": "I understand that following fluid restrictions can be challenging, Mr. Delarosa. One strategy can be to spread out your drinks throughout the day which might make this easier. Would you like more information or tips on how to better manage your fluid intake?",
+        "our_model": "When did the change in speech start, Mr. Delarosa?"
+    }
+}

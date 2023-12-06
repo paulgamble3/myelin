@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5465,
+    "prompt": "Nurse: I apologize for the confusion earlier. To clarify, you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables while on a low fiber diet. These foods are high in fiber and can interfere with the colonoscopy preparation. Does that make sense?\n\nPatient: Sure.\n\nNurse: Hold on a second while I figure out how I can best support you. Give me a moment to check how I can best support you.\n\nNurse: When did the change in speech start?\n\nPatient: The change in\n\nPatient: Beach.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Don't know what you're talking about.",
+    "responses": {
+        "gpt4": "I'm sorry for any confusion. I noticed that you are having some difficulty with your speech. This might be nothing to worry about, but because speech changes can sometimes be a sign of something more serious, I need to ask: have you been having any trouble talking or understanding?\"\n",
+        "our_model": "Does the patient report numbness on their arms or legs?"
+    }
+}

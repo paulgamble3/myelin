@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1462,
+    "prompt": "Nurse: Great, Mr. Valenzuela. It's essential to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what low fiber foods do you enjoy eating?\n\nPatient: I like right.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like rice,\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Rice is a great choice for a low fiber diet. Do you have a favorite way to prepare it?\n\nPatient: I also was a little bit of hot fast.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like it with hot sauce",
+    "responses": {
+        "gpt4": "Thank you for clarifying, Mr. Valenzuela. Now, regarding the hot sauce, remember to check the nutritional information to make sure it doesn\ufffd\ufffd\ufffdt contain high fiber ingredients. You can continue to enjoy your rice with hot sauce as long as it fits within the guidelines.",
+        "our_model": "That sounds like a tasty way to enjoy rice, Mr. Valenzuela. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

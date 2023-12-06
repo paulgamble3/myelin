@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3730,
+    "prompt": "Nurse: Yes, Ms. Odonnell, please go ahead and share what's been happening. I'm here to listen and help you. [\n\nPatient: seem to have a lot of medical conditions that I've been\n\nNurse: I'm really sorry to hear that you're feeling overwhelmed, Ms. Odonnell. It's definitely a lot to manage. Can you tell me which specific symptoms or conditions are causing you the most concern right now?\n\nPatient: diagnosed with, and I'm very afraid that I'm going to have to\n\nNurse: I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's completely normal to feel overwhelmed with multiple health conditions. Can you tell me more about what specific concerns you have about your conditions?\n\nPatient: do dialysis.\n\nNurse: I can see why you might feel that way, Ms. Odonnell. It's a lot to manage. Can you tell me more about your concerns about dialysis?\n\nPatient: I'm just scared that this is the end for me.",
+    "responses": {
+        "gpt4": "I can hear that you're feeling anxious, Ms. Odonnell. Dialysis can seem scary and it's natural to worry about what the future holds with your conditions. Would you like some details about dialysis and how it helps manage your kidney condition? This might help to alleviate your fears a bit.",
+        "our_model": "I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's a big change and it's normal to feel scared. But remember, dialysis is a treatment that can help manage your kidney disease and improve your quality of life. It's not a sign that things are ending. Is there anything specific you're looking forward to doing this week that might help take your mind off things a bit?"
+    }
+}

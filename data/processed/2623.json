@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2623,
+    "prompt": "Nurse: That's wonderful, Ms. Cruz. Having family around can be a great source of comfort. Do you and your family have any shared hobbies or activities that you enjoy doing together?\n\nPatient: Like, any other\n\nNurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: normal people watching TV,\n\nNurse: That sounds like a lovely way to relax and spend time together, Ms. Cruz. What kind of shows do you all enjoy watching?\n\nPatient: going for walks, doing something together, painting,\n\nNurse: It sounds like you have a lovely time with your family, Ms. Cruz. Painting is a wonderful way to express creativity. Do you have a favorite subject or style that you like to paint?\n\nPatient: No style free dial.",
+    "responses": {
+        "gpt4": "Sounds like a lot of fun, Ms. Cruz! Free style painting allows lots of room for imagination. Do you find it relaxing and therapeutic?\n\nShifting gears a bit, I wanted to cover a few topics with you to make sure you're on the right track with your health management. Is there anything you want to address or discuss before we dive into that list?\n",
+        "our_model": "That's wonderful, Ms. Cruz. Painting without boundaries can be very freeing. Now, I'm calling on behalf of Doctor Jeff Crane and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

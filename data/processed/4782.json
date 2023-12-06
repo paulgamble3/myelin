@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4782,
+    "prompt": "Nurse: That sounds lovely, sunny days can indeed make a day better. Do you have any special plans to enjoy the weather?\n\nPatient: And\n\nNurse: I'm sorry, could you please repeat the last part?\n\nPatient: just getting ready for Christmas.\n\nNurse: That sounds lovely. Christmas preparations can indeed make the day brighter. What are you looking forward to the most this Christmas?\n\nPatient: Jeez. I don't even know. I'm being able to hang out with\n\nNurse: I'm sorry, you were saying?\n\nPatient: my daughter,",
+    "responses": {
+        "gpt4": "That sounds wonderful! Family time, especially during the holidays, is very special. Anything else you want to share about your Christmas plans?",
+        "our_model": "That's wonderful. Spending time with loved ones is always special. What activities do you usually enjoy doing with your daughter?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2534,
+    "prompt": "Nurse: That's fantastic to hear, Mr. Oliver. It sounds like you're doing a great job managing your health. Remember, it's a journey and every step you take counts. Is there anything else you'd like to discuss today?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't I didn't say anything.\n\nNurse: No problem at all, Mr. Oliver. I'm here to help. Is there anything else you'd like to discuss today?\n\nPatient: Well, let's see.\n\nNurse: Of course, Mr. Oliver. Take your time.\n\nPatient: I'm trying to eat health there, and so I'm eating a lot of salads.",
+    "responses": {
+        "gpt4": "Eating healthy is a great way to manage your conditions, Mr. Oliver. Salads can be an excellent choice, as they are typically low in sodium and can be high in fiber and nutrients. Just be mindful of the dressings and toppings, as they can quickly turn a healthy meal into something less so. Can I provide you with some tips on building a healthy salad?",
+        "our_model": "That's a great choice, Mr. Oliver."
+    }
+}

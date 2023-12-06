@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2498,
+    "prompt": "Patient: I'm vegetarian, so I have been eating, vegetarian, diet. And\n\nPatient: I won't know what? Food.\n\nPatient: Should I avoid?\n\nPatient: As a vegetarian, to make sure that I don't further hurt my kidneys.\n\nNurse: It's great that you're following a vegetarian diet. Generally, a diet high in fruits, vegetables, whole grains, and low-fat dairy products can help manage kidney disease. However, some vegetarian foods can be high in potassium and phosphorus, which can be harmful in large amounts if you have kidney disease. Would it be okay if I provide some suggestions on how to manage your diet?\n\nPatient: Please do.\n\nNurse: Thank you. For a kidney-friendly diet, it's important to limit foods high in potassium like bananas, oranges, and potatoes. Also, some dairy products and whole grains can be high in phosphorus. It's a good idea to choose foods that are low in added sugars and sodium. Do you think these are changes you could make?\n\nPatient: I reckon.",
+    "responses": {
+        "gpt4": "That's a positive step, and it sounds like you're on the right track. As we conclude the diet topic, would you like to ask any other questions about your diet?",
+        "our_model": "That's great to hear. Remember, it's always important to consult with your doctor or a dietitian before making any major changes to your diet. Now, let's discuss your other chronic conditions. You've had a cerebrovascular accident, or CVA, in the past. How have you been feeling since then?"
+    }
+}

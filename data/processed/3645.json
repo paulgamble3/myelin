@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3645,
+    "prompt": "Nurse: I apologize if I seemed intrusive. I'm here to help you with your health. I'm calling on behalf of Doctor Sarah Forbes. Do you have any questions or concerns you'd like to address before we go through a few topics?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yep.\n\nNurse: That's great to hear. How about Gabapentin and Tylenol?\n\nPatient: Yep.\n\nNurse: Good job. And are you also taking your Potassium tablets as prescribed?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Great to hear that you're managing your medications. It can be a challenge for some people. Do you ever find it difficult to remember to take your medication on time?",
+        "our_model": "That's excellent. It's essential to take your medications as prescribed to manage your conditions. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

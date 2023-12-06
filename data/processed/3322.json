@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3322,
+    "prompt": "Nurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: I apologize for the confusion, Mr. Winner. I was asking if you've picked up your Tylenol and Celebrex from the pharmacy yet.\n\nPatient: Yes. I did.\n\nNurse: That's great, Mr. Winner. It's critical to have those medications on hand for after your procedure. Do you have any questions about your medications?\n\nPatient: No.\n\nNurse: Alright, Mr. Winner. Let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection by using a chlorhexidine scrub. Have you already purchased the scrub?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Have you been able to purchase the chlorhexidine scrub for your skin preparation, Mr. Winner?",
+        "our_model": "You'll need to prepare your skin for surgery to reduce infection by using a chlorhexidine scrub. Have you already purchased the scrub?"
+    }
+}

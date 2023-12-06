@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4341,
+    "prompt": "Patient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: When did the change in speech start, Mr. Oliver?\n\nPatient: I never said that.\n\nNurse: I apologize for the confusion, Mr. Oliver. I'm going to ask a few questions to better understand your current health status. Do you report sudden arm or leg weakness?\n\nPatient: No.\n\nNurse: Thank you for your response, Mr. Oliver. Do you report numbness on your arms or legs?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for the clarification, Mr. Oliver. Could you please tell me if you've been experiencing issues with maintaining balance or coordination recently?",
+        "our_model": "Give me a moment to check how I can best support you."
+    }
+}

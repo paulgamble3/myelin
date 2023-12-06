@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5521,
+    "prompt": "Nurse: Great, thank you for taking the time to speak with me, Mr. Alves. How has your day been so far?\n\nPatient: In a lot of that pinkies.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said about your day?\n\nPatient: It's gonna be a good day.\n\nNurse: That's wonderful to hear, Mr. Alves. I hope your day continues to go well. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Well, I'm a little bit agitated.\n\nNurse: I'm sorry to hear that you're feeling agitated, Mr. Alves. It's completely normal to feel a bit anxious about medical procedures. Is there anything specific that's causing you to feel this way?\n\nPatient: It's a whole procedure in general.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Alves. It's not uncommon to feel this way about the overall procedure. Before we proceed, do you have any questions you'd like to discuss regarding your upcoming colonoscopy?",
+        "our_model": "I see, Mr. Alves. It's quite a process to go through this procedure, and it's natural to feel a bit overwhelmed. I hope this procedure gives you and your doctor the answers you're looking for. Before we begin, do you have any specific questions or concerns you'd like to discuss?"
+    }
+}

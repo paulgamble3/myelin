@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4915,
+    "prompt": "Nurse: Thank you for sharing that. A blood sugar level of 132 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Excellent. One strategy is to ensure you're eating balanced meals. This includes a mix of proteins, fats, and carbohydrates. It's also important to limit your intake of sugary drinks and high-sugar foods. Regular physical activity can also help lower your blood sugar levels. Do you think these are strategies you could incorporate into your daily routine?\n\nPatient: Yes. I think so.\n\nNurse: That's great to hear. Remember, it's always important to discuss any changes in your diet or exercise routine with your doctor. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and what was the result?\n\nPatient: I took it yesterday.\n\nNurse: Thank you for that information. Could you please share what the reading was?\n\nPatient: Yeah. It was one twenty five over eighty.",
+    "responses": {
+        "gpt4": "That's a good reading. Your blood pressure is within the healthy range which is beneficial for your overall health, including your kidneys. If you don\ufffd\ufffd\ufffdt mind, I\ufffd\ufffd\ufffdd like to provide a few tips to continue managing your blood pressure well. Would that be okay?",
+        "our_model": "Thank you for sharing that. A blood pressure reading of 125 over 80 is within the normal range, which is good news. It's important to keep monitoring your blood pressure regularly. Would it be okay if I share some suggestions about managing blood pressure?"
+    }
+}

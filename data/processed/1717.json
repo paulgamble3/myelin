@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1717,
+    "prompt": "Nurse: Great, thank you for your time, Ms. Winner. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Oh, okay.\n\nNurse: I'm sorry, Ms. Winner, I didn't quite catch that. Could you please share a bit about how your day has been going so far?\n\nPatient: My day is going okay.\n\nNurse: I'm glad to hear that, Ms. Winner. It's always nice to have a good day. As you approach your total knee replacement, it must be exciting to think about the possibilities that come with a new knee. Do you have any plans or activities you're looking forward to once you've recovered from your procedure?\n\nPatient: Did you hear me? I said playing with my grandchildren.\n\nNurse: That sounds wonderful, Ms. Winner. Playing with your grandchildren must bring you a lot of joy. Do you have any favorite games or activities you enjoy doing with them?\n\nPatient: Well, they're all different agents.",
+    "responses": {
+        "gpt4": "I see, variety certainly keeps things interesting. Let's shift focus a bit. How are you feeling about your upcoming total knee replacement procedure? Are you having any anxieties or uncertainties about it?",
+        "our_model": "I'm sorry, Ms. Winner, I didn't quite understand. Could you please tell me more about the activities you enjoy doing with your grandchildren?"
+    }
+}

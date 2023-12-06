@@ -1,0 +1,8 @@
+{
+    "prompt_id": 864,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Wiggins. Is there anything you're looking forward to doing this week?\n\nPatient: I haven't really thought about it. Margo see a movie.\n\nNurse: That sounds like a nice plan, Mr. Wiggins. Do you have a particular movie in mind that you're interested in seeing?\n\nPatient: Not really.\n\nNurse: That's perfectly fine, Mr. Wiggins. Sometimes it's nice to just go with the flow and see what's playing. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Wiggins, I'm here. You mentioned earlier that you're planning to see a movie. I was asking if there are any particular symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Wiggins. If any questions or concerns come to mind during our conversation, please feel free to share them. Would it be okay for us to go over a few topics to check on how you're doing?",
+        "our_model": "Alright, Mr. Wiggins. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?"
+    }
+}

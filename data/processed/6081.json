@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6081,
+    "prompt": "Nurse: Wonderful, one strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, vegetables, and healthy fats. It's also important to limit foods high in sugar. What do you think about this suggestion?\n\nPatient: But I I'm not hearing you. You're cutting in and out.\n\nNurse: I apologize for the confusion earlier. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Give me a moment to check how I can best support you.\n\nNurse: When was your blood sugar level of 128 taken?\n\nPatient: This morning when I\n\nPatient: out of.",
+    "responses": {
+        "gpt4": "I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Jon, could you please repeat when you took your blood sugar level of 128?"
+    }
+}

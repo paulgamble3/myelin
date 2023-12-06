@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5471,
+    "prompt": "Patient: I'm Correct.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Yes. March\n\nPatient: thirteenth nineteen fifty.\n\nNurse: I apologize for any confusion. Could you please provide the month, day, and year of your birthday?\n\nPatient: March\n\nNurse: I'm sorry, Ana, could you please repeat the day and year of your birthday?\n\nPatient: fourteenth nineteen fifty.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Ms. Aguirre. I am here on behalf of Dr. Lynne Contreras to check in on you. How have you been doing recently?",
+        "our_model": "Thank you for confirming your date of birth, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?"
+    }
+}

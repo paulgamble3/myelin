@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3272,
+    "prompt": "Nurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: Thank you for confirming, Patient. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Just give me a second to work out the best way I can assist you. Thank you for confirming, Patient. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great! If any questions do arise in the future, don't hesitate to reach out. We're here to support you. It's crucial to communicate any changes in your symptoms to your healthcare team immediately. They can then determine whether you need a hospital visit or if your condition can be managed at home. Would you feel comfortable doing that?",
+        "our_model": "Alright, let's move on to your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

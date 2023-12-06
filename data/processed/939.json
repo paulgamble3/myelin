@@ -1,0 +1,8 @@
+{
+    "prompt_id": 939,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Damian Benton?\n\nPatient: Yes.\n\nNurse: Hello Damian, I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso, to check in on you. How have you been doing lately?\n\nPatient: I'm just really aggravated.\n\nNurse: I'm sorry to hear that you're feeling aggravated. Would you like to share what's been bothering you?\n\nPatient: I'm just really annoyed. By this whole situation, And the stupid diet that I have to be on, dealing with my high blood sugar. It's all just a bunch of Milari.\n\nNurse: I'm sorry, Damian, could you please repeat the last part?\n\nPatient: Bye.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that you're upset, Damian. It can indeed be tough dealing with these changes in routine and diet. If you're comfortable sharing, do you have any specific concerns or questions about managing your blood sugar or your diet?",
+        "our_model": "I'm sorry to hear that you're feeling this way. It's understandable that managing diet and health conditions can be frustrating. I'm here to help you navigate through this. Is there anything you're looking forward to doing this week that might help lift your spirits?"
+    }
+}

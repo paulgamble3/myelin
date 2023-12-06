@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1712,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Yeah. November twenty fifth nineteen seventy one.",
+    "responses": {
+        "gpt4": "Excellent! Thanks for providing your date of birth, Ms. Winner. Is this a good time to discuss your total knee replacement procedure scheduled for August 13th at 9:00 AM?",
+        "our_model": "Thank you for confirming, Ms. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4980,
+    "prompt": "Nurse: I'm sorry, Mr. Hooper, could you please repeat that?\n\nPatient: and I am on a strict\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat the last part of your response?\n\nPatient: Jane Vegetarian Diet.\n\nNurse: I apologize if I misunderstood earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Which includes a great deal\n\nNurse: I apologize for the confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: of fasting",
+    "responses": {
+        "gpt4": "That's certainly a disciplined approach, Mr. Hooper. Fasting can have various health benefits when done properly. Could you please describe what a typical meal might look like for you when you're not fasting?",
+        "our_model": "I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?"
+    }
+}

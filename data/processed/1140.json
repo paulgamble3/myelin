@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1140,
+    "prompt": "Nurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how\n\nPatient: there's only two medications and only\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: know, I take them at the same time every day and night.\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Cardenas. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Cardenas. Now, have you experienced any ongoing or worsening chest discomfort recently?",
+        "our_model": "That's good to hear, Mr. Cardenas. Now, have you experienced any ongoing or worsening chest pain recently?"
+    }
+}

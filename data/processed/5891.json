@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5891,
+    "prompt": "Nurse: I see on your chart that you're currently taking Xarelto 10 mg once a day. You'll need to stop this medication 5 days before the procedure. That means you should stop taking Xarelto on August 12. Does that make sense, Mr. Dang?\n\nPatient: Yes. It does.\n\nNurse: Do you have any questions about stopping Xarelto, Mr. Dang?\n\nPatient: For\n\nNurse: I'm sorry, Mr. Dang, could you please repeat your question?\n\nPatient: the colonoscopy.\n\nNurse: Are you taking any other medications that we should be aware of, Mr. Dang?\n\nPatient: No. Nothing else.",
+    "responses": {
+        "gpt4": "Okay, thank you for confirming that, Mr. Dang. Even over-the-counter medications like vitamins and supplements should be stopped before your procedure. We're now going to move on to your diet leading up to the procedure. Do you have any dietary restrictions that I should be aware of?",
+        "our_model": "I appreciate your response, Mr. Dang. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
+    }
+}

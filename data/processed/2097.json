@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2097,
+    "prompt": "Nurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Wonderful. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yeah.\n\nNurse: That's great to hear. Could you share with me what your last blood sugar reading at home was?\n\nPatient: One twelve.\n\nNurse: Thank you for sharing that. A blood sugar level of 120 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: My level is less than one twenty though.",
+    "responses": {
+        "gpt4": "I apologize for the misunderstanding, you're correct. Your blood sugar reading of 112 is within the target range for individuals with diabetes. Can you tell me when you last measured your blood pressure, and if so, what the reading was?",
+        "our_model": "I apologize for the confusion. A blood sugar level of 120 is indeed within the target range for people with diabetes. That's a good reading. Let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
+    }
+}

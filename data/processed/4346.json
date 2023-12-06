@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4346,
+    "prompt": "Nurse: Thank you for letting me know, Mr. Oliver. Do you have any difficulty in speaking or understanding others?\n\nPatient: No. Not at all.\n\nNurse: Thank you for sharing that, Mr. Oliver. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yes.\n\nNurse: That's great, Mr. Oliver. Could you please share with me when you last took your blood pressure and what the reading was?\n\nPatient: It was a hundred over eighty.\n\nNurse: Thank you for sharing that, Mr. Oliver. It's good to see that you're keeping track of your blood pressure. Would it be alright if I share some suggestions on how to manage your blood pressure?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great, Mr. Oliver. One suggestion is regular exercise, which can help lower your blood pressure over time. This could be anything from a brisk walk to light aerobic activities. What are your thoughts on incorporating more physical activity into your routine?",
+        "our_model": "Thank you, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to meals. What do you think about this suggestion?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5662,
+    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: Extreme temperatures that I should be cautious of with CHF?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Are there specific environmental factors?\n\nNurse: I apologize for the confusion earlier. You asked about specific environmental factors to be cautious of with CHF, correct?\n\nPatient: Like extreme temperatures,\n\nNurse: I apologize for the confusion earlier. You're asking about specific environmental factors, like extreme temperatures, that you should be cautious of with CHF, correct?\n\nPatient: that I should be cautious of with congestive heart failure.",
+    "responses": {
+        "gpt4": "Yes, that's an important point to consider. Both extreme heat and cold can affect how your heart works and place added stress on it. In very hot weather, try to stay in shaded or air conditioned areas and hydrate properly. In very cold weather, try to minimize exposure when possible. Always dress appropriately for the weather and avoid strenuous activity in extreme temperatures. Does this help answer your question?",
+        "our_model": "Yes, extreme temperatures can indeed affect individuals with CHF. Both hot and cold weather can put extra strain on your heart. In hot weather, the body works harder to maintain a normal temperature, which can worsen CHF symptoms. In cold weather, the heart works harder to keep the body warm, which can also worsen symptoms. It's best to stay indoors during extreme weather conditions and to dress in layers to maintain a comfortable body temperature. Does this answer your question?"
+    }
+}

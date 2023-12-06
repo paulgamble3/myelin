@@ -1,0 +1,8 @@
+{
+    "prompt_id": 409,
+    "prompt": "Nurse: Perfect, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: My day's been good. How about you?\n\nNurse: I'm here to assist you, so my day is going well, thank you. It sounds like you're having a good day. Is there anything in particular that's made your day good so far?\n\nPatient: Well, I mean, I'm off today, and it's Friday. I took a day off from my side to just prepare for the surgery and everything. So\n\nNurse: That's wonderful to hear.\n\nPatient: really riding away.\n\nNurse: That's wonderful to hear. Taking a day off to prepare for your surgery is a great idea. It's critical to have some quiet time before such a procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Sounds so odd. Getting in unique.",
+    "responses": {
+        "gpt4": "Yes, it might feel odd to think about it that way, but a new knee can bring so much positive change. Is there something you're excited to do again or try out once you've recovered, like a particular activity or hobby?",
+        "our_model": "I can imagine it might seem a bit unusual at first."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6324,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing alright.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Nope. Just sleeping in my own bed.\n\nNurse: That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your\n\nPatient: Good enough for me.\n\nNurse: That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your own bed can indeed be very comforting. By the way, do you have any hobbies or interests that you enjoy in your free time?\n\nPatient: No. I don't. I'm not really a hobby guy.",
+    "responses": {
+        "gpt4": "That's perfectly fine, Mr. Gardner. Everyone has their own ways of spending their free time, and resting at home is definitely one of the comforting ones. The weather has been quite changeable recently, hasn't it? How has it been where you are?",
+        "our_model": "That's perfectly fine, Mr. Gardner. Everyone has their own ways of spending their time. How about pets?"
+    }
+}

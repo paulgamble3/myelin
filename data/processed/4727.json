@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4727,
+    "prompt": "Nurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: I should clarify. I have not been weighing myself. So\n\nNurse: I apologize for the confusion. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: I think my clothes are fitting the same.",
+    "responses": {
+        "gpt4": "That's a good sign, but it would be beneficial to start weighing yourself daily. Rapid weight gain can be a sign of fluid retention and worsening CHF. Aim to weigh yourself every morning after using the bathroom but before eating breakfast. Same clothes, same scale. Is this something you can start doing?",
+        "our_model": "I apologize for the confusion. Could you please confirm whether you've been using more pillows at night to sleep?"
+    }
+}

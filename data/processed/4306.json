@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4306,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat which vegetables you included in your salad?\n\nPatient: lettuce.\n\nPatient: L\n\nPatient: mushroom, tomatoes, and onions.\n\nNurse: That's a great start to a healthy salad. Did you add any dressing or other toppings?\n\nPatient: Yeah.\n\nNurse: Could you share what kind of dressing or other toppings you added?\n\nPatient: I",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what kind of dressing or other toppings you added to your salad?",
+        "our_model": "I'm sorry, you were saying?"
+    }
+}

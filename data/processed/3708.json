@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3708,
+    "prompt": "Patient: No.\n\nNurse: Alright. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Well, can you elaborate? On, like, what's the reason of not eating?\n\nNurse: Certainly.\n\nPatient: What's\n\nPatient: Why?\n\nNurse: That's a good question. The reason is to prevent any food or liquid from being accidentally inhaled during your anesthesia. This could cause serious complications. That's why it's important to follow this instruction very strictly. Does that help clarify things?\n\nPatient: Oh, Oh, yeah.",
+    "responses": {
+        "gpt4": "I'm glad I could help clarify that for you. Before we move on, do you have any further questions about when to stop eating or drinking before the procedure?",
+        "our_model": "I'm glad that makes sense. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?"
+    }
+}

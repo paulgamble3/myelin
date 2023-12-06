@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3670,
+    "prompt": "Nurse: I understand that many people find exercise challenging. However, it's an important part of managing your health. Would it be okay if I share some exercise recommendations with you?\n\nPatient: I\n\nPatient: Yes.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: I said, I guess,\n\nNurse: Thank you. For someone with CHF, it's important to start slow and gradually increase your activity level. Walking is a great way to start. You could begin with a short walk around your home or yard, and gradually increase the distance as you feel comfortable. How does that sound to you?\n\nPatient: So fun. I\n\nPatient: Yeah. Can't wait.",
+    "responses": {
+        "gpt4": "I understand exercise can seem daunting. It's important to start slow and listen to your body. If you feel dizzy, out of breath, or experience chest pain, stop and rest. Your safety is the most important thing. Do you have any questions or concerns about starting to exercise?",
+        "our_model": "I understand that starting a new exercise routine can be challenging. It's critical to remember that every little bit helps and it's okay to start slow. Do you have any questions or concerns about this exercise recommendation?"
+    }
+}

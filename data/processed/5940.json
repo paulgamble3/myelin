@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5940,
+    "prompt": "Patient: Fine.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: Sign\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response about your hypertension?\n\nPatient: I've had no problems.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.\n\nNurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you.",
+    "responses": {
+        "gpt4": "Okay. Thank you for sharing that. For the <KICKOUT_CHECKLIST>, I need to ask you another question. Have you noticed any numbness in your arms or legs recently?",
+        "our_model": "When did the change in speech start?"
+    }
+}

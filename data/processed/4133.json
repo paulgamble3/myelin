@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4133,
+    "prompt": "Nurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear. We just performed a simple CHF assessment. You're doing a fantastic job managing your symptoms. It's also important to keep track of these symptoms daily. Do you have any questions about this?",
+        "our_model": "That's great. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
+    }
+}

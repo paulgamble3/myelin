@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4738,
+    "prompt": "Nurse: I apologize for the confusion earlier. You mentioned that your clothes fit the same and you haven't noticed any weight gain. That's good to hear. It's essential to monitor your weight regularly, as sudden weight gain can be a sign of fluid retention, which is something we want to avoid with CHF. Would you like some suggestions on how to do this?\n\nPatient: because I don't know when I am supposed to check it. My clothes don't feel tight. So I'm guessing I haven't gained anything.\n\nNurse: I see, thank you for clarifying. It's a good idea to weigh yourself daily, preferably at the same time each day, like in the morning after using the restroom but before eating or drinking anything. This can help us detect any sudden weight gain, which could be a sign of fluid retention. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: My recent meals are normal. I don't understand about that special diet, so I haven't been doing it.\n\nNurse: I see, could you please share what you consider to be\n\nPatient: I don't wanna deprive myself.\n\nNurse: a normal I understand that changing your diet can feel like a big step. Could you share a bit more about what you consider a normal meal?\n\nPatient: Just whatever I want.",
+    "responses": {
+        "gpt4": "It's important to know what you usually eat so we can find the best way to adapt your diet to your health needs. Could you tell me what you had for breakfast, lunch, and dinner yesterday, for example?",
+        "our_model": "I see. It's critical to remember that our diet plays a crucial role in managing CHF and diabetes. Would it be okay if I shared some dietary recommendations with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5056,
+    "prompt": "Patient: I guess.\n\nNurse: Wonderful, thank you for your time, Mr. Koroleva. How has your day been so far?\n\nPatient: It's fine. Let's just\n\nPatient: Keep this moving. What do you need from me?\n\nNurse: I appreciate your patience, Mr. Koroleva. I'm here to ensure you have all the information you need for your upcoming colonoscopy. Before we begin, do you have any questions or concerns you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. I realize it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Fine. I just wanna get it over with.",
+    "responses": {
+        "gpt4": "I understand, Mr. Koroleva. It can feel like a lot to handle. We're here to support you every step of the way. Is there anything in particular that's causing you stress?",
+        "our_model": "I'm sorry, Mr. Koroleva, could you please confirm what you just said?"
+    }
+}

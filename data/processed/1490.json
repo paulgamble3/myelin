@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1490,
+    "prompt": "Nurse: That's great to hear, Mr.\n\nPatient: I'm ready to get it over with.\n\nNurse: I can appreciate that sentiment, Mr. Valenzuela. It's quite a process to go through, but it's great that you're ready to take this step. I see from your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. How are you feeling about this?\n\nPatient: I wanna find out what's going on. So, again, I'm\n\nPatient: angels to get it over with.\n\nNurse: I'm sorry, Mr. Valenzuela, I didn't quite catch that. Could you please confirm if you've been experiencing diarrhea?\n\nPatient: That's why I'm coming in to get the colonoscopy.\n\nNurse: Hold on a second while I figure out how I can best support you.",
+    "responses": {
+        "gpt4": "Okay, Mr. Valenzuela. To better assist you, could you please let me know when your diarrhea started?",
+        "our_model": "I see, Mr. Valenzuela. When did the diarrhea start?"
+    }
+}

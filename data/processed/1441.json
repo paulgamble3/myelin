@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1441,
+    "prompt": "Nurse: That's great, Mr. Valenzuela. It's important to follow this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I enjoyed eating brownies,\n\nNurse: Brownies sound like a delicious choice, Mr. Valenzuela. Just remember to have them without any nuts or seeds. Do you usually make them at home or do you buy them from a bakery?\n\nPatient: Oh, I didn't buy them.\n\nNurse: That's interesting, Mr. Valenzuela. Do you have a favorite brownie recipe that you follow when you bake them at home?\n\nPatient: No. I said I buy them. I don't take them.\n\nNurse: I see, Mr. Valenzuela. When you buy brownies, do you have a favorite place or brand that you usually go for?\n\nPatient: No. Just wherever. I'm not picky.",
+    "responses": {
+        "gpt4": "That's good, Mr. Valenzuela. It's sometimes nice to have a go-to comfort food that you can find easily and enjoy. It's pretty rare when doctors encourage their patients to eat low fiber comfort foods like brownies. Please remember to keep your diet low in fiber leading up to your procedure and enjoy those brownies! Now, let's move on to discuss supplements.",
+        "our_model": "That's perfectly fine, Mr. Valenzuela. The important thing is to enjoy what you eat. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
+    }
+}

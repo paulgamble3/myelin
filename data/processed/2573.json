@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2573,
+    "prompt": "Nurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Just spending time with my family.\n\nNurse: That sounds lovely. Family time is always special. Are there any specific activities you enjoy doing with your family?\n\nPatient: Cooking, making cookies, but then\n\nNurse: Cooking and baking cookies sounds like a wonderful way to spend time with your family. Do you have a favorite type of cookie you like to make?\n\nPatient: love to bake.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat what you enjoy doing with your family?\n\nPatient: Baking.",
+    "responses": {
+        "gpt4": "That's wonderful! Baking can be such a fun family activity. Do you have a favorite recipe that you enjoy making together?",
+        "our_model": "Baking sounds like a wonderful activity to share with your family. Do you have a favorite type of cookie or dessert that you enjoy baking together?"
+    }
+}

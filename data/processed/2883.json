@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2883,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Hubert Douglas?\n\nPatient: Yes. That's me.\n\nNurse: Hello, Mr. Douglas. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm okay, I think. Just a little scared about everything that's happened recently?\n\nNurse: I can imagine that it's been a lot to take in, Mr. Douglas. It's completely normal to feel a bit scared after a hospital stay. But remember, you're not alone in this. We're here to support you. Is there anything specific you're looking forward to doing now that you're back home?\n\nPatient: No. I'm just glad to be home. You know?\n\nNurse: Absolutely, Mr. Douglas. There's no place like home. It's great to hear that you're back in your comfort zone. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I'm just, like, watching travel shows",
+    "responses": {
+        "gpt4": "Oh, that's quite interesting. Watching travel shows can be a great way to explore different cultures and places right from the comfort of your home. Any favorite destinations or shows that you particularly enjoy?",
+        "our_model": "That sounds like a wonderful way to relax, Mr. Douglas. Travel shows can be so fascinating. Do you have a favorite destination or show that you particularly enjoy?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4853,
+    "prompt": "Nurse: Yes, Mr. Kageyama, I'm here. I've shared a lot of information with you but we're almost done. I have just 2 more questions for you. Before we proceed, do you have any questions?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Kageyama. It's essential to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Kageyama. It's critical to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of the procedure?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Kageyama. We've covered a lot of topics today and I appreciate your patience. Before we end this call, I want to make sure you're feeling confident about your upcoming colonoscopy. Do you have any questions or concerns?",
+        "our_model": "Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3723,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Thelma Odonnell?\n\nPatient: Yes.\n\nNurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: March second.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: Nineteen sixty.",
+    "responses": {
+        "gpt4": "Thank you for confirming your date of birth as March 2nd, 1960, Ms. Odonnell. I'm calling on behalf of Dr. Susan Ma to check in on your health. How have you been feeling lately?",
+        "our_model": "Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?"
+    }
+}

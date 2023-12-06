@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4981,
+    "prompt": "Nurse: I'm sorry, Mr. Hooper, could you please repeat the last part of your response?\n\nPatient: Jane Vegetarian Diet.\n\nNurse: I apologize if I misunderstood earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Which includes a great deal\n\nNurse: I apologize for the confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: of fasting\n\nNurse: I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?\n\nPatient: and restriction",
+    "responses": {
+        "gpt4": "I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?",
+        "our_model": "I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?"
+    }
+}

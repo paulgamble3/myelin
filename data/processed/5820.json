@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5820,
+    "prompt": "Nurse: Alright. Let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: Okay.\n\nNurse: This means you can eat foods like white bread, pasta, and rice. You should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: Yes.\n\nNurse: Of course, what would you like to know?\n\nPatient: Can have stir fry? Or not?\n\nNurse: A stir-fry can be a part of your low-fiber diet, but it's important to be mindful of the ingredients. You should avoid high-fiber vegetables like broccoli, peppers, and leafy greens. Instead, you can include low-fiber vegetables like well-cooked carrots or green beans. Does that help clarify things?\n\nPatient: Yes. Do Brussels sprouts have lots of fiber?",
+    "responses": {
+        "gpt4": "Yes, Brussels sprouts are categorized as a high-fiber vegetable. It would be best to avoid them in the days leading up to your colonoscopy. Would you like any other food specific information?",
+        "our_model": "Yes, Brussels sprouts are high in fiber and should be avoided in the days leading up to your colonoscopy. Instead, you can opt for low-fiber vegetables like well-cooked carrots or green beans. Does that make sense?"
+    }
+}

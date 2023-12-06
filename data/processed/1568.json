@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1568,
+    "prompt": "Nurse: Give me a moment to check how I can best support you.\n\nPatient: then you gotta go have somebody pick up two above your butt. So\n\nNurse: I see, I'm sorry, Mr. Reynolds, I didn't quite catch the last part of what you said. Could you please repeat that?\n\nPatient: It's not fun.\n\nNurse: I can see why you might find the preparation and the procedure itself a bit challenging, Mr. Reynolds. It's definitely not the most comfortable of experiences. However, it's great that you're taking this step for your health. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: No.\n\nNurse: Alright, Mr. Reynolds. Please remember that you can ask me any questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm fine. I haven't been having any abdominal pain.",
+    "responses": {
+        "gpt4": "I'm sorry for any confusion, Mr. Reynolds. I thought earlier I heard you mention experiencing some abdominal pain. Can you confirm if you have been having any abdominal discomfort recently?",
+        "our_model": "I apologize for the confusion, Mr. Reynolds. Could you please confirm whether you're currently experiencing abdominal pain or not?"
+    }
+}

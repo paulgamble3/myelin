@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1275,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this John O'Leary?\n\nPatient: Yes.\n\nNurse: Hello, Mr. O'Leary. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me, Mr. O'Leary. How has your day been so far?\n\nPatient: Just like yesterday and the day before, I just have a lot of pain in my knee,\n\nNurse: I'm sorry to hear that you're experiencing a lot of pain, Mr. O'Leary. It's certainly not easy dealing with such discomfort. I'm here to help you prepare for your upcoming procedure which will hopefully alleviate that pain. Is there anything in particular that's been helping you manage the pain today?\n\nPatient: Oh, today?",
+    "responses": {
+        "gpt4": "Yes, today or maybe something you regularly do to manage it? Could be anything from medication to a certain type of resting position or even a heat pack. Anything in particular that provides some relief for you?",
+        "our_model": "Yes, Mr. O'Leary. What have you been doing today to manage your knee pain?"
+    }
+}

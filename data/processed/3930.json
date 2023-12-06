@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3930,
+    "prompt": "Nurse: sounds like Golden Retrievers like Rocky are such loyal and friendly companions. It's no wonder you've been looking forward to spending time with him. Now, I'm calling on behalf of Doctor Ellie Ortega to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes.\n\nNurse: That's good to hear. Are you taking the Lasix 20 mg tablets two times a day as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. It's critical to take your medications as prescribed to manage your CHF. Now, are you still taking your Valsartan?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great to hear, Mr. Forbes. I hope it's not too difficult to remember to take your medications on time. Does that ever pose a challenge for you?",
+        "our_model": "That's great. It's important to continue taking your Valsartan as it helps manage your CHF. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3715,
+    "prompt": "Nurse: Thank you for clarifying. It's good to hear that you're not experiencing any signs of illness. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Right.\n\nNurse: Excellent. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That's\n\nNurse: Great.\n\nPatient: deals to place\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said that's still the plan.",
+    "responses": {
+        "gpt4": "Perfect, thanks for clarifying. Lastly, I want to discuss your transportation after surgery. It is important that you have a responsible adult to drive you home after the procedure. Do you have someone arranged for this?",
+        "our_model": "Thank you for confirming that. Now, have you arranged for a ride home and for someone to stay with you after the procedure?"
+    }
+}

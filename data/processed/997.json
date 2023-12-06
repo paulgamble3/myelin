@@ -1,0 +1,8 @@
+{
+    "prompt_id": 997,
+    "prompt": "Nurse: I'm glad to hear that. Now, let's move on to your medications. I'd like to review them with you to ensure everything is going as planned. The first one is Valsartan, 40 mg oral tablet. You should be taking this once daily. Have you been able to take this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's great to hear. The next medication is Lantus, 100 IU/mL prefilled pen. You should be taking 15 units two times a day. Have you been able to take this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. The next medication is Hydrochlorothiazide, 12.5 mg oral tablet. You should be taking this once daily. Have you been able to take this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's wonderful. The next medication is Aspart, 100 IU/mL prefilled pen. You should be taking 5 units three times a day. Have you been able to take this medication as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's really great to hear. The final medication is Disulfiram, 250 mg oral tablet. You should be taking this once daily. Have you been taking this medication as prescribed?",
+        "our_model": "That's great to hear. The last medication is Disulfiram, 250 mg oral tablet. You should be taking this once daily. Have you been able to take this medication as prescribed?"
+    }
+}

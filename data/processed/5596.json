@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5596,
+    "prompt": "Nurse: Alright. Let's smoothly transition to the diet prep for the colonoscopy. Starting today, you will want to eat a low fiber diet. This means you can eat foods like white bread, pasta, and rice. You should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: Nope.\n\nNurse: Great. What low fiber foods do you like to eat as comfort food?\n\nPatient: Pasta.\n\nNurse: That's a great choice, pasta is indeed a comfort food for many. Do you have a favorite pasta dish you're planning to make?\n\nPatient: I hadn't really thought about it. I mean, it's only one day.\n\nNurse: I see. It's a rare time when doctors want their patients to be eating low fiber comfort foods. It's a small change, but it can make a big difference in your colonoscopy prep. Let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for confirming. These supplements and medications can make it more difficult to complete a successful colonoscopy. Can we move on to the next topic?",
+        "our_model": "That's good to hear. You will need to stop any supplements or anti-diarrheal medications before your colonoscopy. Do you have any questions about this?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5102,
+    "prompt": "Nurse: I'm glad to hear that. As we approach your colonoscopy, how are you feeling about the procedure?\n\nPatient: I'm okay.\n\nNurse: That's good to hear. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's on your mind or any questions you'd like to discuss before we begin?\n\nPatient: So you're looking\n\nNurse: Yes, I see that you're scheduled for a colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. This procedure is a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: No. Not really.\n\nNurse: Alright, if any questions come up during our conversation, feel free to ask at any time. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I feel okay.",
+    "responses": {
+        "gpt4": "That's good to hear. It's completely normal to have some feelings about a procedure like this. Are you clear about the bowel prep instructions? It's a very important step before your colonoscopy.",
+        "our_model": "I'm glad to hear that you're feeling okay about it. It's really important to take these steps for your health. I hope this procedure gives you and your doctor the information you're looking for. Would it be alright if we go over a few topics on prep for your colonoscopy?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5710,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Just kind of recovering from the holidays and getting ready for the next one.\n\nNurse: It sounds like you're taking some time to rest and prepare for the next holiday season. That's a good way to take care of yourself. Do you have any special plans or traditions for the upcoming holidays?\n\nPatient: Separating gingerbread houses.\n\nNurse: That sounds like a delightful tradition, Ms. Aguirre. Gingerbread houses can be quite festive and fun to decorate. Do you usually do this with family or friends?\n\nPatient: Yes. They usually do it with family.\n\nNurse: That's wonderful, Ms. Aguirre. Family time is always special. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I don't think so.",
+    "responses": {
+        "gpt4": "Alright, Ms Aguirre, I'm glad to hear that. But please remember you can raise any questions you have about your health at any point during this call. Would it be alright if we go over a few health topics now, just to ensure we're all up to date on your well-being?",
+        "our_model": "Alright, Ms. Aguirre. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Would it be alright if we go over a few topics related to your health now?"
+    }
+}

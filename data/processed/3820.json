@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3820,
+    "prompt": "Nurse: That's fantastic, Mr. Hardy. Reading a variety of books can be very enriching. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Hardy. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Great, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Hardy. Could you please share what your last blood sugar reading at home was?\n\nPatient: One forty eight.",
+    "responses": {
+        "gpt4": "I see, Mr. Hardy. That's a bit high, would you be open to me sharing some recommendations on how to lower your blood sugar levels?",
+        "our_model": "Thank you for sharing that, Mr. Hardy. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

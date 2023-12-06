@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2833,
+    "prompt": "Nurse: Great, thank you. I see on your chart that you're currently taking Xarelto 10 mg once a day. Given the instructions for your colonoscopy, you will need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yep.\n\nNurse: I'm glad to hear that. Do you have any questions about stopping Xarelto or any concerns about this medication change?\n\nPatient: No.\n\nNurse: Alright, thank you for confirming. Are you currently taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: Nope.\n\nNurse: That's good to hear. It's critical to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any other questions about medications or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No. There's not.",
+    "responses": {
+        "gpt4": "That's great. Let's move onto the next part of our discussion - diet preparation for your colonoscopy. From today, you'll want to start eating a low fiber diet. This includes foods like white rice, pasta, and bread, while avoiding foods like raw fruits and vegetables or whole grains. Do you have any questions about this change in your diet?",
+        "our_model": "Alright, thank you for your time. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Does that make sense?"
+    }
+}

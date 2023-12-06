@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3328,
+    "prompt": "Nurse: Of course, Mr. Winner. Let's go over the instructions for using the chlorhexidine scrub. First, you'll take a shower like normal, then turn the water off. Does that sound good so far?\n\nPatient: Of course.\n\nNurse: After your normal shower, you'll turn off the water and apply the scrub to a wet, clean washcloth. You'll then gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that, Mr. Winner?\n\nPatient: Yes. I can.\n\nNurse: That's great, Mr. Winner. After you've scrubbed for about 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: It off and\n\nNurse: Yes, Mr. Winner.\n\nPatient: Dry it off. Okay. What does this scrub do exactly?",
+    "responses": {
+        "gpt4": "The chlorhexidine scrub is an antiseptic that kills bacteria on your skin, Mr. Winner. Applying it before surgery reduces the risk of developing a skin infection from the operation. It's important to do this the night before and the morning of your procedure. Can you remember to do that, Mr. Winner?",
+        "our_model": "The chlorhexidine scrub helps to kill bacteria on your skin, Mr. Winner. This reduces the risk of infection during and after your surgery. It's an important part of your pre-surgery preparation. Does that help clarify things?"
+    }
+}

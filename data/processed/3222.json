@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3222,
+    "prompt": "Nurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: [NO RESPONSE]\n\nNurse: I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I don't.\n\nNurse: That's fantastic. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. That's fine.",
+    "responses": {
+        "gpt4": "Great. Let's start with breathing issues. Have you been experiencing new or worsening shortness of breath with activity, laying down, or even just at rest?",
+        "our_model": "Great, thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

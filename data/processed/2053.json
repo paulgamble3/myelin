@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2053,
+    "prompt": "Nurse: That sounds like a wonderful goal. Walking without pain is a significant improvement and it's achievable. It's great to hear that you're looking forward to being more active. How are you feeling about the procedure itself?\n\nPatient: I'm scared.\n\nNurse: It's completely normal to feel scared before a procedure. Rest assured, you're in good hands. Your surgeon, Doctor Cristina Stevens, is highly experienced and has a great track record. The hospital staff is also dedicated to ensuring your comfort and safety. Before we move on, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: No. But I like what you said. Thank you.\n\nNurse: You're welcome. Remember, you can ask me questions at any time during our conversation. Now, I'd like to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure. What what do you wanna talk about?\n\nNurse: Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: That's okay with me. Yes. Of course.",
+    "responses": {
+        "gpt4": "Great! Once you arrive at O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?",
+        "our_model": "Okay. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

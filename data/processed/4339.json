@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4339,
+    "prompt": "Patient: Lug sugar is at\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nPatient: one hundred and twelve. Is that high or low?\n\nNurse: I apologize for the confusion earlier, Mr. Oliver. I want to make sure I understand correctly. You mentioned that your blood sugar level is at one hundred and twelve. Is that correct?\n\nPatient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: When did the change in speech start, Mr. Oliver?\n\nPatient: I never said that.",
+    "responses": {
+        "gpt4": "I apologize for the confusion there. Let's move back to discussing your overall health. Has there been any change in your appetite or weight recently?",
+        "our_model": "I apologize for the confusion, Mr. Oliver. I'm going to ask a few questions to better understand your current health status. Do you report sudden arm or leg weakness?"
+    }
+}

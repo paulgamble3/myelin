@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6235,
+    "prompt": "Nurse: I'm sorry to hear that your knee is hurting. That's to be expected given the condition of your knee joint. However, I'm asking about general signs of illness such as a fever, chills, or muscle aches. Have you experienced any of these recently?\n\nPatient: Well, I guess the knee is a joint\n\nNurse: Yes, the knee is indeed a joint. I apologize if my question was unclear. I'm asking about general signs of illness such as a fever, chills, or muscle aches that are not specific to your knee joint. Have you experienced any of these recently?\n\nPatient: but I thought that the muscles were attached, and they have been aching too.\n\nNurse: I see, so you've been experiencing muscle aches in addition to the knee pain. I'm sorry to hear that. It's critical to note these symptoms. Now, let's move on to the next question. After your procedure, do you plan to go home or will you be staying at a rehab facility?\n\nPatient: I'll be going home.\n\nNurse: That's good to hear. It's important to have a comfortable and safe place to recover. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Daughter will be with me for the duration.",
+    "responses": {
+        "gpt4": "That's wonderful. Having your daughter with you will be a great support during your recovery. Remember, it's important that she is available to pick you up when the hospital calls. Does she know that?",
+        "our_model": "That's wonderful to hear that your daughter will be there to support you. Will she also be able to drive you home after the procedure?"
+    }
+}

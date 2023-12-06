@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1913,
+    "prompt": "Nurse: I'm glad to hear that. It must be nice to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: I'm looking forward to her last day of being back in my home.\n\nNurse: That sounds wonderful.\n\nPatient: Days.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm looking forward to being back in my own home and being in my own.\n\nNurse: That sounds wonderful.\n\nPatient: Space.",
+    "responses": {
+        "gpt4": "It sounds like you're really eager to enjoy your own space again, and that's completely understandable. Is there anything else that you're looking forward to, or any concerns you have, about being back at home?",
+        "our_model": "That sounds wonderful. There's nothing quite like the comfort of your own home. Do you have any hobbies or interests that you enjoy doing at home?"
+    }
+}

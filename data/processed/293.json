@@ -1,0 +1,8 @@
+{
+    "prompt_id": 293,
+    "prompt": "Nurse: I see. That's perfectly okay. It's important that you feel comfortable during our conversations. Let's move on to discussing your health. Is there anything specific you've been concerned about regarding your kidney disease that you'd like to discuss?\n\nPatient: Let me think about it a second, I guess. Hold on. Let's\n\nNurse: Of course, take your time.\n\nPatient: you.\n\nNurse: Of course, take your time. I'm here to help.\n\nPatient: There you are. Okay.\n\nNurse: I'm here. If you have any questions or concerns, feel free to share them with me.\n\nPatient: I I, you know,",
+    "responses": {
+        "gpt4": "I'm sorry, Damian, but I didn't quite catch that. Could you please repeat what you just said?",
+        "our_model": "Yes?"
+    }
+}

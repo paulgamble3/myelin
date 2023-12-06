@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4140,
+    "prompt": "Nurse: Yes, I understand it was a chicken salad. Could you tell me more about it?\n\nPatient: What do you wanna know?\n\nNurse: Could you tell me what ingredients were in your chicken salad?\n\nPatient: Chicken, lettuce, tomatoes, onions, mushrooms.\n\nNurse: That sounds like a balanced meal. How about the dressing?\n\nPatient: I make my own dressing.\n\nNurse: That's great! Could you tell me what ingredients you use in your homemade dressing?\n\nPatient: Olive oil",
+    "responses": {
+        "gpt4": "Olive oil is a healthier choice for salad dressing. Do you add any other ingredients to it?",
+        "our_model": "That's a healthy choice. What other ingredients do you use in your dressing?"
+    }
+}

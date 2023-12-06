@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4364,
+    "prompt": "Nurse: I'm glad you think so, Mr. Oliver. Another suggestion is to add a variety of colorful vegetables to your salad. This can increase the nutrient content and make your salad more visually appealing. What do you think about this idea?\n\nPatient: That works.\n\nNurse: I'm glad to hear that, Mr. Oliver. Adding a variety of vegetables can really make a difference in the nutritional value of your salad. Remember, it's important to eat a balanced diet to manage your conditions. If you have any other questions or concerns about your diet, feel free to ask. Is there anything else you'd like to discuss today?\n\nPatient: Yes.\n\nNurse: Of course, Mr. Oliver. What else would you like to discuss?\n\nPatient: What habits I should prevent from that will\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat your question?\n\nPatient: what happens I should stop so I can prevent going on dialysis?",
+    "responses": {
+        "gpt4": "That's an important question, Mr. Oliver. To help prevent kidney disease from progressing to the point where dialysis is needed, maintain good blood sugar control if you have diabetes, keep a healthy blood pressure, quit smoking if you smoke, maintain a healthy diet low in salt and processed foods, exercise regularly, and take your medicines as prescribed. Are you currently smoking or using any tobacco products, Mr. Oliver?",
+        "our_model": "That's a very important question, Mr. Oliver. While I can't predict the future, there are certain lifestyle habits that can help slow the progression of kidney disease. Would you like me to share some of these with you?"
+    }
+}

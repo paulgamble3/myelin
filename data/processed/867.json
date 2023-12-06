@@ -1,0 +1,8 @@
+{
+    "prompt_id": 867,
+    "prompt": "Nurse: Yes, Mr. Wiggins, I'm here. You mentioned earlier that you're planning to see a movie. I was asking if there are any particular symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Wiggins. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yeah.\n\nNurse: Great, thank you, Mr. Wiggins. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Wiggins. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One hundred and twenty eight.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Wiggins. Have you also been monitoring your blood pressure at home? If so, when did you last measure your blood pressure and what was the result?",
+        "our_model": "Thank you for sharing that, Mr. Wiggins. Your blood sugar is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

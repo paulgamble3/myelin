@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3961,
+    "prompt": "Nurse: Excellent, Mr. Dang. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.\n\nNurse: Okay, Mr. Dang. As you mentioned earlier, you've been instructed to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Hello? Yes. I said yes.\n\nNurse: Thank you for confirming, Mr. Dang. As you mentioned earlier, you've been instructed to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Great. Are you taking any other medications, specifically Advil, Aspirin, Aleve, or other blood thinners, Mr. Dang? These are medications that typically need to be stopped before a colonoscopy.",
+        "our_model": "Excellent, Mr. Dang. Do you have any questions about stopping Xarelto or any other aspect of your medication?"
+    }
+}

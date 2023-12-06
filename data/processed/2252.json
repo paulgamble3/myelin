@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2252,
+    "prompt": "Nurse: Have you had a fever, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Have you started any new prescription medications recently, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Have you been in contact with other individuals with diarrhea or had any recent travel, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Is there any more information you'd like to share about this issue, Mr. Valenzuela?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Valenzuela. I appreciate your time and answers so far. I would now move on to our regular check-in questions. Is that alright with you?",
+        "our_model": "Give me a moment to check how I can best support you. I appreciate you letting me know. Give me a moment to check how I can best help you."
+    }
+}

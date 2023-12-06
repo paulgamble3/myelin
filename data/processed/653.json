@@ -1,0 +1,8 @@
+{
+    "prompt_id": 653,
+    "prompt": "Nurse: Thank you for confirming. I hope you're doing well. It must be a relief to be back home after your recent hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Now that I'm home, I'm looking forward to not having to go back to the hospital.\n\nNurse: I can imagine that's a big relief for you. It's always comforting to be in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Nothing I'd wanna share with you.\n\nNurse: That's perfectly fine. I'm here to help you with your health-related matters. I'm calling on behalf of Doctor Molly Burke. Before we dive into the topics at hand, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets, with a dosage of 40 mg twice a day?\n\nPatient: I've got the lasix. Yes.",
+    "responses": {
+        "gpt4": "Great! Just to ensure you're taking it as directed, could you briefly share how you're taking this medication?",
+        "our_model": "Great, thank you for confirming that. Are you taking the Lasix as prescribed, which is 40 mg twice a day?"
+    }
+}

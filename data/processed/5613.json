@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5613,
+    "prompt": "Nurse: That's good to hear. It's critical to be in good health for your procedure. My last question is about your transportation after the procedure. Have you arranged for a ride home after your colonoscopy?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up after the procedure. Do you have any questions about the logistics of your procedure day?\n\nPatient: No.\n\nNurse: Alright. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: So how can I slow the progression of CKD?\n\nNurse: I'm glad you're thinking about your health proactively. Would you like some general advice on how to slow the progression of Chronic Kidney Disease?\n\nPatient: What kind of lifestyle changes are recommended?",
+    "responses": {
+        "gpt4": "Making certain lifestyle changes can help slow the progression of Chronic Kidney Disease. This includes controlling your blood sugar if you have diabetes, monitoring your blood pressure, maintaining a healthy weight, quitting smoking, limiting alcohol, and following a low-salt, low-fat diet that's rich in fruits, vegetables, and whole grains. Are you currently managing any of these factors?",
+        "our_model": "I'm glad you're thinking about your overall health. Lifestyle changes can indeed help manage CKD. However, I'm an AI nurse and my primary focus is on your upcoming colonoscopy. I would recommend discussing this with your doctor or a dietitian who can provide personalized advice. They can guide you on dietary changes, physical activity, and other lifestyle modifications that can help manage CKD. Does that sound okay?"
+    }
+}

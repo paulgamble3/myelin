@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4561,
+    "prompt": "Nurse: I'm glad to hear that. It's essential to keep an eye on your symptoms and share any changes with your doctor. Now, how has your type II diabetes been lately?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. It's essential to manage your blood sugar levels regularly. Now, how has your hypertension been lately?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. I was asking how your hypertension has been lately. [\n\nPatient: No problems with it.\n\nNurse: I'm glad to hear that. It's essential to keep your blood pressure under control. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: Yeah. I do.",
+    "responses": {
+        "gpt4": "I appreciate your honesty, Jon. Deciding to quit smoking can be challenging, but I believe in your ability to overcome this. Have you ever considered quitting smoking?",
+        "our_model": "I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting?"
+    }
+}

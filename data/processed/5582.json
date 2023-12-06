@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5582,
+    "prompt": "Nurse: Do you have a hemorrhoid or a lump at rectum and red streak on stool?\n\nPatient: No.\n\nNurse: Do you have a cut near your rectum?\n\nPatient: What? No. Not that I know of.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: Rachel, are you there?\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.\n\nPatient: Well, you're supposed to be talking to me about this colonoscopy that I have. I'm not sure what else you wanna help me with.",
+    "responses": {
+        "gpt4": "I apologize for the confusion earlier. I'd like to make sure I got that right. Did you say you wanted to discuss about the colonoscopy or did you request not to be called? Could you please confirm?",
+        "our_model": "Just give me a second to work out the best way I can assist you. I apologize for the confusion earlier. I'm here to ensure you have everything you need for your colonoscopy. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?"
+    }
+}

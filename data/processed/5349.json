@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5349,
+    "prompt": "Nurse: It sounds like you're making an effort to eat healthily, Mr. Gardner. That's great. Can you share a bit more about what you typically eat in a day?\n\nPatient: I try to eat a lot of salad and fruits and vegetables?\n\nNurse: That's wonderful, Mr. Gardner. Salads, fruits, and vegetables are excellent choices. Can you tell me more about the types of dressings or seasonings you use on your salads?\n\nPatient: Oh, I don't really pay attention to that.\n\nNurse: That's okay, Mr. Gardner. It's essential to enjoy what we eat. Now, I'd like to remind you of your dietary recommendations. You're on a 1.5 Liter Fluid restriction and a 1500 mg Sodium Restricted diet. Can I share some tips on how to follow these recommendations?\n\nPatient: Okay.\n\nNurse: Wonderful, Mr. Gardner. For your fluid restriction, it's important to measure your drinks to ensure you're not exceeding the 1.5 liter limit. This includes all fluids, not just water. As for your sodium restriction, it's a good idea to avoid processed foods and add less salt to your meals. Also, try to use herbs and spices for flavor instead of salt. Does that make sense?\n\nPatient: Yeah. Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Mr. Gardner. I understand that adhering to dietary modifications can be challenging. Remember, the goal is to make small changes that fit your lifestyle. Do you have any concerns or questions about what we've discussed?",
+        "our_model": "You're welcome, Mr. Gardner. I'm glad I could provide some helpful tips. Now, let's talk about exercise. Can you tell me about your current exercise routine?"
+    }
+}

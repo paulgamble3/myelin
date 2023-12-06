@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4519,
+    "prompt": "Nurse: I apologize for any confusion earlier. You mentioned that your blood sugar level was 128, correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: When was your blood sugar level of 128 taken?\n\nPatient: This morning.\n\nNurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No. I do not.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
+    "responses": {
+        "gpt4": "Great. While your blood sugar reading was a little high, it's great to see that you're on top of checking it. Regular monitoring is key in managing diabetes, so well done there. Now, let's move on to discuss what we can do to keep those blood sugar levels within the target range. One strategy could include portion control during meals, specifically for starchy foods like bread, pasta, and rice. What do you think about trying that?",
+        "our_model": "That's good to hear. It's important to keep an eye on your blood sugar levels. Would you be open to some suggestions on how to manage your blood sugar levels?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2676,
+    "prompt": "Nurse: Thank you, Ms. Cruz. One way to start is by incorporating more walking into your day. For example, you could try to take a short walk after meals. Start with a few minutes and gradually increase as you feel comfortable. Remember, it's important to listen to your body and not push yourself too hard. Does that sound manageable to you?\n\nPatient: I love walking, so I can do that.\n\nNurse: That's wonderful That's wonderful to hear, Ms. Cruz. Walking is a great way to stay active. Remember, it's important to start slow and gradually increase your activity level as your body allows. Do you have any questions or concerns about what we've discussed so far?\n\nPatient: So\n\nNurse: I'm sorry, Ms. Cruz, your response [\n\nPatient: what would you say\n\nNurse: I'm sorry, Ms. Cruz, your response [\n\nPatient: this coming week. Today is Monday.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Cruz, your response [",
+        "our_model": "I understand, Ms. Cruz. This coming week, you might consider starting with a short walk after one meal each day. As you feel comfortable, you could gradually increase to two meals per day. Remember, it's important to listen to your body and not push yourself too hard. Does that sound manageable to you?"
+    }
+}

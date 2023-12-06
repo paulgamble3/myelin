@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5466,
+    "prompt": "Nurse: When did the change in speech start?\n\nPatient: The change in\n\nPatient: Beach.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Don't know what you're talking about.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: I have a colonoscopy.\n\nPatient: To be. What what are we talking about?",
+    "responses": {
+        "gpt4": "I'm sorry for the confusion. Does the patient have sudden arm or leg weakness?",
+        "our_model": "Does the patient develop a severe headache?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3759,
+    "prompt": "Nurse: Thank you for sharing that, Ms. Odonnell. A blood pressure reading of 80 over 100 is within the normal range, which is good news. It's critical to keep monitoring it regularly. If you're open to it, I can share some suggestions about managing blood pressure. Would that be okay?\n\nPatient: Sure.\n\nNurse: Great, Ms. Odonnell. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fewer processed foods and not adding extra salt to meals. Also, incorporating more fruits and vegetables into your diet can help. What do you think about this suggestion?\n\nPatient: Okay.\n\nNurse: I'm glad to hear you're open to trying that, Ms. Odonnell. Another suggestion is to maintain a healthy weight. This can be achieved through a balanced diet and regular physical activity. Do you think this is something you could try?\n\nPatient: Yes. Yes. I I said I I'm going to try walking now.\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please confirm what you said?\n\nPatient: I said I'm going to try",
+    "responses": {
+        "gpt4": "That's fantastic to hear, Ms. Odonnell. Walking is a wonderful way to manage your blood pressure and blood sugar levels. Just remember to take it slow and steady to begin with. Is there anything else you would like to discuss today?",
+        "our_model": "Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you."
+    }
+}

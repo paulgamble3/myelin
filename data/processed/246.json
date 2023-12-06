@@ -1,0 +1,8 @@
+{
+    "prompt_id": 246,
+    "prompt": "Nurse: I'm glad to hear that, Mr. O'Leary. It's a positive step towards improving your health. Before we delve into the details, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: After the procedure\n\nNurse: Of course, Mr. O'Leary. After the procedure, you'll be taken to a recovery room where the immediate effects of the anesthesia can be monitored. Once you're awake and stable, you'll be moved to your hospital room. You'll likely stay in the hospital for a few days, possibly up to a week, depending on your progress. During this time, you'll start physical therapy to help strengthen your new knee. Do you have any specific concerns about this process?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was explaining the process after your procedure. You'll start physical therapy to help strengthen your new knee. Do you have any specific questions about this or anything else related to your procedure?\n\nPatient: I can't remember what the doctor said about brands.\n\nNurse: I see, Mr. O'Leary. Are you referring to the type of knee implant that will be used for your procedure?\n\nPatient: And if I should stop taking it before the procedure.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Are you asking about a specific medication that you're currently taking and whether or not you should stop it before your procedure? Could you please repeat?",
+        "our_model": "I see, Mr. O'Leary. You're referring to your medication, Aspirin 81 mg. As per the doctor's instructions, you were told to stop taking this medication 7 days before"
+    }
+}

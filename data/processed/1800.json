@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1800,
+    "prompt": "Nurse: Again, that's a very common concern, Mr. Jimenez. The goal of a total knee replacement is to relieve the pain in the knee caused by damage to the joint. After surgery and rehabilitation, most people are able to move around with little to no pain. However, it's important to remember that recovery times can vary, and it might take some time before you're completely free of pain. Before we move on, do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Jimenez. If you have any questions at any point during our conversation, please feel free to ask. I'm here to help you. Now, I'd like to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Okay.\n\nNurse: Okay, thank you, Mr. Jimenez. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Wonderful, Mr. Jimenez. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: I guess. Yeah.",
+    "responses": {
+        "gpt4": "Great, Mr. Jimenez. Now, is there anything else about the logistics that's worrying you or do you have any other questions about your upcoming appointment?",
+        "our_model": "Wonderful, Mr. Jimenez. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
+    }
+}

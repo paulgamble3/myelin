@@ -1,0 +1,8 @@
+{
+    "prompt_id": 680,
+    "prompt": "Nurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Hold on a second while I figure out how I can best support you. Thank you for confirming. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I apologize for the delay. Have you noticed any significant weight gain, such as more than 2 pounds in a day or 5 pounds in a week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Great. Have you had any dizziness or lightheadedness, particularly when changing positions or standing up?",
+        "our_model": "That's great. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
+    }
+}

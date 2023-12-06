@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4386,
+    "prompt": "Nurse: Thank you for your cooperation. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes.\n\nNurse: That's great to hear. How about Gabapentin, are you taking that as needed?\n\nPatient: Yes.\n\nNurse: Good to know. And are you taking your Tylenol as needed, up to three times a day?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, thank you for confirming your medications. Now, I want to clarify your Tylenol dosage. You should be taking two 500 mg tablets for a total of 1000 mg, up to three times a day as needed, not just \"up to three times a day\" without specifying the 1000 mg dose. Did you understand these instructions clearly?",
+        "our_model": "I apologize for the oversight earlier. Are you taking your Tylenol 500 mg oral tablets, with a dosage of 1000 mg, three times a day as needed?"
+    }
+}

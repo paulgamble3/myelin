@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4597,
+    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Peck. Could you please repeat your question?\n\nPatient: Never mind. We can move on.\n\nNurse: Of course, Mr. Peck. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: Yes. I took it this morning, and there was no was\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: ninety over\n\nNurse: I'm sorry, Mr. Peck, could you please repeat the second number of your blood pressure reading?\n\nPatient: one hundred.",
+    "responses": {
+        "gpt4": "Thank you for sharing your blood pressure reading, Mr. Peck. A reading of 90 over 100 is unusual. Blood pressure readings usually have the higher number first, representing the amount of pressure in your arteries during the contraction of your heart muscle and the lower number indicates the pressure in your arteries between heartbeats. Could you please verify the reading one more time?",
+        "our_model": "Thank you for sharing that, Mr. Peck. It's great that you're monitoring your blood pressure. A reading of 90 over 100 is within the acceptable range, but it's important to keep an eye on it. Can I share some suggestions on how to manage your blood pressure?"
+    }
+}

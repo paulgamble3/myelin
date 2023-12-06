@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5950,
+    "prompt": "Nurse: Does the patient report trouble walking?\n\nPatient: No.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I smoked like a pack a day.\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that. Have you ever considered quitting smoking?\n\nPatient: Yeah. I I don't I'm not ready to quit smoking. I don't want to.",
+    "responses": {
+        "gpt4": "I can understand where you're coming from. Quitting smoking is a significant decision, and everyone has to reach that point in their own time. If you ever decide you're ready to make a change, I can provide you with resources and strategies to help you along the way. Can we still discuss this topic another day?",
+        "our_model": "I appreciate your honesty. It's a big decision to make. Could you share with me why you feel you're not ready to quit smoking?"
+    }
+}

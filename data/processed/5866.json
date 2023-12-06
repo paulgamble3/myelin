@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5866,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lanlan Dang?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteen nineteen sixty eight.\n\nNurse: Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Hi. Of course, it is.\n\nNurse: Hello, Mr. Great, thank you, Mr. Dang. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Why my tummy is hurting",
+    "responses": {
+        "gpt4": "I'm sorry to hear you're experiencing some discomfort. Just to clarify, are you saying you are currently feeling abdominal pain?",
+        "our_model": "I'm sorry to hear that you're experiencing abdominal pain, Mr. Dang. Can you tell me a bit more about it?"
+    }
+}

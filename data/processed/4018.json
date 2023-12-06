@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4018,
+    "prompt": "Nurse: I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: Of course.\n\nNurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you.\n\nPatient: No. I don't need extra kilos at night.\n\nNurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Okay.\n\nNurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh my goodness.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Warrell, your response was a bit unclear. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

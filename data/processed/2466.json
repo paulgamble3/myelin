@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2466,
+    "prompt": "Nurse: I appreciate your honesty, Mr. Oliver. It's a big decision to make. Can you share with me why you're not interested in quitting at this time?\n\nPatient: I just don't feel like it.\n\nNurse: I understand, Mr. Oliver. It's a personal decision. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: No. Thanks.\n\nNurse: That's perfectly fine, Mr. Oliver. If you ever decide you'd like to explore that option, don't hesitate to ask. I'm here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Oliver. To summarize, you've agreed to consider some suggestions for managing your blood sugar and blood pressure, and you're going to think about ways to reduce your sodium intake. Can I count on you to try these strategies?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's fantastic, Mr. Oliver. Thank you for taking the time to talk with me today. If you need to reach us, please call 641-381-6523. I look forward to speaking with you again next time. Take care, and enjoy square dancing. Goodbye, Mr. Oliver.",
+        "our_model": "That's great to hear, Mr. Oliver. Remember, every small step counts. If you have any questions or need support, you can reach us at 641-381-6523. Thank you for your time today. I'm looking forward to speaking with you again next time. Take care and enjoy your square dancing. Goodbye for now."
+    }
+}

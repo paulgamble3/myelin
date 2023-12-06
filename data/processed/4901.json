@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4901,
+    "prompt": "Nurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Well, I've been doing okay, I guess, considering\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: I think I might watch some Christmas\n\nNurse: That sounds like a lovely plan.\n\nPatient: TV shows.\n\nNurse: That sounds like a lovely way to spend your time. Do you have any favorite Christmas TV shows that you're excited to watch?\n\nPatient: Oh, you know, the Hallmark Christmas movies.",
+    "responses": {
+        "gpt4": "Those are a popular choice around this time of year! Is there anything else you would like to discuss or any concerns you might have?",
+        "our_model": "Those Hallmark Christmas movies are indeed a delight to watch. They always bring a sense of warmth and joy. Do you have a favorite one from their collection?"
+    }
+}

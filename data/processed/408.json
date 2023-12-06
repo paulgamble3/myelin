@@ -1,0 +1,8 @@
+{
+    "prompt_id": 408,
+    "prompt": "Nurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: It's a good time to talk.\n\nNurse: Perfect, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: My day's been good. How about you?\n\nNurse: I'm here to assist you, so my day is going well, thank you. It sounds like you're having a good day. Is there anything in particular that's made your day good so far?\n\nPatient: Well, I mean, I'm off today, and it's Friday. I took a day off from my side to just prepare for the surgery and everything. So\n\nNurse: That's wonderful to hear.\n\nPatient: really riding away.",
+    "responses": {
+        "gpt4": "Taking a day off to prepare and unwind before your surgery sounds like a smart idea. With your upcoming knee replacement, you'll have a new lease on life. Can you share with me what you're planning to do once your knee is all healed up?",
+        "our_model": "That's wonderful to hear. Taking a day off to prepare for your surgery is a great idea. It's critical to have some quiet time before such a procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

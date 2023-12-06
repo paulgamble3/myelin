@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3101,
+    "prompt": "Nurse: Okay. One method that many people find helpful is setting reminders on their phone or using a pillbox with compartments for each day of the week. This can help ensure you're taking your medications as prescribed. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Yeah.\n\nNurse: I'm sorry to hear that.\n\nPatient: I I have\n\nNurse: I'm sorry to hear that. It's important to monitor this closely. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Yes. I have",
+    "responses": {
+        "gpt4": "Thank you for letting me know. We'll certainly need to keep an eye on these symptoms. Moving on, have you noticed a new or worsening dry cough recently?",
+        "our_model": "I'm sorry to hear that you're experiencing chest pain. It's crucial to keep track of this. Have you noticed any new or worsening dry cough?"
+    }
+}

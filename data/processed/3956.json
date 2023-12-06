@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3956,
+    "prompt": "Nurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, Mr. Dang, I didn't catch your response. Have you been instructed to stop taking Xarelto before your colonoscopy?\n\nPatient: Yes. I was told to stop taking it five days before.\n\nNurse: Thank you for that information, Mr. Dang. It's essential to follow these instructions for your procedure. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Dang. Once you're at O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?",
+        "our_model": "Wonderful, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

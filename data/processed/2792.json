@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2792,
+    "prompt": "Nurse: Alright, if any concerns come up later, don't hesitate to bring them up. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes, ma'am.\n\nNurse: Great, let's discuss your medications. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: No. I've been taking Tylenol for a while with it off the email.\n\nNurse: I'm sorry, I didn't quite catch that last part. Could you\n\nPatient: So yeah.\n\nNurse: please repeat Alright, if you're comfortable with your medication regimen, let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Not.",
+    "responses": {
+        "gpt4": "Great, thanks for confirming. Do you have diabetes or do you take any medications for diabetes?",
+        "our_model": "I'm sorry, could you please repeat your response?"
+    }
+}

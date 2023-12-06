@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1239,
+    "prompt": "Nurse: Great, let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yeah.\n\nNurse: Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you, Ms. Raynier?\n\nPatient: Mhmm. Yeah.\n\nNurse: Excellent. Is there anything else about the logistics that's worrying you, Ms. Raynier?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. I'm glad to hear that the logistics seem clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great! Now, let's talk about your medications. According to your medical chart, you're currently taking Plavix 75 mg once a day. Since this is a blood thinner, you would have been instructed to stop taking it 7 days prior to the surgery. Could you please confirm, have you already stopped taking your Plavix?",
+        "our_model": "Great, let's talk about your medications. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were supposed to stop this medication 7 days prior to the procedure. Have you stopped taking Plavix, Ms. Raynier?"
+    }
+}

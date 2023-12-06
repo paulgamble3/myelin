@@ -1,0 +1,8 @@
+{
+    "prompt_id": 704,
+    "prompt": "Nurse: That's excellent. Walking daily for 15 to 20 minutes is a good way to stay active. If it's okay with you, I'd like to provide some suggestions about improving your exercise routine in a CHF appropriate manner. Would that be alright?\n\nPatient: Yes.\n\nNurse: Okay. One suggestion could be to gradually increase the length of your walks. For example, you could aim to walk for 25 minutes instead of 20. Another suggestion could be to incorporate some light strength training exercises, such as lifting small hand weights or using resistance bands. However, it's important to start slow and listen to your body. Would any of these suggestions be helpful for you?\n\nPatient: I noted them.\n\nNurse: That's great. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.\n\nNurse: Alright. I will inform Doctor Burke about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I appreciate your time today, Patient. It's important to note that the changes in your exercise routine that you agreed to include walking for an increased duration of 25 minutes, when possible. Please remember that. Is there anything else you'd like to confirm before we end this call?",
+        "our_model": "Alright. To summarize, you've agreed to continue with your current exercise routine and consider gradually increasing the length of your walks. You're also considering incorporating some light strength training exercises. Can I confirm that you'll follow through with these changes?"
+    }
+}

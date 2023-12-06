@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5993,
+    "prompt": "Nurse: I'm sorry, could you please repeat what you just said?\n\nPatient: I didn't send anything.\n\nNurse: I apologize for the confusion earlier. If it's alright with you, I'd like to move on to discuss your medications. Is that okay?\n\nPatient: Sure.\n\nNurse: Great, thank you. Let's start with Valsartan. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to take your medications as prescribed to manage your conditions effectively. Now, let's discuss Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: I have.",
+    "responses": {
+        "gpt4": "That's excellent - your efforts in adhering to your medication schedule play a significant role in managing your diabetes. Let's move on to Hydrochlorothiazide. You're prescribed a 12.5 mg oral tablet daily. Have you been taking this as well?",
+        "our_model": "That's excellent, it's important to take your insulin as prescribed to manage your blood sugar levels. Now, let's move on to Hydrochlorothiazide. You're prescribed to take a 12.5 mg oral tablet daily. Have you been taking this medication as prescribed?"
+    }
+}

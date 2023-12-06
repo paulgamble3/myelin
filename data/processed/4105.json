@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4105,
+    "prompt": "Nurse: That's wonderful to hear. Remember, it's always important to consult with your doctor or a dietitian before making any major changes to your diet. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's it's it's better for sure.\n\nNurse: I'm glad to hear that your recovery is progressing. Are you experiencing any pain or discomfort, and are you able to move around as you were before the surgeries?\n\nPatient: I'm not experiencing any pain, and I have definitely gotten back to my old activities.\n\nNurse: That's excellent news. It's important to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. It's [NO RESPONSE]\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that you smoke. Have you ever considered quitting smoking?\n\nPatient: I'm not interested right now.",
+    "responses": {
+        "gpt4": "That's okay, it's a big decision and it's important that you're ready. May I ask what makes you hesitate about quitting at the moment?",
+        "our_model": "That's completely okay. It's a big decision to make and it's important that you're ready. Can you share why you feel you're not ready to quit smoking at this time?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2700,
+    "prompt": "Nurse: That's great to hear, Ms. Aguirre. Regular physical activity can really help with managing blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yeah. It was about a hundred and five over eighty two.\n\nNurse: Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit higher than the ideal range. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you, Ms. Aguirre. One suggestion is to reduce your sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: No. Don't wait.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Sounds fine.",
+    "responses": {
+        "gpt4": "Great, I'm glad that suggestion works for you, Ms. Aguirre. Another strategy is trying to manage your stress levels. High stress can impact your blood pressure. Engaging in calming activities, like reading or taking a walk, can be beneficial. What do you think about this approach?",
+        "our_model": "Thank you for your response, Ms. Aguirre. Another suggestion is to increase your intake of fruits and vegetables, as they are naturally low in sodium and can help lower blood pressure. Do you think you could try that?"
+    }
+}

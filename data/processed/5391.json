@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5391,
+    "prompt": "Patient: Yep.\n\nNurse: Great, Mr. O'Leary. The last part of your preparation is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. O'Leary. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I need to lose weight. Is get to you lose weight, that would be good. But not\n\nPatient: lasix.",
+    "responses": {
+        "gpt4": "I appreciate your openness, Mr. O'Leary. Many patients find that they're able to be more active and lose weight after their knee replacement because it's easier to move around without pain. But, for now, let's focus on your upcoming surgery and recovery. Do you have any other questions related to your health or this procedure at this time?",
+        "our_model": "I appreciate your honesty, Mr. O'Leary. It's critical to manage your weight for your overall health, but it's also crucial to avoid any signs of illness before your procedure. Lasix is a medication that helps manage fluid levels in your body, and it's not typically used for weight loss. Do you have any other questions about your health or medications?"
+    }
+}

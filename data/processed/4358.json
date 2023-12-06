@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4358,
+    "prompt": "Nurse: That's excellent, Mr. Oliver. Lastly, let's discuss your Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Mr. Oliver. It's essential to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Oliver. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I'm trying to eat healthier, and I started eating a lot of salad.\n\nNurse: That's fantastic, Mr. Oliver! Eating salads can be a great way to incorporate more vegetables into your diet. What kinds of dressings and toppings are you using on your salads?\n\nPatient: I'm using the Wishbone Italian salad dressing. How much salt is in that dressing?",
+    "responses": {
+        "gpt4": "Mr. Oliver, a serving of Wishbone Italian dressing contains about 260 milligrams of sodium. An important aspect of managing CKD and HTN is to keep your sodium intake balanced. May I provide a recommendation on this?",
+        "our_model": "That's a great question, Mr. Oliver. I don't have the exact sodium content of Wishbone Italian salad dressing at the moment. However, many salad dressings can be high in sodium. It's always a good idea to check the nutrition label on the bottle. Would you like some suggestions on how to make your salads even healthier?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4454,
+    "prompt": "Nurse: Thank you for clarifying, Mr. Delarosa. I apologize for the confusion earlier. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Delarosa. I was asking if you could tell me about some of the meals you've had recently?\n\nPatient: Some of the meals.\n\nNurse: Yes, Mr. Delarosa. Could you share what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: Sure. I had to open up for breakfast. Let's see. I think I skip lunch.\n\nNurse: Thank you for sharing, Mr. Delarosa. It's quite common to skip meals. Can you tell me what you had for dinner yesterday?\n\nPatient: And I had some",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Delarosa, it seems there was a problem with our connection. Could you please repeat what you had for dinner yesterday?",
+        "our_model": "I'm sorry, Mr. Delarosa, your voice cut out a bit there. Could you please repeat what you had for dinner yesterday?"
+    }
+}

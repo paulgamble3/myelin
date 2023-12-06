@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5590,
+    "prompt": "Nurse: I'm glad to hear that. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Rachel, are you there?\n\nNurse: Yes, I'm here. I'm going to talk about your medications. Are you currently taking Xarelto 10 mg once a day?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that. You will need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yes.\n\nNurse: Great. Do you have any questions about stopping Xarelto?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. Are you taking any other medications that we should know about such as Advil, Aspirin, Aleeve, or other blood thinners?",
+        "our_model": "Alright. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
+    }
+}

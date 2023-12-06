@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4434,
+    "prompt": "Nurse: Knitting is a wonderful hobby, Mr. Delarosa. It's therapeutic and can be quite relaxing. What do you usually knit?\n\nPatient: Socks.\n\nNurse: That's impressive, Mr. Delarosa. Knitting socks requires a lot of skill and patience. Do you have a favorite pair that you've made?\n\nPatient: No. I like them all.\n\nNurse: That's wonderful, Mr. Delarosa. It's great to hear that you enjoy your hobby. Now, I'm calling on behalf of Doctor Gervais and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Not at the moment. They may come up later.\n\nNurse: Of course, Mr. Delarosa. Feel free to ask any questions as they come up. Now, let's talk about your new medication. Have you been able to pick up your Metoprolol 25 mg oral tablets from the pharmacy?\n\nPatient: Hello. I said yes.",
+    "responses": {
+        "gpt4": "Great, I'm glad you have your medication. Just for clarity, the prescribed dosage for your Metoprolol is 12.5 mg once a day. This may require splitting the 25 mg tablet in half. Are you taking it as prescribed?",
+        "our_model": "I apologize for the confusion earlier, Mr. Delarosa. I understand that you've picked up your Metoprolol 25 mg oral tablets. The prescribed dosage is 12.5 mg once a day, which may require splitting the 25 mg tablet in half. Have you been taking it as prescribed?"
+    }
+}

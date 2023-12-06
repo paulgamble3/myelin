@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4349,
+    "prompt": "Nurse: Thank you for sharing that, Mr. Oliver. It's good to see that you're keeping track of your blood pressure. Would it be alright if I share some suggestions on how to manage your blood pressure?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to meals. What do you think about this suggestion?\n\nPatient: That's fine.\n\nNurse: I'm glad to hear that, Mr. Oliver. Another suggestion is to incorporate more physical activity into your daily routine. This could be as simple as taking a walk after meals. Do you think you could try that?\n\nPatient: Yes. I think I can try that.\n\nNurse: That's wonderful to hear, Mr. Oliver. Regular physical activity can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yeah. What does the GFR mean?",
+    "responses": {
+        "gpt4": "I can definitely help with that, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's essentially a measure of how well your kidneys are cleaning your blood. A GFR of 67 means your kidneys are doing a fairly good job, but there is some mild loss in kidney function. That's why managing your diabetes and your blood pressure well is important for preserving your kidney health. Does that answer your question?",
+        "our_model": "That's a great question, Mr."
+    }
+}

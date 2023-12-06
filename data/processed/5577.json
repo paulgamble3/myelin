@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5577,
+    "prompt": "Patient: Yeah. Well, I didn't I didn't mention having a wound.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.\n\nNurse: When did you start having bloody stool?\n\nPatient: Jeez. I don't have bloody stool.\n\nNurse: I apologize for the confusion. Could you please tell me if you have bloody or black, tarry stool?\n\nPatient: I have pus and mucus in my stool.\n\nNurse: I apologize for the confusion. I'm here to help. Do you have bloody or black, tarry stool?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I see. Do you have a history of gastrointestinal disease in your family?",
+        "our_model": "Do you have abdominal pain?"
+    }
+}

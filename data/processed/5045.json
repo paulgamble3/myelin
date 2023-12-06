@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5045,
+    "prompt": "Nurse: I'm sorry, could you please repeat your response?\n\nPatient: Yes. I will definitely be able to handle the core hexadeen scrub.\n\nNurse: That's great to hear. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. I can't think of anything.\n\nNurse: Okay. I'm going to ask you a few more questions. Firstly, have you noticed any signs of illness such as a fever, chills, or muscle aches recently?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay. Now, our records indicate that you will be going home after the procedure. Is that still accurate?",
+        "our_model": "That's good to hear. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?"
+    }
+}

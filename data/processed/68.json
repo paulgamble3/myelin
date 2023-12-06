@@ -1,0 +1,8 @@
+{
+    "prompt_id": 68,
+    "prompt": "Nurse: I apologize for the confusion, Ms. Ware. Can you confirm if the swelling is only in your stomach and not in your arms or legs?\n\nPatient: Oh my gosh. Yes. I sent only in my stomach.\n\nNurse: When did the swelling start, Ms. Ware?\n\nPatient: Today.\n\nNurse: Just give me a second to work out the best way I can assist you. Does the swelling start suddenly, Ms. Ware?\n\nPatient: I woke up with it.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: How many times are you gonna ask me that?",
+    "responses": {
+        "gpt4": "I'm sorry for the confusion, Ms. Ware. I messed up. I think I have enough information about the stomach swelling. I noticed a change in your speech. Have you been experiencing speech difficulties lately?",
+        "our_model": "Does the swelling start suddenly, Ms. Ware?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5899,
+    "prompt": "Nurse: Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: I'm okay. I'm a little\n\nNurse: I'm sorry to hear that you're not feeling your best. Can you tell me a bit more about what's been going on?\n\nPatient: pre doubt about all my health stuff.\n\nNurse: I'm sorry I'm sorry to hear that you're feeling a bit worried. It's completely normal to have concerns about your health. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: It's just kinda all of it together, you know.\n\nNurse: I see, it's completely normal to feel overwhelmed when dealing with multiple health conditions. Remember, you're not alone in this. We're here to support you. Before we delve into the topics regarding your kidney disease, do you have any questions or concerns you'd like to discuss?\n\nPatient: There's a lot going on.",
+    "responses": {
+        "gpt4": "Absolutely, Jon, it can definitely feel like a lot to manage. Let's take it one step at a time, if you're okay with that. For starters, with your type II Diabetes, have you been able to check your blood sugar levels daily? If so, do you recall what your last reading was?",
+        "our_model": "I can imagine that managing multiple health conditions can feel overwhelming at times. It's a lot to keep track of. Before we delve into the specifics of your kidney disease, is there anything you're looking forward to doing this week that might help take your mind off things a bit?"
+    }
+}

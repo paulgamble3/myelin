@@ -1,0 +1,8 @@
+{
+    "prompt_id": 870,
+    "prompt": "Nurse: That's excellent, Mr. Wiggins. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One hundred and twenty eight.\n\nNurse: Thank you for sharing that, Mr. Wiggins. Your blood sugar is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I apologize for the confusion earlier, Mr. Wiggins. You mentioned that your last blood sugar reading was 128. Just to confirm, is your blood sugar usually higher or lower than this reading?\n\nPatient: I don't know.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "I appreciate your patience, Mr. Wiggins. Monitoring your blood sugar levels is crucial in managing your diabetes. It's important to note any trends or patterns, such as blood sugar levels that are consistently high or low. This can help your healthcare team make any necessary adjustments to your treatment plan. \n\nYou mentioned that your last blood sugar reading was 128, but you're not sure whether it is usually higher or lower than this. Can you clarify this further, so that we can provide you with the most appropriate advice?",
+        "our_model": "Thank you for your patience, Mr. Wiggins. It's essential to keep your blood sugar levels under control. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks that contain a mix of carbohydrates, protein, and fat. Do you think this is something you could try?"
+    }
+}

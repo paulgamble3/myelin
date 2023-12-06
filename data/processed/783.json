@@ -1,0 +1,8 @@
+{
+    "prompt_id": 783,
+    "prompt": "Patient: I took it this morning.\n\nNurse: That's great, Ms. Aguirre. Regular monitoring is key in managing blood pressure. Could you please share the reading you got this morning?\n\nPatient: It was\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please tell me what your blood pressure reading was this morning?\n\nPatient: Oh, it was also one twenty eight over eighty.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 128 over 80 is slightly elevated. It's important to keep an eye on this. Would it be okay if I share some suggestions about managing blood pressure?\n\nPatient: Go ahead. It's gonna need\n\nPatient: too.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, I didn't hear you clearly. Could you please repeat your response?",
+        "our_model": "Thank you, Ms. Aguirre. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?"
+    }
+}

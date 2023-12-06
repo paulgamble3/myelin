@@ -1,0 +1,8 @@
+{
+    "prompt_id": 295,
+    "prompt": "Nurse: Of course, take your time. I'm here to help.\n\nPatient: There you are. Okay.\n\nNurse: I'm here. If you have any questions or concerns, feel free to share them with me.\n\nPatient: I I, you know,\n\nNurse: Yes?\n\nPatient: Okay.\n\nNurse: Yes. I'm here to assist you. If you have any questions or concerns, feel free to share them with me.\n\nPatient: Let me talk.",
+    "responses": {
+        "gpt4": "Of course, I apologize if I interrupted. Please go ahead.",
+        "our_model": "Absolutely. I'm here to listen. Please feel free to share your concerns."
+    }
+}

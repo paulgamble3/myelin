@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2496,
+    "prompt": "Nurse: That's wonderful. You're doing a great job managing your medications. It's critical to remember that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: I don't think so.\n\nNurse: Alright. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: In.\n\nPatient: I'm vegetarian, so I have been eating, vegetarian, diet. And\n\nPatient: I won't know what? Food.\n\nPatient: Should I avoid?\n\nPatient: As a vegetarian, to make sure that I don't further hurt my kidneys.",
+    "responses": {
+        "gpt4": "That's a really good question. As a vegetarian, you're already on track with a diet that includes lots of fruits and vegetables. However, certain vegetables are high in potassium, which can be harmful in large amounts for people with Chronic Kidney Disease. Examples are potatoes, tomatoes, and spinach. If you like these foods, you might consider eating them in smaller amounts or less frequently. Does this information help you?",
+        "our_model": "It's great that you're following a vegetarian diet. Generally, a diet high in fruits, vegetables, whole grains, and low-fat dairy products can help manage kidney disease. However, some vegetarian foods can be high in potassium and phosphorus, which can be harmful in large amounts if you have kidney disease. Would it be okay if I provide some suggestions on how to manage your diet?"
+    }
+}

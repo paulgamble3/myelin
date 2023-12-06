@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4673,
+    "prompt": "Nurse: That's great, Mr. Amador. Pasta is a good choice for a low fiber diet. Do you have a favorite pasta dish that you enjoy?\n\nPatient: Rigatoni.\n\nNurse: That sounds delicious, Mr. Amador. Rigatoni is a great choice. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any questions about this?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications, Mr. Amador?\n\nPatient: So\n\nNurse: I'm sorry, Mr. Amador, could you please repeat what you just said?\n\nPatient: I said no.",
+    "responses": {
+        "gpt4": "Thank you for confirming, Mr. Amador. Do you have any questions about supplements or medications?",
+        "our_model": "That's good to hear, Mr. Amador. Do you have any questions about why it's necessary to stop these supplements before your colonoscopy?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 43,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December eight nineteen sixty seven.\n\nNurse: Thank you for confirming that, Ms. Ware. I'm calling on behalf of your primary care doctor, Doctor Sarah Forbes. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I've been better. Thanks.\n\nNurse: I'm sorry to hear that, Ms. Ware. It's completely normal to need some time to adjust after a hospital stay. I'm sure you must be relieved to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I just wanna get on with my life.",
+    "responses": {
+        "gpt4": "I can certainly appreciate that sentiment, Ms. Ware. Transitioning back to your daily routine can really make a difference. May I ask if you have any hobbies or activities that you enjoy, such as gardening, reading, or maybe watching a particular sport?",
+        "our_model": "I can certainly appreciate that, Ms. Ware. Getting back to your normal routine can be a great step forward. On a lighter note, do you have any hobbies or interests that you enjoy?"
+    }
+}

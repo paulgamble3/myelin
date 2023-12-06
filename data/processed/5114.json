@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5114,
+    "prompt": "Nurse: Excellent. Do you have any questions about your Tylenol medication or any concerns about how it might interact with your upcoming procedure?\n\nPatient: No. I don't.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: [NO RESPONSE]\n\nNurse: Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I don't have any questions.\n\nNurse: That's perfectly fine. If any questions come up later, feel free to ask. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I'm not.",
+    "responses": {
+        "gpt4": "That's good to know. Just as a quick reminder, these medications typically need to be stopped before a colonoscopy unless otherwise recommended by the doctor. Do you have any other questions about your medications or anything you want to discuss further before we move on to the next topic?",
+        "our_model": "That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications or is there anything else you'd like to discuss before we move on to the next topic?"
+    }
+}

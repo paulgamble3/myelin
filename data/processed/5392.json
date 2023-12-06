@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5392,
+    "prompt": "Patient: No.\n\nNurse: Alright, Mr. O'Leary. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. O'Leary. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I need to lose weight. Is get to you lose weight, that would be good. But not\n\nPatient: lasix.\n\nNurse: I appreciate your honesty, Mr. O'Leary. It's critical to manage your weight for your overall health, but it's also crucial to avoid any signs of illness before your procedure. Lasix is a medication that helps manage fluid levels in your body, and it's not typically used for weight loss. Do you have any other questions about your health or medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Perfect, Mr. O'Leary. Next, I would like to confirm your discharge plan after the procedure. The current plan is for you to go home after the procedure. Is that also your understanding?",
+        "our_model": "Alright, Mr. O'Leary. Let's move on to the next topic. Your anticipated discharge plan is to go home after the procedure. Is that still correct?"
+    }
+}

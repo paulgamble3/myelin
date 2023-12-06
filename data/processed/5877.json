@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5877,
+    "prompt": "Patient: No.\n\nNurse: Have you noticed any black or tarry stool, or blood in your stool, Mr. Dang?\n\nPatient: No. I told the doctor I don't have\n\nPatient: that.\n\nNurse: Thank you for confirming that, Mr. Dang. Do you have any active nausea, vomiting, or diarrhea?\n\nPatient: No diarrhea.\n\nNurse: That's good to hear, Mr. Dang. Do you have any abdominal swelling or bloating?\n\nPatient: Not really.",
+    "responses": {
+        "gpt4": "I see. Have you experienced any weight loss recently that you didn't expect, Mr. Dang?",
+        "our_model": "Do you have any constipation, Mr. Dang?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1444,
+    "prompt": "Nurse: I see, Mr. Valenzuela. When you buy brownies, do you have a favorite place or brand that you usually go for?\n\nPatient: No. Just wherever. I'm not picky.\n\nNurse: That's perfectly fine, Mr. Valenzuela. The important thing is to enjoy what you eat. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. It's essential to avoid these supplements and medications before your colonoscopy. Do you have any questions about this or anything else we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to ask. I'll be calling you again the day before your procedure to check in. Is there anything else you'd like to discuss today?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, Mr. Valenzuela.  I appreciate your time and willingness to go through these details. Remember, I am here to assist you, so don't hesitate to reach out if you have any questions or concerns. We will talk soon. Take care and have a good day.",
+        "our_model": "Okay, Mr. Valenzuela. If you have any questions or concerns in the meantime, please don't hesitate to reach out to us. We're here to support you. Have a great day! ["
+    }
+}

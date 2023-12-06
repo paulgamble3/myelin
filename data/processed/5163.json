@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5163,
+    "prompt": "Nurse: a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods or any questions about the diet?\n\nPatient: Oh, I said I like white bread.\n\nNurse: White bread is also a good choice. It's great that you're aware of these low fiber foods. Do you have any other questions about the diet or shall we move on to discuss supplements?\n\nPatient: You can move on.\n\nNurse: Alright. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I am not.\n\nNurse: That's good to hear. Do you have any questions about why it's necessary to stop these supplements or any other questions related to this topic?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Excellent. Let's move on to the next part of the colonoscopy preparation, which includes a clear liquid diet and the GoLYTELY laxative solution. This part is often the hardest part of the prep. How are you feeling about that?",
+        "our_model": "Alright. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

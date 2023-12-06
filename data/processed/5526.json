@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5526,
+    "prompt": "Nurse: Alright, Mr. Alves. Please remember that you can ask me questions at any time during our conversation. I'm here to help you prepare for your colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: No. It's fine.\n\nNurse: Alright, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Is there anything else you'd like to discuss at this time?\n\nPatient: No.\n\nNurse: Okay, Mr. Alves. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yeah. That sounds\n\nNurse: Great, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Alves. Now, let's talk about preparing for the colonoscopy. Preparing for a colonoscopy usually involves maintaining a clear liquid diet the day before the procedure. Do you have the specific instructions that we sent?",
+        "our_model": "Thank you for confirming, Mr. Alves. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
+    }
+}

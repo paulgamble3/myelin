@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3070,
+    "prompt": "Nurse: Thank you for sharing that, Mr. Hardy. A blood pressure reading of 120 over 80 is within the normal range, which is good news. It's critical to keep monitoring your blood pressure regularly. Would it be alright if I share some suggestions on how to maintain a healthy blood pressure?\n\nPatient: [NO RESPONSE]\n\nNurse: Mr. Hardy, are you still there?\n\nPatient: Yes. And I said, yes.\n\nNurse: Thank you, Mr. Hardy. To maintain a healthy blood pressure, it's beneficial to follow a diet rich in fruits, vegetables, and lean proteins, similar to the DASH diet you're already following. It's also important to limit sodium intake, as high sodium can raise blood pressure. Regular physical activity, such as brisk walking, can also help lower blood pressure. Lastly, managing stress through relaxation techniques like deep breathing or meditation can be helpful. Do these suggestions sound manageable to you, Mr. Hardy?\n\nPatient: Yes. It's always something I need to work on.\n\nNurse: I understand, Mr. Hardy. Maintaining a healthy lifestyle is indeed a continuous process. It's great that you're committed to it. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: I am",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Hardy. Could you please repeat your response? I didn't catch that.",
+        "our_model": "I understand, Mr. Hardy. Maintaining a healthy lifestyle is indeed a continuous process. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

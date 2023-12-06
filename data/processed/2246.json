@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2246,
+    "prompt": "Patient: It's been a couple of weeks.\n\nNurse: I see, thank you for sharing that, Mr. Valenzuela. Is this a chronic issue or something that has recently started?\n\nPatient: It's just recently started. That's why you guys suggested getting a call and ask\n\nPatient: a bay.\n\nNurse: I appreciate your patience, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: All\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat your response?\n\nPatient: No. I said no.",
+    "responses": {
+        "gpt4": "Thank you for confirming that, Mr. Valenzuela. Next, I would like to ask - have you had a fever that comes and goes over this period of time?",
+        "our_model": "Thank you for clarifying, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?"
+    }
+}

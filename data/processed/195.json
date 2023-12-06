@@ -1,0 +1,8 @@
+{
+    "prompt_id": 195,
+    "prompt": "Nurse: I can imagine that managing diet can be a constant thought with diabetes, Ms. Aguirre. It's a\n\nPatient: So\n\nNurse: I understand, Ms. Aguirre. Managing diet can be a constant thought with diabetes. It's a lot to handle. As an alternative, you might find it helpful to consult with a dietitian who can provide a personalized meal plan. Would you be open to this suggestion?\n\nPatient: This is nothing new to me. I've been trying to manage my blood sugar for years.\n\nNurse: I can imagine that managing blood sugar levels can be a constant focus, Ms. Aguirre. It's great that you're already aware of the importance of a balanced diet. As an alternative suggestion, regular physical activity can also help manage blood sugar levels. This could be a brisk walk, gardening, or any other form of movement you enjoy. Would you be open to trying this?\n\nPatient: If you could be more specific, that would be good.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It sounds like you're really dedicated to managing your blood sugar levels. One specific suggestion could be to focus on foods that are high in fiber, as they can help control blood sugar levels. Foods like fruits, vegetables, legumes, and whole grains are good sources of fiber. Do you think you could incorporate more of these foods into your diet?\n\nPatient: Well, I also have this",
+    "responses": {
+        "gpt4": "I apologize Ms. Aguirre, but I couldn't catch your last statement. Could you please confirm whether you mentioned your blood sugar being high or low?",
+        "our_model": "I'm sorry, Ms. Aguirre, you were saying something about your diet?"
+    }
+}

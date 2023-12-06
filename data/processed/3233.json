@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3233,
+    "prompt": "Nurse: That's good to hear. Have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been eating whatever I want. I haven't been following the fluid restricted and called restricted diet. To be honest with you.\n\nNurse: I appreciate your honesty. It's not always easy to make dietary changes. Can you share a bit more about what you've been eating recently?\n\nPatient: Just whatever I want. I had a burger",
+    "responses": {
+        "gpt4": "I see, and what else do you usually eat during the day? It can be helpful to know more about your food preferences.",
+        "our_model": "I see. And what did you have with your burger?"
+    }
+}

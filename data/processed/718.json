@@ -1,0 +1,8 @@
+{
+    "prompt_id": 718,
+    "prompt": "Nurse: That's great to hear, Ms. Peck. And how about your Metformin?\n\nPatient: Yep. Me taking that.\n\nNurse: I'm sorry, Ms. Peck, I didn't quite catch that. Could you please confirm if you're still taking your Metformin?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Ms. Peck. It's important to keep up with your medications. Are you taking them twice a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Peck. You're doing a great job managing your medications. Now, it's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I have a tireless thing.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Peck. Could you please repeat what you just said? I didn't quite understand it.",
+        "our_model": "That's wonderful, Ms. Peck. Using a pill organizer is a great way to keep track of your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

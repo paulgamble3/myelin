@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2937,
+    "prompt": "Nurse: That's great to hear, Ms. McKloskey. It's essential to manage your pain effectively. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Ms. McKloskey. Thank you for confirming that you've been taking your Tylenol as prescribed. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. McKloskey. It's essential to avoid certain medications before surgery. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Ms. McKloskey. It's critical to have your post-procedure medication ready. Do you have any questions about your medications or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No. I don't have any more questions.",
+    "responses": {
+        "gpt4": "Alright, Ms. McKloskey. The best thing you can do now to set the stage for a swift recovery after your surgery is to stay as healthy as possible. That includes regular hand washing to avoid catching a cold or the flu, and maintaining any physical therapy or home exercises you've been doing. Do you have any questions about your overall health or habits prior to surgery?",
+        "our_model": "Alright, Ms. McKloskey. If any questions come up later, don't hesitate to ask. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?"
+    }
+}

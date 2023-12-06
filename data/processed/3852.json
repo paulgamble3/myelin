@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3852,
+    "prompt": "Nurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: I'm I'm doing okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Maybe I'll meet up with some friends or something. Nothing specific, though.\n\nNurse: That sounds like a nice plan. It's always good to spend time with friends. Do you usually meet at a specific place or do you prefer to try out new places each time?\n\nPatient: Yeah. We can just go to wherever's trendy, I guess.\n\nNurse: That sounds like a fun approach. Trying out new places can be quite exciting. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright. If you do have any questions or concerns that come up during our conversation, feel free to let me know at any time. With your permission,  I'd like to go over a few topics to check on how you're doing. Is that alright with you?",
+        "our_model": "Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?"
+    }
+}

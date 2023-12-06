@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6014,
+    "prompt": "Nurse: That's good to hear that you're making efforts. It's essential to maintain a healthy weight, especially with your conditions. Regular physical activity and a balanced diet can help. Now, let's discuss your alcohol use disorder. Have you been able to abstain from alcohol since starting your medication, Disulfiram?\n\nPatient: Yes.\n\nNurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's not easy, so well done. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I smoke a packet of day.\n\nNurse: I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting smoking?\n\nPatient: I've got a lot on my plate right now. I'm really not ready to quit yet.\n\nNurse: I understand that you're dealing with a lot right now and quitting smoking might not be a priority. It's a big decision to make and it's important that you're ready. Can I ask why you feel you're not ready to quit smoking yet?\n\nPatient: I enjoy it, and I'd rather move on",
+    "responses": {
+        "gpt4": "That's alright, it's your decision. Just know that when you're ready, there are plenty of resources available to help you quit. You're not alone in this journey. Let's move on to another topic. Do you have any other questions related to your health conditions?",
+        "our_model": "I understand"
+    }
+}

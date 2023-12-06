@@ -1,0 +1,8 @@
+{
+    "prompt_id": 65,
+    "prompt": "Patient: You asked me that. I said no.\n\nNurse: I apologize for the repetition, Ms. Ware. Does the swelling extend to your arms?\n\nPatient: No.\n\nNurse: Does the swelling extend to your arms, Ms. Ware?\n\nPatient: How many times are you gonna ask me that? I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.\n\nNurse: I apologize for the confusion, Ms. Ware. Can you confirm if the swelling is only in your stomach and not in your arms or legs?\n\nPatient: Oh my gosh. Yes. I sent only in my stomach.",
+    "responses": {
+        "gpt4": "Okay. Is this sudden swelling accompanied by a severe headache, Ms. Ware?",
+        "our_model": "When did the swelling start, Ms. Ware?"
+    }
+}

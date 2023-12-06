@@ -1,0 +1,8 @@
+{
+    "prompt_id": 469,
+    "prompt": "Nurse: That's great to hear. It's critical to take your medications as prescribed to manage your CHF and HTN. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. But like I said, sometimes, I'll stop taking the lasex just so I can get some sleep\n\nNurse: I see, it's understandable that the frequent urination can disrupt your sleep. However, it's important to take Lasix as prescribed to manage your CHF symptoms. Would it be okay if I shared some strategies that might help you manage this better?\n\nPatient: Yes.\n\nNurse: One strategy could be to take your Lasix dose earlier in the day, if possible. This might help reduce the number of times you need to get up at night. However, it's important to discuss this with your doctor first. Would you like me to note this down for Doctor Van?\n\nPatient: Yes.\n\nNurse: I've noted down your concern about the Lasix disrupting your sleep and the suggestion to take it earlier in the day. I'll make sure Doctor Van is aware of this. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Thank you. Starting with the first symptom, have you experienced any new or worsening shortness of breath with activity, when you're laying down, or at rest?",
+        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

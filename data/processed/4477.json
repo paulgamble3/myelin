@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4477,
+    "prompt": "Nurse: I understand, I understand your frustration, Mr. Delarosa. Monitoring fluid intake can be challenging. However, it's an important part of managing your CHF. Would it be okay if I shared some tips on how to manage your fluid intake?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Delarosa. One strategy could be to use a measuring cup to pour your drinks. This way, you can keep track of how much fluid you're consuming. Also, try to spread your fluid intake throughout the day. This can help you feel less thirsty. How does that sound?\n\nPatient: Okay. I guess. How much fluid should I be drinking?\n\nNurse: I'm glad Your doctor has recommended a fluid restriction of 1 liter per day, Mr. Delarosa. This includes all fluids, not just water. It's critical to try to stay within this limit. Does that make sense?\n\nPatient: So one liter, like, one liter soda bottles.\n\nNurse: Yes, Mr. Delarosa, a 1-liter soda bottle is a good way to visualize the amount of fluid you should limit yourself to in a day. It includes all fluids, not just water. Does that help clarify things?\n\nPatient: Yes. So things like coffee and juice",
+    "responses": {
+        "gpt4": "That's correct, Mr. Delarosa. This includes coffee, juice, soup, and other sources of water, such as fruits and vegetables. It might be helpful to write down what you drink throughout the day to keep track. Do you have any other questions about fluid restrictions?",
+        "our_model": "Yes, Mr. Delarosa, all fluids count towards your daily limit, including coffee, juice, and any other beverages. It's essential to keep track of these. Does that make sense?"
+    }
+}

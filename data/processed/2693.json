@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2693,
+    "prompt": "Nurse: Wonderful, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: No. That's okay.\n\nNurse: I apologize for any confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. Is that correct?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you for clarifying, Ms. Aguirre. I really appreciate it. Please remember to keep monitoring your blood sugar and maintain your medications as your doctor recommended. Do you have any more inquiries or concerns you'd like us to discuss today?",
+        "our_model": "Just give me a second to work out the best way I can assist you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming that, Ms. Aguirre. It's critical to keep an eye on your blood sugar levels. If it's alright with you, I'd like to share some suggestions on how to manage your blood sugar levels. Would that be okay?"
+    }
+}

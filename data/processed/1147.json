@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1147,
+    "prompt": "Nurse: That's great, Mr. Cardenas. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I haven't gained any weight.\n\nNurse: That's good to hear, Mr. Cardenas. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great, Mr. Cardenas. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No. I think I understand.\n\nNurse: I apologize for the confusion earlier, Mr. Cardenas. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: No. I haven't.",
+    "responses": {
+        "gpt4": "My apologies for the confusion, but I just wanted to verify something. Are you currently using more pillows to sleep than you typically do?",
+        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you. That's good to hear, Mr. Cardenas. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

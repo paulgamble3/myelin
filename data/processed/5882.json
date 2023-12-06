@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5882,
+    "prompt": "Nurse: I appreciate your responses, Mr. Dang. Could you please tell me if you're a female?\n\nPatient: I am male.\n\nNurse: Thank you for confirming that, Mr. Dang. Is there any more information you'd like to share about your abdominal pain?\n\nPatient: No. The doctor knows all of this.\n\nNurse: I appreciate your patience, Mr. Dang. Do you have any questions or concerns about your upcoming colonoscopy that you'd like to discuss?\n\nPatient: Not really.\n\nNurse: That's perfectly fine, Mr. Dang. I'm here to help you prepare for your colonoscopy. I'll be calling you again the day before your procedure to ensure you have everything you need. Is it okay if we go over a few topics on prep for your colonoscopy now?\n\nPatient: Yes, please.",
+    "responses": {
+        "gpt4": "Great, thank you for your cooperation, Mr. Dang. Would you like to start with the dietary restrictions for the colonoscopy, instructions on taking the bowel prep solution, or what to expect on the day of the procedure?",
+        "our_model": "Give me a moment to check how I can best support you."
+    }
+}

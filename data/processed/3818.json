@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3818,
+    "prompt": "Nurse: That's great, Mr. Hardy. Spending time at home can be very relaxing. Do you have any hobbies or activities you enjoy doing at home?\n\nPatient: I love to read.\n\nNurse: Reading is a wonderful hobby, Mr. Hardy. What kind of books do you enjoy?\n\nPatient: All sorts.\n\nNurse: That's fantastic, Mr. Hardy. Reading a variety of books can be very enriching. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Hardy. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, let's get started. Can you update me on how you've been managing your blood pressure?",
+        "our_model": "Great, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
+    }
+}

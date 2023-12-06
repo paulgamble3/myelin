@@ -1,0 +1,8 @@
+{
+    "prompt_id": 759,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Hello?\n\nNurse: Hello, Ms. Aguirre. I was asking how you've been doing lately. Can you hear me?\n\nPatient: I'm doing alright, I guess, considering everything.",
+    "responses": {
+        "gpt4": "I'm pleased to hear you're managing well under the circumstances, Ms. Aguirre. Is there something particular you're looking forward to doing this week?",
+        "our_model": "I'm glad to hear that you're doing alright, Ms. Aguirre. It's important to focus on the positive aspects, even when dealing with health challenges. Is there anything you're looking forward to doing this week?"
+    }
+}

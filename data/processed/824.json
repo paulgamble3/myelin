@@ -1,0 +1,8 @@
+{
+    "prompt_id": 824,
+    "prompt": "Nurse: Thank you for confirming, Mr. Oliver. Could you please provide your date of birth for verification purposes?\n\nPatient: Yes. It's May second of thirty nine.\n\nNurse: Thank you for confirming your date of birth, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling well. Thank you.\n\nNurse: That's great to hear, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to spending time with my grandkids.\n\nNurse: That sounds lovely, Mr. Oliver. Spending time with family, especially grandkids, can be such a joy. What activities do you usually enjoy doing with them?\n\nPatient: Oh, I like taking them to the movies or for ice cream. Anything where I get some fun time then.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Oliver. Going for movies and ice cream with your grandkids must be really fun. Is there a particular film or maybe an ice cream flavor your grandkids are excited about this time?",
+        "our_model": "Those sound like wonderful ways to spend time with your grandkids, Mr. Oliver. Movies and ice cream are always a hit. Do you have a favorite movie or ice cream flavor that you all enjoy?"
+    }
+}

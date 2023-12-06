@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2517,
+    "prompt": "Nurse: Of course, Mr. Oliver.\n\nPatient: g f r me.\n\nNurse: I see, Mr. Oliver. Your GFR, or Glomerular Filtration Rate, is a measure of how well your kidneys are filtering waste from your blood. According to your recent lab results, your GFR is 67 mL/min/1.73m2. This is within the normal range for someone with Stage II Chronic Kidney Disease. However, it's important to continue managing your health conditions to maintain this level. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat your GFR?\n\nPatient: Oh, I didn't say anything. I just wanted you tell me what GFR means.\n\nNurse: Of course, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood.\n\nPatient: Okay. Do you have a copy of my labs?",
+    "responses": {
+        "gpt4": "Yes, Mr. Oliver, I do have a copy of your labs. Would you like to discuss the results?",
+        "our_model": "Yes, Mr. Oliver, I do have your recent lab results. Your GFR is 67 mL/min/1.73m2. This is within the normal range, which is good news. However, it's important to continue managing your health conditions to maintain this. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

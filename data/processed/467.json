@@ -1,0 +1,8 @@
+{
+    "prompt_id": 467,
+    "prompt": "Nurse: I'm sorry, I'm still not clear on what you're saying. Could you please repeat it or rephrase it?\n\nPatient: I'm not saying anything.\n\nNurse: I see, thank you for clarifying. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to take your medications as prescribed to manage your CHF and HTN. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. But like I said, sometimes, I'll stop taking the lasex just so I can get some sleep\n\nNurse: I see, it's understandable that the frequent urination can disrupt your sleep. However, it's important to take Lasix as prescribed to manage your CHF symptoms. Would it be okay if I shared some strategies that might help you manage this better?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Alright. One strategy could be to schedule your doses for earlier in the day, so that the need to urinate reduces by bedtime. You should also remember to use the restroom before going to bed. However, these are just suggestions and it's important to discuss any change in medication timing with your doctor. How do these options sound to you?",
+        "our_model": "One strategy could be to take your Lasix dose earlier in the day, if possible. This might help reduce the number of times you need to get up at night. However, it's important to discuss this with your doctor first. Would you like me to note this down for Doctor Van?"
+    }
+}

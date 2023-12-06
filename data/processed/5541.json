@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5541,
+    "prompt": "Nurse: That sounds delicious, Mr. Alves. Homemade bread and toast can be a good source of carbohydrates for your low fiber diet. Do you usually have any special toppings or spreads on your toast?\n\nPatient: Queen cheese.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you usually put on your toast?\n\nPatient: Cream cheese.\n\nNurse: Oh, cream cheese sounds like a great topping for your toast, Mr. Alves. It's also a good source of protein. Just remember, this is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. It's good to know that you enjoy your homemade bread and cream cheese. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.",
+    "responses": {
+        "gpt4": "That's good to know, Mr. Alves. Not taking supplements like Psyllium husk or anti-diarrheal medications can help ensure a smooth colonoscopy. Should you have any questions about this, feel free to ask. Can we continue discussing the prep for your colonoscopy?",
+        "our_model": "That's good to hear, Mr. Alves. It's essential to avoid those supplements and medications as they can interfere with your colonoscopy preparation. Do you have any questions about this or is there anything else you'd like to discuss before we move on?"
+    }
+}

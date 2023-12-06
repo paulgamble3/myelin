@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5477,
+    "prompt": "Patient: Having some I'm having some time off were\n\nPatient: box.\n\nNurse: That sounds I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: I volunteer sometimes at theater.\n\nNurse: That sounds wonderful, Ms. Aguirre. What kind of volunteer work do you do at the theater?\n\nPatient: So\n\nNurse: That sounds wonderful, Ms. Aguirre. You volunteer at a theater, is that correct?\n\nPatient: Correct. Yes.",
+    "responses": {
+        "gpt4": "That's great! What kind of roles or tasks do you take on as a volunteer?",
+        "our_model": "That's fantastic, Ms. Aguirre. What do you enjoy most about volunteering at the theater?"
+    }
+}

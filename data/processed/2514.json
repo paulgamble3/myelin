@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2514,
+    "prompt": "Nurse: I see, Mr. Oliver. It sounds like your partner is quite the surfer. That's a great gift idea. Before we move on to discuss your kidney disease, is there anything else you've been feeling concerned about health-wise?\n\nPatient: Let's see. Well,\n\nNurse: Yes, Mr. Oliver?\n\nPatient: I did get some lab work.\n\nNurse: Yes, Mr. Oliver, I have your recent lab results here.\n\nPatient: And I wanna know what\n\nNurse: Of course, Mr. Oliver.\n\nPatient: g f r me.",
+    "responses": {
+        "gpt4": "Yes, I'd be happy to explain. Your GFR or Glomerular Filtration Rate is a measure of how well your kidneys are working. Specifically, it measures how much blood your kidneys are able to filter per minute. Your recent results show a GFR of 67 mL/min/1.73m2. For your age, a normal GFR should be above 60 mL/min/1.73m2, so your kidney function looks to be within a reasonable range for your age and given your conditions. As you know, Dr. Smith is working closely with you to prevent it from falling further. Does that help clarify what the GFR means?",
+        "our_model": "I see, Mr. Oliver. Your GFR, or Glomerular Filtration Rate, is a measure of how well your kidneys are filtering waste from your blood. According to your recent lab results, your GFR is 67 mL/min/1.73m2. This is within the normal range for someone with Stage II Chronic Kidney Disease. However, it's important to continue managing your health conditions to maintain this level. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

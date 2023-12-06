@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1630,
+    "prompt": "Nurse: That's a great approach, Mr. Benton. Stress management is indeed an important part of managing hypertension. Regular physical activity, a balanced diet, and avoiding tobacco can also help. Do you have any questions about managing your hypertension?\n\nPatient: Thank\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: Alright, Mr. Benton. Let's move on to your anemia. How have you been managing this condition?\n\nPatient: I'm Good. I think I take my ferrosulfate, and I think I'm good.\n\nNurse: That's great to hear, Mr. Benton. Taking your Ferrous sulfate as prescribed is indeed important for managing your anemia. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's excellent, Mr. Benton. Not smoking is one of the best decisions you can make for your health, especially with your medical conditions. Keep up the good work. Now onto a different topic, do you have any issues with sleep? Are you getting enough rest every day?",
+        "our_model": "That's excellent, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your chronic conditions. Now, do you have any questions or concerns that you'd like to discuss?"
+    }
+}

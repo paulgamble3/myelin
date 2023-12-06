@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4090,
+    "prompt": "Patient: Yes.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be anything from a brisk walk to your tight rope practice. It's recommended to aim for at least 30 minutes of moderate-intensity exercise most days of the week. Do you think this is something you could continue to do?\n\nPatient: Yeah.\n\nNurse: That's wonderful. Regular exercise can really help manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: One\n\nPatient: twenty over eighty.\n\nNurse: Thank you for sharing that. That's a good reading. It's essential to keep monitoring your blood pressure regularly. If it's not too much trouble, could you share why it's important to keep track of your blood pressure?\n\nPatient: Because high blood pressure is bad.",
+    "responses": {
+        "gpt4": "Indeed, you're right. Keeping blood pressure in a healthy range is crucial for preventing health complications, especially for people with chronic conditions like diabetes. \n\nNow, are you staying current on your medications? Taking them exactly as prescribed is vital for controlling your diabetes and kidney disease.",
+        "our_model": "That's correct. High blood pressure can lead to serious health problems. It's great that you're aware of this. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1243,
+    "prompt": "Nurse: Great, let's talk about your medications. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were supposed to stop this medication 7 days prior to the procedure. Have you stopped taking Plavix, Ms. Raynier?\n\nPatient: Well, yes. I thought it was\n\nNurse: I'm sorry, Ms. Raynier, you were saying?\n\nPatient: five days before the procedure.\n\nNurse: I apologize for any confusion, Ms. Raynier. You're correct. It's 5 days before the procedure. So, you should have stopped taking Plavix two days ago, correct?\n\nPatient: Three days ago because my procedure is in two days.\n\nNurse: I see, thank you for clarifying, Ms. Raynier. So, you stopped taking Plavix three days ago, correct?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you've been able to follow your doctor's instructions, Ms. Raynier. Do you have any questions or concerns about the medication Plavix?",
+        "our_model": "That's great, Ms. Raynier. You're following the instructions correctly. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?"
+    }
+}

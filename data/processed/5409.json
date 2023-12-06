@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5409,
+    "prompt": "Nurse: Great, thank you, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yep.\n\nNurse: That's excellent, Mr. Hardy. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was a one forty eight.\n\nNurse: Thank you for sharing that, Mr. Hardy. Your blood sugar is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Hardy. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Do you feel you're able to incorporate this into your daily routine?\n\nPatient: Yeah. I don't think we're not.",
+    "responses": {
+        "gpt4": "That's a good start, Mr. Hardy. Another important aspect is regular physical activity. It could be something as simple as taking your dog for an extra walk every day, as long as it's okay with your doctor. How does that sound to you?",
+        "our_model": "That's great to hear, Mr. Hardy. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you currently have any physical activities incorporated into your daily routine?"
+    }
+}

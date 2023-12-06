@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5634,
+    "prompt": "Nurse: That's good to hear. And are you also continuing with your Methotrexate?\n\nPatient: Yes, ma'am.\n\nNurse: Great, it's important to keep up with your medications. Are you taking them as prescribed, which would be Valsartan and Lasix twice a day, and Methotrexate once a week?\n\nPatient: That is correct.\n\nNurse: Excellent, you're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I'm good at remembering.\n\nNurse: That's fantastic. Staying on top of your medication schedule is crucial for managing your conditions. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. It is.",
+    "responses": {
+        "gpt4": "Great, thank you. Let's start with shortness of breath. Have you experienced any new or worsening shortness of breath, either while doing activities or at rest?",
+        "our_model": "Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

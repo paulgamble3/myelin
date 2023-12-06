@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1536,
+    "prompt": "Nurse: Great, Mr. Moran. Is there anything else about the logistics of the procedure that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Moran. Let's move on to discuss your medications. Before we do, I want to make sure you're ready to proceed. Can we move forward?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Moran. I see on your chart that you are currently taking Metformin, Fluticasone, and Albuterol. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear, Mr. Moran. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to know, Mr. Moran. If you were taking any blood thinners, they would typically need to be stopped before a knee replacement unless your doctor recommended otherwise. I also want to bring your attention to the fact that you've been prescribed Tylenol, Oxycodone, Gabapentin, and Tramadol for after the procedure. Have you picked up these medications yet?",
+        "our_model": "Great, Mr. Moran. I also notice that you've been prescribed Tylenol, Oxycodone, Gabapentin, and Tramadol for after the procedure. Have you picked these up from the pharmacy yet?"
+    }
+}

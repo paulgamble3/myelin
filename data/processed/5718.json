@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5718,
+    "prompt": "Nurse: I apologize for the confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. Just to confirm, is this reading higher or lower than your usual readings?\n\nPatient: I guess it's\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.\n\nPatient: Like, my normal reading?\n\nNurse: Thank you for clarifying, Ms. Aguirre. It's critical to aim for a blood sugar level that's within the target range for your health. Would you be open to discussing some strategies to help manage your blood sugar levels?\n\nPatient: Said, yeah.\n\nNurse: Great, thank you, Ms. Aguirre. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: That sounds good.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you find this suggestion helpful, Ms. Aguirre. Regular physical activity is another strategy that can help manage blood sugar levels. What types of physical activity do you typically enjoy?",
+        "our_model": "I'm glad you think so, Ms. Aguirre. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could try this?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1940,
+    "prompt": "Patient: I'm usually terrible for mother food.\n\nPatient: I mix it up a little.\n\nNurse: That's a good approach. Variety is key in a balanced diet. Do you also include carbohydrates in your meals?\n\nPatient: I do.\n\nNurse: That's good to hear. Can you share more about the types of carbohydrates you're including in your meals?\n\nPatient: Yeah. I'll do some potatoes, but I think it's better to call.\n\nNurse: Thank you for sharing that. Potatoes and corn are both carbohydrates. As part of your dietary recommendations, you're advised to control your carbohydrate intake to 130 grams per day. This includes all sources of carbohydrates, not just potatoes and corn. Would it be okay if I share some more dietary recommendations with you?\n\nPatient: Yes. So, Rachel, I have one question.",
+    "responses": {
+        "gpt4": "Sure, go ahead. I'm here to help. What's your question?",
+        "our_model": "Of course. What's your question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3500,
+    "prompt": "Nurse: That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the logistics of your procedure?\n\nPatient: No.\n\nNurse: Alright. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: No. I don't think so.\n\nNurse: Alright. To summarize, we discussed your upcoming colonoscopy on August 17 at 10:00 AM with Doctor Meredith Bailey. We went over your medication, the low fiber diet, the clear liquid diet, the bowel prep, and the need to arrange a ride home after the procedure. You've agreed to follow these instructions. Does that sound right?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent. Remember, I'm here for you every step of the way. I'll give you a call again the day before your procedure to go over the prep instructions step by step. If you have any questions in the meantime, don't hesitate to call me. You can reach me at 641-381-6523. Does that sound alright to you?",
+        "our_model": "Great. I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns before then, you can reach us at 641-381-6523. Does that sound good to you?"
+    }
+}

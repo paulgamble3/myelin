@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1350,
+    "prompt": "Nurse: for surgery and reduces the risk of infection. It's available at most pharmacies over the counter. Have you already purchased this scrub?\n\nPatient: I picked it up. Yeah.\n\nNurse: That's great to hear. You'll need to use the scrub the night before and the morning of your procedure. Let's go over the instructions. First, you'll take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Yes.\n\nNurse: Perfect. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: What?\n\nNurse: I'm asking if you can follow the instructions for using the chlorhexidine scrub. You'll need to apply it to a wet, clean washcloth and gently scrub your body from the neck down, avoiding your face, hair, and crotch area. Can you do that?\n\nPatient: I did",
+    "responses": {
+        "gpt4": "Excellent, I'm glad to hear that you're already familiar with the process. Is there anything else you're unsure about or would like us to review in regards to the surgical procedure or your medication?",
+        "our_model": "I'm sorry, could you please repeat what you said?"
+    }
+}

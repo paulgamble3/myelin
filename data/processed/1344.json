@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1344,
+    "prompt": "Nurse: that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: What?\n\nNurse: I apologize for any confusion. I was referring to your current medication, Tylenol 500 mg. You can take this as needed for pain, up to three times a day. Have you picked up this prescription yet?\n\nPatient: Yes. We talked about that.\n\nNurse: I apologize for the repetition. I'm glad to hear you've picked up your Tylenol prescription. Do you have any questions about your medications?\n\nPatient: No. I I don't think so.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub for this purpose?\n\nPatient: What?",
+    "responses": {
+        "gpt4": "Before your surgery, you'll need to clean your skin with a special soap called chlorhexidine gluconate, or CHG. This helps reduce the risk of infection. Have you obtained this soap yet?",
+        "our_model": "a chlorhexidine scrub?"
+    }
+}

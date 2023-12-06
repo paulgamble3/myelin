@@ -1,0 +1,8 @@
+{
+    "prompt_id": 565,
+    "prompt": "Patient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been doing my best follow the diet, eating a lot of\n\nPatient: seamed veggies, A lot whole grains,",
+    "responses": {
+        "gpt4": "That's excellent. Whole grains and steamed veggies are great choices for managing your CHF. How about your intake of sodium and fluids? Have you been able to stay within the recommended limits for those?",
+        "our_model": "That's great to hear."
+    }
+}

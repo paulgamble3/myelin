@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3663,
+    "prompt": "Nurse: I understand that this can be frustrating, but I'm here to help you manage your health. If you could just share a bit about your recent meals, it would be very helpful.\n\nPatient: I whatever the hell I want right show. That's what I eat.\n\nNurse: I see. It's essential to enjoy what we eat. Can you tell me a bit more about what you typically have for breakfast, lunch, and dinner?\n\nPatient: I don't think about it too hard. I just I just grab something and I eat it.\n\nNurse: I see. It's important to be mindful of what we eat, especially for managing CHF and osteoarthritis. Would it be okay if I share some dietary recommendations with you?\n\nPatient: Sure. Whatever.\n\nNurse: Thank you. For managing CHF, it's recommended to limit your fluid intake to 1 liter per day. This includes all fluids, not just water. Also, a diet restricted to 1500 mg of sodium per day is advised. This means avoiding processed foods and adding less salt to your meals. Does that make sense?\n\nPatient: Yep.",
+    "responses": {
+        "gpt4": "Good to know. Based on what you've shared about your regular diet, one suggestion could be to start by reducing the amount of processed food you eat as they often contain high levels of sodium. Can we agree on trying that?",
+        "our_model": "Wonderful. Now, based on what you've shared about your meals, it might be helpful to plan ahead and prepare meals that align with these recommendations. Would you like some suggestions on how to do this?"
+    }
+}

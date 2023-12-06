@@ -1,0 +1,8 @@
+{
+    "prompt_id": 241,
+    "prompt": "Nurse: Thank you, Mr. O'Leary. I hope your day is going\n\nPatient: Yes.\n\nNurse: well so Great, thank you, Mr. O'Leary. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm pretty mad, honestly.\n\nNurse: I'm sorry to hear that you're feeling upset, Mr. O'Leary. Would you like to share what's been bothering you?\n\nPatient: Not really.\n\nNurse: I see, Mr. O'Leary. I'm here to help you with any concerns you might have about your upcoming procedure. It's completely normal to feel a bit anxious before a major procedure. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your knee replacement?\n\nPatient: No. I just wanna feel better.",
+    "responses": {
+        "gpt4": "I completely understand, Mr. O'Leary. It's our top priority to ensure you receive the care you need so you can start feeling better as quickly as possible. Rest assured that you're in good hands and your feelings are completely normal. Do you have any questions or concerns about your upcoming knee replacement that you'd like us to address?",
+        "our_model": "I can certainly appreciate that, Mr. O'Leary. The goal of this procedure is indeed to help you feel better and improve your quality of life. How are you feeling about the procedure itself?"
+    }
+}

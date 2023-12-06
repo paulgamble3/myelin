@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1565,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Reynolds. It's always nice to have a normal day. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: Okay. I hate those things.\n\nNurse: I can imagine that it's not something one looks forward to, Mr. Reynolds. It's completely normal to feel a bit apprehensive. Can you share more about what specifically bothers you about the procedure?\n\nPatient: Well, first, you have to do this prep. You have to on your whole\n\nNurse: I see, Mr. Reynolds. The preparation for a colonoscopy can indeed be a bit uncomfortable. It's designed to clean out your colon so that Doctor\n\nPatient: For hours. And\n\nNurse: Give me a moment to check how I can best support you.\n\nPatient: then you gotta go have somebody pick up two above your butt. So",
+    "responses": {
+        "gpt4": "Sorry, Mr. Reynolds. I didn't quite understand that last part. Can you please repeat that?",
+        "our_model": "I see, I'm sorry, Mr. Reynolds, I didn't quite catch the last part of what you said. Could you please repeat that?"
+    }
+}

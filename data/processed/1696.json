@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1696,
+    "prompt": "Nurse: Alright, Mr. O'Leary. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. O'Leary. It's critical to avoid those medications unless specifically recommended by your doctor. Now, I notice that you've also been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: That's great, Mr. O'Leary. It's essential to have those medications on hand for after your procedure. Do you have any questions about these or any other medications?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. If any questions come up later, don't hesitate to ask. Now, let's move on to discussing how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's excellent, Mr. O'Leary. Now, I'll go over the instructions on how to use the chlorhexidine scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a regular shower. After your shower, turn off the water. Are you following so far?",
+        "our_model": "That's excellent, Mr. O'Leary. You're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?"
+    }
+}

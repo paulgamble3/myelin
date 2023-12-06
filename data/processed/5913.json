@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5913,
+    "prompt": "Nurse: I'm sorry, I didn't quite understand your response. Could you please let me know what you think about the suggestion to eat balanced meals?\n\nPatient: It sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to incorporate some physical activity into your day, even if it's just a short walk. This can help your body use insulin more effectively. Do you think you could try that?\n\nPatient: Sure.\n\nNurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.\n\nNurse: That's good to hear that you're keeping track. Could you please share with me what the result was?\n\nPatient: Yeah. It was ninety over one twenty.",
+    "responses": {
+        "gpt4": "That's a bit higher than the ideal range. Were there any unusual circumstances that might have elevated your blood pressure, like stress or caffeine consumption?",
+        "our_model": "Thank you for sharing that. The reading is a bit high. Would it be okay if I share some suggestions on how to manage your blood pressure?"
+    }
+}

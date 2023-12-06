@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1219,
+    "prompt": "Nurse: Alright, Mr. Dang. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. I appreciate your patience. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Dang. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the day of your procedure?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Dang. That covers all the topics we needed to go over today. Before we end this call, do you have any other questions or concerns?",
+        "our_model": "Alright, Mr. Dang. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

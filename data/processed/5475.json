@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5475,
+    "prompt": "Patient: I've been doing\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: I've been doing good. Thank you.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Having some I'm having some time off were\n\nPatient: box.\n\nNurse: That sounds I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: I volunteer sometimes at theater.",
+    "responses": {
+        "gpt4": "That sounds wonderful, Ms. Aguirre. Volunteering at a theater must be quite interesting. Can you tell me more about it?",
+        "our_model": "That sounds wonderful, Ms. Aguirre. What kind of volunteer work do you do at the theater?"
+    }
+}

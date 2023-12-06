@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5700,
+    "prompt": "Nurse: That's a great start. Walking is a wonderful low-impact exercise that can help manage CHF. How long do your walks usually last?\n\nPatient: Forty five minutes.\n\nNurse: That's excellent. A 45-minute walk is a good way to stay active. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: Yes.\n\nNurse: Okay. It's critical to remember to listen to your body while exercising. If you feel short of breath or fatigued, it's okay to slow down or take a break. You might also consider adding some light strength training exercises to your routine, such as lifting small hand weights or using resistance bands. However, it's always best to consult with your doctor before starting any new exercise program. Does that sound manageable to you?\n\nPatient: Yes. It does.\n\nNurse: That's great to hear. Remember, the goal is to stay active and listen to your body. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: Now.",
+    "responses": {
+        "gpt4": "That's alright! Let's move onto the final part of our conversation. I will inform Doctor Maria Rodriguez about our conversation and your progress. Do you have any remaining questions or concerns that need to be addressed?",
+        "our_model": "I'm sorry, could you please repeat your response?"
+    }
+}

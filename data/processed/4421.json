@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4421,
+    "prompt": "Nurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.\n\nNurse: Okay. I'm glad to hear that you're doing well. My next question is about your current health status. Do you have any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No. I don't.\n\nNurse: That's good to hear. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yep.\n\nNurse: Excellent. It's important to have a comfortable and safe place to recover after your procedure. Now, my last question is about your transportation and support at home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "Perfect, having someone to assist you after the procedure is crucial for your recovery. Is there anything else that you are unsure about or any other questions you may have?",
+        "our_model": "That's great to hear. It's essential to have someone to assist you as you recover. If there's anything else you need to arrange or if you have any questions, feel free to let me know. We're here to support you. Is there anything else you'd like to discuss?"
+    }
+}

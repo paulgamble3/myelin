@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2947,
+    "prompt": "Nurse: Alright, Ms. McKloskey. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Great, Ms. McKloskey. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright, Ms. McKloskey. If any questions come up later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. I do not have any questions at this juncture.\n\nNurse: Alright, Ms. McKloskey. Let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great news, Ms. McKloskey. We want you in the best health possible before your procedure. Now, let's confirm your anticipated discharge plan. You are currently expected to go home after the procedure. Is that still the plan?",
+        "our_model": "That's good to hear, Ms. McKloskey. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?"
+    }
+}

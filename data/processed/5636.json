@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5636,
+    "prompt": "Nurse: Excellent, you're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I'm good at remembering.\n\nNurse: That's fantastic. Staying on top of your medication schedule is crucial for managing your conditions. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. It is.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that. What about a new or worsening dry cough? Have you noticed any changes like that?",
+        "our_model": "I'm glad to hear that. How about a new or worsening dry cough?"
+    }
+}

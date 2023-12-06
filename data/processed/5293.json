@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5293,
+    "prompt": "Nurse: Alright, Ms. Rivers. Now, let's discuss your Atrial Fibrillation. How have you been managing your Atrial Fibrillation?\n\nPatient: I don't know how to answer that.\n\nNurse: That's okay, Ms. Rivers. It's essential to take your prescribed medications as directed by your doctor to manage your Atrial Fibrillation. Regular physical activity can also help. Do you have any questions about managing your Atrial Fibrillation?\n\nPatient: No.\n\nNurse: Alright, Ms. Rivers. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I I did smoke.\n\nNurse: Thank you for sharing that, Ms. Rivers. I know it's not easy to talk about, but it's an important part of managing your health. Have you ever considered quitting smoking?\n\nPatient: I'm not really up for quitting right now.",
+    "responses": {
+        "gpt4": "I absolutely understand, Ms. Rivers. Giving up smoking is a very significant and personal decision. When you feel ready to consider it, know that we have lots of resources and strategies that could help, such as nicotine replacement therapies and support groups. Is there any aspect of smoking that you might like to discuss further?",
+        "our_model": "I appreciate your honesty, Ms. Rivers. Quitting smoking is a big decision and it's important to do it when you're ready. Could you share why you feel you're not ready to quit at this time?"
+    }
+}

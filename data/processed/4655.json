@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4655,
+    "prompt": "Nurse: When did you start having bloody stool, Mr. Amador?\n\nPatient: You already know that I have that.\n\nPatient: Whole reason why I'm getting the code off\n\nPatient: p.\n\nNurse: I understand, Mr. Amador. I need to ask these questions for our records. Does the blood in your stool appear to be bright red, or is it more of a dark, tarry color?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Amador. Do you experience any abdominal pain along with the bloody stool?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for confirming, Mr. Amador. When was your last colonoscopy exam?",
+        "our_model": "Do you have a hemorrhoid or a lump at your rectum, or have you noticed any red streaks on your stool, Mr. Amador?"
+    }
+}

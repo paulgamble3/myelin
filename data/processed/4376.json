@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4376,
+    "prompt": "Nurse: Of\n\nPatient: really nice being home. I mean,\n\nNurse: course, the Absolutely, there's no place like home. It's always nice to be in our own space. Do you have any hobbies or pets that you enjoy spending time with at home?\n\nPatient: home is home.\n\nNurse: Absolutely, there's no place like home. It's always comforting to be in our own space. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I really love\n\nNurse: I'm sorry, Aileen, you were saying?\n\nPatient: earth making.",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? I didn't quite catch what you said.",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you enjoy doing at home?"
+    }
+}

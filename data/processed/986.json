@@ -1,0 +1,8 @@
+{
+    "prompt_id": 986,
+    "prompt": "Nurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One hundred twelve.\n\nNurse: Thank you for sharing that. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of this. Now, let's talk about your blood pressure. When did you last measure your blood pressure, and what was the result?\n\nPatient: I last measured it earlier today, and it was\n\nNurse: I'm sorry, you were saying?\n\nPatient: one hundred over eighty",
+    "responses": {
+        "gpt4": "Thank you for sharing that. A blood pressure reading of 100 over 80 mm Hg is within the normal range. To maintain good blood pressure control, can I share some suggestions with you?",
+        "our_model": "Thank you for that information. A blood pressure reading of 100 over 80 is within the normal range, which is good news. It's essential to keep monitoring it regularly. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

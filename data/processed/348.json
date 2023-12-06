@@ -1,0 +1,8 @@
+{
+    "prompt_id": 348,
+    "prompt": "Nurse: I'm glad to hear that. Now, let's discuss your other chronic conditions. You also have hypertension, or high blood pressure. How have you been managing this condition?\n\nPatient: It's it's gone fine.\n\nNurse: That's good to hear. It's critical to keep managing your hypertension to protect your kidneys. Now, let's discuss your anemia. How have you been managing this condition?\n\nPatient: It's fine.\n\nNurse: I'm glad to hear that. It's important to keep managing your anemia to maintain your energy levels and overall health. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: No. I don't smoke.\n\nNurse: That's excellent. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns that you'd like to discuss?\n\nPatient: No. I do not.",
+    "responses": {
+        "gpt4": "Great, I appreciate your time, Damian. You've agreed to continue following the DASH diet and your low salt diet, keep taking your medications as prescribed, and continue monitoring your blood sugar and blood pressure levels. Great job managing your conditions so far! Can I count on you to keep up with this plan?",
+        "our_model": "Alright. To summarize, you've agreed to continue managing your diet, taking your medications as prescribed, and monitoring your blood sugar and blood pressure levels. Can I count on you to continue these practices?"
+    }
+}

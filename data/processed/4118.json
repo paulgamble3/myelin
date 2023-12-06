@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4118,
+    "prompt": "Nurse: Cheeto, that's a fun name! What kind of dog is Cheeto?\n\nPatient: At a quality,\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: It's a two hour\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: At yuwala\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?\n\nPatient: Is it Chihuahua?",
+    "responses": {
+        "gpt4": "Oh, a Chihuahua! I see, that makes sense. Cheeto must be a great companion. Thank you for clarifying.",
+        "our_model": "Yes, that's correct! Chihuahuas are such lively little dogs. Cheeto must be a joy to have around. Now, I'm calling on behalf of Doctor Robert Benson and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

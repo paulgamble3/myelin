@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1097,
+    "prompt": "Nurse: I apologize for the interruption. Please, continue. You were saying you've been experiencing quite a lot of pain. Can you tell me more about that?\n\nPatient: Yeah. It's just pretty painful to, like,\n\nNurse: I'm sorry to hear that you're experiencing pain.\n\nPatient: get around you know, pain with movement is the is the problem.\n\nNurse: I'm sorry to hear that you're experiencing pain, especially with movement.\n\nPatient: But\n\nNurse: I'm sorry to hear that you're experiencing pain, especially when moving. It's quite common with osteoarthritis. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once your knee is feeling better?\n\nPatient: The balance right now",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? I didn't catch your last statement.",
+        "our_model": "I'm sorry, could you please repeat that?"
+    }
+}

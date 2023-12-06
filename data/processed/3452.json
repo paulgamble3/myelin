@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3452,
+    "prompt": "Nurse: That's great to hear, Ms. Aguirre. It's essential to take Tylenol only when you need it for pain. Lastly, you're prescribed Atorvastatin 40 mg, which you should be taking once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Ms. Aguirre. It's critical to take your Atorvastatin as prescribed to manage your cholesterol levels. I want to acknowledge that it's common to miss a dose here or there. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Hello?\n\nNurse: Yes, Ms. Aguirre, I'm here. I was asking if you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's fantastic, Ms. Aguirre. You're doing a great job managing your medications. I also want to remind you that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. It's critical to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Ms. Aguirre. If you have any questions in the future, please don't hesitate to ask. Let's move on to talking about your diet. Nutrition is key in managing your conditions. Would you be willing to share what your breakfast, lunch, and dinner typically look like?",
+        "our_model": "Alright, Ms. Aguirre. If you have any questions in the future, don't hesitate to ask. Now, I'd like to discuss your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

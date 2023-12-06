@@ -1,0 +1,8 @@
+{
+    "prompt_id": 224,
+    "prompt": "Nurse: That sounds like a healthy choice, Ms. Aguirre. Salads can be a great way to incorporate a variety of vegetables into your diet. For the tuna, did you have it canned in water or oil?\n\nPatient: Yeah. For for breakfast, I had\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your breakfast?\n\nPatient: some oatmeal and some fruit.\n\nNurse: That's another good choice, Ms. Aguirre. Oatmeal is a whole grain and can be a good source of fiber. Fruits are also a great source of vitamins and minerals. Do you mind if I provide some suggestions to further optimize your diet?\n\nPatient: It's\n\nNurse: Ms. Aguirre. Oatmeal is a whole grain and can be a good source of fiber. Fruits are also a great source of vitamins and minerals. Do you mind if I provide some suggestions to further optimize your diet?\n\nPatient: Aguirre.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, could you please repeat your response?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat what you said?"
+    }
+}

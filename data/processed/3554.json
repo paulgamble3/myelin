@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3554,
+    "prompt": "Nurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Good.\n\nNurse: I'm glad to hear that, Mr. Gardner. It's critical to keep up with your medications. I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's a positive sign, Mr. Gardner. Now, let's talk about your comfort. Have you been experiencing any new or worsening chest pain recently?",
+        "our_model": "That's good to hear, Mr. Gardner. Now, have you experienced any ongoing or worsening chest pain?"
+    }
+}

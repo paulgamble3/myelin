@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2589,
+    "prompt": "Nurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the result was?\n\nPatient: ninety over one cent.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: I took it three hours ago, and it was ninety over one cent.\n\nNurse: I'm sorry, Alex, I didn't quite understand the second part of your response. Could you please repeat what your blood pressure reading was?\n\nPatient: Ninety over a hundred and ten.\n\nNurse: Thank you for sharing that. It's essential to keep an eye on your blood pressure. If you're comfortable with it, I can provide some recommendations on how to manage your blood pressure. Would that be alright?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great. Similar to managing your blood sugar, following a balanced diet and incorporating regular physical activity can also aid in keeping your blood pressure levels under control. Furthermore, it could be beneficial to limit your sodium (salt) intake and avoid tobacco and excessive alcohol consumption. Does this sound manageable for you?",
+        "our_model": "Excellent. One strategy is to maintain a healthy diet. This includes eating a variety of foods, but especially focusing on fruits, vegetables, and lean proteins. It's also important to limit foods high in sodium. Do you feel you're able to incorporate this into your daily routine?"
+    }
+}

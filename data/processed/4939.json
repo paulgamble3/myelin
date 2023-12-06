@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4939,
+    "prompt": "Nurse: Of course. I apologize for the oversight. Is there anything specific you've been looking forward to doing now that you're back home?\n\nPatient: To watching my TV shows in peace\n\nNurse: That sounds like a great way to relax. What kind of TV shows do you enjoy watching?\n\nPatient: and quiet with nobody bothering me.\n\nNurse: That sounds like a well-deserved break. Watching your favorite TV shows in peace and quiet can be quite relaxing. What kind of shows do you enjoy?\n\nPatient: I like the history channel.\n\nNurse: The History Channel is a great source of knowledge and entertainment. It's always interesting to learn about the past. Do you have a favorite show or period in history that you enjoy learning about?\n\nPatient: I like movies, action movies, just about anything.",
+    "responses": {
+        "gpt4": "Watching action movies can be quite exciting! It's easy to get engrossed in the plots. Do you have a favorite action film or actor you like?",
+        "our_model": "It sounds like you have a diverse taste. History and action movies can be quite engaging. Do you have a favorite history or action movie that you're looking forward to watching?"
+    }
+}

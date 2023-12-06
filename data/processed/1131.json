@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1131,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Kai Cardenas?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: June sixth nineteen seventy six.\n\nNurse: Thank you for confirming your date of birth, Mr. Cardenas. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing very well. Thank you for asking.\n\nNurse: That's wonderful to hear, Mr. Cardenas. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well. My dog definitely missed me, so I am happy to be home.",
+    "responses": {
+        "gpt4": "Oh, having a furry friend waiting for you at home must be such a joy! Dogs really do make a house feel like home. What's your dog's name and breed?",
+        "our_model": "That sounds lovely, Mr. Cardenas. Dogs are such wonderful companions. What's your dog's name and what breed is he or she?"
+    }
+}

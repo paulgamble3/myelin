@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2450,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Oliver. Now, I'd like to review your medications with you to ensure everything is going well. You're currently taking Valsartan 40 mg once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Oliver. Now, let's move on to your next medication. You're also prescribed Lantus 100 IU/mL prefilled pen, with a dosage of 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Mr. Oliver. It's important to take your medications as prescribed to manage your conditions effectively. I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble remembering to take your medications?\n\nPatient: Know.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Oliver, I didn't catch that. Could you please repeat your response?",
+        "our_model": "I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat your response?"
+    }
+}

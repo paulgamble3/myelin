@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5370,
+    "prompt": "Nurse: That sounds like a wonderful plan, Mr. O'Leary. Zoom book classes can be a great way to stay engaged and learn new things. How are you feeling about your upcoming procedure?\n\nPatient: I don't know. I'm not I'm not thrilled about it, to be honest.\n\nNurse: I can imagine that it's a bit daunting, Mr. O'Leary. It's completely normal to have some apprehension before a procedure. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: I mean, is this really gonna make any difference in my pain level?\n\nNurse: That's a very valid concern, Mr. O'Leary. Total knee replacement is one of the most successful procedures in all of medicine. It's designed to relieve pain and help you get back to doing the things you enjoy. Doctor Cristina Stevens, your surgeon, is highly experienced and has performed over 1000 total knee replacements. She's known for her excellent outcomes. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. Now I just wanna\n\nNurse: I'm here to ensure you have everything you need, Mr. O'Leary.\n\nPatient: get this call done with, you know?",
+    "responses": {
+        "gpt4": "Of course, Mr. O'Leary. I'll make this as straightforward as possible for you. Let's get the logistics out of the way first. You are scheduled for a right knee total knee replacement procedure on August 13th at 9:00 AM with Dr. Cristina Stevens. Please plan to arrive about an hour earlier, at 8:00 AM. Does this work for you?",
+        "our_model": "I appreciate your patience, Mr. O'Leary. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?"
+    }
+}

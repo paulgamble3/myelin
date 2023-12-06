@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1537,
+    "prompt": "Nurse: Alright, Mr. Moran. Let's move on to discuss your medications. Before we do, I want to make sure you're ready to proceed. Can we move forward?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Moran. I see on your chart that you are currently taking Metformin, Fluticasone, and Albuterol. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear, Mr. Moran. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: Great, Mr. Moran. I also notice that you've been prescribed Tylenol, Oxycodone, Gabapentin, and Tramadol for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes. I picked them up today.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Moran. You are well-prepared. Do you have any questions about the medications or anything else you'd like to discuss before we move on to the next topic?",
+        "our_model": "That's excellent, Mr. Moran. It's critical to have these medications on hand for after your procedure. Do you have any questions about these medications or any other aspect of your medication regimen?"
+    }
+}

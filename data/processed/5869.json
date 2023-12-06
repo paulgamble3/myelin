@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5869,
+    "prompt": "Patient: Hi. Of course, it is.\n\nNurse: Hello, Mr. Great, thank you, Mr. Dang. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Why my tummy is hurting\n\nNurse: I'm sorry to hear that you're experiencing abdominal pain, Mr. Dang. Can you tell me a bit more about it?\n\nPatient: So I wanna do this as soon as I can.\n\nNurse: I'm sorry to hear that you're experiencing abdominal pain, Mr. Dang. Can you confirm that this is the reason you're having the colonoscopy?\n\nPatient: Oh, that's the only reason I'm having it\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
+    "responses": {
+        "gpt4": "I see, Mr. Dang. To better assess your situation, it would be helpful if you could give me more details about your abdominal pain. When did this pain start?",
+        "our_model": "I see, Mr. Dang. When did your abdominal pain start?"
+    }
+}

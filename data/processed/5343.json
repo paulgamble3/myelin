@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5343,
+    "prompt": "Nurse: That's great, Mr. Gardner. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Gardner. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: I'm sorry, Mr. Gardner. I thought I heard you say you've been using more pillows to sleep. Could you please confirm that?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you. I apologize for the confusion, Mr. Gardner. Thank you for confirming. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I've been managing my CHF for a long time.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Gardner. Consistency in self-monitoring is key in managing CHF. You're doing a good job. Is there anything else you'd like to ask me or Doctor Thornton at this time?",
+        "our_model": "I see, Mr. Gardner. It's great that you're familiar with managing your CHF. Now, let's talk about your diet. Can you tell me about your recent meals?"
+    }
+}

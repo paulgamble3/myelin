@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5677,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could\n\nPatient: dishes right now.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to with your embroidery?\n\nPatient: This thing is\n\nNurse: I'm sorry, I didn't quite understand that. Could you please repeat what you're looking forward to with your embroidery?\n\nPatient: sitches again. I'm out of practice.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you're experiencing a change in your speech?\n\nPatient: I am not.",
+    "responses": {
+        "gpt4": "Okay, I appreciate your clarification. I must have misunderstood you earlier. Please don't hesitate to inform us if you notice any changes in your health condition. Thanks for your time today.",
+        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. Give me a moment to check how I can best help you. I apologize for the confusion earlier. It's wonderful that you're eager to get back into embroidery. It's a skill that can be honed over time. Now, I have a few topics to cover with you on behalf of Doctor Maria Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

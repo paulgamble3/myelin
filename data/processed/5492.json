@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5492,
+    "prompt": "Nurse: lab results show that your potassium level is 4.5 mEq/L. This is within the normal range. Do you have any other questions or concerns about your lab results or anything else?\n\nPatient: Can you tell me what that name?\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your question?\n\nPatient: Yes. Can you tell me what that means as far as my lab results? Can you tell me what that means? I don't understand.\n\nNurse: Absolutely, Ms. Aguirre. Your potassium level of 4.5 mEq/L is within the normal range. Potassium is a mineral that's crucial for heart function, muscle contraction, and nerve transmission. It's good that your level is within the normal range. Do you have any other questions about your lab results or anything else?\n\nPatient: No. I appreciate it. Thanks.\n\nNurse: You're welcome, Ms. Aguirre. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: That's alright.",
+    "responses": {
+        "gpt4": "Great, thank you for your time, Ms. Aguirre. It's been a pleasure speaking with you today. Don't hesitate to reach out if you have any questions or concerns in the future. Enjoy the Good Morning Show with Billy Curtis and your time at the theater. Take care!",
+        "our_model": "Okay, thank"
+    }
+}

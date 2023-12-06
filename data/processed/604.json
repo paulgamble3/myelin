@@ -1,0 +1,8 @@
+{
+    "prompt_id": 604,
+    "prompt": "Nurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with\n\nPatient: awesome.\n\nNurse: Thank you, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Talked to\n\nNurse: Thank you, Ms. Chabot. Let's start\n\nPatient: someone.\n\nNurse: I'm glad to hear that, Ms. Chabot. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Hello, Rachel. Are you there?",
+    "responses": {
+        "gpt4": "Yes, I am here, Ms. Chabot. Have you been experiencing any new or worsening shortness of breath, either during activity, when lying down, or at rest?",
+        "our_model": "Yes, Ms. Chabot, I'm here. I was asking about any"
+    }
+}

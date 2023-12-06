@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2881,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Hubert Douglas?\n\nPatient: Yes. That's me.\n\nNurse: Hello, Mr. Douglas. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm okay, I think. Just a little scared about everything that's happened recently?",
+    "responses": {
+        "gpt4": "I understand how overwhelming this can all be, Mr. Douglas. And it's completely okay to feel this way. But remember, you're not alone in this. Your care team, including Dr. Malcom Garrett and myself, are here with you every step of the way on this journey. \n\nOn a lighter note, it must be nice to be back home again. Is there anything particular you're looking forward to doing at home?",
+        "our_model": "I can imagine that it's been a lot to take in, Mr. Douglas. It's completely normal to feel a bit scared after a hospital stay. But remember, you're not alone in this. We're here to support you. Is there anything specific you're looking forward to doing now that you're back home?"
+    }
+}

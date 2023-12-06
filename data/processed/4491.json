@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4491,
+    "prompt": "Nurse: That's great, Mr. Delarosa. Walking is a wonderful form of exercise. How often and for how long do you walk?\n\nPatient: I walk every other night for about an hour.\n\nNurse: That's excellent, Mr. Delarosa. Walking for an hour every other night is a good way to stay active. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Would that be alright?\n\nPatient: I mean, I I guess so. I I'm just\n\nNurse: I understand, Mr. Delarosa. It's normal to feel a bit unsure about changes. One suggestion could be to try and walk a little bit every\n\nPatient: I mean,\n\nNurse: I understand, Mr. Delarosa. It's normal to feel a bit unsure about changes. One suggestion could be to try and walk a little bit every day, if you feel up to it. This could be a short walk in the morning or evening. How does that sound?\n\nPatient: can I actually really participate in",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Mr. Delarosa, could you please repeat what you said?"
+    }
+}

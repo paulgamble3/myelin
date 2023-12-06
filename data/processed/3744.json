@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3744,
+    "prompt": "Nurse: Alright, Ms. Odonnell. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing with your health conditions?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Hello. I said, yes. I have.\n\nNurse: That's great to hear, Ms. Odonnell. Could you please tell me what your last blood sugar reading at home was?\n\nPatient: My last blood sugar reading was one twenty one,\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Going to affect my mental health. Uh-uh.",
+    "responses": {
+        "gpt4": "I'm here to help with your physical health, and I know it's just as important to take care of your mental health. Managing blood sugar levels can indeed improve overall wellbeing. Can I share a suggestion? Would you be open to trying to include more fiber in your diet? Fiber can help slow the rate that sugar is absorbed into your bloodstream and keep your blood sugar levels more stable.\n",
+        "our_model": "Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range for people with diabetes. If you're open to it, I can provide some recommendations to help manage your blood sugar levels. Would that be okay?"
+    }
+}

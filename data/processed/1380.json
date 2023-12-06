@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1380,
+    "prompt": "Nurse: Yes, Mr. Grewe, you'll need to adjust your Lantus dosage to 2 units on the day of the\n\nPatient: The coming days.\n\nNurse: Thank you for confirming that, Mr. Grewe. It's important to adjust your Lantus dosage to 2 units on the day of the procedure. Do you have any questions about this change?\n\nPatient: No.\n\nNurse: Alright, Mr. Grewe. Now, I'd like to ask if you're taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Lantus Foreman.\n\nNurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which\n\nPatient: Lantus,",
+    "responses": {
+        "gpt4": "Lantus is the insulin you're taking, correct? You mentioned something else along with it. Could you please repeat that medication?\n",
+        "our_model": "I'm sorry, Mr. Grewe, could you please repeat that?"
+    }
+}

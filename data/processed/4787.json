@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4787,
+    "prompt": "Nurse: Baking\n\nPatient: and decorate them, and it's lots of fun.\n\nNurse: together sounds Baking together sounds like a delightful tradition. It must be a treat to enjoy those homemade goodies. Speaking of treats, it's just a few days before your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: My dog for walks again, being able to go to the mall with\n\nNurse: That sounds like a wonderful plan. Walking your dog and going to the mall will be enjoyable activities, especially after your recovery. What kind of dog do you have?\n\nPatient: my granddaughter, and my daughter will be lots of fun.\n\nNurse: That sounds like a wonderful plan. Walking your dog and spending time with your granddaughter at the mall will be enjoyable activities once you've recovered. How are you feeling about your upcoming procedure?\n\nPatient: I am excited about it. I'm a little bit anxious. You know, I",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? You were saying something about being a little anxious.",
+        "our_model": "It's completely normal to feel a bit anxious before a procedure. It's a big step, but a positive one towards improving your mobility and reducing your knee pain. Before we move on, do you have any questions or concerns you'd like to discuss?"
+    }
+}

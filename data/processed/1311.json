@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1311,
+    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Okay.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: You know, I'm I'm I'm doing pretty well, I guess. Thanks.\n\nNurse: I'm glad to hear that you're doing well. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from the surgery?\n\nPatient: Oh, boy. I sure am looking forward to being out pain and being able to go on my walks again.",
+    "responses": {
+        "gpt4": "That sounds like a beautiful goal to work towards. Walking can be very therapeutic, especially if you've been in pain for awhile. Rest assured, the healthcare team will do their very best to help you regain your mobility and reduce or eliminate the knee pain you've been experiencing. If you have any questions or concerns, please do not hesitate to share them.",
+        "our_model": "That sounds like a wonderful plan. Walking is a great way to stay active and enjoy the outdoors. Do you have a favorite route or park you're excited to visit once you're back on your feet?"
+    }
+}

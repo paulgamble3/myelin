@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2330,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling this way, Mr. Ponce. It's critical to keep track of these symptoms. Can you tell me more about the shortness of breath and the dry cough?\n\nPatient: It's more difficult to breathe now.\n\nNurse: I see, Mr. Ponce. Difficulty in breathing can be a concerning symptom. Have you noticed any patterns or triggers that seem to make it worse, such as certain activities or positions?\n\nPatient: No.\n\nNurse: Alright, Mr. Ponce. It's important to monitor these symptoms closely. Now, let's move on to your medications. Have you been able to pick up your new prescription for Hydrochlorothiazide 25 mg?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Ponce. Are you taking the Hydrochlorothiazide 25 mg two times a day as prescribed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's splendid, Mr. Ponce. You're doing a great job. Moving on to your existing medications. Are you still taking the Captopril, Carvedilol, and Metformin tablets?",
+        "our_model": "That's excellent, Mr. Ponce. Now, let's discuss your existing medications. Are you still taking Captopril, Carvedilol, and Metformin?"
+    }
+}

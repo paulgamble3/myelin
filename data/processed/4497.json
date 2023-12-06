@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4497,
+    "prompt": "Nurse: I understand your concerns, Mr. Delarosa. It's important to remember that regular physical activity can help manage your conditions. However, it's crucial to do so in a way that's safe and appropriate for your health. Would it be okay if I shared some suggestions on how to safely increase your physical activity?\n\nPatient: Okay.\n\nNurse: Thank you, Mr. Delarosa. One suggestion could be to gradually increase the frequency of your walks. For example, you could aim to walk every night instead of every other night. Another suggestion could be to add a few minutes to your walk each week. How does that sound?\n\nPatient: Oh, I I can definitely do that.\n\nNurse: That's great to hear, Mr. Delarosa. Increasing your physical activity gradually is a good way to improve your health. Remember, it's important to listen to your body and not push yourself too hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Delarosa. I understand that adjusting diet and exercise can be hard. It's a big change and it's normal to have questions or concerns. Is there anything else you'd like to discuss?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, Mr. Delarosa. Please know that we're here to support you. I will be informing Dr. Gervais about our discussion and the adjustments you've agreed to make. Is there anything else you're concerned about that you would like me to pass on to your doctor?",
+        "our_model": "Alright, Mr. Delarosa. I'll be sure to inform Doctor Gervais about our conversation and how you're doing. Before we end the call, do you have any remaining questions or concerns?"
+    }
+}

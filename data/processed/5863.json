@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5863,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lanlan Dang?\n\nPatient: Yes. It is.",
+    "responses": {
+        "gpt4": "Great. For confidentiality and security purposes, could you please provide your date of birth, including the month, day, and year?",
+        "our_model": "Thank you for confirming. Could you please provide your date of birth for verification purposes?"
+    }
+}

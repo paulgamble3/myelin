@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5259,
+    "prompt": "Patient: Scared but\n\nPatient: Nothing too crazy.\n\nNurse: I'm sorry to hear that you're feeling scared, Mr. Rivers. It's completely normal to feel this way given your health conditions. Is there anything specific that's been on your mind or any symptoms that you're particularly concerned about?\n\nPatient: I guess, what does it mean that I have stage two gave me dizzy.\n\nNurse: I'm sorry, Mr. Rivers, I didn't quite catch that. Could you please repeat what you were saying?\n\nPatient: What does it mean that I have stage two kidney disease.\n\nNurse: I appreciate your question, Mr. Rivers. Having Stage II Chronic Kidney Disease means that your kidneys are not functioning at their full capacity, but they are still able to do their job. It's critical to manage your other conditions, like diabetes and high blood pressure, to help slow down the progression of kidney disease. Is there anything else you'd like to know about your kidney disease or any other symptoms you're concerned about?\n\nPatient: No. I guess not.",
+    "responses": {
+        "gpt4": "Alright, Mr. Rivers. If you have any questions in the future, please don't hesitate to ask. Your healthcare team is here to support you. It's important to monitor any changes in how you're feeling and to follow your treatment plan precisely. You're doing a great job taking care of your health. I'll relay our conversation back to Dr. Suarez. Take care.",
+        "our_model": "Alright, Mr. Rivers. If you have any questions in the future, don't hesitate to ask. Is there anything you're looking forward to doing this week?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2701,
+    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit higher than the ideal range. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you, Ms. Aguirre. One suggestion is to reduce your sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: No. Don't wait.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Sounds fine.\n\nNurse: Thank you for your response, Ms. Aguirre. Another suggestion is to increase your intake of fruits and vegetables, as they are naturally low in sodium and can help lower blood pressure. Do you think you could try that?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Aguirre. Fruits and vegetables are very beneficial for your health in multiple ways. I see that your appointment with Dr. Contreras is coming up next week. Do you have any questions or concerns you'd like us to address during that visit?",
+        "our_model": "That's great to hear, Ms. Aguirre. Including more fruits and vegetables in your diet can have many health benefits. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

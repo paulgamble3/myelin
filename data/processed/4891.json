@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4891,
+    "prompt": "Nurse: Yes, Metamucil is a brand of fiber supplement that contains psyllium husk.\n\nPatient: crackers. Or fiber thin\n\nNurse: Metamucil Crackers and Fiber Thins are both food products that are high in fiber. They can be a good addition to your diet as they can help with digestion and weight management. However, it's important to remember that they are just one part of a balanced diet. It's always best to consult with a healthcare professional or a dietitian for personalized advice. Now, let's move on to the next question. Have you noticed any signs of illness such as fever, chills, or muscle aches recently?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to stay as healthy as possible leading up to your procedure. Now, I see that your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yes. That's correct.\n\nNurse: Wonderful. It's important to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. It eases recovery to have someone there to help you out. If any difficulties arise with transportation, just remember you still have time to figure it out and you should try to get someone on standby to come pick you up when the hospital calls. Now, those were all the topics I had for today. Do you have any other questions or concerns?",
+        "our_model": "That's great to hear. It's essential to have someone to assist you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask."
+    }
+}

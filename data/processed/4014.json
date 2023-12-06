@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4014,
+    "prompt": "Nurse: That's good news, Ms. Warrell. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great to hear, Ms. Warrell. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Ms. Warrell. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No, ma'am.\n\nNurse: That's good to hear, Ms. Warrell. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Ms. Warrell. I'm here to help if you have any questions in the future. It's good to know you're doing well. Please remember to continue observing your symptoms and call your healthcare provider if you notice any changes. Take care and have a nice day.",
+        "our_model": "I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?"
+    }
+}

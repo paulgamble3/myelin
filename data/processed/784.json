@@ -1,0 +1,8 @@
+{
+    "prompt_id": 784,
+    "prompt": "Patient: It was\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please tell me what your blood pressure reading was this morning?\n\nPatient: Oh, it was also one twenty eight over eighty.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 128 over 80 is slightly elevated. It's important to keep an eye on this. Would it be okay if I share some suggestions about managing blood pressure?\n\nPatient: Go ahead. It's gonna need\n\nPatient: too.\n\nNurse: Thank you, Ms. Aguirre. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Oh my gosh. Like, I haven't heard that before.",
+    "responses": {
+        "gpt4": "I understand, Ms. Aguirre. Dietary changes can sometimes be challenging, and it's a common recommendation you've likely heard before. How about we look at this from another perspective? Are there any particular foods or meals you enjoy that we could explore modifying to be kidney and heart-healthy?",
+        "our_model": "I understand, Ms. Aguirre. It's a common suggestion, but it can make a big difference. Would you be willing to try reducing your sodium intake?"
+    }
+}

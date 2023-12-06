@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1177,
+    "prompt": "Nurse: Alright, Mr. Cardenas. I'm glad to hear that you're feeling confident about these changes. Now, I'll be informing Doctor Rodriguez about our conversation and how you're doing. Before we end the call,\n\nPatient: about what we discussed, but I do have a question if you don't mind.\n\nNurse: Of course, Mr. Cardenas. What's your question?\n\nPatient: Congestive heart failure.\n\nNurse: I'm sorry, Mr. Cardenas, could you please clarify your question?\n\nPatient: And how does oral health impact heart health?\n\nNurse: That's a great question, Mr. Cardenas. Oral health can indeed impact heart health. Poor oral hygiene can lead to gum disease, which has been linked to an increased risk of heart disease. This is because the bacteria that cause gum disease can enter the bloodstream and contribute to the formation of plaque in the arteries, leading to heart disease. It's important to maintain good oral hygiene by brushing and flossing regularly and visiting your dentist for regular check-ups. Does this answer your question?\n\nPatient: Yes. It it does. Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Mr. Cardenas. I'm glad I could answer your question. Remember, taking care of your overall health includes oral care as well. Now, before we end the call, is there anything else you'd like to discuss or any other questions you have?",
+        "our_model": "You're welcome, Mr. Cardenas. I'm glad I could provide the information you needed. Now, I will inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns?"
+    }
+}

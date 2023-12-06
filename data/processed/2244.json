@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2244,
+    "prompt": "Nurse: I'm sorry, Mr. Valenzuela, could you please confirm that you've been experiencing unexplained and long-lasting diarrhea?\n\nPatient: Are you there, Rachel?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you.\n\nNurse: Yes, I'm here, Mr. Valenzuela. I need to ask, when did your diarrhea start?\n\nPatient: It's been a couple of weeks.\n\nNurse: I see, thank you for sharing that, Mr. Valenzuela. Is this a chronic issue or something that has recently started?\n\nPatient: It's just recently started. That's why you guys suggested getting a call and ask\n\nPatient: a bay.",
+    "responses": {
+        "gpt4": "I understand, Mr. Valenzuela. Has there been any presence of blood in your stool that you've noticed?",
+        "our_model": "I appreciate your patience, Mr. Valenzuela. Have you noticed any blood in your stool during this time?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5788,
+    "prompt": "Nurse: Okay. One tip is to drink the laxative solution cold. This can make it easier to consume. Another tip is to drink the solution through a straw. This can help it go down easier. What do you think about these tips?\n\nPatient: Oh, that sounds like a good idea.\n\nNurse: I'm glad you found the tips helpful. It's all about making the process as comfortable as possible for you. Do you have any questions about the bowel prep?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I said, no. I no. I said no. I do not have questions.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, perfect. Let me know if anything comes up later. I understand that I've shared a lot of info with you today, and there are just two more things to go over. Are you doing okay, or would you like to take a break or ask any questions?",
+        "our_model": "Alright, if you have any questions in the future, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?"
+    }
+}

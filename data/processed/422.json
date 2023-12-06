@@ -1,0 +1,8 @@
+{
+    "prompt_id": 422,
+    "prompt": "Patient: Sound good?\n\nNurse: Okay. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Nope. Not at all.\n\nNurse: I'm glad to hear that.\n\nPatient: Am looking forward to the surgery deleted or not. I've been getting ready.\n\nNurse: That's a great attitude to have. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please. Yes.\n\nPatient: What about medication?",
+    "responses": {
+        "gpt4": "We need to talk about some changes you'll need to make to your medications leading up to your procedure. From your chart, I can see that you're currently on Plavix 75 mg once a day. As per the doctor's instructions, you should have stopped taking this 7 days prior to your operation. Have you already stopped taking your Plavix?",
+        "our_model": "Wonderful. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?"
+    }
+}

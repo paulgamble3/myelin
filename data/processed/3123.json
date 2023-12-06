@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3123,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Timoteo Valenzuela?\n\nPatient: [NO RESPONSE]\n\nPatient: Yes.\n\nNurse: Great, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Valenzuela. I hope your day is going well so far. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling good. I mean, I just wanna get it over with, you know,\n\nPatient: Get it done.",
+    "responses": {
+        "gpt4": "I can certainly appreciate the sentiment, Mr. Valenzuela. Procedures like these can sometimes feel like quite a hurdle, but they definitely are an important step towards better understanding and managing your health. Before we go any further, do you have any particular questions or concerns that you'd like to go over?",
+        "our_model": "Absolutely, Mr. Valenzuela. It's completely normal to feel that way. It's a big step, but it's also a crucial one in managing your health. Before we dive into the details, do you have any questions or concerns you'd like to discuss?"
+    }
+}

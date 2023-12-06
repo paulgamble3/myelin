@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5792,
+    "prompt": "Nurse: Alright, if you have any questions in the future, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: Nope.\n\nNurse: That's good to hear. It's essential that you're in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of your procedure?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, if you have any questions in the future, don't hesitate to ask. That was all the topics for today. Before we end this call, do you have any questions or concerns you'd like me to address?",
+        "our_model": "Alright, if you have any questions in the future, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

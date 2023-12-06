@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5133,
+    "prompt": "Nurse: Alright. If any questions come up later, feel free to ask. Now, let's discuss when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Does that make sense?\n\nPatient: Yes. It does.\n\nNurse: Excellent. It's essential to have an empty stomach for the procedure. Do you have any questions about this or is there anything else you'd like to discuss before we move on?\n\nPatient: No. I don't have any questions.\n\nNurse: Alright. If any questions come up later, feel free to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have any fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear you're feeling well. Do let your care team know if you start feeling sick before your procedure. Lastly, have you arranged for a ride home after your colonoscopy? It's important because the sedatives used during the procedure will prevent you from driving afterwards.",
+        "our_model": "That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after the procedure?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 317,
+    "prompt": "Patient: what\n\nNurse: Of course. What would you like to know about your recent lab results?\n\nPatient: Done.\n\nPatient: And Priya to nine is\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: And what what do I mean and what\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I wanna know what done in creatinine is",
+    "responses": {
+        "gpt4": "Creatinine is a waste product that your body produces when it breaks down protein, especially muscle tissue. Your kidneys are responsible for filtering creatinine and other waste products out of your blood. A creatinine test measures how well your kidneys are working by assessing how efficiently creatinine is being filtered out. This helps your doctor monitor your kidney health. Does this answer your question?",
+        "our_model": "Done and creatinine are both substances found in your blood. When your kidneys are working well, they filter out these substances."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5856,
+    "prompt": "Nurse: Okay, thank you, Mr. Alves. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received and understood the instructions about the dietary restrictions and bowel preparation for your colonoscopy?\n\nPatient: Alves.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite understand your response. Could you please repeat what you said?\n\nPatient: I said Alves.\n\nNurse: I apologize for the confusion, Mr. Alves. I was asking about your understanding of the dietary restrictions and bowel preparation for your colonoscopy. Have you received and understood these instructions?\n\nPatient: Yes.\n\nNurse: Great, Mr. Alves. It's essential to follow those instructions closely for the best results. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Perfect, Mr. Alves. I also wanted to let you know once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?",
+        "our_model": "Perfect, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

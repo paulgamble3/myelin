@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3892,
+    "prompt": "Nurse: I'm sorry, could you please repeat what you said?\n\nPatient: Strange.\n\nNurse: I'm sorry, Carla, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I love mystery enrollment.\n\nNurse: Mystery and thriller novels can indeed be quite engaging. Do you have a favorite author in this genre?\n\nPatient: No. I don't.\n\nNurse: That's perfectly fine. There are so many great authors out there. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: Well,",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that? I didn't quite catch what you said.",
+        "our_model": "Yes."
+    }
+}

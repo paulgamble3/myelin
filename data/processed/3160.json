@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3160,
+    "prompt": "Nurse: I'm sorry, Mr. Valenzuela. Could you please clarify your response?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry for the confusion, Mr. Valenzuela. I was asking if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches.\n\nPatient: Yeah. I said, no. I haven't.\n\nNurse: Thank you for clarifying, Mr. Valenzuela. It's critical to monitor for any signs of illness leading up to your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes. I have Yes. I have.\n\nNurse: That's great to hear, Mr. Valenzuela. It's critical to have someone available to take you home after the procedure, as you may still be feeling the effects of the sedation. Do you have any other questions or concerns about the logistics of the day of the procedure?\n\nPatient: I do not.",
+    "responses": {
+        "gpt4": "Alright, Mr. Valenzuela. We've covered everything we needed to today. I must say, you've done really well. Do you have any other questions or concerns that you'd like to discuss?",
+        "our_model": "Alright, Mr. Valenzuela. If any questions come up, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
+    }
+}

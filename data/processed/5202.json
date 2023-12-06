@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5202,
+    "prompt": "Nurse: That's good to hear. How about a new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear. We just did a simple CHF assessment; doing these checks at home every day can be very helpful. Do you have any questions about this assessment?",
+        "our_model": "That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
+    }
+}

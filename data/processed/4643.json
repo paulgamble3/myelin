@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4643,
+    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Amador. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Yes. This is fine.\n\nNurse: Great, thank you for your time, Mr. Amador. How has your day been so far?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that, Mr. Amador. Do you have any plans for the rest of the day?\n\nPatient: Not really. Just hanging out.\n\nNurse: That sounds relaxing, Mr. Amador. Hanging out can be a good way to unwind. Do you have any hobbies or activities that you enjoy doing during your downtime?\n\nPatient: I like to read.",
+    "responses": {
+        "gpt4": "Reading can be a wonderful way to relax and broaden your mind. Do you have a favorite genre or author that you enjoy reading?",
+        "our_model": "That's wonderful, Mr. Amador. Reading is a great way to relax and expand your knowledge. What type of books do you enjoy?"
+    }
+}

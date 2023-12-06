@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5060,
+    "prompt": "Nurse: I'm sorry, Mr. Koroleva, could you please confirm what you just said?\n\nPatient: I just said it's I'm fine. I just wanna get it over with\n\nNurse: Hold on a second while I figure out how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: I'm fine.\n\nNurse: When did you first notice the pus and mucus in your stool, Mr. Koroleva?\n\nPatient: Couple weeks ago.\n\nNurse: Have you had any fever recently, Mr. Koroleva?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Are there any other symptoms you've experienced recently, such as fatigue, nausea, or diarrhea?",
+        "our_model": "Have you noticed any rapid spreading of warmth, swelling, or redness around the area where you've seen the pus and mucus, Mr. Koroleva?"
+    }
+}

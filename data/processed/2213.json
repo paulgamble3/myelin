@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2213,
+    "prompt": "Patient: No. I don't.\n\nNurse: Wonderful. It's not often that doctors recommend eating low fiber comfort foods, but this is one of those times. What are some low fiber foods that you enjoy?\n\nPatient: I'd like to hear bread. [NO RESPONSE]\n\nNurse: Bread is a great choice. It's low in fiber and can be quite comforting. Do you have a favorite type of bread or a way you like to eat it?\n\nPatient: Multigram toast.\n\nPatient: With cream cheese.\n\nNurse: Multigrain toast with cream cheese sounds delicious. It's a good choice for your low fiber diet. Do you usually have it for breakfast or as a snack?\n\nPatient: Ass of math sometimes.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you just said?",
+        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat when you usually have your multigrain toast with cream cheese?"
+    }
+}

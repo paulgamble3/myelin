@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5474,
+    "prompt": "Patient: fourteenth nineteen fifty.\n\nNurse: Thank you for confirming your date of birth, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I've been doing\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: I've been doing good. Thank you.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Having some I'm having some time off were\n\nPatient: box.",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite understand that. Could you please repeat what you said?",
+        "our_model": "That sounds I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?"
+    }
+}

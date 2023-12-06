@@ -1,0 +1,8 @@
+{
+    "prompt_id": 711,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: April third nineteen forty two.\n\nNurse: Thank you for confirming that, Ms. Peck. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Well, I'm feeling alright.\n\nNurse: I'm glad to hear that, Ms. Peck. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well, I'm glad that I'm here with my kitty now.\n\nNurse: That sounds lovely, Ms. Peck. Pets can be such wonderful companions. What's your kitty's name?\n\nPatient: Delilah.",
+    "responses": {
+        "gpt4": "Delilah sounds like a great company, Ms. Peck. Is she keeping you company and making your time at home a bit more enjoyable?",
+        "our_model": "Delilah sounds like a delightful companion, Ms. Peck. What's your favorite thing about spending time with her?"
+    }
+}

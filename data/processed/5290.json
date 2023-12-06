@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5290,
+    "prompt": "Nurse: Alright, Ms. Rivers. Now, let's discuss your high blood pressure. How have you been managing your blood pressure?\n\nPatient: I don't I don't know.\n\nNurse: That's okay, Ms. Rivers. It's critical to keep monitoring your blood pressure regularly. Would it be okay if I share some suggestions about managing blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you, Ms. Rivers. One way to manage your blood pressure is by reducing your salt intake. This can be achieved by eating less processed foods and not adding extra salt to your meals. Another strategy is regular physical activity, which can help lower your blood pressure. Lastly, it's important to take your prescribed medications as directed by your doctor. Do you have any questions about these strategies or anything else related to your blood pressure?\n\nPatient: No.\n\nNurse: Alright, Ms. Rivers. Now, let's discuss your Atrial Fibrillation. How have you been managing your Atrial Fibrillation?\n\nPatient: I don't know how to answer that.",
+    "responses": {
+        "gpt4": "That's perfectly okay, Ms. Rivers. It's essential to take your prescribed medication for Atrial Fibrillation and to stay in frequent contact with your doctor to monitor the condition. Have you experienced any irregular heartbeat or other symptoms associated with Atrial Fibrillation recently?",
+        "our_model": "That's okay, Ms. Rivers. It's essential to take your prescribed medications as directed by your doctor to manage your Atrial Fibrillation. Regular physical activity can also help. Do you have any questions about managing your Atrial Fibrillation?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3762,
+    "prompt": "Nurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please confirm what you said?\n\nPatient: I said I'm going to try\n\nNurse: Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you.\n\nPatient: walking.\n\nNurse: When did the change in speech start, Ms. Odonnell?\n\nPatient: I have no change in\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Beach. We're talking about my",
+    "responses": {
+        "gpt4": "have you noticed any issues with balance or coordination lately, Ms. Odonnell?",
+        "our_model": "Does the patient report sudden arm or leg weakness?"
+    }
+}

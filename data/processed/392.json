@@ -1,0 +1,8 @@
+{
+    "prompt_id": 392,
+    "prompt": "Nurse: That's a good attitude, Mr. Koroleva. It's all about finding what works best for you. Do you have any other questions about the bowel prep?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. Now, let's move on to the next part of your prep, which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Does that make sense?\n\nPatient: Well, I'm glad that it's in the morning. So in the morning, I don't not that hungry, so that's good.\n\nNurse: I'm glad to hear that, Mr. Koroleva. It's indeed easier when you're not too hungry. Do you have any questions about when to stop eating and drinking before your procedure?\n\nPatient: No. It's all clear. So I need to Stop.\n\nNurse: Yes, Mr. Koroleva. You've got it. You'll need to stop eating and drinking 4 hours before your procedure. Now, I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. I think I'm good. Thank you.",
+    "responses": {
+        "gpt4": "You're welcome, Mr. Koroleva. I'm glad to hear that you're feeling good about the information we've covered so far. Now, I'd like to ask you a question about your health. Have you had any signs of illness recently such as fever, chills, or muscle aches?",
+        "our_model": "You're welcome, Mr. Koroleva. I'm glad to hear that you're feeling good about the information we've covered so far. Now, I'd like to ask if you've been experiencing any signs of illness recently. Have you had any fever, chills, or muscle aches?"
+    }
+}

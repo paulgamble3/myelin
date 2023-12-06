@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3655,
+    "prompt": "Nurse: That's good news. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Yes.\n\nNurse: I see. When did you first notice this swelling?\n\nPatient: Well, I just got out of the hospital two days ago, so\n\nNurse: I understand. It's important to monitor this closely.\n\nPatient: because after that,\n\nNurse: I see. It's essential to monitor this closely. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Yeah. Yeah. How about three pounds?",
+    "responses": {
+        "gpt4": "Thank you for sharing that. It's possible that this weight gain might be related to fluid buildup, which can also cause swelling. Lastly, have you needed to use more pillows at night to sleep recently?",
+        "our_model": "Thank you for sharing that."
+    }
+}

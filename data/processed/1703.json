@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1703,
+    "prompt": "Nurse: Alright, Mr. O'Leary. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: That's great, Mr. O'Leary. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Nope.\n\nNurse: Alright, Mr. O'Leary. I'm glad that's clear. Now, I'd like to ask if you've been feeling unwell recently. Have you had any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. O'Leary. It's important to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Thank you for confirming that, Mr. O'Leary. And have you arranged for a ride home and for someone to stay with you after your procedure? This is important for your safety and recovery.",
+        "our_model": "Great, Mr. O'Leary. It's essential to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?"
+    }
+}

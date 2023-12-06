@@ -1,0 +1,8 @@
+{
+    "prompt_id": 146,
+    "prompt": "Nurse: Thank you for confirming, Mr. Valenzuela. When did the diarrhea start?\n\nPatient: Oh, I've been having that for months.\n\nNurse: I see, Mr. Valenzuela. Is the diarrhea chronic, meaning it's been ongoing for a long time?\n\nPatient: Yeah. For at least three months.\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Thank you for the information, Mr. Valenzuela. Have you lost any weight without trying to since you started experiencing the diarrhea?",
+        "our_model": "Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you."
+    }
+}

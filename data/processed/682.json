@@ -1,0 +1,8 @@
+{
+    "prompt_id": 682,
+    "prompt": "Nurse: Yes, I'm here. I apologize for the delay. Have you noticed any significant weight gain, such as more than 2 pounds in a day or 5 pounds in a week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: I guess not.\n\nNurse: I apologize for the confusion earlier. Could you please confirm if you've been using more pillows to sleep at night?\n\nPatient: I said",
+    "responses": {
+        "gpt4": "No. I apologize for the miscommunication earlier. Am I correct in understanding that you have not been using more pillows to sleep at night?",
+        "our_model": "Just give me a second to work out the best way I can assist you. I appreciate you letting me know. Give me a moment to check how I can best help you."
+    }
+}

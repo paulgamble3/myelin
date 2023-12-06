@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2117,
+    "prompt": "Nurse: I apologize for the oversight. Eating a balanced diet, like the one you're describing, is a great step towards managing obesity. Regular physical activity is also important. Have you been able to incorporate any physical activity into your routine?\n\nPatient: Yes. I usually will do stuff with my dogs.\n\nNurse: That's fantastic! Regular physical activity, like the time you spend with your dogs, can really help manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?\n\nPatient: Yeah. One day at a time.\n\nNurse: That's a great approach. It's essential to remember that every day you choose not to drink is a success. Now, let's move on to the last topic. Do you smoke cigarettes or vape?\n\nPatient: Yes. It's mocapacade.\n\nNurse: I appreciate your honesty. Quitting smoking is a big step, and it's not always easy. Have you ever considered quitting?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's okay. Can you share why you haven't considered quitting yet? I'd also like to remind you that if you ever change your mind, there are many resources available to help you quit. This can result in improving your overall health. Would you like to explore some of these resources?",
+        "our_model": "I understand. Quitting smoking is a personal decision and it's important to do it when you're ready. Can you share why you're not ready to quit at this time?"
+    }
+}

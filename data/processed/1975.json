@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1975,
+    "prompt": "Patient: Low.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this John O'Leary?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: It is",
+    "responses": {
+        "gpt4": "I'm sorry John, but I didn't catch that. Could you please repeat your date of birth for me?",
+        "our_model": "Hold on a second while I figure out how I can best support you."
+    }
+}

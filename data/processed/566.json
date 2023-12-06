@@ -1,0 +1,8 @@
+{
+    "prompt_id": 566,
+    "prompt": "Patient: No. I haven't.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been doing my best follow the diet, eating a lot of\n\nPatient: seamed veggies, A lot whole grains,\n\nNurse: That's great to hear.\n\nPatient: and seems like that. Every once in a while, I'll have a heart healthy yogurt,",
+    "responses": {
+        "gpt4": "That's great. Heart-healthy yogurt, steamed veggies, and whole grains make for a valuable addition to your diet. Do you tend to prepare your meals yourself or do you get them from somewhere else?",
+        "our_model": "That sounds like a good start. It's great that you're focusing on vegetables and whole grains. How about proteins?"
+    }
+}

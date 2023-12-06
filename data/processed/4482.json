@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4482,
+    "prompt": "Nurse: Yes, Mr. Delarosa, that's correct. All fluids count towards your daily limit, including coffee, juice, and soda. It's critical to keep track of these. Do you have any other questions about your fluid intake?\n\nPatient: No. Thank you.\n\nNurse: You're welcome, Mr. Delarosa. Now, let's talk about your diet. Your doctor has recommended a 2000 mg Sodium Restricted diet. This means limiting foods high in sodium. Would it be okay if I shared some tips on how to follow this diet?\n\nPatient: Okay.\n\nNurse: Thank you, Mr. Delarosa. One strategy could be to cook at home as much as possible. This way, you can control the amount of salt in your food. Also, try to avoid processed foods, as they often contain high amounts of sodium. How does that sound?\n\nPatient: I mean, I guess it sounds okay. I really hate\n\nNurse: I understand, Mr. Delarosa. Changing dietary habits can be challenging. It's important to remember that these changes are for your health. Do you have any\n\nPatient: following this low salt diet.",
+    "responses": {
+        "gpt4": "I can I can understand that, Mr. Delarosa. Dietary changes can be difficult. Let's discuss strategies that could make following a low-salt diet easier for you. How does that sound?",
+        "our_model": "I understand, Mr. Delarosa. Adjusting to a low-salt diet can be challenging. It's a big change and it's normal to find it difficult at first. Do you have any questions or concerns about this diet?"
+    }
+}

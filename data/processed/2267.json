@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2267,
+    "prompt": "Nurse: Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to reach out. I'll also call you the day before your procedure to check in. Is there anything else you'd like to discuss at this time?\n\nPatient: No.\n\nNurse: Okay, Mr. Valenzuela. I'm here to ensure you have everything you need for your upcoming colonoscopy. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Great, Mr. Valenzuela. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Valenzuela. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear it, Mr. Valenzuela. I understand it can be a bit confusing with all the details, especially when it's about your health. So, before we move on to discuss medications and your preparation for the colonoscopy, I wanted to take a pause to see if there's anything else you want to ask or discuss about the logistics?",
+        "our_model": "Alright, Mr. Valenzuela. I'm glad to hear that the logistics are clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
+    }
+}

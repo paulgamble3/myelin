@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4588,
+    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Peck. You mentioned that your blood sugar level was 148 this morning. Is that correct?\n\nPatient: Okay.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming that, Mr. Peck. One strategy to help manage your blood sugar levels is to balance your meals with a mix of carbohydrates, protein, and fats. This can help slow down the absorption of sugar into your bloodstream. What do you usually have for breakfast, lunch, and dinner?\n\nPatient: Can I have special case, cereal for breakfast? I have\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: a tuna sandwich for lunch and dinner. I see they're fishing or check\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?\n\nPatient: n with salad.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Peck, could you please repeat what you said? I want to make sure I have all the correct information.",
+        "our_model": "Thank you for sharing your meal plans, Mr. Peck. It sounds like you're already incorporating some balance with protein and vegetables. For breakfast, a special K cereal can be a good choice as it's low in sugar. However, it's also important to balance it with some protein like milk or yogurt. For your tuna sandwich, you're already doing well by"
+    }
+}

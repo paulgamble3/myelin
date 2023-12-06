@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5307,
+    "prompt": "Nurse: I was just wondering if there's any particular type of weather that you enjoy, Mr. Weeks?\n\nPatient: I guess, sunny days.\n\nNurse: Sunny days can indeed be quite uplifting, Mr. Weeks. Now, I have a few topics to cover with you on behalf of Doctor Stapleton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Weeks. Let's move on to your medications. Are you still taking your Carvedilol and Lasix tablets?\n\nPatient: Yeah. There's too many meds to take, though.\n\nNurse: I can understand how managing multiple medications can feel overwhelming, Mr. Weeks. It's quite common to feel this way. Are you also continuing with your Zoloft?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Weeks. Keeping up with prescribed medications is crucial for your health. However, do you sometimes find it tough to take your medications on time?",
+        "our_model": "Wonderful, Mr. Weeks. It's critical to keep up with your medications. I understand it can be challenging. Do you ever have trouble remembering to take your medications on time?"
+    }
+}

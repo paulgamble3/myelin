@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5136,
+    "prompt": "Nurse: Alright. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have any fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after the procedure?\n\nPatient: Yes. I have. My sister's picking me up.\n\nNurse: That's great to hear. It's essential to have someone to take you home after the procedure. Do you have any questions about the day of the procedure or is there anything else you'd like to discuss?\n\nPatient: No. I don't have any other questions.\n\nNurse: Alright. If any questions come up later, feel free to ask. That was all the topics for today. Do you have any questions or concerns that you'd like to discuss?\n\nPatient: No. I already said I don't have any questions. Thank you.",
+    "responses": {
+        "gpt4": "Of course, I'm here to assist with any queries you might have. Today, we've covered a variety of topics, from your dietary restrictions to the clear liquid diet, your bowel prep with the GoLYTELY laxative solution, and the scheduling for your procedure. You've also arranged for your sister to pick you up after the procedure which is excellent. Does that all sound right to you?",
+        "our_model": "You're welcome. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over the dietary restrictions, your medication, and the bowel prep. We also confirmed that you have arranged for a ride home after the procedure. Does that sound right?"
+    }
+}

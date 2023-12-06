@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4767,
+    "prompt": "Nurse: That sounds wonderful, Mr. Shyam. Family time is precious. How many children do you have?\n\nPatient: I have two.\n\nNurse: That's lovely, Mr. Shyam. It must be nice to have them around. What activities do you enjoy doing with your kids?\n\nPatient: We enjoy riding our bikes together.\n\nNurse: That sounds like a great way to spend time together, Mr. Shyam. Biking is also a good form of exercise. Do you have a favorite trail or park where you like to ride with your kids?\n\nPatient: Not really. We just go wherever.\n\nNurse: That's a fun and flexible approach, Mr. Shyam. It's great that you're keeping active with your kids. Now, before we move on to some health-related topics, do you have any questions or concerns you'd like to address?\n\nPatient: Yeah. I do have a question.",
+    "responses": {
+        "gpt4": "Absolutely, Mr. Shyam. Please feel free to share your question. I'm here to help you.",
+        "our_model": "Of course, Mr. Shyam. What's your question?"
+    }
+}

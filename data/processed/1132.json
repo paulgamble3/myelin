@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1132,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: June sixth nineteen seventy six.\n\nNurse: Thank you for confirming your date of birth, Mr. Cardenas. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing very well. Thank you for asking.\n\nNurse: That's wonderful to hear, Mr. Cardenas. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well. My dog definitely missed me, so I am happy to be home.\n\nNurse: That sounds lovely, Mr. Cardenas. Dogs are such wonderful companions. What's your dog's name and what breed is he or she?\n\nPatient: In my own bed in my own house with my dog.",
+    "responses": {
+        "gpt4": "That sounds truly comforting, Mr. Cardenas. It's amazing how the familiarity of home, and the company of our four-legged friends, can have such a positive impact on us. What breed is your dog?",
+        "our_model": "It sounds like your dog is a very important part of your life, Mr. Cardenas. What's your dog's name and what breed is he or she?"
+    }
+}

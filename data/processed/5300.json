@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5300,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jordyn Weeks?\n\nPatient: Hi. Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: January twenty ninth nineteen eighty four.\n\nNurse: Thank you for confirming your date of birth, Mr. Weeks. I'm calling on behalf of your primary care doctor, Doctor Henry Stapleton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Honestly, not great. It's not gonna a good, you know, mental health day.",
+    "responses": {
+        "gpt4": "I'm really sorry to hear that you're having a hard day, Mr. Weeks. It's completely natural to have good and bad days, especially after a hospital stay. Besides that, would it uplift your spirits to focus on something you enjoy? Perhaps you're looking forward to something, now that you're back home?\n",
+        "our_model": "I'm sorry to hear that you're having a tough day, Mr. Weeks. It's completely normal to have ups and downs, especially after a hospital stay. Is there anything in particular you're looking forward to doing now that you're home?"
+    }
+}

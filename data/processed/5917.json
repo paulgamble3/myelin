@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5917,
+    "prompt": "Nurse: Thank you for sharing that. The reading is a bit high. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Yep. That sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to increase your intake of fruits and vegetables, which can help lower blood pressure. Do you think you could try that?\n\nPatient: Yep.\n\nNurse: That's great to hear. Including more fruits and vegetables in your diet can have many health benefits. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright. I'm glad to hear that you're aware of your recent lab results. As a reminder, it's important to maintain regular check-ups to monitor your health status. Now, let's move on to your medications. Are you okay with that?",
+        "our_model": "Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's discuss your medications. I'd like to go over each one to ensure you're taking them as prescribed. Let's start with Aspirin. You should be taking an 81 mg oral tablet daily. Have you been able to do that?"
+    }
+}

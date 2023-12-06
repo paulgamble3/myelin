@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4332,
+    "prompt": "Nurse: That's okay, Mr. Oliver. Sometimes it's nice to have a quiet week. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. Not really.\n\nNurse: Alright, Mr. Oliver. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Okay, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Oliver. Could you please share with me what your last blood sugar reading was?\n\nPatient: One twelve",
+    "responses": {
+        "gpt4": "That's an excellent reading, Mr. Oliver. It shows that your blood sugar is well-managed at the moment. Shifting gears slightly, can I ask when you last measured your blood pressure, and what the result was?",
+        "our_model": "Thank you for sharing that, Mr. Oliver. It's important to keep an eye on your blood sugar levels. Would it be alright if I provide some recommendations on how to manage your blood sugar levels?"
+    }
+}

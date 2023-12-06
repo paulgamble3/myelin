@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6087,
+    "prompt": "Patient: No.\n\nNurse: That's good to hear. Do you currently have any nausea or vomiting?\n\nPatient: No.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: What issue?\n\nNurse: I apologize for any confusion earlier. Let's move on to your blood pressure. When did you last measure your blood pressure?\n\nPatient: This morning when I got a\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. Give me a moment to check how I can best help you.",
+    "responses": {
+        "gpt4": "Could you please share what your blood pressure reading was?",
+        "our_model": "Thank you for that information. Could you please share with me what the result was?"
+    }
+}

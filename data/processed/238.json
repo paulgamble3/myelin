@@ -1,0 +1,8 @@
+{
+    "prompt_id": 238,
+    "prompt": "Patient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: June seventh\n\nPatient: nineteen eighty three.\n\nNurse: Thank you for confirming, Mr. O'Leary. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I guess.\n\nNurse: Thank you, Mr. O'Leary. I hope your day is going\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great to hear! As I mentioned, we are calling regarding your upcoming total knee replacement surgery. You have been scheduled for pre-operative tests on Wednesday, 26th January. Your surgery is scheduled for Monday, 31st January. Do you have any concerns or questions about these upcoming appointments?",
+        "our_model": "well so Great, thank you, Mr. O'Leary. I hope your day is going well so far. Can you share a bit about how you've been feeling today?"
+    }
+}

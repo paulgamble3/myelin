@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4136,
+    "prompt": "Patient: No.\n\nNurse: That's great. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about your recent meals?\n\nPatient: I had a salad. A few hours ago.\n\nPatient: A chicken salad.\n\nNurse: That sounds like a healthy choice. What kind of salad was it?\n\nPatient: A chicken salad?",
+    "responses": {
+        "gpt4": "I see. As a reminder, your current dietary recommendations suggest a vegetarian, low-sodium diet to support your CHF and CKD. Given that, replacing the chicken with plant-based proteins might be a good idea moving forward. Would you like some suggestions on what you could use instead?",
+        "our_model": "Yes, I understand it was a chicken salad. Could you tell me more about it?"
+    }
+}

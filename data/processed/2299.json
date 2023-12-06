@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2299,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great. To ensure I'm speaking with the correct person, could you please provide your date of birth for verification? Please remember to include your month, day, and year of birth.",
+        "our_model": "Thank you for confirming. Could you please provide your date of birth for verification purposes?"
+    }
+}

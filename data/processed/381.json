@@ -1,0 +1,8 @@
+{
+    "prompt_id": 381,
+    "prompt": "Patient: Hello? [NO RESPONSE]\n\nNurse: Of course, Mr. Koroleva. I'm glad to hear that you're ready to move forward. In addition to the changes in your diet, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It simplifies things a bit. Do you have any questions about why you need to stop these supplements or medications?\n\nPatient: We already talked about it earlier, so pretty clear on that.\n\nNurse: I'm glad to hear that you're clear on that, Mr. Koroleva. Now, I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I've heard it I've heard a lot about this loxetive. I'm not looking forward to it, but I'm just getting over with\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "I hear you, Mr. Koroleva. The idea of drinking a laxative solution might not be pleasant, but it's a necessary part of the colonoscopy prep. It's not unusual for people to find this part a bit tough. Yet, we're here to support you every step of the way. Does that make you feel a bit more at ease?",
+        "our_model": "I can understand your feelings, Mr. Koroleva. It's not the most pleasant part of the process, but it's a crucial step to ensure your colonoscopy goes smoothly. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about this part of the prep?"
+    }
+}

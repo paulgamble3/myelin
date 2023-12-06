@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?\n\nPatient: Yes.\n\nNurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: Having good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: No. Not really. She's relaxing.\n\nNurse: Relaxation sounds wonderful. Do you have any favorite activities that help you unwind?\n\nPatient: Just watching TV.",
+    "responses": {
+        "gpt4": "That's great! Television can be a good way to unwind. What kind of shows do you usually enjoy?",
+        "our_model": "That sounds like a nice way to relax. What kind of shows do you enjoy watching?"
+    }
+}

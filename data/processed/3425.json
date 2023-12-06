@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3425,
+    "prompt": "Nurse: Alright, Mr. Jimenez. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. Not real.\n\nNurse: Alright, Mr. Jimenez. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness. Do you currently have a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Jimenez. It's essential to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Wonderful, Mr. Jimenez. It's critical to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, Mr. Jimenez. It's important to have someone there with you, especially during the first few days after a procedure like this. Now, let's move on to the final part of our call. Is there anything you'd like to know or discuss before I wrap things up? Sort of like a last call for questions.",
+        "our_model": "That's great to hear, Mr. Jimenez. It's critical to have someone with you for a few days after the procedure to help with daily activities. If there's anything else you need to discuss or any questions you have, feel free to share. ["
+    }
+}

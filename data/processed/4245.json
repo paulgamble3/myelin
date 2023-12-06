@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4245,
+    "prompt": "Patient: I was reading.\n\nNurse: Reading is a wonderful hobby, Mr. Shyam. What kind of books do you enjoy?\n\nPatient: I like mysteries.\n\nPatient: Sometimes stealing king stuff, you know,\n\nNurse: Mysteries can be quite thrilling, Mr. Shyam. Stephen King's works are indeed captivating. Do you have a favorite book of his?\n\nPatient: I like\n\nNurse: I'm sorry, Mr. Shyam, your voice cut out a bit there.\n\nPatient: it",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Mr. Shyam, could you please repeat your favorite book by Stephen King?"
+    }
+}

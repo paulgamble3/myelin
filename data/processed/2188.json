@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2188,
+    "prompt": "Nurse: Yes, Aleve is a type of medication that typically needs to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make a note of this. Are you still taking it currently?\n\nPatient: I'm not talking about Aleve, though. I'm talking about\n\nNurse: I see.\n\nPatient: Tylenol.\n\nNurse: I apologize for any confusion. You're currently prescribed Tylenol 1000 mg three times a day as needed. Have you picked up this prescription yet?\n\nPatient: Yeah. But I'm already taking care now. Do I need the stop it before my surgery or no?\n\nNurse: You can continue taking your Tylenol as prescribed. It's safe to use before your surgery. Do you have any other questions about your medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, let's move on to the next part. Do you have any questions about what you can eat or drink before the procedure?",
+        "our_model": "Alright. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2202,
+    "prompt": "Nurse: Alright. If you have any questions at any point during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Like I said before, I'm feeling a little bit anxious.\n\nNurse: I can see why you might feel that way. It's a big step, but it's also an important one in finding out what's causing your discomfort. We hope this procedure gives you and your doctor the answers you're looking for. Would it be alright if we go over a few topics on prep for your colonoscopy?\n\nPatient: Sure.\n\nNurse: Excellent. I'm calling today to ensure you have everything you need for your colonoscopy. We'll also have another call the day before your procedure to check in. Let's start with the first item on our list. Are you clear on the dietary restrictions leading up to your colonoscopy?\n\nPatient: Yes. I am.\n\nNurse: Great job. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yeah. That's fine.",
+    "responses": {
+        "gpt4": "Good, I am glad to hear that. Once you arrive at O'Connor Hospital, your check-in location will be on the 1st floor. Does that sound good to you?",
+        "our_model": "Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

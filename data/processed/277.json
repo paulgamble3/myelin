@@ -1,0 +1,8 @@
+{
+    "prompt_id": 277,
+    "prompt": "Patient: Yes.\n\nNurse: I'm glad to hear that, Mr. O'Leary. Now, I have a few more questions for you. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. O'Leary. It's critical to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: I'm going home after the procedure.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: That's great to hear, Mr. O'Leary. It's critical to have a plan for after your procedure. Now, I need to ask if you've arranged for a ride home and for someone to stay with you after the procedure. Have you been able to arrange that?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "That's excellent, Mr. O'Leary. It's important to have someone with you for at least the first 24 hours after your procedure to assist with any needs you may have. Now, before we conclude, do you have any other questions or concerns?",
+        "our_model": "That's excellent, Mr. O'Leary. It's critical to have someone to assist you after the procedure. If there's anything else you need to discuss or any other questions you have, feel free to ask. ["
+    }
+}

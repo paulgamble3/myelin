@@ -1,0 +1,8 @@
+{
+    "prompt_id": 333,
+    "prompt": "Patient: Whenever I hold it down.\n\nNurse: I'm sorry, Damian, I didn't quite catch that.\n\nPatient: Five.\n\nPatient: It's because when I'm done talking, you keep cutting me off.\n\nNurse: I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?\n\nPatient: Jesus Christ.\n\nNurse: I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?\n\nPatient: Oh, yeah. That's what that's called. So I'm powering the desk",
+    "responses": {
+        "gpt4": "That's great to hear! The DASH diet can be beneficial for managing both kidney disease and high blood pressure. Have you found it difficult to follow or are there any particular foods you struggle with?",
+        "our_model": "That's great to hear. The DASH diet is a good choice for managing your conditions."
+    }
+}

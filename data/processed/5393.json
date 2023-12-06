@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5393,
+    "prompt": "Patient: Nope.\n\nNurse: Alright, Mr. O'Leary. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I need to lose weight. Is get to you lose weight, that would be good. But not\n\nPatient: lasix.\n\nNurse: I appreciate your honesty, Mr. O'Leary. It's critical to manage your weight for your overall health, but it's also crucial to avoid any signs of illness before your procedure. Lasix is a medication that helps manage fluid levels in your body, and it's not typically used for weight loss. Do you have any other questions about your health or medications?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. Let's move on to the next topic. Your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Perfect, Mr. O'Leary. Going home after surgery is often the most comfortable option. Now, have you arranged for a ride home and for someone to stay with you after the procedure? This will be essential for your safety and recovery.",
+        "our_model": "Thank you for confirming that, Mr. O'Leary. It's important to have a safe and comfortable place to recover after your procedure. My last question is about your transportation and support after the procedure. Have you arranged for a ride home and for someone to stay with you afterwards?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2326,
+    "prompt": "Nurse: I'm sorry, Mr. Ponce, could you please repeat what you just said?\n\nPatient: Yes. I've just noticed that I can wait today.\n\nNurse: I see, Mr. Ponce.\n\nPatient: Hang up.\n\nNurse: I'm sorry for any confusion, Mr. Ponce. I'm here to help you with your health-related concerns.\n\nPatient: Against his Ponce.\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Well, I noticed that I gained weight today. I gained two Ponce. And I'm feeling more short of breath than usual. And have a dry hat. Cagicos.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Ponce, I'm having some difficulty understanding. Could you please repeat that last part?",
+        "our_model": "I'm sorry to hear that you're feeling this way, Mr. Ponce. It's critical to keep track of these symptoms. Can you tell me more about the shortness of breath and the dry cough?"
+    }
+}

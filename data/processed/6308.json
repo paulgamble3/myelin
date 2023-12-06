@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6308,
+    "prompt": "Nurse: Of course, Of course, Mr. Alves. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM the day before your procedure. Then, you'll wake up early the morning of the procedure to finish drinking the second half of the solution. The bowel prep process usually takes about 1 to 2 hours to complete, but it can vary from person to person. Does that answer your question?\n\nPatient: Two days before three days before\n\nNurse: I'm sorry, Mr. Alves, could you please repeat your question?\n\nPatient: I said, when do I need to take it?\n\nNurse: Of course, Mr. Alves. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM the day before your procedure. Then, you'll wake up early the morning of the procedure to finish drinking the second half of the solution. Does that help clarify when you need to take it?\n\nPatient: To get up in the morning.\n\nNurse: Yes, Mr. Alves. You'll need to wake up early the morning of your procedure to finish drinking the second half of your GoLYTELY laxative solution. This is typically around 4 hours before your procedure. Do you have any other questions about the timing of your bowel prep?\n\nPatient: Anything",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Mr. Alves, could you please repeat your question?"
+    }
+}

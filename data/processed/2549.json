@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2549,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that.\n\nPatient: happy to be back.\n\nNurse: That's wonderful to hear. There's no place like home, isn't it?\n\nPatient: Mhmm. That's true.\n\nNurse: Now that you're home, is there anything specific you're looking forward to doing?\n\nPatient: Enjoying my pet. Going for a walk.\n\nNurse: That sounds lovely. What kind of pet do you have?\n\nPatient: I have a Chihuahua.",
+    "responses": {
+        "gpt4": "That's wonderful! I'm sure your Chihuahua will be happy to have you home. Please take care of yourself and let me know if there is anything else you need.",
+        "our_model": "Oh, Chihuahuas are such lively little companions. What's your Chihuahua's name?"
+    }
+}

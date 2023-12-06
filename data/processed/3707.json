@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3707,
+    "prompt": "Patient: I mean, ma'am, I've taken out before my life. So I think I got it from here.\n\nNurse: That's great to hear. I'm glad you're feeling confident about this. Do you have any questions about the chlorhexidine scrub or the process of using it?\n\nPatient: No.\n\nNurse: Alright. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Well, can you elaborate? On, like, what's the reason of not eating?\n\nNurse: Certainly.\n\nPatient: What's\n\nPatient: Why?",
+    "responses": {
+        "gpt4": "Absolutely. Not eating or drinking prior to anesthesia is a standard requirement to help ensure your safety during the surgery. The use of anesthetics can sometimes cause your body to forget how to swallow temporarily, which can cause food or liquid in your stomach to enter your lungs. This is known as aspiration, and it can be very dangerous. That's why it's important to have an empty stomach. Is there anything else you would like to know about this?",
+        "our_model": "That's a good question. The reason is to prevent any food or liquid from being accidentally inhaled during your anesthesia. This could cause serious complications. That's why it's important to follow this instruction very strictly. Does that help clarify things?"
+    }
+}

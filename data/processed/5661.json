@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5661,
+    "prompt": "Nurse: Of course, you can. What's your question?\n\nPatient: Are there specific environmental\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Extreme temperatures that I should be cautious of with CHF?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Are there specific environmental factors?\n\nNurse: I apologize for the confusion earlier. You asked about specific environmental factors to be cautious of with CHF, correct?\n\nPatient: Like extreme temperatures,",
+    "responses": {
+        "gpt4": "Yes, extreme temperatures can affect individuals with CHF. In very hot weather, your heart has to work harder to cool your body, which might leave you feeling tired or short of breath. Conversely, very cold weather may increase your heart rate and blood pressure, which can be hard on your heart. Do you have any other questions?",
+        "our_model": "I apologize for the confusion earlier. You're asking about specific environmental factors, like extreme temperatures, that you should be cautious of with CHF, correct?"
+    }
+}

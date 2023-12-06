@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4605,
+    "prompt": "Nurse: I see, Mr. Peck. Your recent lab results show that your sodium level is 141 mEq/L, which is within the normal range. Your potassium level is 3.5 mEq/L, also within the normal range. Your BUN, or Blood Urea Nitrogen, which measures the amount of waste product in your blood, is 7.10 mmol/L. Your creatinine, a waste product produced by your muscles, is 0.85 mg/dL, which is within the normal range. Your GFR, or Glomerular Filtration Rate, which measures how well your kidneys are filtering waste, is 88 mL/min/1.73m2. Lastly, your urine albumin, a protein that can indicate kidney damage, is 280 mg/g. Do you have any questions about these results?\n\nPatient: So on my\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: pre acne levels. Okay.\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: Can I keep my crease?\n\nNurse: I'm sorry, Mr. Peck, could you please clarify your question?\n\nPatient: Bernadine levels healthy.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Peck, could you please repeat what you said?",
+        "our_model": "I apologize for any confusion earlier, Mr. Peck. Could you please repeat your question?"
+    }
+}

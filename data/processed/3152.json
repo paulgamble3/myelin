@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3152,
+    "prompt": "Nurse: Absolutely, Mr. Valenzuela. Here are a couple of tips that might make the bowel prep easier for you. You can drink the laxative solution cold, which some people find makes it more palatable. You can also drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: I will try them. That's what I think.\n\nNurse: That's great to hear, Mr. Valenzuela. Trying different strategies can often make the process more manageable. Do you have any questions about the bowel prep or any other aspects of the preparation?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Valenzuela. It's important to remember that some people don't have any problems and are able to drink all the bowel prep just fine. Now, let's transition to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: So I cannot even have a water\n\nNurse: Yes, Mr. Valenzuela. You're correct. You should not have anything to eat or drink, including water, 4 hours before your procedure. This is to ensure your stomach and intestines are completely empty for the procedure. Do you have any other questions about this or any other aspects of the preparation?\n\nPatient: Oh, well,",
+    "responses": {
+        "gpt4": "It appears like you were about to ask something, Mr. Valenzuela. What's on your mind?",
+        "our_model": "I understand, Mr. Valenzuela."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 243,
+    "prompt": "Nurse: I'm sorry to hear that you're feeling upset, Mr. O'Leary. Would you like to share what's been bothering you?\n\nPatient: Not really.\n\nNurse: I see, Mr. O'Leary. I'm here to help you with any concerns you might have about your upcoming procedure. It's completely normal to feel a bit anxious before a major procedure. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your knee replacement?\n\nPatient: No. I just wanna feel better.\n\nNurse: I can certainly appreciate that, Mr. O'Leary. The goal of this procedure is indeed to help you feel better and improve your quality of life. How are you feeling about the procedure itself?\n\nPatient: I guess I feel fine.\n\nNurse: I'm glad to hear that, Mr. O'Leary. It's a positive step towards improving your health. Before we delve into the details, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: After the procedure",
+    "responses": {
+        "gpt4": "Absolutely, we can definitely discuss the post-procedure information. How can I assist you specifically in that area?",
+        "our_model": "Of course, Mr. O'Leary. After the procedure, you'll be taken to a recovery room where the immediate effects of the anesthesia can be monitored. Once you're awake and stable, you'll be moved to your hospital room. You'll likely stay in the hospital for a few days, possibly up to a week, depending on your progress. During this time, you'll start physical therapy to help strengthen your new knee. Do you have any specific concerns about this process?"
+    }
+}

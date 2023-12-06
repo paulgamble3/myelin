@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2717,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Aguirre. Remember, it's always a good idea to consult with a dietitian or your doctor for personalized dietary advice. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that your recovery is going well, Ms. Aguirre. It's essential to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's move on to your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes.\n\nNurse: Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: I thought I got it, but it's too hard right now. If that was something I'm\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting\n\nPatient: It's on my radar.",
+    "responses": {
+        "gpt4": "That's a significant first step, Ms. Aguirre, acknowledging it's on your radar. Making changes takes time, and it's perfectly okay to not be ready yet. If they ever become something you want to explore in future, can I provide some quitting suggestions for you then?",
+        "our_model": "I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting smoking. Can you share what you think might be the most challenging aspect of quitting for you?"
+    }
+}

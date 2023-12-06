@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6157,
+    "prompt": "Nurse: Alright, Mr. Dang. Please remember that you can ask me any questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm feeling okay.\n\nNurse: I'm sorry, Mr. Dang, could you please confirm if you're currently experiencing abdominal pain?\n\nPatient: I\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: have been experiencing abdominal pain\n\nNurse: I see, Mr. Dang. Could you please tell me when your abdominal pain started?\n\nPatient: It a few months ago.",
+    "responses": {
+        "gpt4": "I see, Mr. Dang. Has the pain gotten better, worse, or stayed the same over time?",
+        "our_model": "I'm sorry to hear that, Mr. Dang. Could you please describe your abdominal pain as generalized or localized?"
+    }
+}

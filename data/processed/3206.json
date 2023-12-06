@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3206,
+    "prompt": "Nurse: That's excellent. It's essential to have someone around to help you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask. [\n\nPatient: [NO RESPONSE]\n\nNurse: Alright, if there are no further questions, I believe we've covered all the necessary topics for today. Before we end the call, do you have any other questions or concerns?\n\nPatient: No.\n\nNurse: Alright, that was all the topics for today. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Yeah.\n\nNurse: Of course, what's on your mind?\n\nPatient: I said no.",
+    "responses": {
+        "gpt4": "I see, thank you for clarifying. In preparation for your total knee replacement procedure, you should pick up your Oxycodone prescription, get the chlorhexidine scrub for the shower, use the scrub the night before and the morning of your procedure, and also remember to stop eating and drinking after midnight before your procedure. If you have any more questions later on, you can always reach out to us. Can I count on you to do all of this?",
+        "our_model": "I apologize for misunderstanding. Is there anything else you'd like to discuss or any other questions you have?"
+    }
+}

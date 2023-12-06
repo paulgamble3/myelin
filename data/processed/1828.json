@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1828,
+    "prompt": "Nurse: Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?\n\nPatient: Oh, I'm feeling okay.\n\nNurse: I'm glad to hear that you're feeling okay, Ms. Odonnell. Is there anything you're looking forward to doing this week?\n\nPatient: I am going to\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your plans for this week?\n\nPatient: I am going to take a Zomba class.\n\nNurse: That sounds like a fun and active way to spend your time, Ms. Odonnell. How long have you been taking Zumba classes?\n\nPatient: Just for six months.",
+    "responses": {
+        "gpt4": "It's really great that you've been taking Zumba classes for six months, Ms. Odonnell. I'm sure that helps keep you active and healthy. Before we continue, is there anything that has been bothering you symptom-wise lately that we should discuss?",
+        "our_model": "That's wonderful, Ms. Odonnell. It's great to hear that you're staying active. Do you have a favorite song or routine in your Zumba classes?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 379,
+    "prompt": "Patient: Toast it?\n\nNurse: Toasted bread sounds like a great comfort food, Mr. Koroleva. It's a good choice for your low fiber diet. Do you usually have it with anything specific?\n\nPatient: Alright. Can we move on with the diet? I got it. Because it's been on and on. We kinda, like, stuck in the circle. So I'm ready to take this Ethan\n\nPatient: further,\n\nNurse: Of course, Mr. Koroleva. I apologize if it felt repetitive. Let's move on to the next topic.\n\nPatient: Hello? [NO RESPONSE]\n\nNurse: Of course, Mr. Koroleva. I'm glad to hear that you're ready to move forward. In addition to the changes in your diet, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Koroleva. It's important not to take any additional supplements or anti-diarrheal medications leading up to your colonoscopy. Do you have any questions about that?",
+        "our_model": "That's good to hear, Mr. Koroleva. It simplifies things a bit. Do you have any questions about why you need to stop these supplements or medications?"
+    }
+}

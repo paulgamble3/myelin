@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2072,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion. Let's proceed with the instructions for using the chlorhexidine scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Well and what is this scrubs. It's I scrub it off?\n\nNurse: The chlorhexidine scrub is an antiseptic that helps reduce the number of germs on your skin. It's used to clean your skin before surgery to help prevent infection. You'll apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Why no face?\n\nNurse: It's recommended to avoid using the scrub on your face because it can cause irritation, especially around the eyes. The same goes for the crotch area and hair, as these areas can be more sensitive to the scrub. After you've applied the scrub, you'll need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. Does that make sense?\n\nPatient: Yes. That makes sense.",
+    "responses": {
+        "gpt4": "Great! I'm glad the instructions are clear. Remember to also wear freshly laundered pajamas to bed the night before your procedure and sleep on clean bed sheets. Do you have any other questions about skin preparation before the surgery, or is there something else you'd like to discuss?\n",
+        "our_model": "I'm glad to hear that. Do you have any other questions about the chlorhexidine scrub?"
+    }
+}

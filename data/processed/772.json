@@ -1,0 +1,8 @@
+{
+    "prompt_id": 772,
+    "prompt": "Nurse: That's good to hear, Ms. Aguirre. If you ever have any concerns or questions, please don't hesitate to bring them up. We're here to support you. Would it be alright if we go over a few topics related to your health now?\n\nPatient: symptoms, but I am concerned about\n\nNurse: I'm sorry, Ms. Aguirre, you were saying you're concerned about something. Could you please continue?\n\nPatient: following buy it in stage four.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you?\n\nPatient: On a kidney disease.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you or what questions you have about your condition?\n\nPatient: Mostly, I wanna know what I should be eating.",
+    "responses": {
+        "gpt4": "That's a very important question, Ms. Aguirre. Managing your diet can greatly impact your health, especially with CKD. Before we dive into that, I would like to check in about a few more things. Is it okay if we discuss your blood sugar and blood pressure readings first?",
+        "our_model": "That's a great question, Ms. Aguirre. Diet is indeed a crucial part of managing kidney disease. Would it be okay if we go over a few topics related to your diet and overall health?"
+    }
+}

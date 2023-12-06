@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3508,
+    "prompt": "Nurse: That's great to hear, Mr. Martin. It must be a relief to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Actually just taken my dog for walks.\n\nNurse: That sounds lovely, Mr. Martin. Dogs make such wonderful companions. What kind of dog do you have and what's its name?\n\nPatient: His name is\n\nNurse: I'm sorry, Mr. Martin, your dog's name didn't come through. Could you please tell me your dog's name again?\n\nPatient: boevo.\n\nNurse: I'm sorry, Mr. Martin, I didn't quite catch that. Could you please repeat your dog's name?\n\nPatient: And he is a siberian husky.",
+    "responses": {
+        "gpt4": "Thank you for repeating that, Mr. Martin. I understand that your dog's name is Beau, and he is a Siberian Husky. I'm sure Beau must be happy to have you back home. Now, how can I assist you further today?",
+        "our_model": "I'm sorry Boevo sounds like a wonderful companion, and Siberian Huskies are such beautiful dogs. Do you have a favorite place where you like to walk Boevo?"
+    }
+}

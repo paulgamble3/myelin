@@ -1,0 +1,8 @@
+{
+    "prompt_id": 71,
+    "prompt": "Nurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: How many times are you gonna ask me that?\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: I said it started today.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: Yes.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: I said yes.",
+    "responses": {
+        "gpt4": "I apologize for the repetition, Ms. Ware. Have you noticed a sudden weight gain in the past week?",
+        "our_model": "Does the swelling start suddenly, Ms. Ware?"
+    }
+}

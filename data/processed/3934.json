@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3934,
+    "prompt": "Nurse: That's great. It's important to continue taking your Valsartan as it helps manage your CHF. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I don't. Since I only have two medications that I take\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: both of them at the same time every day pretty easy so far.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear. How about chest discomfort? Have you experienced any ongoing or worsening chest pain?",
+        "our_model": "That's good to hear. Now, have you experienced any ongoing or worsening chest pain?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1077,
+    "prompt": "Patient: No.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: I'm the patient, and I don't report that.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: Are you okay?\n\nPatient: Rachel.\n\nNurse: Does the patient develop a severe headache?\n\nPatient: Are you okay, Rachel?",
+    "responses": {
+        "gpt4": "Has the patient experienced confusion or difficulty understanding other people?",
+        "our_model": "Does the patient report trouble seeing from one or both eyes?"
+    }
+}

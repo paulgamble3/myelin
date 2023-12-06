@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1774,
+    "prompt": "Patient: No.\n\nNurse: Alright.\n\nPatient: I don't.\n\nPatient: Just\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I said I don't take any\n\nNurse: Thank you for clarifying.\n\nPatient: supplements.",
+    "responses": {
+        "gpt4": "Thank you for clarifying that. I have noted it in your file. Are there any other health related questions or concerns you'd like to discuss?",
+        "our_model": "Thank you for clarifying. It's critical to avoid those supplements as they can interfere with the colonoscopy preparation. Do you have any questions about this?"
+    }
+}

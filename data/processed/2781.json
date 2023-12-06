@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2781,
+    "prompt": "Nurse: I see, you're a veteran at this. It's great that you're familiar with the process. Do you have any specific concerns or questions about this upcoming procedure that you'd like to discuss?\n\nPatient: No. I don't have any questions at all.\n\nNurse: Alright, if any questions come up during our conversation, feel free to ask at any time. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: You know, again, just really ready to get it over with.\n\nNurse: I can appreciate that sentiment. It's great that you're taking this step to take care of your health. If it's alright with you, I'd like to go over a few topics on prep for your colonoscopy. Is that okay?\n\nPatient: It would be okay.\n\nNurse: Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Are you clear on the dietary restrictions you need to follow before your colonoscopy?\n\nPatient: Can I ask you a question first?",
+    "responses": {
+        "gpt4": "Of course, you can ask me a question anytime. What would you like to know?",
+        "our_model": "Of course, you're welcome to ask any questions. What would you like to know?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3505,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sam Martin?\n\nPatient: Hello? Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: April twenty third nineteen sixty five.\n\nNurse: Thank you for confirming your date of birth, Mr. Martin. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: I'm feeling very well.\n\nNurse: That's great to hear, Mr. Martin. It must be a relief to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Actually just taken my dog for walks.",
+    "responses": {
+        "gpt4": "Walks with your furry friend sounds lovely! Walking is a fantastic exercise that has manifold benefits for the body and the mind. What's your dog's name and what breed is it?",
+        "our_model": "That sounds lovely, Mr. Martin. Dogs make such wonderful companions. What kind of dog do you have and what's its name?"
+    }
+}

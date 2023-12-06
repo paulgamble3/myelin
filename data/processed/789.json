@@ -1,0 +1,8 @@
+{
+    "prompt_id": 789,
+    "prompt": "Nurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: stage four chronic kidney disease.\n\nNurse: I appreciate your patience, Ms. Aguirre. Could you please repeat what you said about having Stage IV Chronic Kidney Disease?\n\nPatient: I've been hearing about sodium for years.\n\nNurse: I understand, Ms. Aguirre. Managing sodium intake is indeed a key part of managing kidney disease. It's great that you're aware of this. Would you be willing to continue focusing on this, especially considering your slightly elevated blood pressure?\n\nPatient: Okay.\n\nNurse: Excellent, Ms. Aguirre. Another suggestion is to increase your intake of fruits and vegetables, which can help lower blood pressure. Do you think you could incorporate more fruits and vegetables into your diet?\n\nPatient: Well, I probably could. What kinds of fruits and vegetables",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Aguirre, you were saying? Could you please continue?",
+        "our_model": "That's great to hear, Ms. Aguirre. All fruits and vegetables can be beneficial, but some, like bananas, tomatoes, and leafy greens, are particularly good"
+    }
+}

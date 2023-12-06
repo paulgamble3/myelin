@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5722,
+    "prompt": "Nurse: I'm glad you think so, Ms. Aguirre. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could try this?\n\nPatient: Sure.\n\nNurse: That's wonderful to hear, Ms. Aguirre. Regular physical activity can make a big difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Earlier today.\n\nNurse: That's great, Ms. Aguirre. Could you please share with me what the result was?\n\nPatient: One twenty one over eighty you.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 121 over 80 is within the acceptable range, but the top number is a bit high. Would it be alright if I share some suggestions about managing blood pressure?\n\nPatient: But it's only high by one number. Is it really that",
+    "responses": {
+        "gpt4": "You're correct, Ms. Aguirre. Your blood pressure of 121 over 80 is only slightly above the optimal top number of 120. It's not a cause for immediate concern, but it's always good to use lifestyle strategies to keep it as low as possible within the healthy range. This can help to prevent any potential future health problems. Are you okay with me providing some suggestions to manage blood pressure?",
+        "our_model": "Yes, Ms. Aguirre, even a small increase in blood pressure can have an impact on your health. Would you be open to"
+    }
+}

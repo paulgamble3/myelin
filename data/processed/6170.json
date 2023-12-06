@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6170,
+    "prompt": "Nurse: I'm sorry to hear about your abdominal pain, Mr. Dang. I'm going to trigger a RED kickout for your abdominal_pain. A nurse will be on the line shortly to assist you further. Please stay on the line. [\n\nPatient: [NO RESPONSE] Are we going to continue with the call?\n\nNurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you.\n\nNurse: Yes, Mr. Dang, we will continue with the call. I'm here to ensure you have everything you need for your upcoming colonoscopy. Is it okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yes.\n\nNurse: Okay, thank you, Mr. Dang. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yeah. I know.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Dang. Also, once you get to O'Connor hospital, your check-in location will be on the 1st Floor of O'Connor Hospital. Does that sound good to you?",
+        "our_model": "Excellent, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

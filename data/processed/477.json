@@ -1,0 +1,8 @@
+{
+    "prompt_id": 477,
+    "prompt": "Nurse: I'm sorry to hear that the dry cough is still persisting. It's important to keep an eye on this.\n\nPatient: It's a little better. But it's still there.\n\nNurse: I'm sorry to hear that the dry cough is still bothering you. It's good that it's a bit better, but we'll continue to monitor it. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Well, they waived me at the ER. And\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I was a hundred and eighty eight pounds. But I haven't weighed myself since then because my bathroom scales broke.",
+    "responses": {
+        "gpt4": "Thank you for sharing; it's important to keep track of any significant weight changes. Once you fix or replace your bathroom scale, try to weigh yourself at the same time each day, preferably in the morning, after using the bathroom but before eating or drinking anything. We'll continue to monitor your weight during subsequent calls as well. Are you feeling down, depressed or hopeless?",
+        "our_model": "I see, it's important to monitor your weight regularly as sudden weight gain can be a sign of fluid retention. When you get a chance, could you please get your weight checked at a pharmacy or a friend's house?"
+    }
+}

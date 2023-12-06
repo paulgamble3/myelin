@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4443,
+    "prompt": "Nurse: That's excellent, Mr. Delarosa. Staying consistent with your medication is key to managing your health conditions. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Cora?\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said sure.\n\nNurse: Thank you, Mr. Delarosa. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: I haven't noticed that now.\n\nNurse: That's good to hear, Mr. Delarosa. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that you're not experiencing any chest pain. What about a new or worsening dry cough, Mr. Delarosa? Have you noticed any changes?",
+        "our_model": "I'm glad to hear that, Mr. Delarosa. How about a new or worsening dry cough?"
+    }
+}

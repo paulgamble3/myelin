@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4114,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paula Warrell?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I feel good.\n\nNurse: That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: No. Just staying home with my dog.\n\nNurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name?\n\nPatient: Cheeto.",
+    "responses": {
+        "gpt4": "What a fun name, Cheeto must be a great buddy! Is there a particular activity that you and Cheeto enjoy doing together?",
+        "our_model": "Cheeto, that's a fun name! What kind of dog is Cheeto?"
+    }
+}

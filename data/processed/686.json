@@ -1,0 +1,8 @@
+{
+    "prompt_id": 686,
+    "prompt": "Nurse: Just give me a second to work out the best way I can assist you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: No. The best way you can assist me is to wrap up this call.\n\nNurse: I understand. Before we wrap up, I'd like to discuss your diet briefly. Could you tell me about your recent meals?\n\nPatient: Yes.\n\nNurse: Could you please share what you've been eating recently?\n\nPatient: I'm watching my liquid intake.\n\nNurse: That's great to hear. Could you share a bit more about what you've been eating recently?\n\nPatient: I have eliminated salt from my diet.",
+    "responses": {
+        "gpt4": "That's fantastic to hear! Adhering to a low-sodium diet is so essential in managing your CHF. Could you share a bit about what a typical day of meals looks like? For example, what did you have for breakfast, lunch, and dinner yesterday?",
+        "our_model": "That's great to hear. Could you share a bit more about what you typically eat in a day?"
+    }
+}

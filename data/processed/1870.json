@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1870,
+    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I said I had shrimp talk\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?\n\nPatient: goes made oatmeal for breakfast.\n\nNurse: Thank you for sharing that, Ms. Odonnell. Shrimp tacos and oatmeal can be part of a balanced diet. However, it's important to be mindful of the carbohydrate content. Would it be alright if I provide some suggestions on how to manage your carbohydrate intake?\n\nPatient: Now. No.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if it's okay for me to provide some suggestions on managing your carbohydrate intake?\n\nPatient: I said no.",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Odonnell, I misheard you earlier. Let's proceed with other aspects of your care. In terms of hydration, are you managing to drink enough fluids, especially water, throughout the day?",
+        "our_model": "I apologize for the confusion, Ms. Odonnell. If you ever have any questions or need any suggestions in the future, don't hesitate to ask. Now, let's move on to discuss your other chronic conditions. You also have hypertension. How have you been managing your blood pressure?"
+    }
+}

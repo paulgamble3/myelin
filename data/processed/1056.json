@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1056,
+    "prompt": "Nurse: I'm glad to hear that. As you prepare for your colonoscopy, how are you feeling about the procedure?\n\nPatient: To get it over with.\n\nNurse: I can appreciate that sentiment. It's quite a process to go through, but it's an important step in taking care of your health. Do you have any specific concerns or questions you'd like to discuss before we begin?\n\nPatient: No.\n\nNurse: Alright, please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It's quite a process to go through, but it's great that you're taking this step to take care of your health. How are you feeling about it?\n\nPatient: I'm, again, just ready to get it over with.\n\nNurse: I can appreciate your readiness to have it done. It's a significant step you're taking for your health. If it's alright with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that okay?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Fantastic. Just to let you know, our call today is to ensure you have all the information you need in preparation for your procedure. We'll also have another call the day before your procedure to see how things are going. But for now, let's go over your current medications. I see that you're taking Ferrous Sulfate 200 mg, is that correct?",
+        "our_model": "Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. We'll also have another call the day before your procedure. Let's start with your current medication. You're taking Ferrous Sulfate 200 mg once a day, correct?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3378,
+    "prompt": "Nurse: That's good to hear, Mr. Kageyama. It's important to avoid those supplements and medications before your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: Hi. Nope.\n\nNurse: Alright, Mr. Kageyama. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Rosalvan.\n\nNurse: Alright, Mr. Kageyama. I'm glad to hear that you're clear on the information so far. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Well,\n\nNurse: Yes, Mr. Kageyama?\n\nPatient: You know, it's what has to be done, isn't it?",
+    "responses": {
+        "gpt4": "Indeed, Mr. Kageyama. You're absolutely right that the bowel prep is an important part of the process. It's not easy, and I commend you for your understanding and cooperation. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way.",
+        "our_model": "Yes, Mr. Kageyama, you're absolutely right. It's a crucial part of the process to ensure a successful colonoscopy. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions or concerns about this part of the preparation?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3812,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?\n\nPatient: Yes.\n\nNurse: Great, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: I've been doing fine. Thank you.\n\nNurse: I'm glad to hear that, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: Looking forward to the weekend. I know. Saying it out?",
+    "responses": {
+        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?",
+        "our_model": "I'm sorry, Mr. Hardy, could you please repeat what you're looking forward to this weekend?"
+    }
+}

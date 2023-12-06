@@ -1,0 +1,8 @@
+{
+    "prompt_id": 432,
+    "prompt": "Nurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I I'm not. I stopped taking it.\n\nNurse: That's good to hear. It's critical to avoid those medications unless specifically recommended by your doctor.\n\nPatient: Because I'm aware yeah. I'm I'm aware of the pit studies. So\n\nNurse: That's excellent.\n\nPatient: I'm a good student.",
+    "responses": {
+        "gpt4": "I can tell! You're doing an excellent job preparing for your surgery. Let's move on to the next topic, which is about preparing your home for after the surgery. Have you made arrangements to make things easier once you get home after your procedure?",
+        "our_model": "That's excellent. It's important to follow these instructions for your surgery. Now, I notice that you've also been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 412,
+    "prompt": "Nurse: That's wonderful to hear. Taking a day off to prepare for your surgery is a great idea. It's critical to have some quiet time before such a procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Sounds so odd. Getting in unique.\n\nNurse: I can imagine it might seem a bit unusual at first.\n\nPatient: You know what I mean?\n\nNurse: Absolutely, it's a significant change. But remember, this change is for the better. It's a step towards reducing your pain and improving your mobility. Do you have any specific activities or hobbies that you're excited to get back to once you've recovered from your surgery?\n\nPatient: I mean, just the regular walking. Very simple.\n\nNurse: Walking is a wonderful activity, and it's something many of us take for granted. Being able to walk without pain is a goal worth striving for. How are you feeling about your upcoming procedure?\n\nPatient: Nothing nothing intense or anything like that. I'm pretty mellow.",
+    "responses": {
+        "gpt4": "It's good to hear that you're feeling calm and mellow about the procedure. Before we proceed further, do you have any questions or concerns that you'd like to discuss? Remember, you can ask me anything at any time during our conversation.",
+        "our_model": "Walking is a wonderful activity, and being able to do it without pain is a goal worth striving for. It's the simple things that often bring us the most joy. How are you feeling about your upcoming procedure?"
+    }
+}

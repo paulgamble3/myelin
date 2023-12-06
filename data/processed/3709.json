@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3709,
+    "prompt": "Patient: Well, can you elaborate? On, like, what's the reason of not eating?\n\nNurse: Certainly.\n\nPatient: What's\n\nPatient: Why?\n\nNurse: That's a good question. The reason is to prevent any food or liquid from being accidentally inhaled during your anesthesia. This could cause serious complications. That's why it's important to follow this instruction very strictly. Does that help clarify things?\n\nPatient: Oh, Oh, yeah.\n\nNurse: I'm glad that makes sense. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Carry on. Carry on.",
+    "responses": {
+        "gpt4": "Alright then. For the next question, I want to check your current health status. Have you noticed having a fever, chills, or muscle aches recently?",
+        "our_model": "Thank you. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?"
+    }
+}

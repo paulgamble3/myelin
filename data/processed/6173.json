@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6173,
+    "prompt": "Patient: Yeah. I know.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: Excellent, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sounds fine.\n\nNurse: Excellent, Mr. Dang. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Give me a moment while I figure out how I can best help you. Give me a moment while I figure out how I can best help you. Alright, Mr. Dang. I'm glad to hear that the logistics seem clear to you. I'm going to take a moment to figure out the best way I can support you. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Alright, Mr. Dang. Now let's talk about your medications. I see on your chart that you are prescribed Xarelto 10 mg, to be taken once per day. You would need to stop Xarelto 5 days before the procedure. Considering today's date, you should stop the medication on August 12. Does this make sense to you?",
+        "our_model": "Great, Mr. Dang. I see on your chart that you're currently taking Xarelto 10 mg once a day. Given the instructions for your colonoscopy, you will need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?"
+    }
+}

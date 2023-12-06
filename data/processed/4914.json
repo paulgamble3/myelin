@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4914,
+    "prompt": "Nurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One thirty two.\n\nNurse: Thank you for sharing that. A blood sugar level of 132 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Excellent. One strategy is to ensure you're eating balanced meals. This includes a mix of proteins, fats, and carbohydrates. It's also important to limit your intake of sugary drinks and high-sugar foods. Regular physical activity can also help lower your blood sugar levels. Do you think these are strategies you could incorporate into your daily routine?\n\nPatient: Yes. I think so.\n\nNurse: That's great to hear. Remember, it's always important to discuss any changes in your diet or exercise routine with your doctor. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and what was the result?\n\nPatient: I took it yesterday.",
+    "responses": {
+        "gpt4": "That's great. Would you be able to tell me what the reading was?",
+        "our_model": "Thank you for that information. Could you please share what the reading was?"
+    }
+}

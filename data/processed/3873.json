@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3873,
+    "prompt": "Nurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I'm following the dash diet trying to eat healthier. I've started eating a lot of salad. I use the Wishbone Italian dressing, speaking of how much salt is in the Wishbone Italian dressing.\n\nNurse: It's great to hear that you're making an effort to eat healthier. Salads can be a good source of fiber and vitamins. As for the Wishbone Italian dressing, it does contain some sodium. If you're open to it, I can provide some suggestions to help manage your sodium intake. Would that be alright?\n\nPatient: Sure.\n\nNurse: Wonderful. One way to manage your sodium intake is by using herbs and spices for flavor instead of salt. Another strategy is to choose fresh or frozen vegetables over canned ones, as canned vegetables often have added sodium. Lastly, when eating out, ask for your meal to be prepared without added salt. Do these suggestions sound manageable to you?\n\nPatient: Yeah.\n\nNurse: I'm glad to hear that. Now, let's discuss your obesity. Have you noticed any changes in your weight recently?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay. Would you feel comfortable discussing some strategies for managing your weight?",
+        "our_model": "Alright. It's critical to monitor your weight regularly as managing your weight can help with your other conditions. If you're open to it, I can provide some suggestions to help manage your weight. Would that be alright?"
+    }
+}

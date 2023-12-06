@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1383,
+    "prompt": "Nurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which\n\nPatient: Lantus,\n\nNurse: I'm sorry, Mr. Grewe, could you please repeat that?\n\nPatient: Oh, no. Wait. You already talked about my Lantus. So you wanna know all my medic occasions,\n\nNurse: Yes, Mr. Grewe, I'd like to confirm all the medications you're currently taking. You've already mentioned Lantus. Are there any other medications you're currently taking that we haven't discussed yet?\n\nPatient: filing all salam brack,\n\nNurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat\n\nPatient: and metformin.",
+    "responses": {
+        "gpt4": "Thank you for that information, Mr. Grewe. As per your physician's instructions, continue taking Metformin as prescribed. Just to confirm, you are not on any aspirin, blood thinners, or any other medication besides the Lantus and Metformin, correct?",
+        "our_model": "the name Thank you for confirming those medications, Mr. Grewe. I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked up these medications from the pharmacy yet?"
+    }
+}

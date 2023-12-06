@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1090,
+    "prompt": "Nurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been alright. How about you?\n\nNurse: As an AI, I don't have personal experiences, but I'm here to assist you. I'm glad to hear your day has been alright. It's critical to stay positive, especially as you prepare for your upcoming procedure. Are you managing to keep busy today?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee.\n\nPatient: Yeah. I guess so.\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I",
+    "responses": {
+        "gpt4": "Oops, it seems like your message was cut off. Could you please repeat what you were going to say? I was asking if you have any specific plans or activities you're looking forward to doing after your knee replacement.",
+        "our_model": "That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3331,
+    "prompt": "Nurse: Yes, Mr. Winner.\n\nPatient: Dry it off. Okay. What does this scrub do exactly?\n\nNurse: The chlorhexidine scrub helps to kill bacteria on your skin, Mr. Winner. This reduces the risk of infection during and after your surgery. It's an important part of your pre-surgery preparation. Does that help clarify things?\n\nPatient: Yes. Okay. And the okay. Preparation for oh, okay. Risk of infection. I like that. I like that. Thank you.\n\nNurse: You're welcome, Mr. Winner. I'm glad I could help clarify that for you. Just to reiterate, you'll need to use the scrub the night before and the morning of your procedure. Can you remember to do that?\n\nPatient: Yes. I can remember. But also, like, I'm gonna scrap the you know, I'm gonna scrap my body like a crazy Paxton. I'm just so scared of this surgery. I mean, I don't want any infection.\n\nNurse: I can certainly understand your concerns, Mr. Winner. It's completely normal to feel this way before a procedure. The chlorhexidine scrub is a very effective way to reduce the risk of infection. It's great that you're taking this step seriously. Do you have any other questions or concerns about the procedure?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Winner. Your feelings are completely normal, and I'm here to help answer any questions and concerns. Finally, we should discuss when to stop eating and drinking before your procedure. You should not eat or drink anything after midnight before your procedure. Can you do that?",
+        "our_model": "Alright, Mr. Winner."
+    }
+}

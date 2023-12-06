@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5654,
+    "prompt": "Nurse: Yes, I'm here. I apologize if there was a pause. Do you have any questions about the dietary recommendations we discussed?\n\nPatient: No. I believe I understand.\n\nNurse: Great, I'm glad to hear that. Now, let's talk about your exercise routine. Could you tell me about any physical activities you've been doing recently?\n\nPatient: Well, I'm always walking my dog\n\nNurse: That's great, walking is a wonderful form of exercise. How long do your walks usually last?\n\nPatient: that occurs at least twice daily. I also ride my bike\n\nNurse: That's fantastic. Walking and biking are great ways to stay active. How long do your walks and bike rides usually last?\n\nPatient: around the neighborhood. I play pickle ball, usually on the weekends.",
+    "responses": {
+        "gpt4": "It sounds like you have a very active lifestyle, which is great for your overall health. Approximately how long do you play pickleball and how long are your bike rides?",
+        "our_model": "That's fantastic. It sounds like you're staying very active. Walking, biking, and playing pickle ball are all great ways to exercise. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?"
+    }
+}

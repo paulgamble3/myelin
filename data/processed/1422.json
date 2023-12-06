@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1422,
+    "prompt": "Nurse: Is the diarrhea chronic, Mr. Valenzuela?\n\nPatient: A few weeks ago,\n\nNurse: I see, thank you for sharing that, Mr. Valenzuela. Is the diarrhea chronic or does it come and go?\n\nPatient: I mean, it it's pretty\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: floods chronic\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear, Mr. Valenzuela. Have you recently lost any weight without trying?",
+        "our_model": "That's good to hear, Mr. Valenzuela. Have you been experiencing any nausea or vomiting along with the diarrhea?"
+    }
+}

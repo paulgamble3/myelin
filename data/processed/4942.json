@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4942,
+    "prompt": "Nurse: The History Channel is a great source of knowledge and entertainment. It's always interesting to learn about the past. Do you have a favorite show or period in history that you enjoy learning about?\n\nPatient: I like movies, action movies, just about anything.\n\nNurse: It sounds like you have a diverse taste. History and action movies can be quite engaging. Do you have a favorite history or action movie that you're looking forward to watching?\n\nPatient: I like in glorious pastures.\n\nNurse: \"Inglourious Basterds\" is indeed a fantastic film. It's great that you have something to look forward to. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I haven't seen that one in a while. Looking forward to watching it again.\n\nNurse: \"Inglourious Basterds\" is indeed a fantastic film. It's always a treat to re-watch a favorite movie. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Hi.",
+    "responses": {
+        "gpt4": "Hello, Fredric. Just checking in, do you have any personal health questions or concerns that you would like to bring up before we proceed?",
+        "our_model": "Hello. Is there something you'd like to share or a question you have at the moment?"
+    }
+}

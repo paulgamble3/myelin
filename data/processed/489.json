@@ -1,0 +1,8 @@
+{
+    "prompt_id": 489,
+    "prompt": "Nurse: I understand, it can be hard to remember everything. Could you tell me about a recent meal you had?\n\nPatient: Maybe for eggs and toast for breakfast.\n\nNurse: Thank you for sharing that. It's a good start. For lunch and dinner, do you usually have a specific type of meal or do you vary it?\n\nPatient: And it'll have\n\nNurse: I'm sorry, you were saying you'll have what for breakfast?\n\nPatient: like a turkey sandwich for lunch and maybe some soup for dinner.\n\nNurse: Thank you for sharing that. It's a good start. If it's okay with you, I'd like to provide some recommendations to align your diet with the CHF guidelines. Is that alright?\n\nPatient: I guess.",
+    "responses": {
+        "gpt4": "Great, thank you. One recommendation is to limit your fluid intake to about 1 liter per day. This can help manage your fluid balance and reduce the burden on your heart. Another recommendation is to follow a diet with limited sodium, aiming for about 1500 mg per day. This can help control your blood pressure and reduce fluid buildup. Would it be okay if I offer some suggestions on how to implement these in your current meals?",
+        "our_model": "Thank you. One recommendation would be to limit your fluid intake to 1 liter per day. This includes all fluids, not just water. Another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like me to note these recommendations down for the dietitian to discuss with you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5925,
+    "prompt": "Nurse: That's good to hear. Now, let's discuss Lisinopril. You should be taking a 20 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. The correct dosage for Metoprolol is actually two 25 mg extended-release (ER) oral tablets daily, not a single 50 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. The correct dosage for Lisinopril is actually two 10 mg oral tablets daily, not a single 20 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear. To achieve your prescribed dosage, please continue taking two 10 mg tablets of Lisinopril daily. It's crucial for managing your blood pressure. \n\nRemember, understanding all your health information can feel overwhelming and it's normal to have questions. If you ever have any concerns or confusion about your medications, please feel free to reach out to your doctor's office or your pharmacist. We are here to help. \n\nStay consistent with your medication regime and continue monitoring your blood pressure and blood sugar levels. Do you have any other questions or concerns that I may help you with?",
+        "our_model": "That's great to hear. Now, let's discuss Lantus. You should be taking 15 units every night at bedtime. Have you been able to do that?"
+    }
+}

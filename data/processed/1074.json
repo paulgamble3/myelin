@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1074,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm what you said?\n\nPatient: Pasta.\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nPatient: Is my favorite low fiber food. But it's only for one day. So I'm not really worried about it.\n\nNurse: When did the change in speech start?\n\nPatient: What are you talking about?\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Have there been any episodes of seizure or loss of consciousness?",
+        "our_model": "Does the patient report numbness on their arms or legs?"
+    }
+}

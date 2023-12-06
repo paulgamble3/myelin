@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4168,
+    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Peck. You mentioned that your blood sugar was 148. Is that correct?\n\nPatient: Yes.\n\nNurse: Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you. Thank you for confirming that, Mr. Peck. I understand that you're on a low salt, low phosphorus diet. This is important for managing your kidney disease. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.\n\nNurse: Thank you for that information, Mr. Peck. Could you please tell me what the result of your blood pressure measurement was this morning?\n\nPatient: It was one twenty over sixty.\n\nNurse: Thank you for sharing that, Mr. Peck. That's a good blood pressure reading. It's important to keep it under control. Can I share some suggestions about managing blood pressure?\n\nPatient: No. Thank you.",
+    "responses": {
+        "gpt4": "Sure thing, Mr. Peck. If you change your mind or have any questions in the future, don't hesitate to ask. Is there anything else you'd like to discuss during this call?",
+        "our_model": "Of course, Mr. Peck. If you ever have any questions or need any suggestions, don't hesitate to ask. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
+    }
+}

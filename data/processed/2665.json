@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2665,
+    "prompt": "Nurse: That's excellent, Ms. Cruz. You're doing a great job managing your diet. Now, based on what you've shared about your meals, it sounds like you're already making healthy choices. Just remember to keep an eye on the sodium content in pre-packaged foods, as they can be high in sodium. Do you have any questions about your diet or any foods in particular?\n\nPatient: Do you have any thoughts? What's the\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: Well, I mean,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: I do have lots of thoughts. I miss my regular food.\n\nNurse: I can understand that, Ms. Cruz. It's normal to miss the taste of foods we're used to. Could you share more about the types of food you miss?\n\nPatient: It just I feel like this",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Cruz, I didn't catch that. Could you please repeat what you miss about your regular food?",
+        "our_model": "I can understand how you might miss your regular food, Ms. Cruz. Making dietary changes can be challenging. Could you share more about the foods you miss and why you enjoyed them?"
+    }
+}

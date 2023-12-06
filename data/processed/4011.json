@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4011,
+    "prompt": "Nurse: That's good to hear, Ms. Warrell. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No changes.\n\nNurse: That's good to hear, Ms. Warrell. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Ms. Warrell. How about a new or worsening dry cough?\n\nPatient: Luckily not.\n\nNurse: That's good news, Ms. Warrell. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's great to hear, Ms. Warrell. Have you noticed any sudden weight gain, such as more than 2 pounds in the past day or 5 pounds in the past week?",
+        "our_model": "That's great to hear, Ms. Warrell. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?"
+    }
+}

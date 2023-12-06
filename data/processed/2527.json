@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2527,
+    "prompt": "Patient: I took it yesterday.\n\nNurse: That's good to hear, Mr. Oliver.\n\nPatient: And\n\nPatient: Let me look at my notes here.\n\nNurse: Of course, Mr. Oliver. Take your time. I appreciate you keeping track of your blood pressure.\n\nPatient: It was a hundred and twenty over\n\nNurse: I'm sorry, Mr. Oliver, you were saying?\n\nPatient: Seventy five.",
+    "responses": {
+        "gpt4": "Thank you for that information, Mr. Oliver. A blood pressure measurement of 120 over 75 is within the optimal range for adults. You're doing a great job of managing your health parameters. Is there anything else you'd like to discuss today?",
+        "our_model": "Thank you for that information, Mr. Oliver. A blood pressure reading of 120 over 75 is within the normal range. It's good that you're monitoring your blood pressure as well. If it's okay with you, I'd like to share some suggestions about managing blood pressure. Would that be alright?"
+    }
+}

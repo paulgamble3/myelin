@@ -1,0 +1,8 @@
+{
+    "prompt_id": 826,
+    "prompt": "Nurse: That's great to hear, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to spending time with my grandkids.\n\nNurse: That sounds lovely, Mr. Oliver. Spending time with family, especially grandkids, can be such a joy. What activities do you usually enjoy doing with them?\n\nPatient: Oh, I like taking them to the movies or for ice cream. Anything where I get some fun time then.\n\nNurse: Those sound like wonderful ways to spend time with your grandkids, Mr. Oliver. Movies and ice cream are always a hit. Do you have a favorite movie or ice cream flavor that you all enjoy?\n\nPatient: I personally like chocolate chip.\n\nNurse: Chocolate chip is a classic, Mr. Oliver. It's always a delight. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Oliver. If you have any questions or concerns at any point during our call, feel free to bring them up. I'm here to help. In the meantime, would it be alright if we go over a few topics about your health?",
+        "our_model": "Alright, Mr. Oliver. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?"
+    }
+}

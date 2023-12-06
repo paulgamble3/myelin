@@ -1,0 +1,8 @@
+{
+    "prompt_id": 417,
+    "prompt": "Nurse: I'm glad to hear that you're feeling alright. It's normal to have some feelings of anticipation before a procedure. Before we move on, do you have any questions or concerns you'd like to discuss?\n\nPatient: Not really. I mean, I was Actually, I do. Do you I just curious about the pain. Will my pain disappear? After the surgery?\n\nNurse: That's a very important question. The goal of a total knee replacement is to relieve the pain in the knee caused by damage to the joint. After surgery and recovery, most people have significant pain relief and improved mobility. However, it's important to remember that everyone's recovery process is unique, and it may take some time to fully realize the benefits of the surgery. Does that help address your concern?\n\nPatient: That does helps you out a lot.\n\nNurse: I'm glad to hear that. Now, I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: It's totally okay. Yes.\n\nNurse: Great, thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Okay.",
+    "responses": {
+        "gpt4": "Let's confirm. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Did I get it right?",
+        "our_model": "Does that timing work for you?"
+    }
+}

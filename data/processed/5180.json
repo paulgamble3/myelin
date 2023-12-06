@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5180,
+    "prompt": "Patient: Hello?",
+    "responses": {
+        "gpt4": "Hello, this is Rachel. I'm a chronic care management nurse calling on behalf of Dr. Molly Burke. I hope this is a good time for you. How are you doing now that you are home from the hospital?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jane Anderson?"
+    }
+}

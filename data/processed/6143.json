@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6143,
+    "prompt": "Nurse: That's all we can ask for. You're doing your best and that's great. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: It's not the packaging for today.\n\nNurse: I'm sorry, Jon, could you please repeat that?\n\nPatient: I said I smoke a pack of cigarettes today. Okay.\n\nNurse: I see, thank you for sharing that. I know it's a sensitive topic, but have you ever considered quitting smoking?\n\nPatient: I'm not ready to quit right now. Thanks.\n\nNurse: That's completely okay. It's a big step and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?\n\nPatient: I just don't want to.",
+    "responses": {
+        "gpt4": "That's completely understandable, Jon. It's a big personal decision to make. Please remember, if you ever change your mind or wish to discuss it further, we could provide you with a lot of resources and support. Now, let's proceed to our final step for today. Do you have any questions or concerns for me at this time?",
+        "our_model": "I understand. It's a personal decision and it's important to do what feels right for you. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share them with you now, or would you prefer to wait until you're ready?"
+    }
+}

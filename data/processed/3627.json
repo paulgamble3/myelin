@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3627,
+    "prompt": "Nurse: That's good to hear, Mr. Benton. It's critical to keep managing your hypertension for your overall health. Now, let's discuss your anemia. Have you noticed any changes in your symptoms, such as fatigue or weakness?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Benton. It's critical to keep monitoring your symptoms. Now, let's move on to your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.\n\nNurse: That's great to hear, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?\n\nPatient: Yeah. I have some more questions about some of the earlier\n\nNurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: Off.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Benton. Could you please explain what you're referring to?",
+        "our_model": "Of course, Mr. Benton. I'm here to help. What would you like to know more about?"
+    }
+}

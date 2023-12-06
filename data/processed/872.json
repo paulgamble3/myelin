@@ -1,0 +1,8 @@
+{
+    "prompt_id": 872,
+    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Wiggins. You mentioned that your last blood sugar reading was 128. Just to confirm, is your blood sugar usually higher or lower than this reading?\n\nPatient: I don't know.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.\n\nPatient: Okay.\n\nNurse: Thank you for your patience, Mr. Wiggins. It's essential to keep your blood sugar levels under control. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks that contain a mix of carbohydrates, protein, and fat. Do you think this is something you could try?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Wiggins. Another strategy is to engage in regular physical activity. This could be as simple as a daily walk. Do you think you could incorporate some form of physical activity into your routine?\n\nPatient: Yeah. I walk sometimes.",
+    "responses": {
+        "gpt4": "Good to know, Mr. Wiggins. Incorporating regular walks into your routine can indeed help manage your blood sugar levels. It is also important to note that you should regularly check your blood sugar levels and report any consistent high or low readings to your healthcare provider. Can you confirm understanding of this information?",
+        "our_model": "That's wonderful, Mr. Wiggins. Walking is a great form of exercise that can help manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
+    }
+}

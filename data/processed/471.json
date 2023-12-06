@@ -1,0 +1,8 @@
+{
+    "prompt_id": 471,
+    "prompt": "Nurse: One strategy could be to take your Lasix dose earlier in the day, if possible. This might help reduce the number of times you need to get up at night. However, it's important to discuss this with your doctor first. Would you like me to note this down for Doctor Van?\n\nPatient: Yes.\n\nNurse: I've noted down your concern about the Lasix disrupting your sleep and the suggestion to take it earlier in the day. I'll make sure Doctor Van is aware of this. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: I have some shortness of breath. I\n\nNurse: I'm sorry to hear that you're experiencing shortness of breath.\n\nPatient: night.",
+    "responses": {
+        "gpt4": "I'm sorry to hear about your difficulty at night. It can be quite challenging dealing with shortness of breath. Let's continue checking on other symptoms. Have you noticed any ongoing or worsening chest pain?",
+        "our_model": "I'm sorry to hear that you're experiencing shortness of breath, especially at night. This is something we need to monitor closely. Have you noticed any ongoing or worsening chest pain?"
+    }
+}

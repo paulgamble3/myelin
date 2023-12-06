@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5132,
+    "prompt": "Nurse: I'm glad to hear that you found the tips helpful. Do you have any questions about the bowel prep or is there anything else you'd like to discuss before we move on?\n\nPatient: No. I don't.\n\nNurse: Alright. If any questions come up later, feel free to ask. Now, let's discuss when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Does that make sense?\n\nPatient: Yes. It does.\n\nNurse: Excellent. It's essential to have an empty stomach for the procedure. Do you have any questions about this or is there anything else you'd like to discuss before we move on?\n\nPatient: No. I don't have any questions.\n\nNurse: Alright. If any questions come up later, feel free to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.",
+    "responses": {
+        "gpt4": "Alright. My first question for you is about your general health. Have you noticed any signs of illness such as a fever, chills, or muscle aches recently?",
+        "our_model": "Alright. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have any fever, chills, or muscle aches?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 560,
+    "prompt": "Nurse: That's fantastic. Sticking to a routine can be very helpful in managing medications. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Nope.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Good to know. Have you experienced any increase in swelling in your feet, ankles, stomach, or legs?",
+        "our_model": "That's good. Have you noticed increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

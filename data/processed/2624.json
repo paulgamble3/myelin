@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2624,
+    "prompt": "Nurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: normal people watching TV,\n\nNurse: That sounds like a lovely way to relax and spend time together, Ms. Cruz. What kind of shows do you all enjoy watching?\n\nPatient: going for walks, doing something together, painting,\n\nNurse: It sounds like you have a lovely time with your family, Ms. Cruz. Painting is a wonderful way to express creativity. Do you have a favorite subject or style that you like to paint?\n\nPatient: No style free dial.\n\nNurse: That's wonderful, Ms. Cruz. Painting without boundaries can be very freeing. Now, I'm calling on behalf of Doctor Jeff Crane and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Mhmm.No.",
+    "responses": {
+        "gpt4": "Alright, Ms. Cruz, let's begin. Recently, your doctor has prescribed some new medications for you. The first one is Captopril 12.5 mg oral tablet. Have you had a chance to pick this medication from the pharmacy?",
+        "our_model": "Alright, Ms. Cruz. Let's move on to your medications. Have you been able to pick up your new prescription for Captopril 12.5 mg oral tablet?"
+    }
+}

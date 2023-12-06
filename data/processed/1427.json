@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1427,
+    "prompt": "Patient: No.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, faint, or dizzy at all?\n\nPatient: No.\n\nNurse: Just give me a second to work out the best way I can assist you. Just give me a second to work out the best way I can assist you.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Mr. Valenzuela. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yes, please.",
+    "responses": {
+        "gpt4": "Great, Mr. Valenzuela. To start, I want to ensure you have everything you need. I will call you again the day before your procedure, is that okay for you?",
+        "our_model": "Hold on a second while I figure out how I can best support you."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4708,
+    "prompt": "Nurse: In the past month, have you thought about hurting yourself?\n\nPatient: I'm feeling horrified at this new diagnosis.\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: No.\n\nNurse: Has the patient ever planned or prepared to end their life?\n\nPatient: Why are you saying these things to me?\n\nNurse: I'm sorry if this seems abrupt, but it's part of a standard procedure to ensure your well-being. Have you ever planned or prepared to end your life?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Has the patient ever attempted to end their life?",
+        "our_model": "Does the patient have any more information they want to share about this issue?"
+    }
+}

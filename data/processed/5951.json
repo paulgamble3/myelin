@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5951,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I smoked like a pack a day.\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that. Have you ever considered quitting smoking?\n\nPatient: Yeah. I I don't I'm not ready to quit smoking. I don't want to.\n\nNurse: I appreciate your honesty. It's a big decision to make. Could you share with me why you feel you're not ready to quit smoking?\n\nPatient: Because I don't want to.",
+    "responses": {
+        "gpt4": "That's completely valid, Jon. Your feelings are important, and it's okay if you're not ready to quit smoking right now. If you ever change your mind, know that there are lots of resources available to you, and I'm here to help you throughout that process. What do you think about this?",
+        "our_model": "I appreciate your honesty. It's a personal decision. If you ever change your mind, I have a lot of resources that I could share with you to help you quit. Would you like me to share these resources now, or would you prefer to wait until you're ready?"
+    }
+}

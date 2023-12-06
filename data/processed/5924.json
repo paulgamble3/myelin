@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5924,
+    "prompt": "Nurse: That's great. Now, let's move on to Metoprolol. You should be taking a 50 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Lisinopril. You should be taking a 20 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. The correct dosage for Metoprolol is actually two 25 mg extended-release (ER) oral tablets daily, not a single 50 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. The correct dosage for Lisinopril is actually two 10 mg oral tablets daily, not a single 20 mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great! It's crucial to make sure you're taking the correct dosage. Do you have any other questions about your medications, or is there anything else you'd like to discuss regarding your health?",
+        "our_model": "mg tablet. Have you been able to take this correct dosage?"
+    }
+}

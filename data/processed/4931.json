@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4931,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Fredric Hooper?\n\nPatient: This is Frederick Cooper.\n\nNurse: I apologize for the confusion, Mr. Cooper. I was trying to reach Fredric Hooper. I must have mispronounced the name. Can you confirm if you are Fredric Hooper?\n\nPatient: I am.",
+    "responses": {
+        "gpt4": "Great, Mr. Hooper. To ensure your privacy and for verification purposes, could you please provide your date of birth, including the month, day, and year?",
+        "our_model": "Thank you for confirming, Mr. Hooper. For verification purposes, could you please provide your date of birth?"
+    }
+}

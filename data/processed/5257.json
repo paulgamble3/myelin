@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5257,
+    "prompt": "Patient: Yeah. That's me.\n\nNurse: Great, Mr. Rivers. I'm calling on behalf of your primary care doctor, Doctor Maria Suarez, to check in on you. How have you been doing lately?\n\nPatient: I'm okay, I guess. Hello?\n\nNurse: I'm glad to hear you're doing okay, Mr. Rivers. Is there anything you're looking forward to doing this week?\n\nPatient: Scared but\n\nPatient: Nothing too crazy.\n\nNurse: I'm sorry to hear that you're feeling scared, Mr. Rivers. It's completely normal to feel this way given your health conditions. Is there anything specific that's been on your mind or any symptoms that you're particularly concerned about?\n\nPatient: I guess, what does it mean that I have stage two gave me dizzy.",
+    "responses": {
+        "gpt4": "I'm sorry, could you clarify your question? Are you asking about stage two of a specific condition? And are you feeling dizzy right now?",
+        "our_model": "I'm sorry, Mr. Rivers, I didn't quite catch that. Could you please repeat what you were saying?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 93,
+    "prompt": "Nurse: I can see why you might feel that way. The reason for taking the second dose in the middle of the night is to ensure that your colon is as clean as possible for the procedure.\n\nPatient: [NO RESPONSE]\n\nNurse: I can see why you might feel that way. The reason for taking the second dose in the middle of the night is to ensure that your colon is as clean as possible for the procedure.\n\nPatient: Hello?\n\nNurse: I'm here. I understand your concerns. The timing of the second dose is designed to ensure your colon is as clean as possible for the procedure. This helps Doctor Bailey get the most accurate results. I'll make a note of your concerns for your care team to review. Let's move on to the logistics of your appointment. Your colonoscopy is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Gosh. You guys really require so much time for everything.\n\nNurse: I understand it might feel like a lot of time, but it's necessary to ensure everything goes smoothly. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sound whatever.",
+    "responses": {
+        "gpt4": "I can sense your frustration, and I'm sorry for any inconvenience. Your feelings are completely understandable. We want to make sure we're thorough with your care to ensure the best possible outcome. Please let me know if there's anything else I can do to better support you.",
+        "our_model": "I'm sorry, could you please repeat your response?"
+    }
+}

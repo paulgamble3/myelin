@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1895,
+    "prompt": "Nurse: That's great to hear. Now, I see that you've had some recent blood tests and urine labs. Do you have any questions about these results?\n\nPatient: Yeah. Are my sodium and potassium levels normal?\n\nNurse: Yes, your sodium level is 139 mEq/L and your potassium level is 3.9 mEq/L. Both of these are within the normal range. Sodium and potassium are important for your body to function properly, so it's good that your levels are normal. Do you have any other questions about your lab results?\n\nPatient: Nope.\n\nNurse: Alright. Let's move on to your medications. You're currently taking Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Good to hear. It's important to stick to your medication schedule. Your kidneys are doing a good job now. Let's help them stay that way. Have you noticed any side effects or changes since you started taking the medication?",
+        "our_model": "That's excellent. It's important to take your medication as prescribed to manage your conditions effectively. Now, I'd like to remind you that there are certain medications and supplements that aren't safe for patients with CKD to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?"
+    }
+}

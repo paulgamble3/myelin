@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3532,
+    "prompt": "Nurse: That's a great start, Mr. Martin. It sounds like you're making an effort to eat healthier. Can I share some dietary recommendations that might help you manage your weight and your CHF?\n\nPatient: Yeah. Sure.\n\nNurse: Thank you, Mr. Martin. As part of managing your CHF, it's recommended that you follow a carbohydrate-controlled diet. This means aiming for about 130 grams of carbohydrates per day. It's also important to follow a cardiac diet, which means eating plenty of fruits and vegetables, lean proteins, and whole grains, while limiting sodium, added sugars, and unhealthy fats. How does this fit with what you're currently eating?\n\nPatient: That's what I'm trying to do.\n\nNurse: That's great to hear, Mr. Martin. It sounds like you're already on the right track. Just remember to keep an eye on the amount of carbohydrates you're consuming. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: Well, I have a bike\n\nNurse: That's fantastic, Mr. Martin. Cycling is a great form of exercise. How often do you ride your bike and for how long?\n\nPatient: that I ride, I play pickleball, usually on the weekends.",
+    "responses": {
+        "gpt4": "It sounds like you're staying quite active, Mr. Martin. Cycling and playing pickleball are great ways to get exercise. Are these activities comfortable for you, or do you experience any discomfort, breathlessness, or fatigue?",
+        "our_model": "Hold on a second while I figure out how I can best support you. That's fantastic, Mr. Martin. Riding a bike and playing pickleball are great ways to stay active. How often do you engage in these activities?"
+    }
+}

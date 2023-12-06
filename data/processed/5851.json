@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5851,
+    "prompt": "Nurse: I appreciate your response, Mr. Alves. It's completely normal to have mixed feelings about medical procedures. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Alves, I'm here. You mentioned earlier that you guess you're feeling okay about the procedure. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. I see on your chart that you're getting this colonoscopy due to bleeding from the rectum. I realize it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I just want to get it over with",
+    "responses": {
+        "gpt4": "I understand, Mr. Alves. Moving forward with medical procedures and awaiting the results can cause anxiety. It's normal to want it to be over with. I can assure you that our team will do their best to make the process as comfortable for you as they can. They are highly experienced and will provide you with the best care possible.",
+        "our_model": "I can appreciate that, Mr. Alves. It's natural to want to resolve health concerns quickly. I hope this procedure provides you and your doctor with the answers you're looking for. Would it be alright if we go over a few topics on preparing for your colonoscopy?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 151,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Valenzuela. Have you noticed any weight loss or changes in your appetite?\n\nPatient: No. No weight loss.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you noticed any changes in your appetite or eating habits due to the diarrhea?\n\nPatient: No.\n\nNurse: I see, Mr. Valenzuela. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Sure. Let's go ahead.\n\nNurse: Great, thank you, Mr. Valenzuela. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. That's fine.",
+    "responses": {
+        "gpt4": "I appreciate your confirmation, Mr. Valenzuela. Once you get to O'Connor Hospital, your check-in location will be on the 1st floor. Does that sound good to you?",
+        "our_model": "Excellent, Mr. Valenzuela. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2014,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?\n\nPatient: Yes.\n\nNurse: Hello. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: My day's been pretty good. I do have a lot of anxiety and fear about this upcoming procedure\n\nNurse: I'm glad to hear your day has been good. It's completely normal to feel anxious and fearful before a procedure like a total knee replacement. Can you tell me more about what's causing your anxiety?\n\nPatient: I just I guess I'm afraid it's not gonna work. I'll still be in a lot of pain. Like, from any more years, And it's always a little scary when you go under general anesthesia.",
+    "responses": {
+        "gpt4": "Absolutely, Daniel. It's normal to feel concerned and unsure. From what I can glean from your notes, Dr. Cristina Stevens will be performing your surgery. She\ufffd\ufffd\ufffds an excellent orthopedic surgeon and has successfully performed over 1000 total knee replacements! During the procedure, your anesthesia will be managed by a trained anesthesiologist, so you're in very capable hands. Moreover, total knee replacement is known to be one of the safest and most reliable treatments in medicine, with a success rate of 90-95% that lasts up to 10-15 years. Would you like more information on what you can expect during and after your surgery?",
+        "our_model": "It's completely normal to have these concerns."
+    }
+}

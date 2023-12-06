@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6025,
+    "prompt": "Nurse: Great, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Not really. Can you be quick?\n\nNurse: Of course, Mr. Koroleva. I'll make this as brief as possible. I just wanted to check in with you about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Fine. I just wanna get it over with.\n\nNurse: I can appreciate that, Mr. Koroleva. It's completely normal to want to get procedures like this over and done with. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Like I said, I feel fine. I just wanna get it over with.\n\nNurse: I appreciate your patience, Mr. Koroleva. I hope this procedure gives you and your doctor the answers you're looking for. Before we wrap up, do you have any questions or concerns you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Excellent. Thank you for confirming. If it's okay with you, I'd like to go over a few topics on preparation for your colonoscopy. Is that alright?",
+        "our_model": "Alright, Mr. Koroleva. If you have any questions at any point, feel free to ask. I'm here to help. I'll also be calling you again the day before your procedure to ensure you have everything you need. Is it okay if we go over a few topics on prep for your colonoscopy?"
+    }
+}

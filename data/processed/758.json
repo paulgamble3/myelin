@@ -1,0 +1,8 @@
+{
+    "prompt_id": 758,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Hello Ms. Aguirre, I apologize if we got disconnected. I was asking how you have been doing lately?",
+        "our_model": "Hello, Ms. Aguirre. I was asking how you've been doing lately. Can you hear me?"
+    }
+}

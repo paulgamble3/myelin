@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2804,
+    "prompt": "Patient: No.\n\nNurse: Alright, let's move on to the next part of your preparation. I'd like to discuss the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: A little anxious, but, again, I've done it before. Four. I'm just ready to get it over with.\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nNurse: I hear you, it's quite common to feel a bit anxious about this part. But remember, you've done it before and you know what to expect. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions or concerns about this part of the preparation?\n\nPatient: No. I do not.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. You don't have to do anything just yet. But you'll need to start your bowel prep 24 hours before your procedure by drinking only clear liquids. This involves no solid foods and drinking either clear or light colored beverages without any red or purple dye. Can I share some examples of what clear liquids are, and then you can tell me what questions you have about the diet?\n\nPatient: I don't",
+    "responses": {
+        "gpt4": "Alright, if you're already familiar with the clear liquid diet, that's great. It's important to remember that examples of clear liquids include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. Do you have any other questions about this diet?",
+        "our_model": "I'm sorry, could you please repeat your response?"
+    }
+}

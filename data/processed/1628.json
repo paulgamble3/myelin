@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1628,
+    "prompt": "Nurse: Thank you, Mr. Benton. Another low-sodium option could be a spinach and mushroom omelet for breakfast. For lunch, you could have a turkey sandwich on whole grain bread with low-sodium turkey and plenty of vegetables. For dinner, you could have grilled fish with a side of roasted Brussels sprouts and sweet potatoes. These are just a few examples, and there are many other low-sodium meals you could try. Do you have any questions about these suggestions?\n\nPatient: No. They sound like great suggestions.\n\nNurse: I'm glad you found the suggestions helpful, Mr. Benton. Now, let's discuss your other chronic conditions. You have hypertension, or high blood pressure. How have you been managing this condition?\n\nPatient: I just try to keep my stress down.\n\nNurse: That's a great approach, Mr. Benton. Stress management is indeed an important part of managing hypertension. Regular physical activity, a balanced diet, and avoiding tobacco can also help. Do you have any questions about managing your hypertension?\n\nPatient: Thank\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't say anything.",
+    "responses": {
+        "gpt4": "Alright, Mr. Benton. If there's anything else you'd like to discuss about your health conditions or if you have any other questions, feel free to let me know. Otherwise, we can wrap up for today.",
+        "our_model": "Alright, Mr. Benton. Let's move on to your anemia. How have you been managing this condition?"
+    }
+}

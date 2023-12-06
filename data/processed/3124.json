@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3124,
+    "prompt": "Patient: Yes.\n\nNurse: Great, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Valenzuela. I hope your day is going well so far. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling good. I mean, I just wanna get it over with, you know,\n\nPatient: Get it done.\n\nNurse: Absolutely, Mr. Valenzuela. It's completely normal to feel that way. It's a big step, but it's also a crucial one in managing your health. Before we dive into the details, do you have any questions or concerns you'd like to discuss?\n\nPatient: Not really. Let's let's dive in.",
+    "responses": {
+        "gpt4": "Perfect, Mr. Valenzuela. I see on your chart that you're having this colonoscopy due to unexplained and long-lasting diarrhea. That can be challenging to deal with and I'm sorry to hear you're going through it. Can you share a bit more about how you've been coping with this?",
+        "our_model": "Alright, Mr. Valenzuela. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I know it can be quite a process to go through this procedure. How are you feeling about it?"
+    }
+}

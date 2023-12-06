@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3692,
+    "prompt": "Nurse: Perfect. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. There are no changes to these medications before your surgery. Are you still taking these medications as prescribed?\n\nPatient: I am. Yes.\n\nNurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I I stopped aspirin. I did not know you needed to stop, though.\n\nNurse: That's correct.\n\nPatient: I did stop, though.\n\nNurse: That's great. It's essential to stop taking Aspirin before your surgery. Do you have any questions about this or any other medication?\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "Alright, let's move on then. I notice you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet? If not, it would be a good idea to do so.",
+        "our_model": "I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?"
+    }
+}

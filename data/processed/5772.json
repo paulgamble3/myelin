@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5772,
+    "prompt": "Patient: Nope. I don't think so.\n\nNurse: Great, it sounds like you've got a good understanding of the dietary changes. Now, I'm curious, what are some low fiber foods that you enjoy?\n\nPatient: Oh, I like mashed potatoes, and I like\n\nNurse: Mashed potatoes are a great choice, and they're also a comfort food for many people.\n\nPatient: white bread, enroll And\n\nPatient: White rice,\n\nNurse: I'm sorry, could you please repeat the last part of your response?\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "I apologize if you were speaking, but I didn't catch that. Could you please repeat?",
+        "our_model": "I'm sorry, I didn't quite catch that last part. Could you please repeat it?"
+    }
+}

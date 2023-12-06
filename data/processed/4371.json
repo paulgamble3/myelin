@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4371,
+    "prompt": "Patient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure.\n\nPatient: It is December eight nineteen sixty seven.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Sarah Forbes. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm feeling okay.\n\nNurse: I'm glad to hear that. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Are you still there, Rachel?",
+    "responses": {
+        "gpt4": "Yes, I'm here. Could you tell me about something you've been looking forward to doing now that you're back home?",
+        "our_model": "Yes, I'm here. I was asking if there's anything in particular you've been looking forward to doing now that you're home?"
+    }
+}

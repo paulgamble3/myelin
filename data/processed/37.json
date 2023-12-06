@@ -1,0 +1,8 @@
+{
+    "prompt_id": 37,
+    "prompt": "Nurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's essential to continue this practice. Do you have any questions or concerns about managing your alcohol use?\n\nPatient: No. Because I don't drink.\n\nNurse: That's great to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I smoke a pack of cigarettes today, but I'm not ready to quit yet.\n\nNurse: I appreciate your honesty. It's a big step to even consider quitting smoking. Could you share with me why you feel you're not ready to quit at this time?\n\nPatient: I'm just now ready.\n\nNurse: I understand. Quitting smoking is a personal decision and it's important to do it when you feel ready. If you ever decide to quit, there are many resources available to help you. Would you like me to share some of these resources with you?\n\nPatient: Not at this time, but thank you.",
+    "responses": {
+        "gpt4": "Of course, the offer is always on the table should you ever decide to take that step. That was all the topics I had for our conversation today. Is there anything else you want to discuss or any other questions you may have about your health?",
+        "our_model": "You're welcome. Remember, these resources are available whenever you're ready. Now, that was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5185,
+    "prompt": "Nurse: Hello. I'm glad to hear from you. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: Can I speak to the real doctor?\n\nNurse: I'm sorry for any confusion, but I'm an AI nurse calling on behalf of your primary care doctor, Doctor Molly Burke. I'm here to help answer any questions you have and discuss your health. Would you like to discuss anything specific?\n\nPatient: Yeah. But with the real doctor,\n\nNurse: I'm sorry for the confusion, but as an AI, I don't have the ability to connect you with Doctor Burke directly. However, I'm here to assist you with any questions or concerns you might have. Is there something specific you'd like to discuss?\n\nPatient: No. I just don't really trust talking to a robot.\n\nNurse: I understand your concerns. It's completely normal to prefer speaking with a human. However, I'm here to help you with your health-related queries as accurately as possible. Let's try to have a conversation. To start, I'd like to know how you're feeling now that you're back home from the hospital.\n\nPatient: Fine.",
+    "responses": {
+        "gpt4": "It must be a relief to be back home after a hospital stay. Is there something you've been looking forward to doing now that you're home?",
+        "our_model": "I'm glad to hear that you're feeling fine. It must be nice to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?"
+    }
+}

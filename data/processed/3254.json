@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3254,
+    "prompt": "Nurse: That's alright. It's essential to take things one step at a time. Now that you're home, is there anything specific you're looking forward to doing?\n\nPatient: Just hanging out.\n\nNurse: That sounds like a good plan, Patient. Sometimes, just relaxing at home can be the best thing. Do you have any hobbies or interests that you enjoy doing while you're at home?\n\nPatient: I like to read.\n\nNurse: That's wonderful, Patient. Reading is a great way to relax and it can also be very enlightening. What kind of books do you enjoy?\n\nPatient: Fantasy.\n\nNurse: Fantasy books can be quite captivating, taking you to different worlds and adventures. Do you have a favorite fantasy book or author?\n\nPatient: JR token.",
+    "responses": {
+        "gpt4": "Could you please repeat your favorite author's name? I think I misheard you.",
+        "our_model": "J. R. R. Tolkien is indeed a master storyteller. His works like The Lord of the Rings have captivated millions of readers. It's great that you enjoy his works. Now, I'm calling on behalf of Doctor Norbeta Valencia and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

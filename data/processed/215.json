@@ -1,0 +1,8 @@
+{
+    "prompt_id": 215,
+    "prompt": "Patient: Yes. Of force.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your response?\n\nPatient: I said yes. Of\n\nPatient: course.\n\nNurse: Thank you, Ms. Aguirre. I've made a note of your concern for your care team to review. They will be able to provide more detailed guidance based on your specific situation. Now, let's discuss your medications. You're currently prescribed Metformin 500 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Taking your medication as prescribed is crucial in managing your conditions. Now, let's move on to the next medication. You're also prescribed Tylenol 500 mg, to be taken up to 1000 mg three times a day as needed. Have you been taking this medication as directed?\n\nPatient: Thanks.",
+    "responses": {
+        "gpt4": "I apologize for the confusion, Ms. Aguirre. Could you please confirm if you have been taking your Tylenol 500 mg as directed?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat your response?"
+    }
+}

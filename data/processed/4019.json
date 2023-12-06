@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4019,
+    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you.\n\nPatient: No. I don't need extra kilos at night.\n\nNurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Okay.\n\nNurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh my goodness.\n\nNurse: I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: A",
+    "responses": {
+        "gpt4": "Pardon me, Ms. Warrell. It seems you got cut off. Could you please tell me about some of the meals you've had recently?",
+        "our_model": "I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what"
+    }
+}

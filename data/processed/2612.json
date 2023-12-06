@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2612,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Audrey Cruz?\n\nPatient: Yes. It's Audrey.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure. February nineteenth nineteen fifty five.",
+    "responses": {
+        "gpt4": "Thank you for confirming your date of birth, Ms. Cruz. I hope you're settling in well after your recent hospital visit. How have you been since getting back home?",
+        "our_model": "Thank you for confirming that, Ms. Cruz. I'm calling on behalf of your primary care doctor, Doctor Jeff Crane. I hope you're feeling better now that you're home from the hospital. How are you doing today?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3367,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Kageyama. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep.\n\nNurse: Great, Mr. Kageyama. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Kageyama. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yep.\n\nNurse: Perfect, Mr. Kageyama. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: Nope.",
+    "responses": {
+        "gpt4": "Alright, Mr. Kageyama. In addition to Tylenol, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?",
+        "our_model": "Alright, Mr. Kageyama. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
+    }
+}

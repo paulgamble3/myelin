@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4780,
+    "prompt": "Nurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been very good. Thank you for asking, Rachel.\n\nNurse: I'm glad to hear that. What made your day good so far?\n\nPatient: Well, it's very sunny and pretty here.\n\nNurse: That sounds lovely, sunny days can indeed make a day better. Do you have any special plans to enjoy the weather?\n\nPatient: And\n\nNurse: I'm sorry, could you please repeat the last part?\n\nPatient: just getting ready for Christmas.",
+    "responses": {
+        "gpt4": "That sounds wonderful! The holiday season certainly adds a special touch. Let's now go ahead and discuss your upcoming procedure. Do you have any queries or concerns regarding your knee replacement?",
+        "our_model": "That sounds lovely. Christmas preparations can indeed make the day brighter. What are you looking forward to the most this Christmas?"
+    }
+}

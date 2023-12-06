@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3954,
+    "prompt": "Nurse: Excellent, thank you, Mr. Dang. I'm calling today to ensure you have everything you need for your colonoscopy. We'll also have another call the day before your procedure. Let's start with your current medication. You're taking Xarelto 10 mg once a day, correct?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that, Mr. Dang. It's critical to discuss your medication in relation to your upcoming procedure. Have you been instructed to stop taking Xarelto before your colonoscopy?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: [NO RESPONSE]",
+    "responses": {
+        "gpt4": "I'm still here, Mr. Dang. Have you received instructions about your medication, Xarelto, in regard to your upcoming colonoscopy procedure?",
+        "our_model": "I'm sorry, Mr. Dang, I didn't catch your response. Have you been instructed to stop taking Xarelto before your colonoscopy?"
+    }
+}

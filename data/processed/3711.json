@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3711,
+    "prompt": "Nurse: That's a good question. The reason is to prevent any food or liquid from being accidentally inhaled during your anesthesia. This could cause serious complications. That's why it's important to follow this instruction very strictly. Does that help clarify things?\n\nPatient: Oh, Oh, yeah.\n\nNurse: I'm glad that makes sense. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Carry on. Carry on.\n\nNurse: Thank you. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No Moss Aleve.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said no muscle aches.",
+    "responses": {
+        "gpt4": "Alright. I'm glad to hear you're feeling well. Now, I would like to confirm your discharge plan. According to our records, you are currently planned to go home after the procedure. Is that correct?",
+        "our_model": "Thank you for clarifying. It's good to hear that you're not experiencing any signs of illness. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?"
+    }
+}

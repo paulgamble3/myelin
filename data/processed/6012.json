@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6012,
+    "prompt": "Nurse: Yes, I apologize for the confusion. How has your high blood pressure been lately?\n\nPatient: It's good. I told you what it was.\n\nNurse: That's great to hear. You mentioned that your blood pressure was 90 over 100, which is within the acceptable range. It's important to keep monitoring it regularly. Now, let's discuss your obesity. Have you noticed any changes in your weight or body size recently?\n\nPatient: Not yet. Like like I said, I'm trying.\n\nNurse: That's good to hear that you're making efforts. It's essential to maintain a healthy weight, especially with your conditions. Regular physical activity and a balanced diet can help. Now, let's discuss your alcohol use disorder. Have you been able to abstain from alcohol since starting your medication, Disulfiram?\n\nPatient: Yes.\n\nNurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's not easy, so well done. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I smoke a packet of day.",
+    "responses": {
+        "gpt4": "Thank you for sharing that with me. It's not easy to talk about habits like smoking. Have you ever thought about quitting smoking?",
+        "our_model": "I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting smoking?"
+    }
+}

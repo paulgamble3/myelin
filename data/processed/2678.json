@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2678,
+    "prompt": "Nurse: I'm sorry, Ms. Cruz, your response [\n\nPatient: what would you say\n\nNurse: I'm sorry, Ms. Cruz, your response [\n\nPatient: this coming week. Today is Monday.\n\nNurse: I understand, Ms. Cruz. This coming week, you might consider starting with a short walk after one meal each day. As you feel comfortable, you could gradually increase to two meals per day. Remember, it's important to listen to your body and not push yourself too hard. Does that sound manageable to you?\n\nPatient: What would you say would be a good start this week? With walking.\n\nNurse: That's a That's a great question, Ms. Cruz. For this week, you might start with a short walk of 5 minutes after each meal. If you feel comfortable, you could gradually increase this to 10 minutes by the end of the week. Remember, it's important to listen to your body and not push yourself too hard. Does that sound like a good plan to you?\n\nPatient: So you suggest to walk after eating?",
+    "responses": {
+        "gpt4": "That's correct, Ms. Cruz. Taking a walk after meals can be a good way to gradually increase your physical activity level. It can also help with digestion. However, everyone's different, so it's crucial to do what feels comfortable for you. Can you see yourself doing this in the coming week?",
+        "our_model": "Yes, Ms. Cruz. Walking after eating can help with digestion and blood sugar control. It's a good way to incorporate more activity into your day. Do you have any concerns about doing this?"
+    }
+}

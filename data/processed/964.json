@@ -1,0 +1,8 @@
+{
+    "prompt_id": 964,
+    "prompt": "Nurse: I'm sorry to hear that you're experiencing pain. It's not uncommon to have some discomfort after back surgery. Have you been taking any pain medications or doing any physical therapy to help manage this?\n\nPatient: I don't know about medication, but\n\nNurse: I understand. It's critical to manage your pain effectively.\n\nPatient: thing on the PT and whatnot.\n\nNurse: That's good to hear that you're doing physical therapy. It's an important part of recovery after back surgery. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Heck no. Those will kill you.\n\nNurse: That's a very healthy stance. It's great to hear that you don't smoke. Now, I'd like to ask if you have any questions or concerns that you'd like to discuss. Is there anything on your mind?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Sure, I'm here to help. What questions or concerns do you have?",
+        "our_model": "Of course. What's on your mind?"
+    }
+}

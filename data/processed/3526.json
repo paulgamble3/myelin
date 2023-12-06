@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3526,
+    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Martin. To confirm, you said you haven't been using more pillows to sleep, correct?\n\nPatient: Correct.\n\nNurse: Just give me a second to work out the best way I can assist you. Hold on a second while I figure out how I can best support you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that, Mr. Martin. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Honestly trying to lose weight. I have t two d and obesity.\n\nNurse: I see, Mr. Martin. It's great that you're making an effort to manage your weight. Could you share some details about the types of meals you've been having recently?\n\nPatient: So what can I do about my weight problem, Rachel?\n\nNurse: I appreciate your honesty, Mr. Martin. It's great that you're motivated to manage your weight. Could you share more about what you've been eating recently?\n\nPatient: Well, I've been trying to stick to a vegetarian diet because that's",
+    "responses": {
+        "gpt4": "That's a healthy step towards managing your weight, Mr. Martin. Having a plant-based diet can be beneficial, but it's also important to maintain a balanced diet that includes a variety of nutrients. Can you tell me more about the types of meals you generally have in a day?",
+        "our_model": "I'm sorry, Mr. Martin, your response got cut off. Could you please continue and tell me more about your recent diet?"
+    }
+}

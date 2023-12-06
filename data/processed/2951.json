@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2951,
+    "prompt": "Patient: No.\n\nNurse: That's good to hear, Ms. McKloskey. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Okay, Ms. McKloskey. It's essential to have a plan for after the procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes. That would be my daughter.\n\nNurse: That's wonderful to hear, Ms. McKloskey. It's essential to have someone like your daughter to assist you after the procedure. If any changes occur, remember to inform us. Do you have any other questions or concerns?\n\nPatient: How long will the procedure take?\n\nNurse: Give me a moment to check how I can best support you.",
+    "responses": {
+        "gpt4": "Total knee replacement surgeries typically take between 1 to 2 hours, not including preparation and recovery time. However, you should plan to spend the whole day at the hospital. The medical team will ensure that you are completely comfortable before and after the procedure. Do you have any other questions or concerns?",
+        "our_model": "Your total knee replacement procedure will typically take about 1 to 2 hours, Ms. McKloskey. This procedure involves removing the damaged parts of your knee joint and replacing them with artificial parts. It's a common procedure with a high success rate. Do you have any other questions about the procedure?"
+    }
+}

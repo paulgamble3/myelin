@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3631,
+    "prompt": "Nurse: Of course, Mr. Benton. I'm here to help. What would you like to know more about?\n\nPatient: What exactly would a high blood sugar be?\n\nNurse: Of course, Mr. Benton. A blood sugar level less than 140 mg/dL is considered normal. A reading of more than 200 mg/dL after two hours indicates diabetes. A reading between 140 and 199 mg/dL indicates prediabetes. Does that answer your question?\n\nPatient: Yeah. And then why exactly do I have to pee in a cup for the urine albumin test.\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please confirm what you said about your blood sugar?\n\nPatient: Why did I have to pee in a cup\n\nNurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: for the urine albumin test.",
+    "responses": {
+        "gpt4": "That's a great question, Mr. Benton. The urine albumin test checks for albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. So, by testing your urine, doctors can see if your kidneys are functioning properly. Does that help answer your question?",
+        "our_model": "That's a good question, Mr. Benton. The urine albumin test measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. This test helps your doctor determine how well your kidneys are working. Does that help clarify things for you?"
+    }
+}

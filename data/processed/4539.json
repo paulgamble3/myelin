@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4539,
+    "prompt": "Nurse: That's good to hear. Now, let's discuss Plavix. You're prescribed to take a 75 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Metoprolol. You're prescribed to take a 50 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Lisinopril. You're prescribed to take a 20 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: I apologize for any confusion earlier. You're actually prescribed to take two 10 mg tablets of Lisinopril daily to achieve the correct dosage of 20 mg daily. Have you been taking this medication as directed?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's good to hear. It's very important to take your Lisinopril as directed, two 10 mg tablets a day, which gives you the correct daily dosage of 20 mg. It's also important to take it around the same time each day, to help your body maintain a consistent level of the medication. This medication is used to treat your high blood pressure, which in turn helps to protect your kidneys. Please continue to take this medication as prescribed, unless instructed otherwise by your physician. Is there anything else I can assist you with today?",
+        "our_model": "That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units every night at bedtime. Have you been taking this medication as directed?"
+    }
+}

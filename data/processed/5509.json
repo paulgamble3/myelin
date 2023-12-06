@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5509,
+    "prompt": "Nurse: I'm glad to hear you're open to the idea, Ms. Aguirre. Walking after meals can be a simple yet effective way to manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: In the morning,\n\nNurse: Thank you for sharing that, Ms. Aguirre. Could you please tell me what the result of your last blood pressure measurement was?\n\nPatient: So I did it in the morning, and it was\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what your blood pressure reading was in the morning?\n\nPatient: eighty over one twenty or one twenty over eighty.\n\nNurse: Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit high. Would it be okay if I provide some suggestions to help manage your blood pressure?\n\nPatient: Is it high? It's eighty over one twenty.",
+    "responses": {
+        "gpt4": "I apologize for the confusion, Ms. Aguirre. A blood pressure reading of 120/80 mmHg is considered normal. I must have misunderstood you earlier. Your blood pressure is within the normal range. How have you been managing your stress levels, as stress can impact both diabetes and blood pressure?",
+        "our_model": "Yes, Ms. Aguirre, a blood pressure reading of 120/80 is considered high. The ideal blood pressure for most people"
+    }
+}

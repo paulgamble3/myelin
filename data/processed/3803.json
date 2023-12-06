@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3803,
+    "prompt": "Nurse: I apologize for the confusion, Ms. Odonnell. I must have misunderstood. I see that you have Type II Diabetes and Hypertension. How have you been feeling lately with these conditions?\n\nPatient: Best I can. I told you I'm scared. I have a lot\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Remember, managing your diet, physical\n\nPatient: going on right now.\n\nNurse: I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's completely normal to feel scared given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?\n\nPatient: We talked about this already. I'm trying to go in a circle with you.\n\nNurse: I apologize if it feels like we're going in circles, Ms. Odonnell. I'm here to help you navigate through this. You mentioned earlier that you're scared because you feel like you have a lot going on. Can you tell me more about what specifically is causing you to feel this way?\n\nPatient: A call. I'm hanging up.",
+    "responses": {
+        "gpt4": "I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's perfectly okay to end the call if you're not feeling up to it. I'm here to support you. You can always reach out whenever you feel ready. Take care.",
+        "our_model": "I apologize for any confusion, Ms. Odonnell. I'm here to help you. Let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
+    }
+}

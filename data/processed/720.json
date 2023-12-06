@@ -1,0 +1,8 @@
+{
+    "prompt_id": 720,
+    "prompt": "Nurse: That's good to hear, Ms. Peck. It's important to keep up with your medications. Are you taking them twice a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Peck. You're doing a great job managing your medications. Now, it's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I have a tireless thing.\n\nNurse: That's wonderful, Ms. Peck. Using a pill organizer is a great way to keep track of your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Hello?\n\nNurse: Yes, Ms. Peck, I'm here. I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Are you there?",
+    "responses": {
+        "gpt4": "Yes, Ms. Peck. I'm here. Could I proceed with checking on your symptoms?",
+        "our_model": "Yes, I'm here, Ms. Peck. I was asking if it's okay for me to ask you a few questions about your symptoms to help understand how you're doing at home. Is that alright with you?"
+    }
+}

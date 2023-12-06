@@ -1,0 +1,8 @@
+{
+    "prompt_id": 433,
+    "prompt": "Nurse: My apologies for the confusion. Let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I I'm not. I stopped taking it.\n\nNurse: That's good to hear. It's critical to avoid those medications unless specifically recommended by your doctor.\n\nPatient: Because I'm aware yeah. I'm I'm aware of the pit studies. So\n\nNurse: That's excellent.\n\nPatient: I'm a good student.\n\nNurse: That's excellent. It's important to follow these instructions for your surgery. Now, I notice that you've also been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: I did. Yeah. Can you tell me what is the score? Is this pain relievers.",
+    "responses": {
+        "gpt4": "Yes, absolutely. Both Tylenol and Tramadol are used to help manage pain. Tylenol is a milder pain reliever, while Tramadol is a stronger, prescription pain medication. These will help you manage any discomfort after the surgery. It's recommended to start with Tylenol and only take Tramadol if the Tylenol isn't enough to get the pain under control. Does that make sense?",
+        "our_model": "I'm sorry, could you please repeat your question?"
+    }
+}

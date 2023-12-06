@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3984,
+    "prompt": "Nurse: Yes, I'm here, Mr. Dang. I was saying that you will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello? Hello? Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright, Mr. Dang. If any questions arise later, please don't hesitate to ask. I do want to clarify this as it's very important - you must stop all solid food and liquids at least 4 hours prior to your exam. You can take any necessary medication with a small sip of water within that 4 hours, but should otherwise consume nothing. Does that make sense to you, Mr. Dang?",
+        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?"
+    }
+}

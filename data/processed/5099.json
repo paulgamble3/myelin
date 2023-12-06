@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5099,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?\n\nPatient: Yes.\n\nNurse: Good morning. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that. As we approach your colonoscopy, how are you feeling about the procedure?\n\nPatient: I'm okay.",
+    "responses": {
+        "gpt4": "Thank you for sharing. It's perfectly normal to have a mix of sentiments before such a procedure. If you have any questions or concerns, feel free to ask anytime. Do you have any questions before we discuss further details about your colonoscopy?",
+        "our_model": "That's good to hear. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's on your mind or any questions you'd like to discuss before we begin?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4654,
+    "prompt": "Patient: I said it's fine. Can we just get through with this conversation?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you.\n\nNurse: When did you start having bloody stool, Mr. Amador?\n\nPatient: You already know that I have that.\n\nPatient: Whole reason why I'm getting the code off\n\nPatient: p.\n\nNurse: I understand, Mr. Amador. I need to ask these questions for our records. Does the blood in your stool appear to be bright red, or is it more of a dark, tarry color?\n\nPatient: I don't know.",
+    "responses": {
+        "gpt4": "I understand, Mr. Amador. It's important to note these details as it can help us determine the possible source of bleeding. Have you noticed any other symptoms \ufffd\ufffd\ufffd such as pain, changes in bowel habits, weight loss, or fatigue?",
+        "our_model": "That's okay, Mr. Amador. Do you experience any abdominal pain along with the bloody stool?"
+    }
+}

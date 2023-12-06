@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1030,
+    "prompt": "Nurse: Alright. Let's start with your medications. Are you still taking your Valsartan and Lasix?\n\nPatient: Yes. I am.\n\nNurse: Great. And are you also continuing with your Methotrexate?\n\nPatient: Yes, ma'am.\n\nNurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: I'm pretty good at\n\nNurse: That's excellent.\n\nPatient: staying on a schedule.",
+    "responses": {
+        "gpt4": "Great! You're doing a superb job. It\ufffd\ufffd\ufffds important to continue this routine. Now, I'd like to ask a few questions about your symptoms. Is that okay with you?",
+        "our_model": "That's excellent. Sticking to your medication schedule is crucial for managing your conditions. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

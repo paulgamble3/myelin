@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4333,
+    "prompt": "Nurse: Alright, Mr. Oliver. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Okay, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Oliver. Could you please share with me what your last blood sugar reading was?\n\nPatient: One twelve\n\nNurse: Thank you for sharing that, Mr. Oliver. It's important to keep an eye on your blood sugar levels. Would it be alright if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Fantastic, Mr. Oliver. One strategy to help maintain your blood sugar levels is having meals at regular times and not skipping them. This can help your body regulate blood sugar levels more effectively. What do you think of this strategy? ",
+        "our_model": "Great, thank you, Mr. Oliver. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. What do you think about this suggestion?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1566,
+    "prompt": "Nurse: I can imagine that it's not something one looks forward to, Mr. Reynolds. It's completely normal to feel a bit apprehensive. Can you share more about what specifically bothers you about the procedure?\n\nPatient: Well, first, you have to do this prep. You have to on your whole\n\nNurse: I see, Mr. Reynolds. The preparation for a colonoscopy can indeed be a bit uncomfortable. It's designed to clean out your colon so that Doctor\n\nPatient: For hours. And\n\nNurse: Give me a moment to check how I can best support you.\n\nPatient: then you gotta go have somebody pick up two above your butt. So\n\nNurse: I see, I'm sorry, Mr. Reynolds, I didn't quite catch the last part of what you said. Could you please repeat that?\n\nPatient: It's not fun.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that, Mr. Reynolds. It's understandable that you're feeling this way. Would you like to discuss any specific concerns about the procedure with your doctor? I can help arrange that.",
+        "our_model": "I can see why you might find the preparation and the procedure itself a bit challenging, Mr. Reynolds. It's definitely not the most comfortable of experiences. However, it's great that you're taking this step for your health. Do you have any specific questions or concerns you'd like to discuss before we move forward?"
+    }
+}

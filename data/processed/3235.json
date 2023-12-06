@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3235,
+    "prompt": "Nurse: Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been eating whatever I want. I haven't been following the fluid restricted and called restricted diet. To be honest with you.\n\nNurse: I appreciate your honesty. It's not always easy to make dietary changes. Can you share a bit more about what you've been eating recently?\n\nPatient: Just whatever I want. I had a burger\n\nNurse: I see. And what did you have with your burger?\n\nPatient: and I had a milkshake.\n\nNurse: Thank you for sharing that. It's important to enjoy what we eat. If it's okay with you, I'd like to share some dietary recommendations that could help manage your CHF. Is that alright?\n\nPatient: Yes. That's fine.",
+    "responses": {
+        "gpt4": "Great. Here are two key recommendations from Dr. Forbes. First, try to limit your fluid intake to 1 liter per day. This helps your body handle fluids better. Second, aim for a 1500 mg Sodium Restricted diet. Would you like to know a few simple ways to adopt this?",
+        "our_model": "Great, thank you. The recommendations are to limit your fluid intake to 1 liter per day and to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like some suggestions on how to incorporate these recommendations into your meals?"
+    }
+}

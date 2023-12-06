@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4439,
+    "prompt": "Nurse: That's great to hear, Mr. Delarosa. Taking your medication as prescribed is crucial for managing your conditions. Now, let's briefly discuss your existing medications. Are you still taking Hydrochlorothiazide, Albuterol inhaler, and Fluticasone?\n\nPatient: You mean fluticasone?\n\nNurse: Yes, I apologize for the confusion, Mr. Delarosa. I meant to ask about Fluticasone. Are you still taking it along with Hydrochlorothiazide and Albuterol inhaler?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear, Mr. Delarosa. It's essential to continue taking your existing medications as prescribed. I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Delarosa. I was asking if you ever have trouble remembering to take your medications on time. It's quite common and there are strategies to help with that. Would it be okay if I shared some suggestions?\n\nPatient: Oh, I always remember to take my meds. Thank you.",
+    "responses": {
+        "gpt4": "That's excellent, Mr. Delarosa! Staying on top of your medication regimen is key to managing your conditions. \n\nNow, I'd like to ask you a few questions about your symptoms to better understand how you're doing at home, if that's okay with you?",
+        "our_model": "That's excellent, Mr. Delarosa. Staying consistent with your medication is key to managing your health conditions. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
+    }
+}

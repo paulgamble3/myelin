@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1593,
+    "prompt": "Patient: Like like\n\nNurse: I'm sorry, Mr. Reynolds, I didn't\n\nPatient: together name, but I guess.\n\nPatient: And then I clicked some\n\nNurse: I'm sorry, Mr. Reynolds, I didn't quite catch that. Could you please repeat what you\n\nPatient: butter or some debris on it if I can. And that's good.\n\nNurse: I'm sorry, Mr. Reynolds, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Is still there?",
+    "responses": {
+        "gpt4": "Yes, I'm here, Mr. Reynolds. I'm sorry, but I didn't catch your previous statement. Could you please repeat it?",
+        "our_model": "Yes, I'm here, Mr. Reynolds. I was asking about your favorite type of bread. ["
+    }
+}

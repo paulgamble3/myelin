@@ -1,0 +1,8 @@
+{
+    "prompt_id": 307,
+    "prompt": "Nurse: In general, a blood sugar level less than 140 mg/dL is considered normal. A reading of more than 200 mg/dL after two hours indicates diabetes. A reading between 140 and 199 mg/dL indicates prediabetes. Have you been checking your blood sugar levels daily?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Could you share with me what your last blood sugar reading was?\n\nPatient: One twenty.\n\nNurse: Thank you for sharing that. A reading of 120 mg/dL is slightly elevated. It's essential to keep an eye on this. Would it be okay if I share some recommendations on how to manage your blood sugar levels?\n\nPatient: No. You just told me if it's less than one forty, it's normal.\n\nNurse: You're correct. A blood sugar level of 120 mg/dL is slightly above the normal range, but it's not too high. However, it's important to monitor it regularly to ensure it doesn't increase. Can we discuss your blood pressure next?\n\nPatient: Fine.",
+    "responses": {
+        "gpt4": "That's good to hear, Damian. Could you please tell me when you last took your blood pressure, and what was the result?",
+        "our_model": "Okay. When was the last time you took your blood pressure, and do you remember what the reading was?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2555,
+    "prompt": "Nurse: Alright, let's move on to your medications. Are you still taking your Valsartan and Lasix tablets?\n\nPatient: Yes.\n\nNurse: Great, and how about your Methotrexate?\n\nPatient: Mhmm. I am taking it\n\nNurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.",
+    "responses": {
+        "gpt4": "Thank you. Have you experienced any new or worsening shortness of breath with activity, laying down, or at rest?",
+        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
+    }
+}

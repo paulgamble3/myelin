@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2990,
+    "prompt": "Nurse: I'm sorry to hear that you're experiencing these symptoms again. It's critical to take note of these changes. Regarding your weight, do you have a scale at home to monitor your weight daily?\n\nPatient: Well, I do, and I can tell that I've gained two Ponce. In this last day.\n\nNurse: I see, a weight gain of two pounds in a day can be a sign of fluid retention, which is something we need to monitor closely. Have you noticed any swelling in your legs or ankles?\n\nPatient: The swelling I don't think I'm seeing that yet.\n\nNurse: That's good to hear. It's important to keep an eye out for any swelling. Now, let's talk about your new medication, Hydrochlorothiazide. Have you been able to pick it up from the pharmacy?\n\nPatient: Yes. I've picked up everything I'm supposed to have\n\nNurse: That's great to hear. Are you taking the Hydrochlorothiazide 25 mg two times a day as prescribed?\n\nPatient: I'm taking the hydrochlorothiazide twenty five milligram twenty five milligrams, two times a day.",
+    "responses": {
+        "gpt4": "Excellent, that is just how it's meant to be taken. Now, let's talk about your existing medications. Are you still taking Captopril, Carvedilol, and Metformin as prescribed?",
+        "our_model": "That's excellent. You're doing a great job managing your new medication. Now, let's briefly discuss your existing medications. Are you still taking Captopril, Carvedilol, and Metformin?"
+    }
+}

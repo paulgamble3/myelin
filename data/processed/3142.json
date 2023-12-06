@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3142,
+    "prompt": "Patient: Cheese. Turtolini,\n\nNurse: Tortellini sounds delicious, Mr. Valenzuela. It's a great choice for a low fiber meal. Just remember to avoid adding high fiber ingredients like vegetables or whole grain pasta. Do you have any other questions about the diet or any other foods you're curious about?\n\nPatient: Cool.\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. Let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I don't. But I do have diarrhea.\n\nNurse: I see, Mr. Valenzuela. It's important to note that the diarrhea you're experiencing is likely due to the bowel prep for the colonoscopy, not the procedure itself. This is a normal part of the process. Do you have any questions about this or any other aspects of the preparation?\n\nPatient: I haven't started my laxative yet.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Valenzuela. Let's move onto your laxative solution, PLENVU. This part of the procedure prep is often noted as the hardest by many patients. How are you feeling about this aspect?",
+        "our_model": "That's correct, Mr. Valenzuela. You'll start the bowel prep with the PLENVU laxative solution 24 hours before your procedure. This is often the hardest part of the prep. How are you feeling about it?"
+    }
+}

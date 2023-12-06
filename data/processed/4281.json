@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4281,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're concerned about?\n\nPatient: About a blown in diameter.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your concern?\n\nPatient: In regards of going on dialysis, one habits do I need to prevent\n\nNurse: I see, you're interested in knowing what habits to adopt to prevent the need for dialysis. Is that correct?\n\nPatient: Yes.\n\nNurse: That's a very proactive question. It's important to manage your blood sugar levels, as high blood sugar can damage your kidneys over time. Are you checking your blood sugar daily?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great! Can you tell me what your last blood sugar reading at home was?",
+        "our_model": "That's great to hear. Could you share with me what your last blood sugar reading at home was?"
+    }
+}

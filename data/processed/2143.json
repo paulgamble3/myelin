@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2143,
+    "prompt": "Nurse: I appreciate your trust, Mr. Valenzuela. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice. You should avoid high fiber foods like whole grains, fruits, and vegetables. Does that make sense to you?\n\nPatient: Yeah. Low fiber is what we're doing now.\n\nNurse: Yes, exactly, Mr. Valenzuela. Low fiber foods are easier for your body to digest and will help prepare you for your colonoscopy. Do you have any questions about eating only low fiber foods?\n\nPatient: No. You covered it.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Well, I like things like ice cream. I like things like putting\n\nNurse: Ice cream is a great choice, Mr. Valenzuela. It's a low fiber food that can be quite comforting.\n\nPatient: The sorts of things that are probably not too good for me.",
+    "responses": {
+        "gpt4": "That's alright, Mr. Valenzuela. In light of your upcoming colonoscopy, you're actually encouraged to indulge in these low fiber comfort foods. It's a rare instance where less healthy foods can be beneficial for your procedure. Now, can we move on to talk about any supplements you might be taking?",
+        "our_model": "Ice cream is a popular choice, Mr. Valenzuela. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Just remember to avoid any fruit toppings that are high in fiber. Do you have any other favorite low fiber comfort foods?"
+    }
+}

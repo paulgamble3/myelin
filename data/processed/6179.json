@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6179,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December twenty fourth nineteen sixty one.\n\nNurse: Thank you for confirming, Ms. Shannon. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yep.\n\nNurse: Okay, thank you. How has your day been so far, Ms. Shannon?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Shannon. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm really, really, really scared.",
+    "responses": {
+        "gpt4": "I can imagine that it's a daunting experience, but remember that the colonoscopy is an important tool for preventive health care. It's normal to feel anxious about it, Ms. Shannon. But keep in mind that your gastroenterologist, Dr. Meredith Bailey, is extremely skilled and has done this procedure over 1500 times. Do you have any specific concerns or questions about the procedure?",
+        "our_model": "I'm really sorry to hear that you're feeling scared, Ms. Shannon. It's completely normal to feel this way. Can you tell me more about what's causing you to feel scared?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 767,
+    "prompt": "Nurse: I see, Ms. Aguirre. It's wonderful that you have such a close relationship with your aunt. It must be comforting to have her around. What activities do you usually enjoy doing together when she visits?\n\nPatient: We just sit in play cards. You know? She's\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: quite a bit older. So\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: We like to place\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: fight in Maryland.",
+    "responses": {
+        "gpt4": "That sounds enjoyable, Ms. Aguirre. Staying engaged and having fun activities like playing \"Fight in Maryland\" with your aunt is really good. \n\nBefore we continue, are there any symptoms or health issues that have been concerning you recently? We're here to check in on your health condition, specifically your kidney disease. If there's anything on your mind, I'm here to help where I can.",
+        "our_model": "That sounds like a fun game, Ms. Aguirre. It's great that you have these moments to enjoy with your aunt. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
+    }
+}

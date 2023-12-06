@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4383,
+    "prompt": "Nurse: Acrylic paintings can be quite vibrant and beautiful. Do you have a favorite subject or theme that you like to paint?\n\nPatient: Humanity.\n\nNurse: That's a powerful theme, humanity. It must be rewarding to capture the essence of people on your canvas. Now, I'm calling on behalf of Doctor Sarah Forbes and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I do not have any questions or concern to address.\n\nNurse: Alright, let's move on to your medications then. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Lasix and Lisinopril?\n\nPatient: So whatever you need to complete, let me know.\n\nNurse: Thank you for your cooperation. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great, thank you for letting me know. Moving on to the rest, are you also taking Gabapentin, Tylenol, and potassium?",
+        "our_model": "That's great to hear. How about Gabapentin, are you taking that as needed?"
+    }
+}

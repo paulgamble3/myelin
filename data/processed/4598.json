@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4598,
+    "prompt": "Nurse: Of course, Mr. Peck. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: Yes. I took it this morning, and there was no was\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: ninety over\n\nNurse: I'm sorry, Mr. Peck, could you please repeat the second number of your blood pressure reading?\n\nPatient: one hundred.\n\nNurse: Thank you for sharing that, Mr. Peck. It's great that you're monitoring your blood pressure. A reading of 90 over 100 is within the acceptable range, but it's important to keep an eye on it. Can I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, managing blood pressure involves a combination of diet, exercise, maintaining a healthy weight, and taking prescribed medications. Incorporating some physical activities regularly, even light ones like walking or gardening, can help lower blood pressure. The DASH diet, which stands for Dietary Approaches to Stop Hypertension, could also be beneficial. It includes eating a diet rich in fruits, vegetables, whole grains, and low-fat dairy products, while reducing your intake of foods high in saturated fat and cholesterol. Have you ever heard of this diet before, Mr. Peck?",
+        "our_model": "Thank you, Mr. Peck. One way to manage your blood pressure is by reducing your salt intake. This can be achieved by avoiding processed foods and not adding extra salt to your meals. Also, regular physical activity can help lower your blood pressure. Do you currently have any physical activities incorporated into your daily routine?"
+    }
+}

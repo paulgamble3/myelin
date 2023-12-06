@@ -1,0 +1,8 @@
+{
+    "prompt_id": 569,
+    "prompt": "Nurse: That's great to hear.\n\nPatient: and seems like that. Every once in a while, I'll have a heart healthy yogurt,\n\nNurse: That sounds like a good start. It's great that you're focusing on vegetables and whole grains. How about proteins?\n\nPatient: I usually stick with, like, fish for protein?\n\nNurse: That's excellent. Fish is a great source of protein. How about snacks and drinks?\n\nPatient: I'm really just the water gal. I drink a lot of water. I don't really drink soda or coffee or anything like that. Yeah.\n\nNurse: That's fantastic. Staying hydrated is important, especially with CHF. As for snacks, what do you usually go for?\n\nPatient: Oh,",
+    "responses": {
+        "gpt4": "I'm sorry, what was that again?",
+        "our_model": "Yes, I'm here. What are your usual snacks?"
+    }
+}

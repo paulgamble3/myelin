@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1164,
+    "prompt": "Patient: I also have a rowing machine.\n\nPatient: And I play pickleball.\n\nNurse: That's wonderful, Mr. Cardenas. It sounds like you're very active. Could you tell me more about your hiking routine?\n\nPatient: Well, usually, on\n\nNurse: I'm sorry for the interruption, Mr. Cardenas. Could you please repeat what you said about your hiking routine?\n\nPatient: Saturday mornings, I get up around five.\n\nNurse: That's impressive, Mr. Cardenas. An early start must help you beat the heat. How long do your hikes usually last, and how challenging are the trails you choose?\n\nPatient: And pack and grab my dog, and we",
+    "responses": {
+        "gpt4": "That sounds like a fantastic way to start your day, Mr. Cardenas. Rocky must really enjoy those hikes. Can you tell me how long these hikes usually last?",
+        "our_model": "That sounds like a lovely way to start the weekend, Mr. Cardenas. How long are your hikes usually?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 354,
+    "prompt": "Nurse: Great, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Yes. It is good. Good time to talk. Thank you.\n\nNurse: I'm glad to hear that, Mr. Koroleva. How has your day been so far?\n\nPatient: It's been really good. Thank you\n\nNurse: That's wonderful to hear, Mr. Koroleva.\n\nPatient: so much.\n\nNurse: That's wonderful to hear, Mr. Koroleva. I'm glad you're having a good day.\n\nPatient: But I'm just seeing now I'm just feeling a a a little anxious. And if you find me being in pace and that's just how I am. Don't get it. Don't take it personally.",
+    "responses": {
+        "gpt4": "That's absolutely okay, Mr. Koroleva. It's natural to feel anxious, especially when it comes to medical procedures. And, please feel free to express yourself however you need to. Could you share what is making you feel anxious about your upcoming colonoscopy?",
+        "our_model": "Of course, Mr. Koroleva. It's completely normal to feel a bit anxious before a procedure. I'm here to help you with any questions or concerns you might have. How are you feeling about your upcoming colonoscopy?"
+    }
+}

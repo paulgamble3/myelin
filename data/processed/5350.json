@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5350,
+    "prompt": "Nurse: That's wonderful, Mr. Gardner. Salads, fruits, and vegetables are excellent choices. Can you tell me more about the types of dressings or seasonings you use on your salads?\n\nPatient: Oh, I don't really pay attention to that.\n\nNurse: That's okay, Mr. Gardner. It's essential to enjoy what we eat. Now, I'd like to remind you of your dietary recommendations. You're on a 1.5 Liter Fluid restriction and a 1500 mg Sodium Restricted diet. Can I share some tips on how to follow these recommendations?\n\nPatient: Okay.\n\nNurse: Wonderful, Mr. Gardner. For your fluid restriction, it's important to measure your drinks to ensure you're not exceeding the 1.5 liter limit. This includes all fluids, not just water. As for your sodium restriction, it's a good idea to avoid processed foods and add less salt to your meals. Also, try to use herbs and spices for flavor instead of salt. Does that make sense?\n\nPatient: Yeah. Thank you.\n\nNurse: You're welcome, Mr. Gardner. I'm glad I could provide some helpful tips. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: Actually, I had a question.",
+    "responses": {
+        "gpt4": "Of course, Mr. Gardner. What can I assist you with?",
+        "our_model": "Of course, Mr. Gardner. What's your question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1006,
+    "prompt": "Nurse: I've found that the sodium content in Wishbone Italian salad dressing can vary depending on the specific type and size of the bottle. For example, a 2-tablespoon serving of Wishbone Italian Dressing might contain around 350 mg of sodium. It's always a good idea to check the nutrition label on the bottle for the most accurate information. Does that help?\n\nPatient: Yep.\n\nNurse: I'm glad I could help with that. It's critical to keep an eye on your sodium intake, especially with your conditions. Now, let's move on to discuss your other chronic conditions. How have you been managing your hypertension?\n\nPatient: Pretty well.\n\nNurse: That's good to hear. Regular monitoring and managing your blood pressure is key in managing hypertension. Now, let's talk about your obesity. Have you been able to maintain a healthy weight or have there been any changes recently?\n\nPatient: Nope.\n\nNurse: I see. Maintaining a healthy weight is important for managing your conditions. Have you tried any weight loss strategies or do you have any plans to start?\n\nPatient: I said no to any changes. I've not had any changes.",
+    "responses": {
+        "gpt4": "I see, I misunderstood earlier. Keeping a steady weight can be a positive sign. Now let's move onto your alcohol use disorder. How have you been managing your recovery?",
+        "our_model": "I see, thank you for clarifying. If you're open to it, I can provide some suggestions on how to manage your weight. Would you like me to do that?"
+    }
+}

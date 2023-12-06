@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3795,
+    "prompt": "Nurse: My apologies for the confusion, Ms. Odonnell. I just wanted to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's critical to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If you have any questions in the future, don't hesitate to ask. Now, let's discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: What do you mean by that?\n\nNurse: I'm asking about the types of foods you've been eating, Ms. Odonnell. For example, what did you have for breakfast, lunch, and dinner yesterday?\n\nPatient: That's a I had oatmeal for breakfast.\n\nNurse: That's a great start to the day, Ms. Odonnell. Oatmeal is a whole grain and a good source of fiber. What did you have for lunch and dinner yesterday?\n\nPatient: Much for lunch, and I had",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Odonnell, I didn't quite catch what you said you had for lunch. Could you please repeat that?",
+        "our_model": "I'm sorry, Ms. Odonnell, you cut out a bit there. Could you please repeat what you had for lunch and dinner yesterday?"
+    }
+}

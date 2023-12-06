@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2327,
+    "prompt": "Nurse: I see, Mr. Ponce.\n\nPatient: Hang up.\n\nNurse: I'm sorry for any confusion, Mr. Ponce. I'm here to help you with your health-related concerns.\n\nPatient: Against his Ponce.\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Well, I noticed that I gained weight today. I gained two Ponce. And I'm feeling more short of breath than usual. And have a dry hat. Cagicos.\n\nNurse: I'm sorry to hear that you're feeling this way, Mr. Ponce. It's critical to keep track of these symptoms. Can you tell me more about the shortness of breath and the dry cough?\n\nPatient: It's more difficult to breathe now.",
+    "responses": {
+        "gpt4": "I'm sorry to hear that, Mr. Ponce. Can you tell me more about your symptoms? Are you experiencing this shortness of breath at rest or only during activity? Also, have you noticed any other symptoms like chest pain, fever, or tiredness? It's very important that we understand the full range of your current health status.",
+        "our_model": "I see, Mr. Ponce. Difficulty in breathing can be a concerning symptom. Have you noticed any patterns or triggers that seem to make it worse, such as certain activities or positions?"
+    }
+}

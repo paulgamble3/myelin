@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4884,
+    "prompt": "Patient: The night before in the morning up.\n\nNurse: Yes, that's correct. The last thing we need to discuss is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I can do that.\n\nNurse: That's great to hear. It's critical to follow these instructions for your safety during the procedure. Now, I know we've covered a lot of information, but I have a few more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Yes. You know,\n\nNurse: Of course. What would you like to discuss?\n\nPatient: I really need to lose weight and\n\nPatient: I buy my groceries from Walmart,",
+    "responses": {
+        "gpt4": "That's perfectly fine, Walmart offers a variety of healthy food options as well. It sounds like you're willing to make some dietary changes to aid your overall health and recovery from surgery. Do you have any specific dietary goals or changes in mind, or would you like some advice on improving your food choices?",
+        "our_model": "I see, managing weight can indeed be a challenge."
+    }
+}

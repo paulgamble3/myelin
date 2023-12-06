@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2319,
+    "prompt": "Patient: Else?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Wallace Ponce?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Nice to connect with you, Mr. Ponce. I'm calling to follow up on behalf of Dr. Martin Willis. Now that you're back home after your recent hospital stay, how are you feeling?",
+        "our_model": "Hello, Mr. Ponce. I'm glad to hear you're back home from the hospital. How are you feeling today?"
+    }
+}

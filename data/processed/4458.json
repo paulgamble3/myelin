@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4458,
+    "prompt": "Patient: chicken and potatoes for dinner.\n\nNurse: Thank you for sharing that, Mr. Delarosa. It sounds like you're incorporating some good protein sources into your meals. How about your fluid intake?\n\nPatient: What does that mean?\n\nNurse: I apologize if my question was unclear, Mr. Delarosa. I was asking about the types and amounts of fluids you drink in a day. For example, how many glasses of water or other beverages do you typically have?\n\nPatient: To follow these guidelines. I I I don't really understand, like,\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: this whole fluid restriction\n\nPatient: stuff.",
+    "responses": {
+        "gpt4": "I see, Mr. Delarosa. It sounds like you're having some difficulty understanding the guidelines for fluid restriction. Would it be helpful if we took some time to discuss this topic in more detail?",
+        "our_model": "I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?"
+    }
+}

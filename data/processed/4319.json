@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4319,
+    "prompt": "Nurse: That's excellent. Staying on top of your diet and taking your medications as prescribed are key in managing your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to stay on top of it.\n\nNurse: That's good to hear. Staying on top of your blood pressure is crucial for your overall health.\n\nPatient: Making sure it doesn't go high.\n\nNurse: That's a good approach. Regular monitoring and maintaining a healthy lifestyle can help keep your blood pressure under control. Now, let's move on to a different topic. Do you smoke cigarettes or vape?\n\nPatient: I do smoke a pack of cigarettes a day.\n\nNurse: I see. It's a big step to acknowledge that. Have you ever considered quitting smoking?\n\nPatient: I have, but I'm not ready to quit yet.",
+    "responses": {
+        "gpt4": "It's understandable that quitting can be a difficult step to take. May I ask why you feel you're not ready to quit yet?",
+        "our_model": "That's completely okay. It's a big decision to make and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?"
+    }
+}

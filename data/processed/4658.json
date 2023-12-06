@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4658,
+    "prompt": "Nurse: That's okay, Mr. Amador. Do you experience any abdominal pain along with the bloody stool?\n\nPatient: No.\n\nNurse: Do you have a hemorrhoid or a lump at your rectum, or have you noticed any red streaks on your stool, Mr. Amador?\n\nPatient: No.\n\nNurse: Do you have any cuts or open wounds near your rectum, Mr. Amador?\n\nPatient: No.\n\nNurse: Is there any more information you would like to share about this issue, Mr. Amador?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Have you lost any weight in recent months without trying, Mr. Amador?",
+        "our_model": "I'm sorry for any confusion earlier, Mr. Amador. Let's move forward. I'm here today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Is there anything you'd like to discuss before we proceed?"
+    }
+}

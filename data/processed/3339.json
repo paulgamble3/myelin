@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3339,
+    "prompt": "Nurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I said no.\n\nNurse: Alright, Mr. Winner. I'm glad we could discuss that. I know we've covered a lot of information, but we're almost done. Do you have any questions so far?\n\nPatient: No questions.\n\nNurse: Great, Mr. Winner. I just have a couple more questions for you. Firstly, have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Winner. It's important to be in good health before your procedure. Now, I see that your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Winner. Going back to a familiar environment can be comforting after a procedure. Have you arranged for a ride home and for someone to stay with you after the procedure? This is very important as you'll need assistance in the initial stages of recovery.",
+        "our_model": "Great, Mr. Winner. It's essential to have a plan in place for after your procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?"
+    }
+}

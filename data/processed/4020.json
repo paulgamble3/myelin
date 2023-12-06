@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4020,
+    "prompt": "Nurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Okay.\n\nNurse: That's good to hear, Ms. Warrell. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh my goodness.\n\nNurse: I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: A\n\nNurse: I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what\n\nPatient: system made me",
+    "responses": {
+        "gpt4": "I'm sorry, Ms. Warrell. It seems like there was an interruption. Could you please provide some examples of what you've been eating recently?",
+        "our_model": "I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what you said about your recent meals?"
+    }
+}

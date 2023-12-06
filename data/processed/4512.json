@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4512,
+    "prompt": "Nurse: Alright. I appreciate your response. It's essential to keep an eye on these symptoms and share them with your doctor. Is there anything else that's been on your mind or any questions you'd like to discuss before we move on to some specific topics regarding your kidney disease?\n\nPatient: No.\n\nNurse: Alright. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Yes. I'm sorry.\n\nNurse: No need to apologize. I'm here to help. Let's start with your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight?",
+    "responses": {
+        "gpt4": "Thank you for sharing. That reading is a bit high since a desirable range for people with diabetes is typically between 80 and 120. Would you allow me to provide some recommendations on how to manage your blood sugar levels?",
+        "our_model": "Thank you for sharing that. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
+    }
+}

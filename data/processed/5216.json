@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5216,
+    "prompt": "Patient: Color.",
+    "responses": {
+        "gpt4": "I'm very sorry, but I didn't understand what you meant by that. Could you please provide more context or clarify your statement?",
+        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?"
+    }
+}

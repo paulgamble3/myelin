@@ -1,0 +1,8 @@
+{
+    "prompt_id": 203,
+    "prompt": "Nurse: I'm sorry, Ms. Aguirre, you were saying something?\n\nPatient: would like to eat more than just that.\n\nNurse: Absolutely, Ms. Aguirre. It's important to have a varied diet. I apologize if it seemed like I was suggesting a limited menu. There are many other foods that can be included in a diet suitable for both your diabetes and kidney disease. For example, lean proteins like chicken or fish can be a good choice. Would you like me to provide more suggestions?\n\nPatient: I thought the doctor told me I had to watch how much protein I eat too.\n\nNurse: You're correct, Ms. Aguirre. With your kidney disease, it's important to monitor your protein intake. However, lean proteins like chicken or fish can still be part of a healthy diet in moderation. It's all about balance. Would you like me to note this for your care team to review and provide further guidance?\n\nPatient: Yes. Please.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I've made a note of this for your care team, Ms. Aguirre. They will be able to provide more detailed guidance on managing your diet with both your diabetes and kidney disease in mind. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: This morning.",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Ms. Aguirre. Do you remember what the reading was?",
+        "our_model": "That's great, Ms. Aguirre. Could you please share with me what your blood pressure reading was this morning?"
+    }
+}

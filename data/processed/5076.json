@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5076,
+    "prompt": "Nurse: Alright, Mr. Koroleva. Are you currently taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's critical to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Does that make sense?\n\nPatient: Yeah. Makes sense.\n\nNurse: I'm glad to hear that, Mr. Koroleva. Do you have any questions about eating only low fiber foods or is there anything you're unsure about?\n\nPatient: Hello. Yes. That makes sense.",
+    "responses": {
+        "gpt4": "Perfect, Mr. Koroleva. It's key to have a clear understanding of what to eat during this time. Considering your personal preference, are there any low fiber foods that you like to eat? Perhaps comfort foods that you're looking forward to?",
+        "our_model": "I'm glad to hear that, Mr. Koroleva. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3302,
+    "prompt": "Nurse: I'm an AI, Mr. Winner, and while I can provide general advice, I don't have the ability to create a personalized shopping list. However, I can certainly help you understand what types of foods are beneficial for your health and recovery. Would you like me to do that?\n\nPatient: Alright. Is it\n\nNurse: Absolutely, Mr. Winner. After your surgery, it's important to eat a balanced diet to aid your recovery. This includes plenty of fruits and vegetables, lean proteins, and whole grains. It's also beneficial to limit your intake of sodium and sugars. Does that help?\n\nPatient: Yes. That helps.\n\nNurse: I'm glad to hear that, Mr. Winner.\n\nPatient: You said limit sugar, Sensorio?\n\nNurse: Yes, Mr. Winner. Limiting sugar can help manage your blood glucose levels, especially with your Type II Diabetes. This can also help with your overall health and recovery. Do you have any other questions about your diet?\n\nPatient: Oh, okay. Okay. Oh, got it. Not about diets. No.",
+    "responses": {
+        "gpt4": "I'm glad I could help. If you have any other questions in the future, don't hesitate to ask. Best of luck with your surgery and recovery, Mr. Winner.",
+        "our_model": "Alright, Mr. Winner. I'm glad we could discuss your diet. It's also important to stay active, and I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
+    }
+}

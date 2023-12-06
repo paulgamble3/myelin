@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1386,
+    "prompt": "Nurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat\n\nPatient: and metformin.\n\nNurse: the name Thank you for confirming those medications, Mr. Grewe. I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yeah. I got those.\n\nNurse: That's great to hear, Mr. Grewe. It's important to have those medications on hand for after the procedure. Do you have any questions about these medications, or is there anything else you'd like to know about your current medications?\n\nPatient: I don't need to know anything about them.\n\nNurse: Alright, Mr. Grewe. If you have any questions in the future, don't hesitate to ask. Now, let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub for this purpose?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "That's excellent to hear, Mr. Grewe. Now, I want to make sure you understand how to use this chlorhexidine scrub effectively. The first step is that you should use the scrub the night before and the morning of your procedure. Does that seem clear so far?",
+        "our_model": "That's great to hear, Mr. Grewe. The chlorhexidine scrub is an important part of preparing for your surgery. You'll need to use it the night before and the morning of your procedure. Let's go over the instructions for using the scrub. Is that okay with you?"
+    }
+}

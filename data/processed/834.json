@@ -1,0 +1,8 @@
+{
+    "prompt_id": 834,
+    "prompt": "Nurse: Thank you for that information, Mr. Oliver. Could you please tell me what the result of that blood pressure measurement was?\n\nPatient: Yes. It was one thirty o were eighty.\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat that?\n\nPatient: One thirty over eighty?\n\nNurse: Thank you for repeating that, Mr. Oliver. A blood pressure reading of 130 over 80 is slightly elevated. It's critical to keep an eye on this. Would you be open to hearing some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Okay, thank you, Mr. Oliver. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating less processed foods and adding less salt to meals. What do you think about this suggestion?\n\nPatient: That seems alright. I do like salts, but I'm sure I can do without it.",
+    "responses": {
+        "gpt4": "That's great to hear, Mr. Oliver. Making changes to dietary habits can be challenging, so it's good to hear you're willing to give it a go. Also, try to incorporate more physical activity into your daily routine. This could be as simple as taking a walk in the neighborhood. It helps with blood pressure management and has numerous other health benefits. How do you feel about this recommendation?",
+        "our_model": "That's a positive attitude, Mr. Oliver. Reducing salt intake can indeed make a difference. As an alternative, you could also try incorporating more fruits and vegetables into your diet. They are naturally low in sodium and can help maintain a healthy blood pressure. Would you be willing to try this as well?"
+    }
+}

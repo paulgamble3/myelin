@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3102,
+    "prompt": "Nurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Yeah.\n\nNurse: I'm sorry to hear that.\n\nPatient: I I have\n\nNurse: I'm sorry to hear that. It's important to monitor this closely. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Yes. I have\n\nNurse: I'm sorry to hear that you're experiencing chest pain. It's crucial to keep track of this. Have you noticed any new or worsening dry cough?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "That's good to hear. Let's move on to a few other symptoms. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?",
+        "our_model": "That's good to hear. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

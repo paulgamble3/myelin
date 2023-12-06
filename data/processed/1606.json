@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1606,
+    "prompt": "Nurse: That sounds like a lovely plan, Mr. Benton. Christmas baking can be such a joy. What kind of treats are you planning to make?\n\nPatient: Well, I have all these healthy recipes that I've discovered\n\nNurse: That's wonderful, Mr. Benton.\n\nPatient: And so I'm gonna make some healthy muffins.\n\nNurse: That's wonderful, Mr. Benton. Healthy muffins sound delicious. Do you have a favorite type of muffin you're planning to make?\n\nPatient: Pumpkin muffins are my favorite.\n\nNurse: Pumpkin muffins are indeed a great choice, especially during the holiday season. They're not only delicious but also healthy. Before we move on, is there anything you've been feeling concerned about regarding your health?\n\nPatient: Not in particular, but",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Mr. Benton. If any questions or concerns arise as we talk, feel free to bring them up. Are you alright with us going over a few topics to check in on how you're managing your chronic kidney disease?",
+        "our_model": "I appreciate your openness, Mr. Benton."
+    }
+}

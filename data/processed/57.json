@@ -1,0 +1,8 @@
+{
+    "prompt_id": 57,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Ware. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Ware. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Binkles now.\n\nNurse: I'm sorry, Ms. Ware, I didn't quite catch that. Are you saying you have swelling in one of your legs?\n\nPatient: What did you say?\n\nNurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you.\n\nPatient: What? Okay.",
+    "responses": {
+        "gpt4": "Apologies for any confusion earlier, Ms. Ware. My question was: Have you noticed any increased swelling in your feet, ankles, abdomen, or legs since your discharge from the hospital?",
+        "our_model": "When did the swelling start, Ms. Ware?"
+    }
+}

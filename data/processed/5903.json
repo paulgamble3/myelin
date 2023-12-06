@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5903,
+    "prompt": "Nurse: I can imagine that managing multiple health conditions can feel overwhelming at times. It's a lot to keep track of. Before we delve into the specifics of your kidney disease, is there anything you're looking forward to doing this week that might help take your mind off things a bit?\n\nPatient: I don't know. I can't really think about so Now.\n\nNurse: That's That's perfectly fine. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing in your free time that you find relaxing or enjoyable?\n\nPatient: I mean, I guess so, but I can't think of it right now.\n\nNurse: That's okay. It's not always easy to think of these things on the spot. Let's move on to some questions about your health. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.",
+    "responses": {
+        "gpt4": "That's good to hear. Consistency is key in managing diabetes. Can you tell me what your latest blood sugar reading was at home?",
+        "our_model": "That's excellent. Could you please share with me what your last blood sugar reading at home was?"
+    }
+}

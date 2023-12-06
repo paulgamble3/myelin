@@ -1,0 +1,8 @@
+{
+    "prompt_id": 705,
+    "prompt": "Nurse: Okay. One suggestion could be to gradually increase the length of your walks. For example, you could aim to walk for 25 minutes instead of 20. Another suggestion could be to incorporate some light strength training exercises, such as lifting small hand weights or using resistance bands. However, it's important to start slow and listen to your body. Would any of these suggestions be helpful for you?\n\nPatient: I noted them.\n\nNurse: That's great. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.\n\nNurse: Alright. I will inform Doctor Burke about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. To summarize, you've agreed to continue with your current exercise routine and consider gradually increasing the length of your walks. You're also considering incorporating some light strength training exercises. Can I confirm that you'll follow through with these changes?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Great! I will inform Dr. Burke about your commitment to these changes in your health routines. Remember, you can always reach us back at 641-381-6523 if you need to clarify anything or have questions. Thank you for your time, Jane. Have a good day!",
+        "our_model": "That's great to hear. If you have any questions or need to discuss anything in the future, you can call us back at 641-381-6523. Thank you for your time today. Goodbye. ["
+    }
+}

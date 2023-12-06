@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3477,
+    "prompt": "Nurse: Perfect. I see on your chart that you're currently taking Ferrous Sulfate 200 mg once a day. For your colonoscopy, you'll need to stop taking this medication 5 days prior to the procedure. That means you should stop taking it on August 12, which is 5 days from today. Does that make sense?\n\nPatient: Yes.\n\nNurse: Okay. Do you have any questions about the Ferrous Sulfate or the instructions to stop it?\n\nPatient: No.\n\nNurse: Alright. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Alright. Now, let's discuss your diet prep for the colonoscopy. Starting from today, you will want to eat a low fiber diet. This means you should enjoy foods like white bread, pasta, and rice and avoid foods like whole grains, fruits, and vegetables. Do you have any questions about this?",
+        "our_model": "Alright. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, rice, and pasta, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?"
+    }
+}

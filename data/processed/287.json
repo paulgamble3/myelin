@@ -1,0 +1,8 @@
+{
+    "prompt_id": 287,
+    "prompt": "Nurse: I'm glad to hear you're doing fine. I'm here to discuss a few topics related to your health. Before we dive into that, is there anything you're looking forward to doing this week?\n\nPatient: No. I'm not. Actually, I'm gonna have a terrible week.\n\nNurse: I'm sorry to hear that.\n\nPatient: Because everything's terrible. And, yeah, it sucks out here.\n\nNurse: I'm sorry to hear that you're having a tough time.\n\nPatient: Now what do you need from me? Okay. Let's let's get down to the\n\nNurse: I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?\n\nPatient: business. K?",
+    "responses": {
+        "gpt4": "Of course, let's proceed. Before we get into the details of your chronic kidney disease, are there any symptoms that have been bothering you lately?",
+        "our_model": "I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?"
+    }
+}

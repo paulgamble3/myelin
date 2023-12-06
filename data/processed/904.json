@@ -1,0 +1,8 @@
+{
+    "prompt_id": 904,
+    "prompt": "Nurse: Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. And when I last checked yesterday, and it was one twenty eight.\n\nNurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. However, a reading of 128 is a bit higher than the target range for people with diabetes. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Hello. It seems we might have had a technical glitch. I was checking if I could share some recommendations on how to manage your blood sugar levels. Is that okay with you?",
+        "our_model": "Yes, I'm here. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?"
+    }
+}

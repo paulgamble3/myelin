@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5945,
+    "prompt": "Nurse: I'm Does the patient report sudden arm or leg weakness?\n\nPatient: No.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: No.\n\nNurse: Does the patient develop a severe headache?\n\nPatient: No.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Has the patient experienced sudden dizziness, loss of balance, or difficulty walking?",
+        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you."
+    }
+}

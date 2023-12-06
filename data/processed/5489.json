@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5489,
+    "prompt": "Patient: I mean, I think I'm doing okay.\n\nNurse: I'm glad to hear that you're feeling okay, Ms. Aguirre. If you ever have any questions or concerns, feel free to share them with me at any time. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: I I am very interested about the labs If you could tell me current labs and what are my potassium in thought you meant\n\nPatient: to let me know.\n\nNurse: Of course, Ms. Aguirre. Your current lab results show that your potassium level is 4.5 mEq/L. This is within the normal range, which is good news. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Of course.\n\nNurse: lab results show that your potassium level is 4.5 mEq/L. This is within the normal range. Do you have any other questions or concerns about your lab results or anything else?\n\nPatient: Can you tell me what that name?",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat your question?",
+        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat your question?"
+    }
+}

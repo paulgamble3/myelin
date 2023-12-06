@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3932,
+    "prompt": "Nurse: That's good to hear. Are you taking the Lasix 20 mg tablets two times a day as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. It's critical to take your medications as prescribed to manage your CHF. Now, are you still taking your Valsartan?\n\nPatient: Yes.\n\nNurse: That's great. It's important to continue taking your Valsartan as it helps manage your CHF. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I don't. Since I only have two medications that I take\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: both of them at the same time every day pretty easy so far.",
+    "responses": {
+        "gpt4": "I'm glad to hear that maintaining your medication schedule has been manageable. Having a steady routine definitely helps. Now, I would like to run through some symptoms related to your CHF. Would that be alright?",
+        "our_model": "That's fantastic. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
+    }
+}

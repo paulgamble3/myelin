@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5011,
+    "prompt": "Nurse: It's completely normal to feel a mix of excitement and nervousness before a procedure like this. As for the pain, it's important to remember that everyone's experience is different. However, the team at O'Connor Hospital, led by your surgeon Doctor Cristina Stevens, is highly experienced and will do their best to manage your pain effectively. Do you have any other questions or concerns you'd like to discuss before we move on?\n\nPatient: No. I can't think of any, but Thank you.\n\nNurse: You're welcome. Remember, you can ask me questions at any time during our conversation. Now, I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yes.\n\nNurse: Great, thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. I will be there.\n\nNurse: Perfect. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes. It does.",
+    "responses": {
+        "gpt4": "Great! Are there any other aspects of the logistics that are worrying you or that you'd like to discuss?",
+        "our_model": "Excellent. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?"
+    }
+}

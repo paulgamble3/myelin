@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3906,
+    "prompt": "Nurse: That's a great question. Insulin is used to control blood sugar levels, which is important for both your kidney health and your overall health. However, it's crucial to take it as prescribed by your doctor. Are you currently taking insulin?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear. It's important to continue taking your insulin as prescribed. Now, let's move on to your medications. You're currently prescribed Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. Mhmm.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medication. Just a reminder, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I know.",
+    "responses": {
+        "gpt4": "That's great to hear, Carla. Continuing with the topic of diet, could you share with me what a typical meal looks like for you?",
+        "our_model": "That's good to hear. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
+    }
+}

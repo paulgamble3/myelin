@@ -1,0 +1,8 @@
+{
+    "prompt_id": 430,
+    "prompt": "Patient: So five days. Yeah. Right? Yeah. I did stop it. Thank you. I\n\nPatient: take a look. That's one of the medications that I did got taken. Yep.\n\nNurse: That's great to hear. It's important to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: First.\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I I'm not. I stopped taking it.",
+    "responses": {
+        "gpt4": "Great, it sounds like you're following the instructions correctly. If you have other medications to take, it would be a good idea to prepare a list so you can present it to your doctor on the day of the surgery. Does that sound manageable?",
+        "our_model": "That's good to hear. It's critical to avoid those medications unless specifically recommended by your doctor."
+    }
+}

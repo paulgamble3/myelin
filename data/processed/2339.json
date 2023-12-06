@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2339,
+    "prompt": "Nurse: Alright, Mr. Ponce. That's good to hear. We've just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: And then I go.\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat your question?\n\nPatient: I still have a question.\n\nNurse: Of course, Mr. Ponce. What's your question?\n\nPatient: I don't have a question.\n\nNurse: Alright, Mr. Ponce. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: I mean, I don't want anything.",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you just said?",
+        "our_model": "I'm sorry, Mr. Ponce, could you please repeat what you said about your recent meals?"
+    }
+}

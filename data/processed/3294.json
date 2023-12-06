@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3294,
+    "prompt": "Nurse: I'm glad to hear that, Mr. Winner. How has your day been so far?\n\nPatient: Not bad. Just you know,\n\nNurse: I'm glad to hear that, Mr. Winner. It's always good to have a day that's not bad. Is there anything in particular that's made your day better?\n\nPatient: Just getting ready getting ready for the surgery.\n\nNurse: It sounds like you're taking some time to prepare for your surgery, Mr. Winner. That's really important. Is there anything specific you've been doing to get ready?\n\nPatient: Anything specific?\n\nNurse: Yes, Mr. Winner. Could you please share more about what you've been doing to prepare for your surgery?\n\nPatient: I",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Winner, but I didn't catch that. Could you please repeat it?",
+        "our_model": "I'm sorry, Mr. Winner, could you please repeat what you were saying?"
+    }
+}

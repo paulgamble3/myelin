@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5626,
+    "prompt": "Nurse: That's wonderful to hear. It must be a relief to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Able to walk my dog again.\n\nNurse: That sounds lovely. Dogs can bring so much joy. What's your dog's name and what breed is he?\n\nPatient: His name is Rocky,\n\nNurse: Rocky sounds like a great companion. What breed is he?\n\nPatient: and he is a brown lab\n\nNurse: Rocky sounds like a great companion. Labs are known for their friendly nature. Do you have a favorite place where you like to walk Rocky?\n\nPatient: A little lake that is not far from our house.",
+    "responses": {
+        "gpt4": "That sounds peaceful. Spending time by the lake with Rocky must be a great way to relax. Since I'm calling on behalf of Dr. Jack Smith, we have a few topics to cover. Before we start on them, do you have any particular questions or concerns you'd like to address?",
+        "our_model": "That sounds like a peaceful place to walk. Now, I'm calling today to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?"
+    }
+}

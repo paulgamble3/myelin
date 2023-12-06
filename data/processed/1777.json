@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1777,
+    "prompt": "Nurse: Thank you for clarifying.\n\nPatient: supplements.\n\nNurse: Thank you for clarifying. It's critical to avoid those supplements as they can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: I do not. No.\n\nNurse: Alright. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I am feeling how am I feeling about it?\n\nNurse: I'm sorry for the confusion.\n\nPatient: I'm feeling I'm feeling positive that my problem is gonna be clean",
+    "responses": {
+        "gpt4": "Thank you for sharing that, Patient. The ability to have an optimistic viewpoint is indeed a strength. However, it's common feedback that the procedure itself is not a problem at all, but the bowel prep can be a bit tough. I'm here to support you through every step of the way. Would you like to ask anything else about this process?",
+        "our_model": "It's great to hear that you're feeling positive about the procedure. It's true that the bowel prep can be a bit challenging, but it's a crucial part of ensuring the colonoscopy is as effective as possible. Do you have any questions or concerns about this part of the process?"
+    }
+}

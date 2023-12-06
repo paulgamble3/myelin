@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3403,
+    "prompt": "Nurse: I see, it's completely normal to feel nervous before a procedure, Mr. Jimenez. It's a big step, but a positive one towards improving your mobility. Is there anything specific that's making you feel nervous?\n\nPatient: They kinda wanna know\n\nNurse: I can imagine that it's a bit nerve-wracking preparing for a procedure like this. It's completely normal to feel this way. Is there anything specific that's making you feel nervous?\n\nPatient: know, it's it's not really gonna help with my pain.\n\nNurse: I can understand why you might be feeling nervous, Mr. Jimenez. It's completely normal to feel this way before a procedure. But rest assured, your surgeon, Doctor Cristina Stevens, is highly experienced and has performed over 1000 total knee replacements. This procedure is one of the safest and most reliable treatments in medicine. It's designed to help alleviate the pain you've been experiencing due to your osteoarthritis. Is there anything specific you're nervous about or any questions you'd like to discuss before we move forward?\n\nPatient: Uh-huh.\n\nNurse: to your osteoarthritis. Speaking of which, what are you planning to do once your knee is feeling better?\n\nPatient: I was just walking more.",
+    "responses": {
+        "gpt4": "That's a wonderful plan, Mr. Jimenez! Increasing mobility and getting back to doing the activities you enjoy is one of the main benefits of a knee replacement. Walking is a great low-impact activity that can help with the healing process after your surgery. I want to reassure you that our medical staff will work closely with you during your recovery phase to reach your goal. Do you have any other questions or concerns?",
+        "our_model": "That sounds"
+    }
+}

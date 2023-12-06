@@ -1,0 +1,8 @@
+{
+    "prompt_id": 331,
+    "prompt": "Patient: Let me talk.\n\nNurse: Of course, please go ahead. You were saying you've been following a certain diet?\n\nPatient: I've been following that\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Whenever I hold it down.\n\nNurse: I'm sorry, Damian, I didn't quite catch that.\n\nPatient: Five.\n\nPatient: It's because when I'm done talking, you keep cutting me off.",
+    "responses": {
+        "gpt4": "I apologize if it feels that way, Damian. Please go ahead and finish what you were saying. I'm here to listen.",
+        "our_model": "I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?"
+    }
+}

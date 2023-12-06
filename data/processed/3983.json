@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3983,
+    "prompt": "Nurse: You're welcome, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Dang. I was saying that you will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello? Hello? Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. [\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Dang, there seems to be a technical difficulty. I can hear you just fine and I'm responding, but you might not be receiving all of my responses. Let's take a brief moment to try to resolve this. [Try pushing the continue button on your screen.] If that doesn't work, we can also try reconnecting over the phone.",
+        "our_model": "Yes, I'm here, Mr. Dang. I was asking if you have any questions about stopping everything 4 hours before your procedure. ["
+    }
+}

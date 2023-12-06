@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6365,
+    "prompt": "Nurse: and bread\n\nPatient: fish, not\n\nNurse: I'm sorry, Mr. Gardner, I'm having a bit of trouble understanding. Could you please confirm what you had for your meal?\n\nPatient: I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could\n\nPatient: fish?\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: With vegetables, and bread.",
+    "responses": {
+        "gpt4": "That sounds like a balanced meal, Mr. Gardner. Now, are you aware of your dietary restrictions due to your heart failure? Specifically, you should be limiting your sodium to less than 2,000 milligrams per day and fluid intake to less than 1.5 liters per day. Are you able to manage these restrictions?",
+        "our_model": "Thank you for confirming that, Mr. Gardner. It's good to hear that you're including fish and vegetables in your meals. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?"
+    }
+}

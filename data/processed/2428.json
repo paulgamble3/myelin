@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2428,
+    "prompt": "Nurse: Alright. Let's proceed then. I'd like to ask if you've been experiencing any signs of illness recently. Have you had a fever, chills, or muscle aches?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. It's essential to be in the best possible health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Wonderful. It's critical to have a plan in place for after the procedure. Now, I'd like to ask if you've arranged for a ride home and for someone to stay with you after the procedure. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's important to have someone there to assist you after the procedure. If there's anything else you need to arrange, you still have time to do so. Now, do you have any questions or concerns that you'd like to discuss?\n\nPatient: No. None that I can think of.",
+    "responses": {
+        "gpt4": "Good, I'm glad to hear that. I believe that covers all the topics for today. I want to remind you to make sure you have arranged your ride home and completed all the other tasks we reviewed. Can I count on you to do all of this?",
+        "our_model": "Alright. If you have any questions in the future, don't hesitate to ask. To summarize, before your procedure, you'll need to use the chlorhexidine scrub the night before and the morning of your procedure. You also need to stop eating and drinking after midnight before your procedure. Can I count on you to do all of this?"
+    }
+}

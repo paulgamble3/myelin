@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1359,
+    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could\n\nPatient: five six seventy two\n\nNurse: Thank you for confirming your date of birth, Mr. Grewe. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I guess.\n\nNurse: Okay, thank you for your time, Mr. Grewe. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm\n\nNurse: I'm sorry, Mr. Grewe, you were saying something about your day?\n\nPatient: scared.",
+    "responses": {
+        "gpt4": "I can imagine that an upcoming surgery might make you feel scared, Mr. Grewe. It's completely normal to feel worried about a big procedure like a total knee replacement. Can you tell me more about what specifically is making you feel scared?",
+        "our_model": "I'm really sorry to hear that you're feeling scared, Mr. Grewe. It's completely normal to feel this way before a major procedure. Can you tell me more about what's making you feel scared?"
+    }
+}

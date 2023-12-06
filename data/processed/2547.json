@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2547,
+    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Pete Arnold?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: You said you're\n\nNurse: I'm sorry, I didn't quite catch that.\n\nPatient: happy to be back.\n\nNurse: That's wonderful to hear. There's no place like home, isn't it?\n\nPatient: Mhmm. That's true.",
+    "responses": {
+        "gpt4": "Sorry, I missed what you just said. Could you please repeat yourself?",
+        "our_model": "Now that you're home, is there anything specific you're looking forward to doing?"
+    }
+}

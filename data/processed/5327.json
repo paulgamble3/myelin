@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5327,
+    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August second nineteen sixty four.\n\nNurse: Thank you for confirming that, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing okay, and I am feeling better. Thanks for asking.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I've been looking forward to spending time with my pet fish\n\nNurse: That sounds lovely, Mr. Gardner. Pets can bring so much joy. What kind of fish do you have and what's their name?\n\nPatient: I have a goldfish.",
+    "responses": {
+        "gpt4": "That's wonderful, Mr. Gardner. Goldfish are such delightful creatures. Do you find taking care of your goldfish to be a relaxing activity?",
+        "our_model": "Goldfish are quite fascinating, aren't they?"
+    }
+}

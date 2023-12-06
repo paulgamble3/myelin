@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3450,
+    "prompt": "Nurse: I'm glad to hear that, Ms. Aguirre. If you have any other questions about your lab results or anything else, feel free to ask. Now, I'd like to discuss your medications. You're currently taking Metformin 500 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Aguirre. Sticking to your medication schedule is crucial in managing your conditions. Now, let's move on to the next medication. You're also prescribed Tylenol 500 mg, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. It's essential to take Tylenol only when you need it for pain. Lastly, you're prescribed Atorvastatin 40 mg, which you should be taking once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Ms. Aguirre. It's critical to take your Atorvastatin as prescribed to manage your cholesterol levels. I want to acknowledge that it's common to miss a dose here or there. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Yes, Ms. Aguirre. You're doing a great job sticking with your medication schedule. I wanted to ask if you've ever had any difficulties with remembering to take your medications on time? Is this something that you find challenging?",
+        "our_model": "Yes, Ms. Aguirre, I'm here. I was asking if you ever have trouble remembering to take your medications on time?"
+    }
+}

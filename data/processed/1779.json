@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1779,
+    "prompt": "Patient: I am feeling how am I feeling about it?\n\nNurse: I'm sorry for the confusion.\n\nPatient: I'm feeling I'm feeling positive that my problem is gonna be clean\n\nNurse: It's great to hear that you're feeling positive about the procedure. It's true that the bowel prep can be a bit challenging, but it's a crucial part of ensuring the colonoscopy is as effective as possible. Do you have any questions or concerns about this part of the process?\n\nPatient: No. I do not.\n\nNurse: Alright.\n\nPatient: No questions. I'm\n\nPatient: I I you know, I've researched it a lot, so",
+    "responses": {
+        "gpt4": "It's excellent that you've done your research and you're well-informed about the procedure. This will certainly help make the process smoother and less stressful for you. Please feel free to reach out if any questions come up in the future. Do you have any other concerns or is there anything else you would like to discuss today?",
+        "our_model": "That's fantastic."
+    }
+}

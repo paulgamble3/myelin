@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1022,
+    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Pete Arnold?\n\nPatient: Yeah. That's me.\n\nNurse: Hello. I'm glad to hear from you. I'm calling on behalf of your primary care doctor, Doctor Jack Smith. How are you doing now that you're home from the hospital?\n\nPatient: I'm doing okay.\n\nNurse: I'm glad to hear that. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Just happy to be back with my cat.",
+    "responses": {
+        "gpt4": "That's lovely. Pets can provide so much comfort, can't they? Is your cat happy to have you back? What's your cat's name?",
+        "our_model": "That sounds lovely. Cats can be such comforting companions. What's your cat's name?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 182,
+    "prompt": "Nurse: I apologize for the confusion. Could you please provide the month, day, and year of your birthday?\n\nPatient: My date of birth is March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming that, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I'm doing okay.\n\nNurse: I'm glad to hear that you're doing okay, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Yeah. My daughter's gonna come over.\n\nNurse: That sounds lovely, Ms. Aguirre. It's always a joy to spend time with family. What activities do you usually enjoy doing with your daughter when she visits?\n\nPatient: We just",
+    "responses": {
+        "gpt4": "Oh, I'm sorry! It seems that your response got cut off. Could you please tell me what activities you usually enjoy doing with your daughter when she visits?",
+        "our_model": "I'm sorry, Ms. Aguirre, you were saying?"
+    }
+}

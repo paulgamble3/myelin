@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4971,
+    "prompt": "Nurse: Thank you for confirming that, Mr. Hooper. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: What show ever\n\nNurse: I'm sorry for any confusion earlier, Mr. Hooper. Let's continue with the symptom check. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: I have not noticed that.\n\nNurse: That's good to hear, Mr. Hooper. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Carry on.\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No weight gain whatsoever.",
+    "responses": {
+        "gpt4": "That's great to hear Mr. Hooper. It's important to watch for sudden weight gain as it can be a sign of fluid retention, a common symptom of CHF. Continue monitoring your weight regularly. Do you have any difficulty sleeping flat in bed due to shortness of breath or needing to prop up your head with more pillows than usual?",
+        "our_model": "That's good to hear, Mr. Hooper. Lastly, have you been using more pillows at night to sleep?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 773,
+    "prompt": "Nurse: I'm sorry, Ms. Aguirre, you were saying you're concerned about something. Could you please continue?\n\nPatient: following buy it in stage four.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you?\n\nPatient: On a kidney disease.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you or what questions you have about your condition?\n\nPatient: Mostly, I wanna know what I should be eating.\n\nNurse: That's a great question, Ms. Aguirre. Diet is indeed a crucial part of managing kidney disease. Would it be okay if we go over a few topics related to your diet and overall health?\n\nPatient: Sure.",
+    "responses": {
+        "gpt4": "Great, thank you, Ms. Aguirre. But before we deep dive into your diet, it's important to check on your blood sugar levels too, given your Type II Diabetes. Have you been able to check your blood sugar daily? If so, do you recall your last reading at home?",
+        "our_model": "Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5066,
+    "prompt": "Patient: No.\n\nPatient: No.\n\nNurse: I'm sorry, Mr. Koroleva, could you please confirm if you've been experiencing bloody stool as well?\n\nPatient: No. I haven't.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I appreciate your patience, Mr. Koroleva. I'm here to ensure you have everything you need for your upcoming colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yep.\n\nNurse: Thank you, Mr. Koroleva. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?\n\nPatient: Mhmm. That's fine.",
+    "responses": {
+        "gpt4": "Great, Mr. Koroleva. Once you arrive at O'Connor Hospital for your procedure, your check-in location will be on the 1st Floor. Does that sound alright to you?",
+        "our_model": "Great, Mr. Koroleva. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
+    }
+}

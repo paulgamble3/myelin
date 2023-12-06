@@ -1,0 +1,8 @@
+{
+    "prompt_id": 191,
+    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: What is the target range?\n\nNurse: I apologize for any confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. This is a bit higher than the target range for people with diabetes, which is usually under 120. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: Just give me a second to work out the best way I can assist you. Just give me a second to work out the best way I can assist you. I'm glad we could clarify that, Ms. Aguirre. If it's okay with you, I'd like to share some suggestions on how to manage your blood sugar levels. Would that be alright?\n\nPatient: Sure. Go ahead.\n\nNurse: Thank you, Ms. Aguirre. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: This is all I think about is what I should be eating.",
+    "responses": {
+        "gpt4": "I understand how managing your diet can feel overwhelming, Ms. Aguirre. You're doing an important job by putting thought and effort into your meals. Is there anything else you're worried about or would like to discuss?",
+        "our_model": "I can imagine that managing diet can be a constant thought with diabetes, Ms. Aguirre. It's a"
+    }
+}

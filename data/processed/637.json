@@ -1,0 +1,8 @@
+{
+    "prompt_id": 637,
+    "prompt": "Nurse: Alright, Ms. Raynier. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: That's great, Ms. Raynier. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Completely understand.\n\nNurse: I'm glad to hear that, Ms. Raynier. It's crucial to follow these instructions for your safety. Now, I know I've shared a lot of information with you, but we're almost done. I have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: For you.\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I have a question for you.",
+    "responses": {
+        "gpt4": "Of course, Ms. Raynier. I'm here to help. What's your question?",
+        "our_model": "Of course, Ms. Raynier. What's your question?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 431,
+    "prompt": "Nurse: That's great to hear. It's important to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: First.\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I I'm not. I stopped taking it.\n\nNurse: That's good to hear. It's critical to avoid those medications unless specifically recommended by your doctor.\n\nPatient: Because I'm aware yeah. I'm I'm aware of the pit studies. So",
+    "responses": {
+        "gpt4": "Yes, it's always crucial to be informed about these things. It seems like you're well prepared. Is there anything else you'd like to discuss about your medications?",
+        "our_model": "That's excellent."
+    }
+}

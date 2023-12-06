@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6000,
+    "prompt": "Nurse: That's fantastic to hear. Taking your medications as prescribed is crucial in managing your conditions. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't think so.\n\nNurse: Alright, if it's okay with you, I'd like to discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to eat lots of salad.\n\nNurse: That's great to hear, salads can be a good source of fiber and various vitamins. Could you tell me more about the types of salads you've been having?\n\nPatient: Own dressing. Italian.\n\nNurse: That's great to hear that you're incorporating salads into your meals. Salads can be a good source of fiber and various vitamins. However, some salad dressings can be high in sodium. Would it be alright if I provide some suggestions on how to make your meals more kidney-friendly?\n\nPatient: Hello?",
+    "responses": {
+        "gpt4": "Hello! I'm here. You mentioned that you've been eating salads with an Italian dressing. That's great! However, some dressings can have high levels of sodium, which isn't ideal for your kidneys. Would it be alright if I offer some suggestions for alternative dressings that might be healthier for you?",
+        "our_model": "Hello, I'm here. I was saying that it's great you're eating salads and I'd like to provide some suggestions on how to make your meals align better with the renal diet. Is that okay?"
+    }
+}

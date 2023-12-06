@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3338,
+    "prompt": "Nurse: Yes, Mr. Winner, even water should not be consumed after midnight before your procedure. This is to ensure your stomach is completely empty for the anesthesia. It's a crucial safety measure. Do you have any other questions about this?\n\nPatient: Know.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I said no.\n\nNurse: Alright, Mr. Winner. I'm glad we could discuss that. I know we've covered a lot of information, but we're almost done. Do you have any questions so far?\n\nPatient: No questions.\n\nNurse: Great, Mr. Winner. I just have a couple more questions for you. Firstly, have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "I'm glad to hear that, Mr. Winner. Your current plan after the procedure is to go home. Is that still your plan?",
+        "our_model": "That's good to hear, Mr. Winner. It's important to be in good health before your procedure. Now, I see that your anticipated discharge plan is to go home after the procedure. Is that still correct?"
+    }
+}

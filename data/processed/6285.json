@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6285,
+    "prompt": "Nurse: That's perfectly fine, Mr. Alves. We all have those days where we just want to wing it in the kitchen. As long as you're enjoying it, that's what matters. Now, let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?\n\nPatient: Very easy prepare, so I don't have to think about it.\n\nNurse: I can appreciate that, Mr. Alves. It's nice to have a meal that's easy to prepare, especially when you're not feeling your best. Now, let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Yes. Of course.\n\nNurse: I see, Mr. Alves. Could you please tell me which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: The medications that I'm taking?\n\nNurse: Yes, Mr. Alves. Could you please share which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: Well,",
+    "responses": {
+        "gpt4": "I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat which supplements or anti-diarrheal medications you're currently taking?",
+        "our_model": "Yes, Mr. Alves. Could you please list the supplements or anti-diarrheal medications you're currently taking?"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "prompt_id": 6115,
+    "prompt": "Nurse: I'm sorry, Jon, could you please repeat your question?\n\nPatient: I'm not really sure why I need insulin.\n\nNurse: Insulin is a hormone that helps regulate the amount of sugar in your bloodstream. In people with diabetes, the body either doesn't make enough insulin or can't use it effectively. Insulin injections, like Lantus, can help control blood sugar levels. Does that help clarify things for you?\n\nPatient: Type two diabetes. I thought it was just for people with type one diabetes.\n\nNurse: That's a common misconception. Insulin is often used to manage both type 1 and type 2 diabetes. In type 2 diabetes, your body may not produce enough insulin or may not use it effectively. Insulin helps regulate your blood sugar levels. Does that help clarify things for you?\n\nPatient: Oh, I guess so.\n\nNurse: I'm glad to hear that. Now, let's move on to the last medication. You're prescribed Aspart 100 IU/mL, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Both types wanting to use insulin then?",
+    "responses": {
+        "gpt4": "Yes, both Type 1 and Type 2 diabetes can involve the use of insulin. In Type 1, the body doesn't produce any insulin at all, so individuals need to inject insulin to manage their blood sugar levels. In Type 2, insulin injections are sometimes needed when other treatments aren't controlling blood sugar levels enough. Does that answer your question?",
+        "our_model": "Yes, that's correct. Both type 1 and type 2 diabetes can be managed with insulin. It helps regulate your blood sugar levels. Do you have any other questions about your medications?"
+    }
+}

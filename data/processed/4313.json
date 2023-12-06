@@ -1,0 +1,8 @@
+{
+    "prompt_id": 4313,
+    "prompt": "Nurse: Wonderful. One way to reduce sodium is to use herbs and spices instead of salt to flavor your food. Another is to choose fresh or frozen vegetables instead of canned ones, as canned vegetables often have added sodium. When you do use canned vegetables, rinsing them before eating can help remove some of the sodium. Does this sound manageable to you?\n\nPatient: Yes. I know.\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Yes. It is.\n\nNurse: That's great to hear. Remember, these changes can really help manage your sodium intake. Now, let's talk about your phosphorus intake. It's recommended that you limit your phosphorus intake to 0.8 grams per day. This can be achieved by limiting foods high in phosphorus, such as dairy products, beans, and nuts. Have you been able to follow this recommendation?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. It's critical to keep your phosphorus levels in check. Now, let's move on to discuss your other chronic conditions. You have Type II Diabetes. How have you been managing your blood sugar levels?\n\nPatient: It's a little bit far away.",
+    "responses": {
+        "gpt4": "I'm sorry I didn't quite understand. Can you please tell me how you have been managing your blood sugar levels?",
+        "our_model": "I'm sorry, I didn't quite understand your response. Could you please tell me how you've been managing your blood sugar levels?"
+    }
+}

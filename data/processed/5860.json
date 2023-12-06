@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5860,
+    "prompt": "Patient: Yes.\n\nNurse: Perfect, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Alves.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Absolutely, Mr. Alves. The address of O'Connor Hospital is 2105 Forest Ave, San Jose, CA 95128. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.",
+    "responses": {
+        "gpt4": "Excellent, Mr. Alves. Let's move on to discuss your medications. I see on your chart that there's no medication that you need to stop before the colonoscopy. However, could you inform me if you're taking any Advil, Aspirin, Aleeve, or other blood thinners that we need to be aware of?",
+        "our_model": "Wonderful, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for the colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
+    }
+}

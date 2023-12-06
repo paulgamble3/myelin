@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2895,
+    "prompt": "Nurse: That's fantastic, Mr. Douglas. Staying consistent with your medication schedule is key to managing your CHF. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Douglas. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Douglas. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Nope.\n\nNurse: I'm glad to hear that, Mr. Douglas. Have you noticed any new or worsening dry cough?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Good to know, Mr. Douglas. What about swelling? Have you noticed increased swelling in your feet, ankles, stomach, or legs?",
+        "our_model": "That's good to hear, Mr. Douglas. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
+    }
+}

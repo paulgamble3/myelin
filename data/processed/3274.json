@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3274,
+    "prompt": "Nurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Just give me a second to work out the best way I can assist you. Thank you for confirming, Patient. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright, let's move on to your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I'm on a low fodmap diet.\n\nNurse: That's great to hear, Patient. Could you share a bit more about what you typically eat in a day?\n\nPatient: What food can I eat?",
+    "responses": {
+        "gpt4": "As part of your dietary plan, it's recommended that you follow a cardiac low sodium diet, a Low-FODMAP diet and a 1.5 Liters Fluid Restriction diet. The cardiac low sodium diet helps to manage your blood pressure and overall cardiac health. The Low-FODMAP diet can help control gastrointestinal symptoms. Finally, the fluid restriction diet is to prevent your body from retaining too much fluid, which can worsen CHF symptoms.\n \nMay I share some specific dietary recommendations for each of these diets?",
+        "our_model": "Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you."
+    }
+}

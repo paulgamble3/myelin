@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2764,
+    "prompt": "Nurse: Yes, I'm here, Mr. Stevens. I was about to discuss the Sodium Limited Diet, which involves limiting your sodium intake to less than 2000 mg per day. Would you like me to provide more details about this diet?\n\nPatient: No. We already talked about it so good.\n\nNurse: I understand, Mr. Stevens. I see that you're familiar with the Sodium Limited Diet. Now, let's discuss the Renal Diet. This diet is designed to help manage your CKD. It involves limiting certain nutrients that can build up in your blood, including sodium, potassium, and phosphorus. Would you like me to go into more detail about this diet?\n\nPatient: What I want to know now\n\nNurse: Of course, Mr. Stevens. I understand that you're familiar with the Sodium Limited Diet. Now, let's discuss the Renal Diet. This diet is designed to help manage your CKD. It involves limiting certain nutrients that can build up in your blood, including sodium, potassium, phosphorus, and protein. Would you like me to go into more detail about this diet?\n\nPatient: Conversations. So\n\nNurse: I'm sorry, Mr. Stevens, could you please repeat your question?\n\nPatient: Yes. I think I'm through with the call. Thank you so much.",
+    "responses": {
+        "gpt4": "You're welcome, Mr. Stevens. I'm glad I could assist you today. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care and have a lovely day!",
+        "our_model": "You're welcome, Mr. Stevens. I appreciate your time and patience. If you have any questions in the future, don't hesitate to reach out. Take care and have a great day! ["
+    }
+}

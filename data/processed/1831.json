@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1831,
+    "prompt": "Nurse: That sounds like a fun and active way to spend your time, Ms. Odonnell. How long have you been taking Zumba classes?\n\nPatient: Just for six months.\n\nNurse: That's wonderful, Ms. Odonnell. It's great to hear that you're staying active. Do you have a favorite song or routine in your Zumba classes?\n\nPatient: I really like our warm up. We always do this really fun.\n\nNurse: That's great to hear, Ms. Odonnell. The warm-up sounds like a fun and energizing part of your Zumba class. Before we\n\nPatient: Match up\n\nNurse: That sounds like a great way to start your class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: of dance songs.",
+    "responses": {
+        "gpt4": "Apologies, Ms. Odonnell, but it appears there was some misunderstanding. Would you mind repeating what you said?",
+        "our_model": "I'm sorry, Ms. Odonnell, could you please repeat that?"
+    }
+}

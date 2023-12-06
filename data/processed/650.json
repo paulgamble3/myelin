@@ -1,0 +1,8 @@
+{
+    "prompt_id": 650,
+    "prompt": "Patient: Hello.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jane Anderson?\n\nPatient: This is Jane Anderson.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: December one nineteen fifty five.\n\nNurse: Thank you for confirming. I hope you're doing well. It must be a relief to be back home after your recent hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Now that I'm home, I'm looking forward to not having to go back to the hospital.",
+    "responses": {
+        "gpt4": "Being at home and focusing on your well-being is indeed a good thing. I'm sure it's much more comfortable than being in the hospital. Do you have any hobbies or activities that you enjoy doing at home? This could be reading, watching television, taking care of a pet, or even gardening. Each of these can contribute to your well-being in different ways.",
+        "our_model": "I can imagine that's a big relief for you. It's always comforting to be in our own space. By the way, do you have any hobbies or interests that you enjoy?"
+    }
+}

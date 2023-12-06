@@ -1,0 +1,8 @@
+{
+    "prompt_id": 1312,
+    "prompt": "Nurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Okay.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: You know, I'm I'm I'm doing pretty well, I guess. Thanks.\n\nNurse: I'm glad to hear that you're doing well. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from the surgery?\n\nPatient: Oh, boy. I sure am looking forward to being out pain and being able to go on my walks again.\n\nNurse: That sounds like a wonderful plan. Walking is a great way to stay active and enjoy the outdoors. Do you have a favorite route or park you're excited to visit once you're back on your feet?\n\nPatient: Hello? Hello?",
+    "responses": {
+        "gpt4": "I'm sorry, could you please repeat that?",
+        "our_model": "Hello, I'm here. I was asking about your favorite place for walks. Do you have a special route or park you're looking forward to visiting once you've recovered from your surgery?"
+    }
+}

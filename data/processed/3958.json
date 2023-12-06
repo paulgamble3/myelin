@@ -1,0 +1,8 @@
+{
+    "prompt_id": 3958,
+    "prompt": "Nurse: I'm sorry, Mr. Dang, I didn't catch your response. Have you been instructed to stop taking Xarelto before your colonoscopy?\n\nPatient: Yes. I was told to stop taking it five days before.\n\nNurse: Thank you for that information, Mr. Dang. It's essential to follow these instructions for your procedure. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Wonderful, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay.\n\nNurse: Excellent, Mr. Dang. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
+    "responses": {
+        "gpt4": "Okay, Mr. Dang. I appreciate your patience as we go through these details. I'd like to talk about your medications now, but I want to pause for a moment. Is it okay to proceed?",
+        "our_model": "Alright, Mr. Dang. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
+    }
+}

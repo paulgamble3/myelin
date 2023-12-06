@@ -1,0 +1,8 @@
+{
+    "prompt_id": 2385,
+    "prompt": "Nurse: Great.\n\nPatient: [NO RESPONSE]\n\nNurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Go on\n\nNurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yeah.",
+    "responses": {
+        "gpt4": "Excellent. After you have scrubbed from the neck down, you'll need to gently rub the solution for about 5 minutes before rinsing it off. Once you have rinsed the solution off, you should pat yourself dry with a clean towel. Are you comfortable with these steps?",
+        "our_model": "Wonderful. After you've scrubbed gently for 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?"
+    }
+}

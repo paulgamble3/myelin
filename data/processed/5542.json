@@ -1,0 +1,8 @@
+{
+    "prompt_id": 5542,
+    "prompt": "Nurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you usually put on your toast?\n\nPatient: Cream cheese.\n\nNurse: Oh, cream cheese sounds like a great topping for your toast, Mr. Alves. It's also a good source of protein. Just remember, this is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. It's good to know that you enjoy your homemade bread and cream cheese. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.\n\nNurse: That's good to hear, Mr. Alves. It's essential to avoid those supplements and medications as they can interfere with your colonoscopy preparation. Do you have any questions about this or is there anything else you'd like to discuss before we move on?\n\nPatient: No. I don't have any questions.",
+    "responses": {
+        "gpt4": "Alright, Mr. Alves. I'd like to move on to the instructions for the clear liquid diet and GoLYTELY laxative solution that you'll need to begin the day before your procedure. This is often the hardest part of the prep. How are you feeling about this part?",
+        "our_model": "Alright, Mr. Alves. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution."
+    }
+}
