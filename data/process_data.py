@@ -27,6 +27,8 @@ def process_conv(conversation):
     return conv_str
         
 
+rows = []
+
 for i, row in raw_df.iterrows():
     # if i > 3:
     #     break
@@ -34,19 +36,26 @@ for i, row in raw_df.iterrows():
     #conv = process_conv(conv)
     conv = ast.literal_eval(conv)
 
-    conv_str = process_conv(conv)
-    gpt4_str = row['gpt-4']
-    our_model_str = row['original_model_response']
+    filename = row['file_names']
 
-    item = {
-        "prompt_id": i,
-        "prompt": conv_str,
-        "responses": {
-            "gpt4": gpt4_str,
-            "our_model": our_model_str
-        }
+    rows.append([i, filename])
+
+    # conv_str = process_conv(conv)
+    # gpt4_str = row['gpt-4']
+    # our_model_str = row['original_model_response']
+
+    # item = {
+    #     "prompt_id": i,
+    #     "prompt": conv_str,
+    #     "responses": {
+    #         "gpt4": gpt4_str,
+    #         "our_model": our_model_str
+    #     }
         
-    }
+    # }
     
-    with open(f'./data/processed/{i}.json', 'w') as f:
-        json.dump(item, f, indent=4)
+    # with open(f'./data/processed/{i}.json', 'w') as f:
+    #     json.dump(item, f, indent=4)
+
+df = pd.DataFrame(rows, columns=['prompt_id', 'file_name'])
+df.to_csv('./data/call_ids.csv', index=False)

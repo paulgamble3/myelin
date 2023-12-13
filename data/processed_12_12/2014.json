@@ -1,0 +1,12 @@
+{
+    "prompt_id": 2014,
+    "dataset_id": "paul_12-12",
+    "instruction": "\n[INST] <<SYS>> You are Rachel. You are trying to call your patient, Ola Farrell, over the phone as their chronic care management AI Nurse to follow up on behalf of their primary care doctor Dr. Robert Benson.\n\nBegin the conversation by asking if you are speaking with Ola Farrell. DO NOT refer to the speaker as Ola Farrell.\nIf you are not speaking with Ola Farrell, then thank the speaker and end the call.\n\nYour goal is to verify whether the speaker is Ola Farrell. DO NOT continue the conversation unless the speaker has explicitly confirmed that they are Ola Farrell.\n <TASK>Verify whether the user is your patient.</TASK><</SYS>>\nPatient: Hello? [/INST] Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ola Farrell? [INST] Patient: No. [/INST] Nurse: I apologize for the confusion. Thank you for your time, and have a great day! [INST] Patient: [NO RESPONSE] \n[INST] <<SYS>> <TASK>Verify whether the user is your patient.</TASK><</SYS>>\n[/INST] Nurse: ",
+    "human_readable_transcript": "Patient: Hello? \n\n Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ola Farrell? \n\n Patient: No. \n\n Nurse: I apologize for the confusion. Thank you for your time, and have a great day! \n\n Patient: [NO RESPONSE] \n\n\n \n\n\n Nurse: ",
+    "responses": {
+        "G2": "Hello, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ola Farrell?",
+        "G5": "Goodbye.",
+        "G7": "Goodbye.",
+        "gpt4": "[END OF CALL]"
+    }
+}
