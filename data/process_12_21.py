@@ -1,7 +1,7 @@
 import pandas as pd    
 import json
 
-jsonObj = pd.read_json(path_or_buf='./data/combined_12_20.jsonl', lines=True)
+jsonObj = pd.read_json(path_or_buf='./data/rag_lab_med_engine_responses_12-20.jsonl', lines=True)
 
 jsonL = jsonObj.to_dict(orient='records')
 
@@ -16,12 +16,15 @@ def replace_between(string, start_substring="<<SYS>>", end_substring="<</SYS>>")
 
 def process_prompt(prompt):
 
-    prompt = prompt[prompt.index("<</SYS>>")+9:]
+    # prompt = prompt[prompt.index("<</SYS>>")+9:]
+    # prompt = prompt.replace("[/INST]", "\n\n")
+    # prompt = prompt.replace("[INST]", "\n\n")
+
+    # while "<<SYS>>" in prompt:
+    #     prompt = replace_between(prompt)
+        
     prompt = prompt.replace("[/INST]", "\n\n")
     prompt = prompt.replace("[INST]", "\n\n")
-
-    while "<<SYS>>" in prompt:
-        prompt = replace_between(prompt)
     
     return prompt
 
