@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4330,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm fine.\n\nNurse: I'm glad to hear that, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: Not really.\n\nNurse: That's okay, Mr. Oliver. Sometimes it's nice to have a quiet week. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. Not really.\n\nNurse: Alright, Mr. Oliver. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Oliver. Let's start with your blood sugar levels. As you have Type II Diabetes, monitoring blood sugar is important. Have you been able to check your blood sugar daily? If so, what was your most recent reading at home?",
-        "our_model": "Okay, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

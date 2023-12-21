@@ -1,8 +1,0 @@
-{
-    "prompt_id": 557,
-    "prompt": "Nurse: Good to hear. And are you taking the Lisinopril 10 mg tablets as prescribed by Doctor Chang?\n\nPatient: Yep. I am.\n\nNurse: That's great. Now, let's briefly discuss your existing medications. Are you still taking Potassium, Metoprolol, and Tylenol as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: Not really, to be honest. I'm I'm a very big routine person. So I do my best to just follow that routine. You know?\n\nNurse: That's fantastic. Sticking to a routine can be very helpful in managing medications. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Thank you. We'll start with shortness of breath. Have you noticed any new or worsening shortness of breath either with activity, laying down, or at rest?",
-        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

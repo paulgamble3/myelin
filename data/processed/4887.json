@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4887,
-    "prompt": "Patient: I buy my groceries from Walmart,\n\nNurse: I see, managing weight can indeed be a challenge.\n\nPatient: I'm wondering if you could make me a shopping list For\n\nPatient: items that are healthy and will help me lose weight.\n\nNurse: I'm glad to hear that you're interested in maintaining a healthy diet. However, as an AI, I'm not able to provide a personalized shopping list. I would recommend speaking with a dietitian or a healthcare professional who can provide you with a detailed plan tailored to your needs and preferences. In the meantime, try to focus on whole foods like fruits, vegetables, lean proteins, and whole grains. Limit processed foods and those high in sugar and sodium. Does that sound doable?\n\nPatient: Yes. That sounds durable. Do you know anything about\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: metamucil",
-    "responses": {
-        "gpt4": "Sure, I can provide some information about Metamucil. Metamucil is a bulk-forming fiber supplement that aids in maintaining healthy bowel movements and can help lower cholesterol levels. It's made from psyllium husk, a type of fiber that absorbs water in your gut, leading to softer, larger stools, which makes them easier to pass. It can also help you feel fuller and so may assist in weight management. However, it's important to remember that any supplement should be used in conjunction with a balanced diet and regular exercise. Always consult your healthcare provider before starting any new supplement.",
-        "our_model": "Yes, Metamucil is a brand of fiber supplement that contains psyllium husk."
-    }
-}

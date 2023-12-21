@@ -1,8 +1,0 @@
-{
-    "prompt_id": 318,
-    "prompt": "Patient: Done.\n\nPatient: And Priya to nine is\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: And what what do I mean and what\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I wanna know what done in creatinine is\n\nNurse: Done and creatinine are both substances found in your blood. When your kidneys are working well, they filter out these substances.\n\nPatient: And what does that mean? And what if they're what are they what's the high",
-    "responses": {
-        "gpt4": "Done and creatinine are both substances found in your blood. Your kidneys usually filter these substances out of your blood. When the kidney function reduces, more of these substances will remain in the blood, which can be a sign of kidney disease. Is there anything else you would like to know?",
-        "our_model": "I see. You're asking about BUN and Creatinine. BUN stands for Blood Urea Nitrogen."
-    }
-}

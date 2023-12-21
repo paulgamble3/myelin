@@ -1,8 +1,0 @@
-{
-    "prompt_id": 700,
-    "prompt": "Nurse: That's great! Walking is a\n\nPatient: That's about all I can do right now. Is locked.\n\nNurse: Walking\n\nPatient: And I'm walking.\n\nNurse: is a That's great. Walking is a wonderful form of exercise. How often and for how long do you walk?\n\nPatient: Daily?\n\nNurse: I'm sorry, I didn't quite catch that. Could you please tell me how long you walk for each day?\n\nPatient: For at least fifteen to twenty minutes.",
-    "responses": {
-        "gpt4": "I apologize for the confusion earlier. Could you please tell me how many minutes you walk each day?",
-        "our_model": "That's excellent. Walking daily for 15 to 20 minutes is a good way to stay active. If it's okay with you, I'd like to provide some suggestions about improving your exercise routine in a CHF appropriate manner. Would that be alright?"
-    }
-}

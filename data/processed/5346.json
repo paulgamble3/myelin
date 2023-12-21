@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5346,
-    "prompt": "Nurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you. I apologize for the confusion, Mr. Gardner. Thank you for confirming. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I've been managing my CHF for a long time.\n\nNurse: I see, Mr. Gardner. It's great that you're familiar with managing your CHF. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: One moment, please.\n\nNurse: Of course, Mr. Gardner. Take your time. I'm interested in hearing about what you've been eating recently. [\n\nPatient: Yeah. Sorry. I had to yell at my goldfish Yes. Catcher's been trying to eat pretty healthy.\n\nNurse: It sounds like you're making an effort to eat healthily, Mr. Gardner. That's great. Can you share a bit more about what you typically eat in a day?\n\nPatient: I try to eat a lot of salad and fruits and vegetables?",
-    "responses": {
-        "gpt4": "That sounds like a good start, Mr. Gardner. Your diet seems to be high in nutrient-rich foods. How about your fluid intake? Do you keep track of how much you're drinking throughout the day?",
-        "our_model": "That's wonderful, Mr. Gardner. Salads, fruits, and vegetables are excellent choices. Can you tell me more about the types of dressings or seasonings you use on your salads?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1104,
-    "prompt": "Patient: anxious even be thinking about what I'll do after. Because I'm I'm very afraid that I'm gonna be in like, a lot of pain after the procedure is over.\n\nNurse: I see, it's completely normal to feel anxious before a procedure, especially when you've been experiencing pain. Rest assured, your surgeon, Doctor Cristina Stevens, is highly experienced and has performed over 1000 total knee replacements. The procedure has a high success rate and is designed to relieve the pain you're currently experiencing. How are you feeling about the procedure overall?\n\nPatient: Like I said, just just a little anxious about it.\n\nNurse: It's completely normal to feel anxious, especially when it's about a procedure like a total knee replacement. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: I guess,\n\nPatient: I guess not.\n\nNurse: That's perfectly fine.\n\nPatient: Now?",
-    "responses": {
-        "gpt4": "Yes, we can proceed with the conversation. Can you tell me how you've been preparing for the procedure?",
-        "our_model": "That's perfectly fine. Remember, you can ask me questions at any time during our conversation. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?"
-    }
-}

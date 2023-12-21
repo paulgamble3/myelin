@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5333,
-    "prompt": "Nurse: Alright, Mr. Gardner. Let's start with your new medication. Have you been able to pick up your Lasix 20 mg oral tablets from the pharmacy?\n\nPatient: Yep.\n\nNurse: Okay, Mr. Gardner. And how have you been taking your Lasix 20 mg tablets?\n\nPatient: I'm sorry. I'm not sure I understand the question.\n\nNurse: I apologize if I wasn't clear, Mr. Gardner. I'm asking if you've been taking your Lasix 20 mg tablets two times a day as prescribed by your doctor. [\n\nPatient: Oh, yes.\n\nNurse: That's great to hear, Mr. Gardner. Now, let's talk about your existing medication. Are you still taking your Valsartan?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're keeping up with your Valsartan, Mr. Gardner. It can sometimes be tricky to stay on top of taking medications. Just out of curiosity, do you ever find it challenging to remember to take your medications at the correct times each day?",
-        "our_model": "That's good to hear, Mr. Gardner. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
-    }
-}

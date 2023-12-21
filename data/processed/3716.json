@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3716,
-    "prompt": "Nurse: Excellent. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That's\n\nNurse: Great.\n\nPatient: deals to place\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said that's still the plan.\n\nNurse: Thank you for confirming that. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Uh-huh.",
-    "responses": {
-        "gpt4": "Perfect. It's important to have someone with you for at least the first 24 hours after you're discharged. Do you have any questions about your discharge plan?",
-        "our_model": "That's great to hear. It's critical to have someone to assist you after the procedure. If there's ever a change in your plans, please let us know. Now, do you have any other questions or concerns before we wrap up our call?"
-    }
-}

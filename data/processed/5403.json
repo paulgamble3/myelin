@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5403,
-    "prompt": "Nurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling very calm. Thank you for asking.\n\nNurse: I'm glad to hear that you're feeling calm, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to playing with my dog and watching some movies.\n\nNurse: That sounds like a lovely plan, Mr. Hardy. What kind of movies do you enjoy watching?\n\nPatient: Well, given that, it's almost Christmas. I'm really in the holiday. Serious. They wanna watch movies like, home alone.\n\nNurse: That's wonderful, Mr. Hardy. Home Alone is a classic holiday movie. Do you have a favorite scene or moment from the movie?\n\nPatient: I like when Joe said she had just called on fire.",
-    "responses": {
-        "gpt4": "Ah, that's a memorable scene indeed. It's always fun to watch familiar movies and look forward to favorite parts. Before continuing, I wanted to ask if there are any health symptoms you've been concerned about recently?",
-        "our_model": "That's a memorable scene indeed, Mr. Hardy. It's always fun to watch those classic holiday movies. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

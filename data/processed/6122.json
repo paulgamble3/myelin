@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6122,
-    "prompt": "Nurse: Of course, what's your question about Metoprolol?\n\nPatient: Range between\n\nNurse: I'm sorry, Jon, could you please repeat your question about Metoprolol?\n\nPatient: metoprolol ER and regular metoprolol. Which I used to take.\n\nNurse: Metoprolol ER, which you're currently taking, is an extended-release version of metoprolol. It's designed to release the medication slowly into your body over time. Regular metoprolol, on the other hand, is released into your body more quickly. Your doctor likely switched you to Metoprolol ER to provide a more consistent level of the medication in your body. Does that answer your question?\n\nPatient: Yes.\n\nNurse: I'm glad I could help clarify that for you. Now, let's move on to discussing your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I don't know. I mean, it's really confusing. I don't know",
-    "responses": {
-        "gpt4": "What makes the diet confusing for you?",
-        "our_model": "I understand that managing diet can sometimes feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?"
-    }
-}

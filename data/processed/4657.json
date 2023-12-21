@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4657,
-    "prompt": "Nurse: I understand, Mr. Amador. I need to ask these questions for our records. Does the blood in your stool appear to be bright red, or is it more of a dark, tarry color?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Amador. Do you experience any abdominal pain along with the bloody stool?\n\nPatient: No.\n\nNurse: Do you have a hemorrhoid or a lump at your rectum, or have you noticed any red streaks on your stool, Mr. Amador?\n\nPatient: No.\n\nNurse: Do you have any cuts or open wounds near your rectum, Mr. Amador?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Do you have any abdominal pain or discomfort, Mr. Amador?",
-        "our_model": "Is there any more information you would like to share about this issue, Mr. Amador?"
-    }
-}

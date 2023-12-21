@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6059,
-    "prompt": "Nurse: That's okay, Mr. Koroleva. You still have time to figure it out. But you will indeed need to get someone to be on standby to come pick you up when the hospital calls. Do you have any questions about this?\n\nPatient: Can I just drive my cell phone?\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: Can't I just drive my self home?\n\nNurse: I'm sorry, Mr. Koroleva, but it's not safe for you to drive yourself home after the procedure. The sedation used during the colonoscopy can make you drowsy and it's important to have someone else drive you home. Do you have a friend or family member who could help with this?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Koroleva. You still have time to figure it out. It's important to have someone available to drive you home after the procedure. Do you have any other questions or concerns?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Koroleva. That was all the topics for today. But before we end this call, do you have any other questions or concerns you'd like to discuss?",
-        "our_model": "Alright, Mr. Koroleva. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

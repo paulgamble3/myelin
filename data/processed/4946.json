@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4946,
-    "prompt": "Nurse: Hello. Is there something you'd like to share or a question you have at the moment?\n\nPatient: Do have a a\n\nNurse: I'm sorry, Mr. Hooper, your voice cut out a bit there. Could you please repeat your question or concern?\n\nPatient: question about congestive heart failure. If this is something I read a\n\nNurse: Of course, Mr. Hooper. Congestive Heart Failure, or CHF, is a condition where the heart doesn't pump blood as well as it should. This can lead to a buildup of fluid in the body, which can cause symptoms like shortness of breath, fatigue, and swelling in the legs and ankles. It's important to manage\n\nPatient: about. If it can be managed with with\n\nNurse: this condition I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?\n\nPatient: dietary supplements or alternative therapies. I think it was",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Hooper, your voice seemed to go in and out a bit there. I think you were asking about managing congestive heart failure with dietary supplements or alternative therapies - is that correct?",
-        "our_model": "I'm sorry, Mr. Hooper, I didn't quite catch that last part. Could you please repeat your question?"
-    }
-}

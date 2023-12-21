@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2184,
-    "prompt": "Patient: Alright. Nope.\n\nNurse: That's good to hear. These medications typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure.\n\nPatient: Well,\n\nNurse: I'm glad to hear that.\n\nPatient: I went aleve with that one.\n\nNurse: I see. It's critical to note that medications like Aleve typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make sure to pass this information along to your healthcare team. Are you taking any other medications that we should be aware of?\n\nPatient: Alright. So\n\nPatient: Five and all. Five and all. Is that one?",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat that?",
-        "our_model": "Yes, Aleve is a type of medication that typically needs to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make a note of this. Are you still taking it currently?"
-    }
-}

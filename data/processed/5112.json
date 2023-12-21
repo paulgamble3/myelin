@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5112,
-    "prompt": "Nurse: Alright, if any questions come up later, don't hesitate to ask. I'm here to help. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes. I'm ready.\n\nNurse: Excellent. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Are you clear on this?\n\nPatient: Yes.\n\nNurse: Excellent. Do you have any questions about your Tylenol medication or any concerns about how it might interact with your upcoming procedure?\n\nPatient: No. I don't.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "That's perfectly fine. If you're taking any other medications like Advil, Aspirin, Aleve, or other blood thinners, you typically need to stop them before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about this?",
-        "our_model": "Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

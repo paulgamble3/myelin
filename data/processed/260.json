@@ -1,8 +1,0 @@
-{
-    "prompt_id": 260,
-    "prompt": "Nurse: Alright, Mr. O'Leary. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: Just the aspirin, but I'm gonna stop taking it now.\n\nNurse: That's a good decision, Mr. O'Leary. Stopping the Aspirin now will help prepare you for your surgery. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Rachel?",
-    "responses": {
-        "gpt4": "Yes, Mr. O'Leary, I'm here. You were prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?",
-        "our_model": "I'm sorry, Mr. O'Leary, could you please confirm what you just said?"
-    }
-}

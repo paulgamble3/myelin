@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4343,
-    "prompt": "Patient: I never said that.\n\nNurse: I apologize for the confusion, Mr. Oliver. I'm going to ask a few questions to better understand your current health status. Do you report sudden arm or leg weakness?\n\nPatient: No.\n\nNurse: Thank you for your response, Mr. Oliver. Do you report numbness on your arms or legs?\n\nPatient: No.\n\nNurse: Give me a moment to check how I can best support you.\n\nNurse: Thank you for letting me know, Mr. Oliver. Do you have any difficulty in speaking or understanding others?\n\nPatient: No. Not at all.",
-    "responses": {
-        "gpt4": "Excellent, that's good news, Mr. Oliver. It was essential to check all possibilities since safety comes first. Moving forward, when did you last measure your blood pressure? It's another important factor to monitor along with blood sugar.",
-        "our_model": "Thank you for sharing that, Mr. Oliver. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3738,
-    "prompt": "Patient: She's away at school, so not very often.\n\nNurse: I see, so these visits must be quite special. What do you usually enjoy doing together when she's home?\n\nPatient: We like to get that old friend who cooked together.\n\nNurse: That sounds like a wonderful way to spend time together, Ms. Odonnell. Cooking can be a great way to relax and enjoy each other's company. Do you have a favorite dish that you like to prepare together?\n\nPatient: And\n\nPatient: well.\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please tell me again what your favorite dish to prepare together is?\n\nPatient: We we like to make cookies.",
-    "responses": {
-        "gpt4": "That sounds lovely, Ms. Odonnell. Baking cookies together is a wonderful activity. It gives you something enjoyable to do and also results in a delicious treat. I hope you have a wonderful visit with your daughter.",
-        "our_model": "Cookies are always a delight, Ms. Odonnell. It's a lovely way to share a sweet moment with your daughter. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?"
-    }
-}

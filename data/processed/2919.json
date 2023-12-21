@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2919,
-    "prompt": "Nurse: I'm glad to hear you're feeling good, Ms. McKloskey. It's exciting to think about getting back to a normal life. With your new knee, is there something specific you're looking forward to doing that you couldn't do before?\n\nPatient: Oh, just going for a walk. Without pain.\n\nNurse: That sounds wonderful, Ms. McKloskey. Walking without pain can truly make a difference in one's daily life. It's a simple pleasure that we often take for granted. How are you feeling about your upcoming procedure?\n\nPatient: Oh, like I said, I'm\n\nNurse: I'm sorry, Ms. McKloskey, your voice cut out a bit there. Could you please repeat what you were saying about your upcoming procedure?\n\nPatient: looking forward to it just to get it done.\n\nNurse: It's great to hear that you're feeling positive about your upcoming procedure, Ms. McKloskey. Before we delve into the details, do you have any questions or concerns you'd like to discuss?\n\nPatient: No. Not really.",
-    "responses": {
-        "gpt4": "Alright, thank you for sharing, Ms. McKloskey. Let me assure you that we can discuss anything that comes to mind as we go through our conversation today. I'm calling to make sure you're well-prepared for your total knee replacement. Can we review a few topics related to your procedure?",
-        "our_model": "Alright, Ms. McKloskey. If you do have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have everything you"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1529,
-    "prompt": "Nurse: Of course, Mr. Moran. I appreciate your time. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I I told you, no small talk. I just wanna get on with the medical stuff.\n\nNurse: Absolutely, Mr. Moran. I apologize for any misunderstanding. Let's focus on the medical aspects of your upcoming procedure. How are you feeling about your total knee replacement?\n\nPatient: I'm worried about it. I\n\nNurse: I'm sorry to hear that you're feeling worried, Mr. Moran.\n\nPatient: I don't know anything about it.\n\nNurse: I appreciate your honesty, Mr. Moran. It's completely normal to have concerns before a procedure. Do you have any specific questions or concerns you'd like to discuss before we go over the details?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Moran. You can feel free to ask questions anytime during our conversation. I am here to help clarify any concerns you have. I'm calling today to ensure that you have everything you need and clear up any details that might be causing you worry. Is it okay if we review a few topics together?",
-        "our_model": "Alright, Mr. Moran. If you have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have all the information you need. Is it okay if we review a few topics related to your upcoming procedure?"
-    }
-}

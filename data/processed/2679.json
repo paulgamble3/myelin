@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2679,
-    "prompt": "Nurse: I'm sorry, Ms. Cruz, your response [\n\nPatient: this coming week. Today is Monday.\n\nNurse: I understand, Ms. Cruz. This coming week, you might consider starting with a short walk after one meal each day. As you feel comfortable, you could gradually increase to two meals per day. Remember, it's important to listen to your body and not push yourself too hard. Does that sound manageable to you?\n\nPatient: What would you say would be a good start this week? With walking.\n\nNurse: That's a That's a great question, Ms. Cruz. For this week, you might start with a short walk of 5 minutes after each meal. If you feel comfortable, you could gradually increase this to 10 minutes by the end of the week. Remember, it's important to listen to your body and not push yourself too hard. Does that sound like a good plan to you?\n\nPatient: So you suggest to walk after eating?\n\nNurse: Yes, Ms. Cruz. Walking after eating can help with digestion and blood sugar control. It's a good way to incorporate more activity into your day. Do you have any concerns about doing this?\n\nPatient: No. Let's",
-    "responses": {
-        "gpt4": "Great! I'm glad to hear that you're open to this, Ms. Cruz. Just remember to listen to your body and not to push yourself too hard. Gradually increasing your activity level should help improve your health in a CHF appropriate way. Is it acceptable for me to proceed to the closing of our call?",
-        "our_model": "That's great to hear, Ms. Cruz. I understand that adjusting diet and exercise can be hard. Do you have any other questions or concerns about what we've discussed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5928,
-    "prompt": "Nurse: mg tablet. Have you been able to take this correct dosage?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss Lantus. You should be taking 15 units every night at bedtime. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Aspart. You should be taking 5 units three times a day. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating a lot of steamed vegetables, a lot of yogurt,",
-    "responses": {
-        "gpt4": "That sounds wholesome, and I'm pleased to hear that you're including lots of steamed vegetables and yogurt in your diet. These are excellent food choices for your kidney health. Would you mind telling me more about the kind of protein you've been consuming?",
-        "our_model": "That sounds like a good start. Steamed vegetables and yogurt can be part of a healthy diet. Can you tell me more about the types of vegetables you're eating and if"
-    }
-}

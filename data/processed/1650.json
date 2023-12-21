@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1650,
-    "prompt": "Nurse: Great. I see from your records that you have hypertension. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Do you mean high blood pressure. I have high blood pressure.\n\nNurse: Yes, hypertension is another term for high blood pressure. I apologize if that was confusing. Could you tell me when you last checked your blood pressure and what the reading was?\n\nPatient: Yeah. I checked it just this morning, and it was one fifth team over seventy?\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your blood pressure reading?\n\nPatient: One fifteen over seventy.\n\nNurse: Thank you for repeating that. A blood pressure reading of 115 over 70 is within the normal range, which is good news. It's important to keep monitoring it regularly. Do you have any questions about managing your blood pressure?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, we can move on to the next topic then. We have you on a medication regimen for your kidney disease. Can you tell me how that's been going? Have you been taking your medication as prescribed without any issues?",
-        "our_model": "Alright. If you ever have any questions or concerns about your blood pressure, don't hesitate to ask. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 338,
-    "prompt": "Nurse: That's great to hear. The DASH diet is a good choice for managing your conditions. Can you tell me a bit more about what you typically eat in a day?\n\nPatient: But I'm doing, like, low salt stuff online\n\nNurse: That's excellent. The DASH diet and a low-salt diet are both beneficial for managing your conditions. Can you share some examples of meals you've had recently?\n\nPatient: god. Oh my god. Oh my god.\n\nNurse: I'm sorry, Damian, you were saying something?\n\nPatient: I'm not I'm talking Rachel, I'm not done talking\n\nNurse: I apologize for interrupting. Please continue. You were saying you're doing low salt stuff online?\n\nPatient: No. I said I'm trying my best",
-    "responses": {
-        "gpt4": "That's great to hear. It's important to try to stick to a kidney-friendly diet. Can you share more about what type of meals you usually have?",
-        "our_model": "I see. That's commendable."
-    }
-}

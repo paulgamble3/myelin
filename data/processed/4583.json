@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4583,
-    "prompt": "Patient: Can I\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: practice to prevent going on dialysis?\n\nNurse: That's a very important question, Mr. Peck. Maintaining a healthy lifestyle can indeed help manage your kidney disease and potentially delay the progression to dialysis. Would you like me to share some suggestions on this topic?\n\nPatient: Okay.\n\nNurse: Okay, Mr. Peck. One of the key factors is maintaining a healthy diet. This includes limiting sodium and protein intake, as well as staying hydrated. It's also important to control your blood sugar levels, especially since you have Type II Diabetes. This can be achieved by taking your prescribed medications regularly and monitoring your blood sugar levels daily. How have you been managing your blood sugar levels?\n\nPatient: I've been doing my best. I took my\n\nPatient: level this morning, it was one forty eight.",
-    "responses": {
-        "gpt4": "I appreciate your effort in keeping up with your health management, Mr. Peck. A blood sugar level of 148 is a bit higher than optimal. If it's okay with you, I can share some strategies to help lower blood sugar levels?",
-        "our_model": "Thank you for sharing that, Mr. Peck. It's great that you're monitoring your blood sugar levels. However, a reading of 148 is a bit high. Would you be open to some suggestions on how to manage your blood sugar levels?"
-    }
-}

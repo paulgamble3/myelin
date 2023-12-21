@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1649,
-    "prompt": "Nurse: I'm glad to hear that you're feeling well. If you ever have any concerns or questions, feel free to bring them up at any time. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure. That would be fine.\n\nNurse: Great. I see from your records that you have hypertension. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Do you mean high blood pressure. I have high blood pressure.\n\nNurse: Yes, hypertension is another term for high blood pressure. I apologize if that was confusing. Could you tell me when you last checked your blood pressure and what the reading was?\n\nPatient: Yeah. I checked it just this morning, and it was one fifth team over seventy?\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your blood pressure reading?\n\nPatient: One fifteen over seventy.",
-    "responses": {
-        "gpt4": "Thank you for clarifying. That's a good reading. The goal for most people with hypertension is a reading below 120/80. So, you're doing quite well. Have you been taking your medication regularly?",
-        "our_model": "Thank you for repeating that. A blood pressure reading of 115 over 70 is within the normal range, which is good news. It's important to keep monitoring it regularly. Do you have any questions about managing your blood pressure?"
-    }
-}

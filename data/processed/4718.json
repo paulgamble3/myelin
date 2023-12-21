@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4718,
-    "prompt": "Nurse: Thank you for confirming that. Now, let's discuss your Hydrochlorothiazide. Have you been able to pick up your Hydrochlorothiazide 50 mg oral tablets from the pharmacy?\n\nPatient: Yes.\n\nNurse: That's good to hear. Just to confirm, you're taking 50 mg of Hydrochlorothiazide two times a day, correct?\n\nPatient: Correct.\n\nNurse: Great, thank you for confirming that. Now, are you still taking your Metformin?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear. It's critical to keep up with your medications. I understand that it can be challenging to remember to take them sometimes. Do you ever have trouble taking your medication on time?\n\nPatient: No. I'm very good about taking my medicines on time.",
-    "responses": {
-        "gpt4": "That's really great to hear, Audrey. Consistently taking your medications as prescribed is an important part of managing your conditions. Let's now talk about your symptoms. I'd like to ask you a few questions about your symptoms to help us better understand how you're doing at home. Is that okay with you?",
-        "our_model": "That's excellent. Staying on top of your medication is a key part of managing your condition. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

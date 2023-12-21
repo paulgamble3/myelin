@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2934,
-    "prompt": "Nurse: times a That's good to hear, Ms. McKloskey. It's important to avoid certain medications before surgery. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: No. I am not taking any other prescriptions.\n\nNurse: I apologize for any confusion, Ms. McKloskey. To clarify, you're currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. This means you can take up to 1000 mg at a time, but you don't have to if you don't need to. The maximum you should take in a day is 3000 mg. Have you been taking the full 1000 mg each time?\n\nPatient: I have.\n\nNurse: Thank you for confirming that you've been taking your Tylenol as prescribed, Ms. McKloskey. It's good to hear that you're managing your pain effectively. Now, I'd like to discuss the Oxycodone that's been prescribed for after your procedure. Have you picked it up from the pharmacy yet?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Ms. McKloskey. It's essential to manage your pain effectively. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Yes, I'm here, Ms. McKloskey. I was asking if you are taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?",
-        "our_model": "Yes, I'm here, Ms. McKloskey. Thank you for confirming that you've been taking your Tylenol as prescribed. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

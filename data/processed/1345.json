@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1345,
-    "prompt": "Nurse: I apologize for any confusion. I was referring to your current medication, Tylenol 500 mg. You can take this as needed for pain, up to three times a day. Have you picked up this prescription yet?\n\nPatient: Yes. We talked about that.\n\nNurse: I apologize for the repetition. I'm glad to hear you've picked up your Tylenol prescription. Do you have any questions about your medications?\n\nPatient: No. I I don't think so.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub for this purpose?\n\nPatient: What?\n\nNurse: a chlorhexidine scrub?\n\nPatient: Hello? Hello? Hello? Hello?",
-    "responses": {
-        "gpt4": "Yes, I'm here. Have you purchased a chlorhexidine scrub for skin preparation before your surgery? This helps to reduce the risk of infection.",
-        "our_model": "Yes, I'm here. I was asking if you've already purchased a chlorhexidine scrub. This is a special scrub that helps prepare your skin for surgery and reduce the risk of infection. It's available at most pharmacies over the counter. Have you picked one up yet?"
-    }
-}

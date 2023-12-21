@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6202,
-    "prompt": "Nurse: That sounds like a good idea. Having some familiar items with you can make the hospital stay more comfortable. What kind of things are you planning to take?\n\nPatient: bring me some comfort.\n\nNurse: That sounds like a great idea. Having familiar comforts can make a big difference during your stay. What kind of things are you packing?\n\nPatient: I've got a\n\nNurse: I'm sorry, Simone, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: some\n\nNurse: I'm sorry, Simone, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: like, a scented candle. I'm not gonna like the candle, of course, but it has a nice aroma",
-    "responses": {
-        "gpt4": "That sounds like a lovely idea, Simone. A comforting aroma can be very soothing. Do you have a certain scent that relaxes you?",
-        "our_model": "That sounds lovely, scents can indeed bring a lot of comfort. What scent did you choose?"
-    }
-}

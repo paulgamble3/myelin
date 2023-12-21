@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2824,
-    "prompt": "Nurse: I appreciate your directness. I'm here to help you prepare for your colonoscopy and answer any questions you might have. How are you feeling about the procedure?\n\nPatient: Fine, I guess.\n\nNurse: I'm glad to hear that. It's normal to have some feelings about a procedure like this. Is there anything specific you'd like to discuss before we go over some details about the colonoscopy?\n\nPatient: No.\n\nNurse: Alright, please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to pus and mucus in your stool. I know it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yeah. Fine.",
-    "responses": {
-        "gpt4": "Great, I appreciate your cooperation. Today's call is to make sure you have all the information you need. And remember, I'll be calling you again the day before your procedure. So the first thing we should talk about is your prescribed medication, Xarelto 10mg, you're taking once a day. Do you have enough supply to last until the day of your procedure?",
-        "our_model": "Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Let's start with the first topic. Are you aware of the dietary restrictions you need to follow before your colonoscopy?"
-    }
-}

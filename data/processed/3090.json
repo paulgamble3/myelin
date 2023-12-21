@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3090,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Quincy Snow?\n\nPatient: Yeah. That's me.",
-    "responses": {
-        "gpt4": "Great. Hello Quincy! I'm calling on behalf of Dr. Phil Steele. Before we discuss some health updates, I'd like to ask about how you're settling back home?",
-        "our_model": "Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?"
-    }
-}

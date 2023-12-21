@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3816,
-    "prompt": "Nurse: I'm sorry, Mr. Hardy, could you please repeat what you're looking forward to this weekend?\n\nPatient: Hanging out.\n\nNurse: That sounds like a nice plan, Mr. Hardy. Do you usually spend your weekends at home or do you have any favorite places you like to visit?\n\nPatient: It depends, but I'll be home this weekend.\n\nNurse: That's great, Mr. Hardy. Spending time at home can be very relaxing. Do you have any hobbies or activities you enjoy doing at home?\n\nPatient: I love to read.\n\nNurse: Reading is a wonderful hobby, Mr. Hardy. What kind of books do you enjoy?\n\nPatient: All sorts.",
-    "responses": {
-        "gpt4": "That's great! It's always nice to have a diverse taste in books. Would you like any book recommendations?",
-        "our_model": "That's fantastic, Mr. Hardy. Reading a variety of books can be very enriching. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?"
-    }
-}

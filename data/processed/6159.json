@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6159,
-    "prompt": "Patient: have been experiencing abdominal pain\n\nNurse: I see, Mr. Dang. Could you please tell me when your abdominal pain started?\n\nPatient: It a few months ago.\n\nNurse: I'm sorry to hear that, Mr. Dang. Could you please describe your abdominal pain as generalized or localized?\n\nPatient: I'd say it's generalized\n\nNurse: On a scale of 0 to 10, with 10 being the worst pain you can imagine, how would you rate your abdominal pain?\n\nPatient: It ranges\n\nPatient: from",
-    "responses": {
-        "gpt4": "I understand that, Mr. Dang. Can you tell me more about the range? What's the lowest and highest it's been?",
-        "our_model": "I'm sorry, Mr. Dang, could you please specify the range of your pain on a scale of 0 to 10?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1597,
-    "prompt": "Patient: [NO RESPONSE] I said I like a nice\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nPatient: by getch with butter or breeze.\n\nNurse: When did the change in speech start?\n\nPatient: Under under\n\nPatient: standing me.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Have you lost your mind?",
-    "responses": {
-        "gpt4": "Have you noticed any facial drooping or uneven smile?",
-        "our_model": "Does the patient report numbness on their arms or legs?"
-    }
-}

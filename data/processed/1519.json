@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1519,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. If you have any questions later, feel free to ask. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No questions.\n\nNurse: Wonderful, Mr. Valenzuela. I'm glad to hear that you're clear on this. If you have any questions later, feel free to ask. Now, I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. If you have any questions later, feel free to ask. Now, I'd like to ask if you've been experiencing any signs of illness. Have you had any fever, chills, or muscle aches recently?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Valenzuela. It's so important to plan this ahead of time. Now, we're nearing the end of our conversation for today. Do you have any other questions or concerns about your colonoscopy that you would like to discuss?",
-        "our_model": "That's great to hear, Mr. Valenzuela. It's critical to have someone available to take you home after the procedure. If there's anything else you need to discuss or any questions you have, feel free to ask. ["
-    }
-}

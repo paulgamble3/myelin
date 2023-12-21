@@ -1,8 +1,0 @@
-{
-    "prompt_id": 310,
-    "prompt": "Nurse: You're correct. A blood sugar level of 120 mg/dL is slightly above the normal range, but it's not too high. However, it's important to monitor it regularly to ensure it doesn't increase. Can we discuss your blood pressure next?\n\nPatient: Fine.\n\nNurse: Okay. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yeah. Took it\n\nNurse: I'm sorry, Damian, your response got cut off.\n\nPatient: today, and it was\n\nNurse: I'm sorry, you were saying?\n\nPatient: ninety over one twenty.",
-    "responses": {
-        "gpt4": "Thank you for sharing that. A blood pressure reading of 90 over 120 is slightly elevated. Keeping your blood pressure under control is crucial for managing chronic kidney disease and hypertension. Would it be alright if I shared some suggestions on measures that could help manage your blood pressure?",
-        "our_model": "Thank you for that information. A blood pressure reading of 90 over 120 is within the acceptable range, but the lower number is a bit high. It's important to keep monitoring it. Would it be okay if I share some suggestions on how to manage your blood pressure?"
-    }
-}

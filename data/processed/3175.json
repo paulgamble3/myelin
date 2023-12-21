@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3175,
-    "prompt": "Nurse: That's good to hear. I'm here today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: I'm just wondering, you know, because I do have\n\nNurse: Absolutely, it's important to address all your concerns. You were saying you have a question about your current condition. Please, go ahead and ask. [\n\nPatient: I do have arthritis.\n\nNurse: I see, you're wondering about how your arthritis might affect the procedure or the recovery process. That's a valid concern. If it's okay with you, I'd like to review a few topics related to\n\nPatient: And my friend\n\nNurse: your upcoming I see, you're wondering about how your arthritis might affect your recovery process. That's a valid concern. Rest assured, your surgeon, Doctor Cristina Stevens, is highly experienced and has successfully performed over 1000 total knee replacements. She'll take your arthritis into account when planning your surgery and recovery. If it's okay with you, I'd like to review a few topics to ensure you have everything you need for\n\nPatient: Keep sending me",
-    "responses": {
-        "gpt4": "I'm sorry, it seems like there was an interruption. You mentioned that your friend keeps sending you something. Could you please clarify what that is so I can better assist you?",
-        "our_model": "I see, it's completely normal to have questions, especially when it comes to conditions like arthritis. I'm here to help answer any questions you have. What seems to be your main concern about your arthritis and the upcoming procedure?"
-    }
-}

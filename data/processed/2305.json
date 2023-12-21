@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2305,
-    "prompt": "Nurse: Great, thank you for your time, Mr. Kageyama. How has your day been so far?\n\nPatient: I'm having a good day. Thank you.\n\nNurse: I'm glad to hear that, Mr. Kageyama. Do you have any special plans for the day?\n\nPatient: No. I'm just gonna relax and watch TV.\n\nNurse: Relaxation sounds like a good plan, Mr. Kageyama. What kind of shows do you enjoy watching?\n\nPatient: Tommy's.\n\nNurse: I'm sorry, Mr. Kageyama, I didn't quite catch that. Could you please repeat the name of the show you enjoy watching?\n\nPatient: Steinfeld.",
-    "responses": {
-        "gpt4": "Oh, \"Seinfeld\"! That's a classic show. Thanks for sharing that with me. Let's now talk about your upcoming colonoscopy. Are you clear about the prep instructions?",
-        "our_model": "Ah, \"Steinfeld\". It's always nice to have a show that you enjoy. How did you come to start watching it?"
-    }
-}

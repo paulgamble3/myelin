@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4710,
-    "prompt": "Nurse: Has the patient ever planned or prepared to end their life?\n\nPatient: Why are you saying these things to me?\n\nNurse: I'm sorry if this seems abrupt, but it's part of a standard procedure to ensure your well-being. Have you ever planned or prepared to end your life?\n\nPatient: No.\n\nNurse: Does the patient have any more information they want to share about this issue?\n\nPatient: I'm trying to talk to you about my recent\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: CHF diagnosis.",
-    "responses": {
-        "gpt4": "Does the patient have a history of suicide attempts in the past?",
-        "our_model": "I appreciate your patience. Does the patient have any more information they want to share about this issue?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4945,
-    "prompt": "Nurse: \"Inglourious Basterds\" is indeed a fantastic film. It's always a treat to re-watch a favorite movie. I'm calling on behalf of Doctor Trevor Sutton today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Hi.\n\nNurse: Hello. Is there something you'd like to share or a question you have at the moment?\n\nPatient: Do have a a\n\nNurse: I'm sorry, Mr. Hooper, your voice cut out a bit there. Could you please repeat your question or concern?\n\nPatient: question about congestive heart failure. If this is something I read a\n\nNurse: Of course, Mr. Hooper. Congestive Heart Failure, or CHF, is a condition where the heart doesn't pump blood as well as it should. This can lead to a buildup of fluid in the body, which can cause symptoms like shortness of breath, fatigue, and swelling in the legs and ankles. It's important to manage\n\nPatient: about. If it can be managed with with",
-    "responses": {
-        "gpt4": "Certainly, congestive heart failure is typically managed with a combination of medication, lifestyle changes, and sometimes procedures or surgery. Medications might include diuretics, ACE inhibitors, beta-blockers, among others. Lifestyle changes can involve a low-sodium diet, regular physical activity, and managing stress. Would you like more specific information on any of these aspects of managing heart failure?",
-        "our_model": "this condition I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?"
-    }
-}

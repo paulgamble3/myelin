@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6018,
-    "prompt": "Nurse: I understand\n\nPatient: I don't wanna quit. Okay?\n\nNurse: that you I understand that you enjoy smoking and you're not ready to quit yet. That's completely okay. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: No.\n\nNurse: That's perfectly fine. If you ever change your mind, please don't hesitate to ask. Now, that was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, to summarize, we discussed your blood sugar and blood pressure readings, which are within the acceptable range. We also talked about your recent lab results, your medications, diet, and chronic conditions. You've agreed to try making some changes to your salad dressing to align better with the renal diet. Can I count on you to try this?\n\nPatient: Well, actually, one more.",
-    "responses": {
-        "gpt4": "Of course, feel free to ask your question. What would you like to know?",
-        "our_model": "Of course, what's your question?"
-    }
-}

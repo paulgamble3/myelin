@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3603,
-    "prompt": "Nurse: That's alright, Mr. Benton. If you don't have a record of your last blood pressure measurement, it's a good idea to take it as soon as you can. Do you have a blood pressure cuff at home?\n\nPatient: I have done. My last\n\nNurse: I'm sorry, Mr. Benton, your last what?\n\nPatient: one was one forty four over eighty four.\n\nNurse: Thank you for sharing that, Mr. Benton. It's good to see that you're keeping track of your blood pressure. That reading is a bit high. Would you be open to some suggestions on how to manage your blood pressure?\n\nPatient: I guess.\n\nNurse: Thank you for being open to suggestions, Mr. Benton. One thing you could try is reducing your salt intake. This can help lower blood pressure. What do you think about this suggestion?\n\nPatient: I guess it",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Mr. Benton. Could you please repeat what you just said?",
-        "our_model": "I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

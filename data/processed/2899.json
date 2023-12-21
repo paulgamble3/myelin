@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2899,
-    "prompt": "Patient: No.\n\nNurse: That's great, Mr. Douglas. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Douglas. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great, Mr. Douglas. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Time.\n\nPatient: No. I don't think so.",
-    "responses": {
-        "gpt4": "Alright, Mr. Douglas. Don't hesitate to reach out if you have any questions in the future. I wanted to remind you also about the importance of a low-sodium diet as part of managing your CHF. Dr. Garrett mentioned that a dietitian might be reaching out to you soon. Have they been able to contact you?",
-        "our_model": "Alright, Mr. Douglas. Now, let's talk about your diet. Can you tell me about your recent meals?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4251,
-    "prompt": "Nurse: Alright, Mr. Shyam. Let's start with your medications. Are you still taking your Valsartan and Lasix as prescribed?\n\nPatient: Yep. I am.\n\nNurse: That's great to hear, Mr. Shyam. It's critical to keep up with your medications. Do you ever have trouble remembering to take them on time?\n\nPatient: Every once in a while, I guess.\n\nNurse: It's quite common to occasionally forget, Mr. Shyam. Would it be alright if I shared some strategies that might help you remember to take your medications on time?\n\nPatient: Yeah. Sure.\n\nNurse: Great, Mr. Shyam. One strategy could be setting reminders on your phone or a clock. Another could be associating taking your medication with a daily routine, like brushing your teeth or having a meal. Would any of these strategies work for you?\n\nPatient: Yeah. That all makes sense. Thanks.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Shyam. Now, I would like to ask a few questions about your symptoms to help us understand how you're doing at home. Is that okay with you?",
-        "our_model": "You're welcome, Mr. Shyam. I'm glad I could help. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
-    }
-}

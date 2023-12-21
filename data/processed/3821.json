@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3821,
-    "prompt": "Nurse: Alright, Mr. Hardy. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Great, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Hardy. Could you please share what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that, Mr. Hardy. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Hardy. A meal plan with balanced portions of proteins, fats, and carbohydrates can help maintain steady blood sugar levels. Have you tried using a plate method for your meals where half of your plate contains non-starchy vegetables, one-quarter has lean proteins, and the remaining quarter includes whole grains or starchy foods?",
-        "our_model": "Great, Mr. Hardy. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit your intake of sugary drinks and high-fat foods. Do you feel you're able to incorporate these changes into your diet?"
-    }
-}

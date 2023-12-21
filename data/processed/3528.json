@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3528,
-    "prompt": "Nurse: I see, Mr. Martin. It's great that you're making an effort to manage your weight. Could you share some details about the types of meals you've been having recently?\n\nPatient: So what can I do about my weight problem, Rachel?\n\nNurse: I appreciate your honesty, Mr. Martin. It's great that you're motivated to manage your weight. Could you share more about what you've been eating recently?\n\nPatient: Well, I've been trying to stick to a vegetarian diet because that's\n\nNurse: I'm sorry, Mr. Martin, your response got cut off. Could you please continue and tell me more about your recent diet?\n\nPatient: seems like the easiest way to lose weight. So I'm eating vegetables,\n\nNurse: That's a great start, Mr. Martin. Eating a diet rich in vegetables can indeed be beneficial for weight management. Could you tell me more about the types of vegetables and other foods you're including in your meals?\n\nPatient: Toafu and beans and things that, you know, are not meat.",
-    "responses": {
-        "gpt4": "Tofu and beans are excellent sources of protein, Mr. Martin. They're a great choice if you're following a vegetarian diet. Can you tell me more about the types of meals you make with these foods? For example, do you often prepare salads or soups?",
-        "our_model": "That's a great start, Mr. Martin. It sounds like you're making an effort to eat healthier. Can I share some dietary recommendations that might help you manage your weight and your CHF?"
-    }
-}

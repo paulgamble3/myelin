@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1091,
-    "prompt": "Nurse: As an AI, I don't have personal experiences, but I'm here to assist you. I'm glad to hear your day has been alright. It's critical to stay positive, especially as you prepare for your upcoming procedure. Are you managing to keep busy today?\n\nPatient: Yeah.\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee.\n\nPatient: Yeah. I guess so.\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I\n\nNurse: That's good to hear. Keeping busy can help make the time pass more quickly. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: have quite a lot of pain",
-    "responses": {
-        "gpt4": "I'm sorry to hear about your discomfort. Post-surgery, many patients report improvement in knee pain. Certainly, the aim of your surgery is to relieve that pain. But how are you feeling about your upcoming procedure on August 13th?",
-        "our_model": "I'm sorry to hear that you're experiencing pain."
-    }
-}

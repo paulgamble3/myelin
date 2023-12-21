@@ -1,8 +1,0 @@
-{
-    "prompt_id": 991,
-    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: Lites does GF Army.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: E.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: By my labs,\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question about your labs?\n\nPatient: I see the acronym g",
-    "responses": {
-        "gpt4": "I apologize for any confusion earlier. Could you please clarify or rephrase your question regarding the acronym?",
-        "our_model": "I'm sorry, I'm having a bit of trouble understanding"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 965,
-    "prompt": "Nurse: I understand. It's critical to manage your pain effectively.\n\nPatient: thing on the PT and whatnot.\n\nNurse: That's good to hear that you're doing physical therapy. It's an important part of recovery after back surgery. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Heck no. Those will kill you.\n\nNurse: That's a very healthy stance. It's great to hear that you don't smoke. Now, I'd like to ask if you have any questions or concerns that you'd like to discuss. Is there anything on your mind?\n\nPatient: Yeah.\n\nNurse: Of course. What's on your mind?\n\nPatient: I tried to pee in a couple of times, but you're an albumin test.",
-    "responses": {
-        "gpt4": "Yes, the urine albumin test is a common one to monitor kidney health. It measures the amount of albumin, a type of protein, in your urine. A high amount can indicate kidney damage. Are you finding the process of collecting the urine sample difficult?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question?"
-    }
-}

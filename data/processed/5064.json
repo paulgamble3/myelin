@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5064,
-    "prompt": "Patient: No.\n\nNurse: Has the area where you've seen the pus and mucus become larger or more open, Mr. Koroleva?\n\nPatient: No.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Do you have any sutures or staples in the area where you've seen the pus and mucus, Mr. Koroleva?\n\nPatient: No.\n\nPatient: No.\n\nNurse: I'm sorry, Mr. Koroleva, could you please confirm if you've been experiencing bloody stool as well?\n\nPatient: No. I haven't.",
-    "responses": {
-        "gpt4": "I apologize for the miscommunication earlier, Mr. Koroleva. Thank you for clarifying. Do let me know if you have any other symptoms or concerns. We are here to ensure your health and well-being.",
-        "our_model": "Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I appreciate your patience, Mr. Koroleva. I'm here to ensure you have everything you need for your upcoming colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?"
-    }
-}

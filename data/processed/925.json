@@ -1,8 +1,0 @@
-{
-    "prompt_id": 925,
-    "prompt": "Patient: What kind of medications are not saved?\n\nNurse: Certain medications can be harmful to your kidneys or may not be effectively filtered by your kidneys when they're not functioning at their best. These can include some pain medications, like ibuprofen and naproxen, some antibiotics, and certain medications used to treat heartburn and acid reflux. It's always best to check with your doctor or pharmacist before starting any new medication, even if it's over-the-counter. Does that answer your question?\n\nPatient: It does. Thank you.\n\nNurse: You're welcome. I'm glad I could provide the information you needed. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Yeah. I like to eat a good balanced diet but I am on a Reno low carb low salt diet.\n\nNurse: That's great to hear that you're following a balanced diet. Could you share a bit more about what you typically eat in a day?\n\nPatient: Tried to make sure I sent with some soups and broth. And a separate height\n\nPatient: sodium because I know that means that's high in salt. I tried it. He's a lot of good fish is.",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that? I had a bit of trouble understanding what you said.",
-        "our_model": "It sounds like you're making thoughtful choices about your diet, which is excellent. Soups and broths can be a good source of nutrients, but as you mentioned, they can also be high in sodium. Choosing low-sodium options and incorporating fish, which is a good source of protein and healthy fats, are great steps towards managing your health. Do you have any questions about your diet or would you like any suggestions?"
-    }
-}

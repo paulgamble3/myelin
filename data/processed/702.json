@@ -1,8 +1,0 @@
-{
-    "prompt_id": 702,
-    "prompt": "Nurse: is a That's great. Walking is a wonderful form of exercise. How often and for how long do you walk?\n\nPatient: Daily?\n\nNurse: I'm sorry, I didn't quite catch that. Could you please tell me how long you walk for each day?\n\nPatient: For at least fifteen to twenty minutes.\n\nNurse: That's excellent. Walking daily for 15 to 20 minutes is a good way to stay active. If it's okay with you, I'd like to provide some suggestions about improving your exercise routine in a CHF appropriate manner. Would that be alright?\n\nPatient: Yes.\n\nNurse: Okay. One suggestion could be to gradually increase the length of your walks. For example, you could aim to walk for 25 minutes instead of 20. Another suggestion could be to incorporate some light strength training exercises, such as lifting small hand weights or using resistance bands. However, it's important to start slow and listen to your body. Would any of these suggestions be helpful for you?\n\nPatient: I noted them.",
-    "responses": {
-        "gpt4": "That's fantastic. Is there anything else I can help you with today?",
-        "our_model": "That's great. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?"
-    }
-}

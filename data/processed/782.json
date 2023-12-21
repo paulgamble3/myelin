@@ -1,8 +1,0 @@
-{
-    "prompt_id": 782,
-    "prompt": "Nurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said about your blood sugar?\n\nPatient: sugar before lunch was one twenty eight. That's within the range, isn't it?\n\nNurse: Yes, Ms. Aguirre, you're correct. A blood sugar level of 128 before lunch is within the target range for people with diabetes. It's great that you're keeping track of your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: I took it this morning.\n\nNurse: That's great, Ms. Aguirre. Regular monitoring is key in managing blood pressure. Could you please share the reading you got this morning?\n\nPatient: It was\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please tell me what your blood pressure reading was this morning?\n\nPatient: Oh, it was also one twenty eight over eighty.",
-    "responses": {
-        "gpt4": "Thank you for that information, Ms. Aguirre. A blood pressure reading of 128 over 80 is within the target range for individuals with kidney disease and diabetes. It seems like you are managing your blood pressure well. Just to clarify, do you take medication for your blood pressure?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 128 over 80 is slightly elevated. It's important to keep an eye on this. Would it be okay if I share some suggestions about managing blood pressure?"
-    }
-}

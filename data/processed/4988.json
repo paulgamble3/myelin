@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4988,
-    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Hooper. It sounds like you're following a Jain vegetarian diet, which includes fasting and dietary restrictions. Can you tell me more about the types of foods you typically eat in a day?\n\nPatient: I stick with vegetables,\n\nNurse: That's a great start, Mr. Hooper. Eating a variety of vegetables can provide a wide range of nutrients. Could you tell me more about the types of vegetables you enjoy?\n\nPatient: And some fruits, the vegetables cannot grow in the ground.\n\nNurse: Thank you for sharing that, Mr. Hooper. It's great that you're eating a variety of vegetables and fruits. Can you tell me more about the types of fruits and vegetables you usually have?\n\nPatient: You can't eat anything with a face?\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about the types of foods you typically eat?\n\nPatient: And there are many days that you have to fast.",
-    "responses": {
-        "gpt4": "It sounds like you're committed to your dietary practice, Mr. Hooper. I want to make sure I'm giving you information that best suits your needs. Before I continue, may I share some dietary recommendations that are relevant to your CHF condition?",
-        "our_model": "I see, Mr. Hooper. It sounds like your diet is quite restrictive due to your Jain vegetarian beliefs. Can you tell me more about the fasting practices?"
-    }
-}

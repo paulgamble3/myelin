@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1739,
-    "prompt": "Nurse: Great, Ms. Winner. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.\n\nNurse: Perfect, Ms. Winner. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Okay.\n\nNurse: Perfect, Ms. Winner. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: I don't actually get out of the shower.\n\nNurse: I'm sorry for any confusion, Ms. Winner. You're correct. You should stay in the shower for the scrubbing process. After your normal shower, you'll apply the scrub to a wet washcloth and gently scrub yourself from the neck down. Does that make sense?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Great, Ms. Winner. Now, I want to reiterate that you need to do this scrubbing process the night before and the morning of your surgery. Can you remember to do that?",
-        "our_model": "Great, Ms. Winner. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?"
-    }
-}

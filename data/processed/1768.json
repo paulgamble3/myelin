@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1768,
-    "prompt": "Nurse: I apologize for the confusion. Let's move on to the next topic. Do you have any questions about your medications?\n\nPatient: No.\n\nNurse: Alright. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This includes foods like white bread, rice, and pasta, and you should avoid high fiber foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: Pretty straightforward to me.\n\nNurse: I'm glad to hear that. It's essential to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy?\n\nPatient: Chicken.\n\nNurse: Chicken is a great choice, especially if it's cooked without the skin or any high-fiber stuffing. It's lean and easy to digest. Do you usually prepare it in a specific way?\n\nPatient: Mashed potatoes,",
-    "responses": {
-        "gpt4": "Mashed potatoes are a perfect low-fiber comfort food. Preparing it without the skin would put less stress on your digestive system during your colonoscopy prep. This is one of those rare times when your doctor might be happy about your choice to enjoy some comfort food! How do you like to make your mashed potatoes?",
-        "our_model": "Those are excellent choices. Chicken and mashed potatoes are both low in fiber and can be quite comforting. Do you usually prepare them in a specific way?"
-    }
-}

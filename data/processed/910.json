@@ -1,8 +1,0 @@
-{
-    "prompt_id": 910,
-    "prompt": "Nurse: I'm glad to hear that. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: I think yesterday, it was ninety over sixty.\n\nNurse: Thank you for that information. A blood pressure reading of 90 over 60 is within the normal range, which is good news. It's critical to keep monitoring it regularly. Do you have any questions about managing your blood pressure?\n\nPatient: I was wondering\n\nNurse: Yes, please feel free to ask your question.\n\nPatient: Hi. I'm here with blood pressure\n\nNurse: Yes, I'm here. You were saying you had a question about managing blood pressure?\n\nPatient: Hi. It's just a medical question since you opened the floor. Can I take time off the thing really",
-    "responses": {
-        "gpt4": "Are you wondering if you can take time off from regularly monitoring your blood pressure? Could you please clarify?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question?"
-    }
-}

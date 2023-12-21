@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4824,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Kageyama. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yeah.\n\nNurse: Wonderful, thank you for your time, Mr. Kageyama. How has your day been so far?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that, Mr. Kageyama. As we approach your colonoscopy date, how are you feeling about the procedure?\n\nPatient: Fine. Standard procedure.\n\nNurse: I see, thank you for sharing, Mr. Kageyama. It's indeed a standard procedure, but we understand that it can still raise some concerns. Do you have any specific questions or concerns you'd like to discuss before we begin?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Mr. Kageyama. I apologize if there was a pause. I had asked if you had any specific questions or concerns about the colonoscopy that you'd like to discuss before we proceed.",
-        "our_model": "Yes, Mr. Kageyama, I'm here. You mentioned earlier that you're feeling fine about the procedure. Is there anything else you'd like to discuss or any questions you have at this point?"
-    }
-}

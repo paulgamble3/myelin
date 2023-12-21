@@ -1,8 +1,0 @@
-{
-    "prompt_id": 121,
-    "prompt": "Patient: Yes.\n\nNurse: Excellent. Here are a couple of tips that might help: You can drink the laxative solution cold, which some people find makes it easier to drink. You can also drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: I see, like, a first grade I can do that. So Well, I can do it too.\n\nNurse: I'm glad to hear you found the tips helpful. It's all about making the process as comfortable as possible for you. Do you have any other questions about the bowel prep or is there anything else you'd like to discuss?\n\nPatient: No questions.\n\nNurse: Alright, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: So I need to stop\n\nPatient: Having anything, you said? What does that mean?",
-    "responses": {
-        "gpt4": "Yes, exactly. So four hours before your procedure, you'll need to finish all intake, that includes all liquids as well as the Nulytely laxative solution. This is important as it allows your digestive tract to be as clear as possible and gives time for any remaining fluid to pass. Does that make sense?",
-        "our_model": "That's a great question. It means that you should stop consuming any food or drink, including water, 4 hours before your procedure. This is to ensure your stomach is empty for the procedure. I'll make a note of your concerns for your care team to review. Does that answer your question?"
-    }
-}

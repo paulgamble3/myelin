@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4472,
-    "prompt": "Nurse: I apologize for the confusion, Mr. Delarosa. I understand that you do not have one-sided arm weakness. Now, let's discuss your diet. Can I share some dietary recommendations with you?\n\nPatient: Yeah. What are we talking about? I have CHF and I have asthma.\n\nNurse: I apologize for the confusion earlier, Mr. Delarosa. I understand that you have CHF and asthma. Now, let's discuss your dietary recommendations. Is it okay if I share them with you?\n\nPatient: I have high blood pressure, and this call is making that high blood pressure sure where.\n\nNurse: I'm sorry I'm sorry for any confusion, Mr. Delarosa. I understand that managing multiple health conditions can be challenging. I'm here to help you understand your dietary recommendations. Would it be okay if I shared some information about this?\n\nPatient: Yeah. I was asking you about the fluid\n\nNurse: I\n\nPatient: striction. I hate",
-    "responses": {
-        "gpt4": "Okay, Mr. Delarosa. I understand your concerns about fluid restriction. It can be challenging to manage, especially in the beginning. It's important to remember that limiting fluids can significantly help manage symptoms of heart failure and high blood pressure. Would you like some tips on handling fluid restriction?",
-        "our_model": "apologize for"
-    }
-}

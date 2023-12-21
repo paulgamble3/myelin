@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2346,
-    "prompt": "Patient: Let me check it.\n\nNurse: Of course, Mr. Ponce. Take your time. I'd like to get a good idea of your regular diet.\n\nPatient: I have chickens and veggies.\n\nNurse: Thank you for sharing that, Mr. Ponce. It's great that you're including vegetables in your meals. Can you tell me more about the types of vegetables you usually have and how you prepare them?\n\nPatient: I started the veggies.\n\nPatient: With olive oil.\n\nNurse: That's a healthy choice, Mr. Ponce. Olive oil is a good source of monounsaturated fats. Now, I'd like to remind you of your dietary recommendations. You're on a fluid restriction of 2 liters per day. This includes all fluids, not just water. Are you aware of this?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "That's great, Mr. Ponce. Are you finding it easy to stick to this limit, or are there any challenges you're facing with the fluid restriction?",
-        "our_model": "That's great, Mr. Ponce. Now, let's talk about your sodium intake. You're recommended to follow a diet restricted to 1500 mg of sodium per day. This means being mindful of not just table salt, but also hidden sources of sodium in processed foods. Are you comfortable with this recommendation?"
-    }
-}

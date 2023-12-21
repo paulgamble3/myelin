@@ -1,8 +1,0 @@
-{
-    "prompt_id": 52,
-    "prompt": "Nurse: That's excellent, Ms. Ware. It's essential to keep up with your medications. I understand that sometimes it can be challenging to remember all the doses. Do you ever have trouble taking your medication on time?\n\nPatient: And\n\nNurse: I'm sorry, Ms. Ware, I didn't quite catch that. Could you please repeat your response?\n\nPatient: No. For goodness' lasix. I'm not an idiot.\n\nNurse: I apologize if I gave you that impression, Ms. Ware. I'm here to support you, not judge you. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you, Ms. Ware. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear, Ms. Ware. What about any ongoing or worsening chest pain?",
-        "our_model": "That's good to hear, Ms. Ware. Have you experienced any ongoing or worsening chest pain?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4493,
-    "prompt": "Nurse: I understand, Mr. Delarosa. It's normal to feel a bit unsure about changes. One suggestion could be to try and walk a little bit every\n\nPatient: I mean,\n\nNurse: I understand, Mr. Delarosa. It's normal to feel a bit unsure about changes. One suggestion could be to try and walk a little bit every day, if you feel up to it. This could be a short walk in the morning or evening. How does that sound?\n\nPatient: can I actually really participate in\n\nNurse: I'm sorry, Mr. Delarosa, could you please repeat what you said?\n\nPatient: in exercise given my condition?\n\nNurse: Absolutely, Mr. Delarosa. Regular physical activity is beneficial for managing CHF, as long as it's within your ability and approved by your doctor. Would it be okay if I shared some suggestions on how to safely increase your exercise routine?\n\nPatient: I mean, I do have asthma, and I also have CHI.",
-    "responses": {
-        "gpt4": "Absolutely, I understand your concerns, Mr. Delarosa. When dealing with both CHF and asthma, it's essential that any exercise is done safely. Would it be okay for me to provide some safety tips for exercising with these conditions?",
-        "our_model": "I understand your concerns, Mr. Delarosa. It's important to remember that regular physical activity can help manage your conditions. However, it's crucial to do so in a way that's safe and appropriate for your health. Would it be okay if I shared some suggestions on how to safely increase your physical activity?"
-    }
-}

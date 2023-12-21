@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3637,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hi, this is Rachel calling on behalf of Dr. Sarah Forbes. How are you doing now that you're back home from the hospital, Patient?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?"
-    }
-}

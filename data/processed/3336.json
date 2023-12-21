@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3336,
-    "prompt": "Nurse: I can hear your determination, Mr. Winner. It's inspiring. Now, let's discuss the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: I think oh, okay. So okay. So\n\nNurse: Yes, Mr. Winner.\n\nPatient: Not what about water?\n\nNurse: Yes, Mr. Winner, even water should not be consumed after midnight before your procedure. This is to ensure your stomach is completely empty for the anesthesia. It's a crucial safety measure. Do you have any other questions about this?\n\nPatient: Know.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I said no.",
-    "responses": {
-        "gpt4": "Alright, Mr. Winner. I appreciate your patience and diligence in this process. Do remember that you'll need to bring your ID, insurance info, and inhaler if you have one on the day of the surgery. Please keep in mind to wear comfortable and loose-fitting clothes. Do you have any other questions about your upcoming procedure?",
-        "our_model": "Alright, Mr. Winner. I'm glad we could discuss that. I know we've covered a lot of information, but we're almost done. Do you have any questions so far?"
-    }
-}

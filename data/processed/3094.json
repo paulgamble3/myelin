@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3094,
-    "prompt": "Nurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling okay. How are you?\n\nNurse: I'm here to assist you, so I'm doing well, thank you. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just happy to be back with my cat.\n\nNurse: That sounds lovely. Cats can be such wonderful companions. What's your cat's name?\n\nPatient: His name is president Lincoln.\n\nNurse: President Lincoln, that's quite a name! He must have been thrilled to have you back home. Now, I'm calling on behalf of Doctor Phil Steele to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. I don't think so.",
-    "responses": {
-        "gpt4": "Alright, let's move forward then. I wanted to check with you about your medications. Are you still continuing to take Bumex 1 mg oral tablet and Captopril 12.5 mg oral tablet as instructed by your doctor?",
-        "our_model": "Alright, let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Bumex and Captopril?"
-    }
-}

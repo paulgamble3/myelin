@@ -1,8 +1,0 @@
-{
-    "prompt_id": 97,
-    "prompt": "Nurse: I'm sorry, could you please repeat your response?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: Whatever sound I I got you. I I hear you.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: No need to yell at me.\n\nNurse: I'm sorry if it seemed like I was yelling, that was not my intention. I just want to make sure everything is clear for you. Is there anything else about the logistics that's worrying you?\n\nPatient: Oh, gosh. I feel like everything is boring. Me,",
-    "responses": {
-        "gpt4": "I'm sorry to hear you're feeling that way. I understand that preparing for a procedure can be overwhelming. Is there a specific part of the process you're finding particularly bothersome?",
-        "our_model": "I understand that this can feel overwhelming. It's a lot to take in. I'm here to help make this process as smooth as possible for you. Before we move on to discuss your medications, I want to take a pause. Are you ready to proceed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6124,
-    "prompt": "Nurse: Metoprolol ER, which you're currently taking, is an extended-release version of metoprolol. It's designed to release the medication slowly into your body over time. Regular metoprolol, on the other hand, is released into your body more quickly. Your doctor likely switched you to Metoprolol ER to provide a more consistent level of the medication in your body. Does that answer your question?\n\nPatient: Yes.\n\nNurse: I'm glad I could help clarify that for you. Now, let's move on to discussing your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I don't know. I mean, it's really confusing. I don't know\n\nNurse: I understand that managing diet can sometimes feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: what I'm supposed to eat anymore. Right? I'm on such a restricted diet.\n\nNurse: I can understand how managing dietary restrictions can feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: I have cereal for breakfast. I have pizza for lunch. And I had",
-    "responses": {
-        "gpt4": "Sounds like you had a variety of meals yesterday. Could you please share what you had for dinner as well?",
-        "our_model": "I'm sorry, Jon, could you please repeat what you had for dinner yesterday?"
-    }
-}

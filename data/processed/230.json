@@ -1,8 +1,0 @@
-{
-    "prompt_id": 230,
-    "prompt": "Nurse: I\n\nPatient: earlier.\n\nNurse: apologize for I apologize for the repetition, Ms. Aguirre. I'll make sure to note this for your care team to ensure we provide you with the most relevant information. Now, let's move on to discuss your back surgeries. How has your recovery been going?\n\nPatient: All times since I had my last surgery.\n\nNurse: I'm sorry, Ms. Aguirre, could you please clarify what you mean by \"all times\"?\n\nPatient: I said it's been a long time since I had my back surgery.\n\nNurse: I see, thank you for clarifying that, Ms. Aguirre. It's good to hear that it's been a while since your last back surgery. How would you describe your current back pain?\n\nPatient: Not too bad.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, was that a confirmation that you are experiencing back pain?",
-        "our_model": "I'm sorry, Ms. Aguirre, could you please confirm if you're experiencing back pain currently?"
-    }
-}

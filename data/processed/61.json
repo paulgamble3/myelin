@@ -1,8 +1,0 @@
-{
-    "prompt_id": 61,
-    "prompt": "Nurse: When did the swelling start, Ms. Ware?\n\nPatient: The swelling is in my stomach.\n\nNurse: Is the swelling on one side or two sides, Ms. Ware?\n\nPatient: It's in my stomach.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: No.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: You asked me that. I said no.",
-    "responses": {
-        "gpt4": "I do apologize for the repetition, that wasn't intended. Has the swelling in your stomach increased, decreased or stayed the same?",
-        "our_model": "I apologize for the repetition, Ms. Ware. Does the swelling extend to your arms?"
-    }
-}

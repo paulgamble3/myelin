@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4351,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Oliver. Another suggestion is to incorporate more physical activity into your daily routine. This could be as simple as taking a walk after meals. Do you think you could try that?\n\nPatient: Yes. I think I can try that.\n\nNurse: That's wonderful to hear, Mr. Oliver. Regular physical activity can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yeah. What does the GFR mean?\n\nNurse: That's a great question, Mr.\n\nPatient: And how is it measured?\n\nNurse: That's a great question, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. It estimates how much blood passes through the tiny filters in your kidneys, called glomeruli, each minute. A lower GFR can be a sign that your kidneys are not working as well as they should. Your GFR is 67 mL/min/1.73m2, which is within the normal range. Does that help clarify things for you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad I could clarify that for you, Mr. Oliver. Now, could we discuss your medications? I have here in your record that you're on Valsartan, Lantus, and Aspart. Can we begin by talking about your Valsartan medication? Are you taking it as prescribed, which is 40 mg daily?",
-        "our_model": "I'm glad to hear that, Mr. Oliver. If you have any other questions about your lab results, feel free to ask. Otherwise, I'd like to discuss your medications. Is that alright with you?"
-    }
-}

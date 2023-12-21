@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4732,
-    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you. That's good to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: I don't think I remember the questions you asked, and I did clarify by saying\n\nNurse: I\n\nPatient: but I don't think I gained weight.\n\nNurse: apologize for I apologize for any confusion. To clarify, the questions were about any new or worsening shortness of breath, chest pain, dry cough, swelling in your feet, ankles, stomach, or legs, weight gain, and whether you've been using more pillows to sleep. These are all important symptoms to monitor for CHF. Do you have any questions about these symptoms or how to monitor them?\n\nPatient: But I don't know when I'm supposed to be weighing myself, so I haven't been doing it.\n\nNurse: I\n\nPatient: My clothes fit the same.",
-    "responses": {
-        "gpt4": "It's great to hear that you haven't noticed any changes in how your clothes fit. That can be one indicator of a potential weight change. To monitor your weight, I'd recommend taking it at the same time every day, such as in the morning before you eat breakfast. Sudden weight gain (like 2 pounds overnight or 3 pounds within a week) could be a signal that your body is retaining water, which would warrant a call to your doctor. Please let me know if you have any other questions.",
-        "our_model": "appreciate your I apologize if I misunderstood. Could you please repeat what you said about your weight and clothing?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 264,
-    "prompt": "Nurse: I'm sorry, Mr. O'Leary, could you please confirm what you just said?\n\nPatient: I just couldn't hear you.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I apologize for the inconvenience, Mr. O'Leary. I was saying that I notice you've been prescribed Tylenol 1000 mg three times a day as needed and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. O'Leary. It's essential to have those medications on hand for after your procedure. Do you have any questions about these or any other medications?\n\nPatient: I don't have any questions.\n\nNurse: Alright, Mr. O'Leary. Now, let's talk about preparing your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes. I already purchased it.",
-    "responses": {
-        "gpt4": "Great, Mr. O'Leary. Now, let's go over the instructions for using the chlorhexidine scrub. First, you'll need to use the scrub the night before and the morning of your procedure. You start by taking a shower, just like you normally would. Once you're done with your regular shower, you'll then turn the water off. Does that make sense so far?",
-        "our_model": "That's excellent, Mr. O'Leary. You're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. Does that sound good so far?"
-    }
-}

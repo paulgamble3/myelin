@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5001,
-    "prompt": "Nurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm doing pretty good.\n\nNurse: I'm glad to hear that. It's always nice to have a good day. Do you have any special plans for the day?\n\nPatient: I'm gonna probably wrap some Christmas presents.\n\nNurse: That sounds like a lovely way to spend the day. Wrapping presents can be quite therapeutic. Do you have a favorite wrapping technique or style?\n\nPatient: I feel like it's\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about wrapping presents?\n\nPatient: the standard style, the same way my mother used to do it.",
-    "responses": {
-        "gpt4": "How lovely! Continuing traditions can add such a special touch to the holidays. With your upcoming knee replacement, it must be exciting to think about all the activities you'll be able to do more comfortably. Is there anything in particular you're looking forward to doing once you've recovered from your procedure?",
-        "our_model": "That's wonderful, it sounds like a lovely way to keep a family tradition alive. Now, I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your knee replacement?"
-    }
-}

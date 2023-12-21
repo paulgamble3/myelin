@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3309,
-    "prompt": "Nurse: Alright, Mr. Winner. I'm here to help, so feel free to ask any questions at any time during our conversation. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: I can't\n\nNurse: Of course, Mr. Winner. Let's move on to discuss a few topics to ensure you have everything you need for your upcoming procedure. Is that okay with you?\n\nPatient: Thank you.\n\nNurse: You're welcome, Mr. Winner.\n\nPatient: That's okay.\n\nNurse: Great, Mr. Winner.\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Thanks for confirming, Mr. Winner. Let's start with transportation. Have you arranged for someone to bring you to the hospital on the day of your surgery, and bring you home when you're discharged?",
-        "our_model": "Great, Mr. Winner. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 612,
-    "prompt": "Nurse: Thank you for confirming, Ms. Raynier. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Okay, thank you for taking the time to speak with me, Ms. Raynier. How has your day been so far?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Raynier. Have you been able to do anything enjoyable today?\n\nPatient: Well, nothing very siding,\n\nNurse: That's perfectly fine, Ms. Raynier. Sometimes, a quiet day can be quite refreshing. As you're preparing for your knee replacement, it's important to rest and prepare for the procedure. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I'm so excited to be able to ride my bike again, be able to go to the",
-    "responses": {
-        "gpt4": "That sounds wonderful, Ms. Raynier! Being able to bike again will undoubtedly be a major milestone in your recovery journey. Do you enjoy biking regularly in your local area or do you have a favorite biking trail that you're missing?",
-        "our_model": "That sounds wonderful, Ms. Raynier! Cycling is a great way to stay active and enjoy the outdoors. It's also a fantastic goal to work towards as you recover from your surgery. How are you feeling about the procedure itself?"
-    }
-}

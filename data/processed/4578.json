@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4578,
-    "prompt": "Nurse: That's wonderful, Mr. Peck! It's always exciting to experience a new play. Do you usually go to the theater alone or do you have someone to accompany you?\n\nPatient: I go with the group.\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: I said I go with a group.\n\nNurse: That sounds like a great way to enjoy the theater, Mr. Peck. Is it a social group or a group of friends who share the same interest in theater?\n\nPatient: Yes. It's my senior group.\n\nNurse: That's wonderful, Mr. Peck. It's great to have a group of friends with similar interests. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?\n\nPatient: Well,",
-    "responses": {
-        "gpt4": "Yes, Mr. Peck. Please go ahead and share your concerns.",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat what you said?"
-    }
-}

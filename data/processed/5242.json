@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5242,
-    "prompt": "Patient: Well, I actually just had chicken soup\n\nNurse: That sounds like a healthy choice, Mr. Oliver. Chicken soup can be a good source of protein. How do you usually prepare your chicken soup?\n\nPatient: I used a lot of veggies and\n\nNurse: That's great, Mr. Oliver.\n\nPatient: just lean.\n\nPatient: Chicken.\n\nNurse: That's a great way to prepare your chicken soup, Mr. Oliver. Using lean chicken and plenty of vegetables can provide you with essential nutrients. If it's okay with you, I'd like to provide some suggestions to align your diet with the DASH diet, which is recommended for your conditions. Would that be alright?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent. The DASH diet focuses on eating whole grains, fruits, vegetables, and lean proteins, and limiting salt, sugary drinks, and red meats. Continue using a variety of vegetables in your meals as you've been doing with your chicken soup. Also, choosing whole grains over refined grains wherever possible will provide more nutrients and fiber. Lastly, limiting your salt intake can help manage your blood pressure. Does that make sense?",
-        "our_model": "Thank you, Mr. Oliver. The DASH diet emphasizes eating fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It also recommends limiting foods high in saturated fats, cholesterol, and sodium. For example, when preparing your chicken soup, you could consider using low-sodium broth and adding more vegetables. Do you have any questions about this?"
-    }
-}

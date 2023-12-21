@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4243,
-    "prompt": "Patient: Just happened to be back with my cat.\n\nNurse: That sounds lovely, Mr. Shyam. Cats can be such comforting companions. What's your cat's name?\n\nPatient: His name is Scruffy.\n\nNurse: Scruffy, what a cute name! It must be nice to have him around. Do you have any hobbies or interests that you enjoy, Mr. Shyam?\n\nPatient: I was reading.\n\nNurse: Reading is a wonderful hobby, Mr. Shyam. What kind of books do you enjoy?\n\nPatient: I like mysteries.\n\nPatient: Sometimes stealing king stuff, you know,",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Shyam, I didn't quite catch that. Could you please repeat it?",
-        "our_model": "Mysteries can be quite thrilling, Mr. Shyam. Stephen King's works are indeed captivating. Do you have a favorite book of his?"
-    }
-}

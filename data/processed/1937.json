@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1937,
-    "prompt": "Nurse: It sounds like you're making an effort to eat healthily, which is great. Can you share more about the types of meats and vegetables you're eating?\n\nPatient: I like the brussels sprouts and\n\nPatient: Damn.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I like to eat brussels sprouts and salmon.\n\nNurse: That's a great combination. Brussels sprouts and salmon are both very nutritious. Do you usually have these with other foods or on their own?\n\nPatient: I'm usually terrible for mother food.\n\nPatient: I mix it up a little.",
-    "responses": {
-        "gpt4": "It's good to mix things up and enjoy a variety of foods. Keep up the good work in maintaining a balanced diet. Now, let's move to physical activity. How have you been doing with making sure you're getting enough exercise? \n\n",
-        "our_model": "That's a good approach. Variety is key in a balanced diet. Do you also include carbohydrates in your meals?"
-    }
-}

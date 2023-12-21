@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2384,
-    "prompt": "Nurse: That's great. You'll need to use the scrub the night before and the morning of your procedure. Let's go over the instructions for using the scrub. First, you'll take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: I mean, going.\n\nNurse: Great.\n\nPatient: [NO RESPONSE]\n\nNurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Go on\n\nNurse: After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Yes, I'm here.",
-        "our_model": "Yes, I'm here. After you've turned the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's important to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
-    }
-}

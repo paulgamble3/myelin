@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1614,
-    "prompt": "Nurse: I'm glad you found the information helpful, Mr. Benton. Now, let's move on to your blood sugar and blood pressure. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great, Mr. Benton. Regular monitoring is key in managing your blood sugar levels. Could you please share your last blood sugar reading at home?\n\nPatient: Yeah. It was one twenty five.\n\nNurse: Thank you for sharing that, Mr. Benton. A blood sugar level of 125 is a bit higher than the target range for people with diabetes, which is usually under 120. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Benton. One strategy could be to incorporate more physical activity into your day. Regular exercise can help your body use insulin more effectively and lower your blood sugar levels. Another strategy could be to monitor your carbohydrate intake. Foods high in carbohydrates can raise your blood sugar levels. Lastly, it's important to take your medications as prescribed. Do you have any questions about these suggestions?\n\nPatient: No. Those are good suggestions.",
-    "responses": {
-        "gpt4": "I'm glad you think so, Mr. Benton. Let's continue with our conversation about your medication. You were prescribed Amlodipine 5 mg oral tablet with a dosage of 10 mg daily. Have you been taking this medicine every day?",
-        "our_model": "I'm glad you found the suggestions helpful, Mr. Benton. Now, let's talk about your medications. You're currently prescribed Amlodipine 5 mg oral tablet, 10 mg daily. Have you been taking this medication as prescribed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2459,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Oliver. Remember, small changes can make a big difference. If you have any other questions or concerns about your diet or anything else, feel free to share.\n\nPatient: Not right now.\n\nNurse: Alright, Mr. Oliver. If you have any questions in the future, don't hesitate to reach out. It was a pleasure speaking with you today. Take care and enjoy your square dancing!\n\nPatient: Oh, actually, I do have one question.\n\nNurse: Of course, Mr. Oliver. What's your question?\n\nPatient: Do you have any habits I can pick up to help prevent going on dialysis?\n\nNurse: That's a very important question, Mr. Oliver. There are several lifestyle habits that can help manage your kidney disease and potentially delay the need for dialysis. These include maintaining a healthy diet, staying hydrated, exercising regularly, and avoiding smoking and excessive alcohol. It's also crucial to manage your other health conditions, such as diabetes and hypertension, as they can impact your kidney health. Lastly, it's important to take your medications as prescribed and follow up with your doctor regularly. Do you have any specific concerns or questions about these habits?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Mr. Oliver. I hope this day finds you well. We're here to discuss your chronic conditions and how you've been managing. Let's start with discussing your diet. Could you tell me about your eating habits in the last few days?",
-        "our_model": "Yes, Mr. Oliver, I'm here. Do you have any specific concerns or questions about the lifestyle habits I mentioned earlier?"
-    }
-}

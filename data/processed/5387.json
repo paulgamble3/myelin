@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5387,
-    "prompt": "Nurse: Thank you, Mr. O'Leary. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: [NO RESPONSE]\n\nNurse: Mr. O'Leary, are you still there?\n\nPatient: That.\n\nNurse: I'm sorry, Mr. O'Leary, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Oh my god. I said yes. I can do that.\n\nNurse: Thank you for confirming that, Mr. O'Leary. After applying the scrub, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Good to hear, Mr. O'Leary. Just to reiterate, you will need to do this chlorhexidine scrub process the night before and the morning of the procedure. Do you remember to do that?",
-        "our_model": "Alright, Mr. O'Leary. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?"
-    }
-}

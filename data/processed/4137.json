@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4137,
-    "prompt": "Patient: No.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about your recent meals?\n\nPatient: I had a salad. A few hours ago.\n\nPatient: A chicken salad.\n\nNurse: That sounds like a healthy choice. What kind of salad was it?\n\nPatient: A chicken salad?\n\nNurse: Yes, I understand it was a chicken salad. Could you tell me more about it?\n\nPatient: What do you wanna know?",
-    "responses": {
-        "gpt4": "It would helpful to know what other ingredients were in the salad besides chicken. For instance, what kind of vegetables did you use? Did you include any dressings or toppings?",
-        "our_model": "Could you tell me what ingredients were in your chicken salad?"
-    }
-}

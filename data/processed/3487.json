@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3487,
-    "prompt": "Nurse: Plain pasta is a good choice. It's simple and easy to digest. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: No.\n\nNurse: Alright. In addition to the dietary changes, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. These types of supplements can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I'm pretty ferrous.",
-    "responses": {
-        "gpt4": "You're feeling nervous. This is normal and it's okay. Most people say that the procedure itself is no problem at all, but the bowel prep can be a bit tough. Let's go over some of the details together. How does that sound to you?",
-        "our_model": "I can understand why you might feel a bit nervous. It's a big change from your normal diet. Most people say the procedure itself is no problem at all but the bowel prep was a little bit tough. But we're here to support you every step of the way. Do you have any questions about this part of the preparation?"
-    }
-}

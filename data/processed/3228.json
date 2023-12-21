@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3228,
-    "prompt": "Nurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: But I know it's\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: that I gained weight.\n\nNurse: I see. Can you tell me how much weight you've gained?\n\nPatient: Which makes me really upset.\n\nNurse: I'm sorry to hear that you're feeling upset about weight gain. It's a common concern, especially with CHF. Can you tell me how much weight you've gained?\n\nPatient: Yeah. On typically, one ninety two, and I just waived myself yesterday, and I'm one ninety four. And four pounds.",
-    "responses": {
-        "gpt4": "I see. That's a two-pound increase. It's great that you are keeping an eye on your weight. Are you also regularly checking for increased swelling in your feet, ankles, stomach, or legs?",
-        "our_model": "I see, a weight increase of two pounds in a day can be a sign of fluid retention, which is something we need to monitor closely with CHF. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3992,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, this is Rachel. May I confirm that I am speaking with Paula Warrell?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paula Warrell?"
-    }
-}

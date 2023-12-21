@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1170,
-    "prompt": "Nurse: That sounds like a wonderful way to spend a day, Mr. Cardenas. How long are your hikes usually?\n\nPatient: Hike, like, maybe\n\nNurse: I'm sorry, Mr. Cardenas. Could you please repeat how long your hikes usually are?\n\nPatient: jeez. I don't know. Five to seven hours. And\n\nNurse: I'm sorry, Mr. Cardenas, could you please repeat the distance of your hikes?\n\nPatient: But, of course, I'm walking up and back. So\n\nNurse: That's quite impressive, Mr. Cardenas. It's great that you're staying active. Now, with your permission, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that okay with you?\n\nPatient: Yeah. Or sometimes it's just a couple of hours, but I'm not, you know,",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Cardenas, could you repeat the last part? I want to understand your current exercise routine correctly.",
-        "our_model": "That's quite impressive, Mr. Cardenas. It's great that you're staying active. Now, with your permission, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 188,
-    "prompt": "Nurse: I'm glad to hear that you're doing okay, Ms. Aguirre. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: What is the target range?",
-    "responses": {
-        "gpt4": "Generally, the American Diabetes Association recommends aiming for a blood glucose level between 80 to 130 mg/dL before meals and less than 180 mg/dL two hours after the start of a meal. However, these targets can be individualized based on various factors including age, duration of diabetes, presence of other health conditions, and risk of hypoglycemia. It's always a good idea to discuss your personal blood glucose targets with your doctor.",
-        "our_model": "I apologize for any confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. This is a bit higher than the target range for people with diabetes, which is usually under 120. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

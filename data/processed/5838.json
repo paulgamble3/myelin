@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5838,
-    "prompt": "Nurse: Yes, there's one more part of the preparation I'd like to discuss. You will need to finish your laxative solution and stop everything 4 hours before your procedure. This means no eating or drinking anything, including water, 4 hours before your procedure. Do you have any questions about this part of the preparation?\n\nPatient: Nope.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: Hi. No. And you've asked me if I have any questions about ten times through this conversation. If I had a question, I would have asked it. So please stop asking me that question over and over again.\n\nNurse: I apologize for the repetition. Let's move on to the next question. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great! It's important to have that arranged as you won't be in a condition to drive yourself home after the procedure. Now, before we end this call, do you have any questions or concerns you'd like to bring up?",
-        "our_model": "That's great to hear. It's essential to have someone available to pick you up after the procedure. If there's anything else you need to discuss or any other questions you have, feel free to ask."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5063,
-    "prompt": "Patient: No.\n\nNurse: Have you noticed any rapid spreading of warmth, swelling, or redness around the area where you've seen the pus and mucus, Mr. Koroleva?\n\nPatient: No.\n\nNurse: Has the area where you've seen the pus and mucus become larger or more open, Mr. Koroleva?\n\nPatient: No.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Do you have any sutures or staples in the area where you've seen the pus and mucus, Mr. Koroleva?\n\nPatient: No.\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Apologies if I misunderstood earlier, but did you mention experiencing bloody stools? Could you please confirm this for me once more?",
-        "our_model": "I'm sorry, Mr. Koroleva, could you please confirm if you've been experiencing bloody stool as well?"
-    }
-}

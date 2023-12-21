@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2620,
-    "prompt": "Nurse: I can imagine that it's a lot to take in, Ms. Cruz. It's completely normal to feel a bit overwhelmed after a hospital stay. But it's great to hear that you're back home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Us.\n\nNurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you've been looking forward to doing now that you're home?\n\nPatient: Just really being home is good enough.\n\nNurse: I'm glad to hear that being home brings you comfort, Ms. Cruz. It's always nice to be in our own space. By the way, do you have any hobbies or pets that keep you company at home?\n\nPatient: Yes. I have I have family members that are here.\n\nNurse: That's wonderful, Ms. Cruz. Having family around can be a great source of comfort. Do you and your family have any shared hobbies or activities that you enjoy doing together?\n\nPatient: Like, any other",
-    "responses": {
-        "gpt4": "It's great to hear you have family around to support you at this time. Is there any shared activity or hobby that you and your family members particularly enjoy together?",
-        "our_model": "I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

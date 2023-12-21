@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5922,
-    "prompt": "Nurse: That's great to hear. Now, let's move on to Atorvastatin. You should be taking a 40 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's good to hear. Now, let's discuss Plavix. You should be taking a 75 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's great. Now, let's move on to Metoprolol. You should be taking a 50 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Lisinopril. You should be taking a 20 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent, it sounds like you've been able to manage your medication routine really well. I do need to clarify something about the Metoprolol. The correct dosage is actually two 25 mg extended-release (ER) oral tablets daily, not a single 50 mg tablet. Was this communicated to you?",
-        "our_model": "I apologize for the confusion earlier. The correct dosage for Metoprolol is actually two 25 mg extended-release (ER) oral tablets daily, not a single 50 mg tablet. Have you been able to take this correct dosage?"
-    }
-}

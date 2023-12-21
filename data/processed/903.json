@@ -1,8 +1,0 @@
-{
-    "prompt_id": 903,
-    "prompt": "Nurse: It sounds like you have a great balance of interests. Laughter and drama can both be very therapeutic. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: I don't think so.\n\nNurse: Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. And when I last checked yesterday, and it was one twenty eight.\n\nNurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. However, a reading of 128 is a bit higher than the target range for people with diabetes. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Great, thank you. Here's one strategy: Try to space out your meals throughout the day, eating smaller portions more frequently, instead of having larger meals. Including healthy carbohydrates, lean proteins, fruits, and vegetables could also help balance your blood sugar levels. Do you usually go for smaller, more frequent meals or larger ones?",
-        "our_model": "Would it be alright if I shared some recommendations on how to manage your blood sugar levels?"
-    }
-}

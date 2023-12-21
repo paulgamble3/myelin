@@ -1,8 +1,0 @@
-{
-    "prompt_id": 36,
-    "prompt": "Nurse: You're welcome. It's great to hear that you're making an effort to manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?\n\nPatient: I don't drink.\n\nNurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's essential to continue this practice. Do you have any questions or concerns about managing your alcohol use?\n\nPatient: No. Because I don't drink.\n\nNurse: That's great to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I smoke a pack of cigarettes today, but I'm not ready to quit yet.\n\nNurse: I appreciate your honesty. It's a big step to even consider quitting smoking. Could you share with me why you feel you're not ready to quit at this time?\n\nPatient: I'm just now ready.",
-    "responses": {
-        "gpt4": "That's perfectly fine. Just know that when you feel ready, there are many resources available to help you. Would it be okay if I share a few options with you for the future?",
-        "our_model": "I understand. Quitting smoking is a personal decision and it's important to do it when you feel ready. If you ever decide to quit, there are many resources available to help you. Would you like me to share some of these resources with you?"
-    }
-}

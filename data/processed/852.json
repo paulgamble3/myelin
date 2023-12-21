@@ -1,8 +1,0 @@
-{
-    "prompt_id": 852,
-    "prompt": "Patient: Yes. It does. Thank you.\n\nNurse: You're welcome, Mr. Oliver. I'm glad I could provide the information you needed. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: So I'm on a dash diet. I'm trying to eat healthier, so I've been eating a lot of\n\nPatient: salad lately.\n\nNurse: That's fantastic, Mr. Oliver. Eating salads is a great way to incorporate more fruits and vegetables into your diet, which is beneficial for your health. Could you share what you typically include in your salads?\n\nPatient: Yeah. So just a lot of lettuce and tomatoes.\n\nNurse: That's a good start, Mr. Oliver. Lettuce and tomatoes are both low in sodium and can help manage your blood pressure. If it's okay with you, I'd like to suggest adding some other low-sodium vegetables to your salad. For example, cucumbers, bell peppers, and carrots could be good additions. Would you be open to trying that?\n\nPatient: I do, however, want to use Wish",
-    "responses": {
-        "gpt4": "Of course, Mr. Oliver. I think you started to say something about a brand or a product. Could you please specify what you were referring to?",
-        "our_model": "That's a good start, Mr. Oliver. Lettuce and tomatoes are both low in sodium and can help manage your blood pressure. If you're open to it, I can provide some suggestions on how to enhance your salads while keeping them aligned with your DASH diet. Would that be okay?"
-    }
-}

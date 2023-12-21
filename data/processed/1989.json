@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1989,
-    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: will my arthritis pain?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Be better after the surgery?\n\nNurse: That's a very important question. The goal of a total knee replacement is to relieve the pain in the knee caused by arthritis. Most people who have total knee replacement surgery experience a dramatic reduction of knee pain and a significant improvement in the ability to perform common activities of daily living. But remember, it will take time to fully recover and see the full benefits of the surgery. Is there anything else you're curious about or any other concerns you'd like to discuss?\n\nPatient: Yeah. I'm gonna ask about my medications.\n\nNurse: Of course, I'm here to help with that. Let's review your medications one by one. You're currently taking Celebrex 100 mg oral capsule, two times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: I totally forget what my doctor said about aspirin.",
-    "responses": {
-        "gpt4": "I see. According to your chart, you were instructed to stop taking your Aspirin 81 mg once a day 7 days before the procedure. Today is August 10th, so you should have already stopped taking it. Have you stopped taking your Aspirin 81 mg?",
-        "our_model": "I see that you're currently taking Aspirin 81 mg once a day. However, you were instructed to stop this medication 7 days before the procedure. That means you should have stopped taking it yesterday, August 6th. Can you confirm if"
-    }
-}

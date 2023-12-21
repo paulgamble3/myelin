@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3325,
-    "prompt": "Nurse: Alright, Mr. Winner. Let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection by using a chlorhexidine scrub. Have you already purchased the scrub?\n\nPatient: Okay.\n\nNurse: You'll need to prepare your skin for surgery to reduce infection by using a chlorhexidine scrub. Have you already purchased the scrub?\n\nPatient: Yeah. I did take this crap. What is what is this crap is all about?\n\nNurse: I'm glad to hear you've already purchased the scrub, Mr. Winner. It's used to clean your skin and reduce the risk of infection. You'll need to use it the night before and the morning of your procedure. Does that sound good so far?\n\nPatient: Yes. So okay. And what do I How do I use it? What is it? I don't understand.\n\nNurse: Of course, Mr. Winner. Let's go over the instructions for using the chlorhexidine scrub. First, you'll take a shower like normal, then turn the water off. Does that sound good so far?\n\nPatient: Of course.",
-    "responses": {
-        "gpt4": "Great, Mr. Winner. After you've turned the water off, apply the chlorhexidine scrub to a wet, clean washcloth. Then you'll gently scrub yourself from the neck down avoiding your face, hair, and crotch area. Does that sound manageable so far?",
-        "our_model": "After your normal shower, you'll turn off the water and apply the scrub to a wet, clean washcloth. You'll then gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that, Mr. Winner?"
-    }
-}

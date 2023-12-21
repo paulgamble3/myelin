@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4248,
-    "prompt": "Nurse: I'm sorry, Mr. Shyam, your voice cut out a bit there.\n\nPatient: it\n\nNurse: I'm sorry, Mr. Shyam, could you please repeat your favorite book by Stephen King?\n\nPatient: Oh, I I couldn't choose. You know?\n\nNurse: That's perfectly fine, Mr. Shyam. Stephen King has such a vast collection, it's hard to pick just one. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Nope. I don't think so.\n\nNurse: Alright, Mr. Shyam. Let's start with your medications. Are you still taking your Valsartan and Lasix as prescribed?\n\nPatient: Yep. I am.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Mr. Shyam. Keeping up with medications as prescribed directly contributes to managing your overall health. Just out of curiosity, do you ever have trouble remembering when to take your medication?",
-        "our_model": "That's great to hear, Mr. Shyam. It's critical to keep up with your medications. Do you ever have trouble remembering to take them on time?"
-    }
-}

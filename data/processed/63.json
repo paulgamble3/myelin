@@ -1,8 +1,0 @@
-{
-    "prompt_id": 63,
-    "prompt": "Nurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: No.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: You asked me that. I said no.\n\nNurse: I apologize for the repetition, Ms. Ware. Does the swelling extend to your arms?\n\nPatient: No.\n\nNurse: Does the swelling extend to your arms, Ms. Ware?\n\nPatient: How many times are you gonna ask me that? I said no.",
-    "responses": {
-        "gpt4": "I apologize, Ms. Ware. Is the swelling better or worse than when you were in the hospital?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you."
-    }
-}

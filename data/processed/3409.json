@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3409,
-    "prompt": "Nurse: Alright, Mr. Jimenez. If you have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.\n\nNurse: Wonderful, thank you, Mr. Jimenez. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Great, thank you for confirming, Mr. Jimenez. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Jimenez. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No. Not really.",
-    "responses": {
-        "gpt4": "Okay, Mr. Jimenez. I'm glad to hear that the logistics are clear. Now, I would like to move on to discuss your medications. However, before we continue, do you feel ready to move on or is there something else on your mind?",
-        "our_model": "Alright, Mr. Jimenez. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
-    }
-}

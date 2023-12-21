@@ -1,8 +1,0 @@
-{
-    "prompt_id": 214,
-    "prompt": "Patient: Does this mean I have to have dialysis?\n\nNurse: Your lab results do show some signs of kidney damage, Ms. Aguirre. However, whether you need dialysis depends on many factors and is typically determined by your doctor. It's important to continue managing your health conditions and follow your doctor's advice. Would you like me to note this concern for your care team to review?\n\nPatient: Yes. Of force.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your response?\n\nPatient: I said yes. Of\n\nPatient: course.\n\nNurse: Thank you, Ms. Aguirre. I've made a note of your concern for your care team to review. They will be able to provide more detailed guidance based on your specific situation. Now, let's discuss your medications. You're currently prescribed Metformin 500 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's good to hear, Ms. Aguirre. Metformin is an important medication to help manage your diabetes. Now, let's move on to the next medicine. You're prescribed Tylenol 500 mg, taking 1000 mg three times a day as needed. Have you been taking this medication as indicated?",
-        "our_model": "That's great to hear, Ms. Aguirre. Taking your medication as prescribed is crucial in managing your conditions. Now, let's move on to the next medication. You're also prescribed Tylenol 500 mg, to be taken up to 1000 mg three times a day as needed. Have you been taking this medication as directed?"
-    }
-}

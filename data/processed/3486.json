@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3486,
-    "prompt": "Nurse: That's great! Pasta is a good choice for a low fiber diet. You can enjoy it with a simple sauce. Do you have a favorite pasta dish?\n\nPatient: Just like it plain.\n\nNurse: Plain pasta is a good choice. It's simple and easy to digest. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: No.\n\nNurse: Alright. In addition to the dietary changes, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. These types of supplements can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Great. Let's move on to discuss the clear liquid diet and the NuLYTELY laxative solution. This part of the prep is often considered the hardest. How are you feeling about it?",
-        "our_model": "Alright. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

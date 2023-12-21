@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1336,
-    "prompt": "Nurse: Alright, I'm glad to hear that. I'm here to support you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you. I see on your chart that you're currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Well,\n\nNurse: Yes, I'm here. Have you been taking your Tylenol as prescribed, which is 1000 mg three times a day as needed?\n\nPatient: I thought that was for pain.\n\nNurse: Yes, you're correct. Tylenol is often used to manage pain. You've been prescribed it to help manage your pain from osteoarthritis. Have you been taking it as directed, which is 1000 mg three times a day as needed?\n\nPatient: I'm not taking it yet.",
-    "responses": {
-        "gpt4": "Alright, it sounds like you have not started taking your Tylenol yet. It's really important to manage your pain, so I want to encourage you to start taking it. You're supposed to take 1000 mg three times a day as needed. Please reach out to your doctor if you're not sure about taking it yet. Do you have any questions about the Tylenol?",
-        "our_model": "I see, thank you for sharing that. The Tylenol is indeed for pain. It's there to help manage any discomfort you might have. You can start taking it as needed for pain, up to three times a day. Does that make sense?"
-    }
-}

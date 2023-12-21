@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4005,
-    "prompt": "Nurse: That's great to hear, Ms. Warrell. Staying on top of your medications is an important part of managing your health. Are you taking them twice a day as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent, Ms. Warrell. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?\n\nPatient: Oh, no. I don't. I have a pretty good\n\nNurse: That's fantastic, Ms. Warrell. It's great to hear that you've found a system that works for you. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Too.\n\nNurse: That's fantastic, Ms. Warrell. Having a good routine is key to managing medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Did you hear me?",
-    "responses": {
-        "gpt4": "I apologize for the miscommunication, Ms. Warrell. Yes, continuing on, I have a few questions regarding your CHF symptoms to better understand how you're managing at home. To start, have you been experiencing new or worsening shortness of breath with activity, while resting, or when lying down?",
-        "our_model": "Yes, Ms. Warrell, I heard you. You mentioned that you have a good routine for taking your medications. That's excellent. Now, I'd like to ask you a few questions about your symptoms. Is that okay with you?"
-    }
-}

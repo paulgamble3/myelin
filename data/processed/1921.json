@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1921,
-    "prompt": "Nurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm working on a fifty\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: seven Belvedere Plymouth right now.\n\nNurse: That's impressive. The 1957 Belvedere Plymouth is a classic. It must be quite a project. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. We have a few topics to cover today. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I don't think so.\n\nNurse: Alright. Let's start with your medications. Are you still taking your Valsartan, Lasix, and Metformin?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "Great, medications can play a crucial role in managing your CHF and diabetes. Is there a time you typically forget or find challenging to take your medication?",
-        "our_model": "Wonderful. And how are you taking them?"
-    }
-}

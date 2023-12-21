@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4433,
-    "prompt": "Nurse: That's perfectly fine, Mr. Delarosa. There's no place like home, after all. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Oh, I don't know. I I like knitting.\n\nNurse: Knitting is a wonderful hobby, Mr. Delarosa. It's therapeutic and can be quite relaxing. What do you usually knit?\n\nPatient: Socks.\n\nNurse: That's impressive, Mr. Delarosa. Knitting socks requires a lot of skill and patience. Do you have a favorite pair that you've made?\n\nPatient: No. I like them all.\n\nNurse: That's wonderful, Mr. Delarosa. It's great to hear that you enjoy your hobby. Now, I'm calling on behalf of Doctor Gervais and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Not at the moment. They may come up later.",
-    "responses": {
-        "gpt4": "Absolutely, Mr. Delarosa. Feel free to bring up any questions or concerns as they come up. \n\nNow, let's go over your discharge plan. Doctor Gervais would like you to continue taking the medications prescribed in the hospital. Do you have those medications at home?",
-        "our_model": "Of course, Mr. Delarosa. Feel free to ask any questions as they come up. Now, let's talk about your new medication. Have you been able to pick up your Metoprolol 25 mg oral tablets from the pharmacy?"
-    }
-}

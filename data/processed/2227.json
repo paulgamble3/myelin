@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2227,
-    "prompt": "Nurse: Alright. Now, let's transition to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great! It's important to arrange for a ride as you'll be sedated for the procedure and will not be able to drive yourself home. Is there anything else you would like to discuss regarding your transportation plans?",
-        "our_model": "That's great to hear. It's essential to have someone available to take you home after the procedure. Do you have any questions about the day of the procedure?"
-    }
-}

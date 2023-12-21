@@ -1,8 +1,0 @@
-{
-    "prompt_id": 50,
-    "prompt": "Nurse: That's great to hear, Ms. Ware. How about your Gabapentin?\n\nPatient: Yeah.\n\nNurse: Good to know, Ms. Ware. And are you also continuing with your Tylenol and Potassium as needed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Ware. It's essential to keep up with your medications. I understand that sometimes it can be challenging to remember all the doses. Do you ever have trouble taking your medication on time?\n\nPatient: And\n\nNurse: I'm sorry, Ms. Ware, I didn't quite catch that. Could you please repeat your response?\n\nPatient: No. For goodness' lasix. I'm not an idiot.",
-    "responses": {
-        "gpt4": "Oh, I'm sorry if I gave you that impression. I just wanted to ensure that everything is going well with your medication schedule. Managing medications can sometimes be complex. Let's move on. Is there anything else you would like to discuss about your healthcare?",
-        "our_model": "I apologize if I gave you that impression, Ms. Ware. I'm here to support you, not judge you. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5701,
-    "prompt": "Nurse: That's excellent. A 45-minute walk is a good way to stay active. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: Yes.\n\nNurse: Okay. It's critical to remember to listen to your body while exercising. If you feel short of breath or fatigued, it's okay to slow down or take a break. You might also consider adding some light strength training exercises to your routine, such as lifting small hand weights or using resistance bands. However, it's always best to consult with your doctor before starting any new exercise program. Does that sound manageable to you?\n\nPatient: Yes. It does.\n\nNurse: That's great to hear. Remember, the goal is to stay active and listen to your body. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: Now.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: No question.",
-    "responses": {
-        "gpt4": "Alright. If you come across any questions or concerns in the future, do not hesitate to ask. I'll let Dr. Maria Rodriguez know how you're managing at home. Is there anything else you'd like me to communicate to her?",
-        "our_model": "Alright. I'm glad to hear that you're comfortable with the information we discussed. I'll be sure to inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
-    }
-}

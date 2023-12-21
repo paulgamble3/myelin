@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3650,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I said no. I don't have trouble with that because I'm not an idiot.\n\nNurse: I apologize for any misunderstanding. I'm glad to hear that you're managing your medications well. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. I guess,\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's reassuring. How about a new or worsening dry cough? Have you experienced any of that?",
-        "our_model": "I'm glad to hear that. Have you noticed any new or worsening dry cough?"
-    }
-}

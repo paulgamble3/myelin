@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5901,
-    "prompt": "Nurse: I'm sorry I'm sorry to hear that you're feeling a bit worried. It's completely normal to have concerns about your health. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: It's just kinda all of it together, you know.\n\nNurse: I see, it's completely normal to feel overwhelmed when dealing with multiple health conditions. Remember, you're not alone in this. We're here to support you. Before we delve into the topics regarding your kidney disease, do you have any questions or concerns you'd like to discuss?\n\nPatient: There's a lot going on.\n\nNurse: I can imagine that managing multiple health conditions can feel overwhelming at times. It's a lot to keep track of. Before we delve into the specifics of your kidney disease, is there anything you're looking forward to doing this week that might help take your mind off things a bit?\n\nPatient: I don't know. I can't really think about so Now.\n\nNurse: That's That's perfectly fine. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing in your free time that you find relaxing or enjoyable?\n\nPatient: I mean, I guess so, but I can't think of it right now.",
-    "responses": {
-        "gpt4": "That's perfectly okay, Jon. We can always chat about that another time. For now, let's move on to a few important health topics. Are you okay if we go over these together?",
-        "our_model": "That's okay. It's not always easy to think of these things on the spot. Let's move on to some questions about your health. Are you okay if we go over a few topics to check on how you're doing?"
-    }
-}

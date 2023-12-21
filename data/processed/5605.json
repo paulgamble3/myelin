@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5605,
-    "prompt": "Nurse: Of course. Just remember, clear liquids include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. Do you have any remaining questions about the diet changes?\n\nPatient: No.\n\nNurse: Alright. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your NuLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: Is there anything else, Rachel?\n\nNurse: Yes, there's one more important step. You'll need to finish drinking the second half of the NuLYTELY laxative solution the morning of your procedure. Would you like some tips on making the bowel prep easier?\n\nPatient: You.\n\nNurse: Yes, I'm here to help. Would you like some tips on how to make the bowel prep easier?\n\nPatient: No. Thank you.",
-    "responses": {
-        "gpt4": "Of course. Just remember, some people don't have any problems and are able to drink all the bowel prep just fine. What kind of questions do you have about your bowel prep?",
-        "our_model": "Alright. Just remember, you can drink the laxative solution cold and through a straw to help it go down easier. Do you have any questions about your bowel prep?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2035,
-    "prompt": "Nurse: That's excellent, it sounds like you're well-prepared. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes. The night before in the morning of\n\nNurse: That's correct. I'm glad to hear you've got it down. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, I'm glad to hear that. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I wanna know if my pain will improve significantly after the surgery.\n\nNurse: That's a very important question. The goal of a total knee replacement is to relieve the pain in your knee caused by damage to the joint. Most people experience significant pain relief and improved mobility after recovery. However, it's important to remember that recovery can take time and physical therapy is a crucial part of that process. Do you have any other questions or concerns?\n\nPatient: So",
-    "responses": {
-        "gpt4": "Certainly. Do you have any other concerns or is there something specific you'd like to ask about the recovery process?",
-        "our_model": "Yes, I'm here to help."
-    }
-}

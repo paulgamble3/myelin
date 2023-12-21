@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3437,
-    "prompt": "Nurse: That's perfectly fine, Ms. Aguirre. Sometimes it's nice to have a quiet week. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: Hello?\n\nNurse: Yes, Ms. Aguirre, I'm here. You mentioned earlier that you're doing fine. I was asking if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Aguirre. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing with your chronic conditions?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great, Ms. Aguirre. Keeping a close eye on your blood sugar helps manage your diabetes. Could you please let me know what your last blood sugar reading at home was?",
-        "our_model": "That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

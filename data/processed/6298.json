@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6298,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: didn't say anything.\n\nNurse: My apologies for the confusion, Mr. Alves. Let's continue. Do you have any remaining questions about the clear liquid diet?\n\nPatient: No. I do not.\n\nNurse: Alright, Mr. Alves. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: Mhmm.\n\nNurse: Okay, Mr. Alves. Here are a couple of tips that might make the bowel prep a bit easier for you. First, you can drink the laxative solution cold. This can make it more palatable. Second, you can drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: Oh, I like it.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Alves! These tips should hopefully make the bowel prep a little more tolerable for you. Do you have any other questions or is there anything else you'd like to discuss?",
-        "our_model": "I'm glad to hear that you found the tips helpful, Mr. Alves. Remember, the goal is to make the process as comfortable as possible for you. Do you have any other questions about the bowel prep or is there anything else you'd like to discuss?"
-    }
-}

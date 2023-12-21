@@ -1,8 +1,0 @@
-{
-    "prompt_id": 738,
-    "prompt": "Nurse: I'm sorry, Ms. Peck, you were saying something about your diet?\n\nPatient: chronic kidney disease too. So I have to\n\nNurse: Yes, Ms. Peck, I understand that managing your diet can be challenging with both CHF and CKD. For your sodium-limited diet, it's important to avoid adding salt to your food and to check food labels for sodium content. Also, try to limit processed foods as they often have high sodium content. Would you like more suggestions on how to manage your sodium intake?\n\nPatient: avoid phosphorus, and so it's very complicated, and I could definitely use some help.\n\nNurse: I appreciate your openness, Ms. Peck. It's indeed a bit challenging to manage both sodium and phosphorus intake. For sodium, it's often found in processed foods, so cooking at home can help. When you do use canned goods, rinsing them can remove some sodium. Also, herbs and spices can add flavor without sodium. Would you like more suggestions?\n\nPatient: Well, just let me know what I should avoid.\n\nNurse: Of course, Ms. Peck. Foods high in sodium often include processed meats like ham, bacon, or sausage, canned soups, fast food, and certain cheeses. It's also a good idea to check food labels for sodium content. Now, let's talk about phosphorus. It's often found in dairy products, beans,\n\nPatient: I know you said processed foods, but",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Peck, could you please complete your sentence? You were asking about processed foods?",
-        "our_model": "Of course, Ms. Peck. In addition to processed foods, some common foods that can be high in sodium include bread, pizza, sandwiches, cold cuts like the tuna in your sandwich, and soups."
-    }
-}

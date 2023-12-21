@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4683,
-    "prompt": "Nurse: That's good to hear, Mr. Amador. Now, the other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: No. I'm good.\n\nNurse: That's perfectly fine, Mr. Amador. Do you have any questions about the bowel prep?\n\nPatient: No.\n\nNurse: When did the patient start having bloody stool?\n\nPatient: What?\n\nNurse: Does the patient have bloody or black, tarry stool?\n\nPatient: We've already talked about this, and this is coming out of nowhere.",
-    "responses": {
-        "gpt4": "I apologize, Mr. Amador. Do you experience any weakness or dizziness, especially when standing up?",
-        "our_model": "Does the patient have abdominal pain?"
-    }
-}

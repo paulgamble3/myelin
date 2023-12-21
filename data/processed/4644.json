@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4644,
-    "prompt": "Nurse: Great, thank you for your time, Mr. Amador. How has your day been so far?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that, Mr. Amador. Do you have any plans for the rest of the day?\n\nPatient: Not really. Just hanging out.\n\nNurse: That sounds relaxing, Mr. Amador. Hanging out can be a good way to unwind. Do you have any hobbies or activities that you enjoy doing during your downtime?\n\nPatient: I like to read.\n\nNurse: That's wonderful, Mr. Amador. Reading is a great way to relax and expand your knowledge. What type of books do you enjoy?\n\nPatient: Yeah. To see books.",
-    "responses": {
-        "gpt4": "I see, you enjoy reading books about the ocean - that's fascinating. The ocean is such an expansive and intriguing world. Is there a particular aspect about the ocean that interests you?",
-        "our_model": "That's interesting, Mr. Amador. It's always exciting to see the world through someone else's eyes. Do you have a favorite travel book or destination that you've read about?"
-    }
-}

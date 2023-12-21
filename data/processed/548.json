@@ -1,8 +1,0 @@
-{
-    "prompt_id": 548,
-    "prompt": "Nurse: As an AI, I don't have feelings, but I'm here to assist you. I'm glad to hear you're doing well. It must be nice to be back home. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Well, Just looking for just seeing my family more. We're actually all going on a cruise in a couple of weeks, so we're pretty excited for that.\n\nNurse: That sounds wonderful. Family time is precious, and a cruise sounds like a fantastic way to spend it. What kind of activities are you planning to do on the cruise?\n\nPatient: Well, it's an Alaskan cruise. So it's gonna do a lot of sites seeing And\n\nNurse: That sounds amazing.\n\nPatient: Just\n\nNurse: I'm sorry, Lily, I didn't quite catch that last part.\n\nPatient: Yeah. Mostly, I I plan on just kinda sitting on the Lido deck and",
-    "responses": {
-        "gpt4": "I apologize, but your message was cut off again. Could you please repeat what you're planning to do on the Lido deck?",
-        "our_model": "That sounds like a lovely plan. Relaxing on the Lido deck while taking in the beautiful views of Alaska sounds perfect."
-    }
-}

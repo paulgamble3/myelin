@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4664,
-    "prompt": "Nurse: Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you, Mr. Amador?\n\nPatient: Yes.\n\nNurse: Is there anything else about the logistics that's worrying you, Mr. Amador?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. Do you have any questions or concerns about the logistics of the procedure?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. I'm going to move on to talk about your medications. But before I do, I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great. I see in your chart that you do not have any medication changes to be aware of for the procedure. Are you currently taking any other medications like Advil, Aspirin, Aleve, or any other blood thinners, Mr. Amador?",
-        "our_model": "I see on your chart that you're currently not on any medication that needs to be stopped before the procedure. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners, Mr. Amador?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2979,
-    "prompt": "Nurse: When was your blood sugar reading of one hundred over eighty taken?\n\nPatient: This morning.\n\nNurse: Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No.\n\nNurse: Do you currently have any symptoms such as nausea or vomiting?\n\nPatient: No.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: I don't have an issue.",
-    "responses": {
-        "gpt4": "Alright, I understand. Are you currently taking any insulin or other medicines to help manage your blood sugar levels?",
-        "our_model": "I understand. I'm glad to hear that you're not experiencing any symptoms. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?"
-    }
-}

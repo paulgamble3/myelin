@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5683,
-    "prompt": "Nurse: That's great to hear. It's critical to take your medications as prescribed to manage your CHF. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble taking your medication on time?\n\nPatient: No.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Go for it.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Okay.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. Shortness of breath can be a sign of worsening heart failure, so it's great that you're not experiencing it. Now, have you noticed any swelling in your feet, ankles, or legs, or any unusual weight gain? This can be another sign of a worsening heart condition.",
-        "our_model": "I apologize for the confusion earlier. I want to confirm, have you been experiencing any new or worsening shortness of breath?"
-    }
-}

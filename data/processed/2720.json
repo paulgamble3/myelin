@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2720,
-    "prompt": "Nurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting\n\nPatient: It's on my radar.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting smoking. Can you share what you think might be the most challenging aspect of quitting for you?\n\nPatient: I mean, it's an addiction. So that.\n\nNurse: I see, Ms. Aguirre. It's indeed a challenging journey, but remember, it's a step-by-step process. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: Okay. I'm good for now.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what you just said?\n\nPatient: I said I'm good for now.",
-    "responses": {
-        "gpt4": "Perfect, Ms. Aguirre. If you ever need support or resources in the future, please don't hesitate to ask. Is there anything else you'd like to discuss today?",
-        "our_model": "Alright, Ms. Aguirre. If you ever change your mind or if you have any questions about quitting smoking in the future, don't hesitate to ask. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3481,
-    "prompt": "Patient: No.\n\nNurse: Wonderful. What are some low fiber foods that you enjoy?\n\nPatient: I really like past the\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: I said I really like clock.\n\nPatient: Done?\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: I really like pasta.",
-    "responses": {
-        "gpt4": "Great, pasta can be an excellent choice. Just make sure to steer clear of whole grain versions and avoid adding lots of vegetables as toppings until after your procedure. Have you already thought about what you might eat in the days leading up to your colonoscopy?\n",
-        "our_model": "That's great!"
-    }
-}

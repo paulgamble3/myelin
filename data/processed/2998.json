@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2998,
-    "prompt": "Nurse: I see. It's essential to note that. Have you been experiencing any ongoing or worsening chest pain?\n\nPatient: No. No. No chest pain, thankfully.\n\nNurse: I'm glad to hear that. Now, you mentioned a dry cough earlier. Is this new or has it been ongoing?\n\nPatient: This is new since the hospital. I had a cost that was with me before the hospital. Now it's come back again.\n\nNurse: I see, a new or worsening dry cough can be a sign of fluid buildup in the lungs. It's essential to monitor this closely. Now, you mentioned earlier that you've gained weight. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I think you asked me about that, and I said, thankfully, that hasn't started yet. Just the weight gain.\n\nNurse: That's good to hear. It's critical to keep an eye out for any swelling. Now, you mentioned earlier that you've gained weight. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Yes. I told you I gained two pounds in the last day.",
-    "responses": {
-        "gpt4": "I apologize if I asked that again. A weight gain of two pounds in a day can be a sign of fluid retention, which can explain some of the symptoms you're experiencing. The last symptom I wanted to ask about is your sleeping posture. Have you started using more pillows at night to sleep?",
-        "our_model": "I see, that's a significant weight gain in a short period. It's critical to monitor this closely. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

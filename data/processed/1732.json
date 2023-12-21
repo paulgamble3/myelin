@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1732,
-    "prompt": "Nurse: I'm sorry, Ms. Winner, I didn't quite catch that. Could you please confirm if it's okay for us to discuss your medications?\n\nPatient: I said, yeah. Let's go.\n\nNurse: Thank you, Ms. Winner. I see on your chart that you are currently taking Jardiance 25 mg two times a day, Hydrochlorothiazide 50 mg two times a day, Atorvastatin 20 mg once a day, and Ozempic 2 mg once a week. Have you been taking these medications as prescribed?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Ms. Winner. Are you taking any other medications that we haven't discussed yet, such as over-the-counter medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: Alright, Ms. Winner. I also see that you've been prescribed Tylenol 1000 mg three times a day as needed, and Celebrex 100 mg two times a day as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Ms. Winner. It's important to have those on hand after the procedure. Do you have any questions about any of the medications we've discussed?",
-        "our_model": "That's great, Ms. Winner. It's important to have those medications on hand for after your procedure. Do you have any questions about these medications or any other medications you're currently taking?"
-    }
-}

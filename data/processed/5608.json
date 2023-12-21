@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5608,
-    "prompt": "Nurse: Yes, I'm here to help. Would you like some tips on how to make the bowel prep easier?\n\nPatient: No. Thank you.\n\nNurse: Alright. Just remember, you can drink the laxative solution cold and through a straw to help it go down easier. Do you have any questions about your bowel prep?\n\nPatient: Nope.\n\nNurse: Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Nope.\n\nNurse: Wonderful. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Thank you for being so patient. My next question is crucial. Have you experienced any signs of illness recently, such as a fever, chills, or muscle aches?",
-        "our_model": "Alright. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?"
-    }
-}

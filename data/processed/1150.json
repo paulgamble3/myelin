@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1150,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Cardenas. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: No. I haven't.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. That's good to hear, Mr. Cardenas. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, it's been really hard.\n\nNurse: I'm sorry to hear that you're finding it challenging, Mr. Cardenas. Could you share more about what you've been eating recently?\n\nPatient: So I have the Glutes two deficiency\n\nNurse: I'm sorry to hear that you're finding it challenging, Mr. Cardenas. Could you please tell me more about the difficulties you're experiencing with your diet?\n\nPatient: And so I I'm not sure what dietary restrictions",
-    "responses": {
-        "gpt4": "I understand you have dietary restrictions due to your GSD II and CHF, Mr. Cardenas, and that can be difficult. If it's alright with you, I'd like to share some dietary recommendations that are specific for your conditions. Would you like to hear them?",
-        "our_model": "I understand that managing dietary restrictions can be challenging, Mr. Cardenas. Could you please share more about the meals you've had recently?"
-    }
-}

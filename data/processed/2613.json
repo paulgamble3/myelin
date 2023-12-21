@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2613,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Audrey Cruz?\n\nPatient: Yes. It's Audrey.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure. February nineteenth nineteen fifty five.\n\nNurse: Thank you for confirming that, Ms. Cruz. I'm calling on behalf of your primary care doctor, Doctor Jeff Crane. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm feeling alright. Thank you.",
-    "responses": {
-        "gpt4": "I'm pleased to hear you're doing alright, Ms. Cruz. Being back at home must be quite a welcome change after your stay at the hospital. As you're adjusting, is there something that you're particularly looking forward to doing now that you're back?",
-        "our_model": "I'm glad to hear that, Ms. Cruz. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?"
-    }
-}

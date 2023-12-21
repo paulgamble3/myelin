@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2650,
-    "prompt": "Nurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: Thank you.\n\nNurse: You're welcome, Ms. Cruz. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Some meals that I've had\n\nNurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?\n\nPatient: I've had a lot of\n\nNurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?\n\nPatient: Okay. There's a lot of",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?",
-        "our_model": "I'm sorry, Ms. Cruz, your response got cut off. Could you please continue and tell me about some of the meals you've had recently?"
-    }
-}

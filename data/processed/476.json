@@ -1,8 +1,0 @@
-{
-    "prompt_id": 476,
-    "prompt": "Nurse: I'm glad to hear that you're not experiencing any chest pain. Have you noticed any new or worsening dry cough?\n\nPatient: Well, yeah, the dry cough is still there.\n\nNurse: I'm sorry to hear that the dry cough is still persisting. It's important to keep an eye on this.\n\nPatient: It's a little better. But it's still there.\n\nNurse: I'm sorry to hear that the dry cough is still bothering you. It's good that it's a bit better, but we'll continue to monitor it. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Well, they waived me at the ER. And",
-    "responses": {
-        "gpt4": "I'm sorry, can you please repeat that? I didn't quite catch it.",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

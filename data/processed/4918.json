@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4918,
-    "prompt": "Nurse: Thank you for that information. Could you please share what the reading was?\n\nPatient: Yeah. It was one twenty five over eighty.\n\nNurse: Thank you for sharing that. A blood pressure reading of 125 over 80 is within the normal range, which is good news. It's important to keep monitoring your blood pressure regularly. Would it be okay if I share some suggestions about managing blood pressure?\n\nPatient: Sure.\n\nNurse: Okay. Some strategies to manage blood pressure include reducing your salt intake, maintaining a healthy weight, and incorporating regular physical activity into your routine. It's also important to limit alcohol and quit smoking if you do. Do you think these are strategies you could implement?\n\nPatient: Yeah. I can implement those, but I do smoke.\n\nNurse: I appreciate your honesty.\n\nPatient: And I really don't wanna give that up right now.",
-    "responses": {
-        "gpt4": "I appreciate your honesty, and respect that giving up smoking can be a difficult process. Reducing or stopping smoking can significantly improve your overall health and particularly help manage your blood pressure. However, it's a personal decision and one that you must be ready to undertake. Now, I noticed from your recent lab results that you had some blood tests and urine labs done. Do you have any questions about them?",
-        "our_model": "I understand that quitting smoking can be a challenging process. It's essential to remember that it's a step-by-step journey and it's okay to take it one day at a time. When you're ready, there are resources available to help you. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

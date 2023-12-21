@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3763,
-    "prompt": "Nurse: Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you.\n\nPatient: walking.\n\nNurse: When did the change in speech start, Ms. Odonnell?\n\nPatient: I have no change in\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Beach. We're talking about my\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: type two diabetes.",
-    "responses": {
-        "gpt4": "I understand, Ms. Odonnell. I'm here to help you manage your type 2 diabetes. However, we observed a change in your speech pattern. As part of our check-up, may I ask if you've experienced any sudden leg or arm weakness lately?",
-        "our_model": "Does the patient report sudden arm or leg weakness?"
-    }
-}

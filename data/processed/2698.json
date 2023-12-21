@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2698,
-    "prompt": "Nurse: Thank you, Ms. Aguirre. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, rather than having one or two large meals. This can help prevent blood sugar spikes and crashes. What do you think about this suggestion?\n\nPatient: That sounds fine.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Another suggestion is to incorporate more physical activity into your daily routine. This could be as simple as taking a short walk after meals. Do you think you could try that?\n\nPatient: Sure.\n\nNurse: That's great to hear, Ms. Aguirre. Regular physical activity can really help with managing blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: Yeah. It was about a hundred and five over eighty two.\n\nNurse: Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit higher than the ideal range. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Thank you, Ms. Aguirre. One recommendation is to reduce your sodium intake. This could be as simple as checking food labels and choosing options with less sodium. Another suggestion is to manage stress as best as possible. Activities like yoga, deep-breathing exercises, and even certain hobbies can help with this. What do you think about these suggestions?",
-        "our_model": "Thank you, Ms. Aguirre. One suggestion is to reduce your sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?"
-    }
-}

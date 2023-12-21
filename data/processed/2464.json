@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2464,
-    "prompt": "Nurse: Alright, Mr. Oliver. If you have any questions in the future, don't hesitate to ask. It's great that you're proactive about your health. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I smoke a pack of cigarettes today.\n\nNurse: Thank you for sharing that with me, Mr. Oliver. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: I'm not really interested in that.\n\nNurse: I appreciate your honesty, Mr. Oliver. It's a big decision to make. Can you share with me why you're not interested in quitting at this time?\n\nPatient: I just don't feel like it.\n\nNurse: I understand, Mr. Oliver. It's a personal decision. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: No. Thanks.",
-    "responses": {
-        "gpt4": "Completely understood, Mr. Oliver. Remember, I'm here to support you in managing your health. If you ever decide you're ready to consider quitting or just have questions, feel free to ask. Now, I think we've covered everything your doctor wanted to check in on today. Do you have any other questions or anything else on your mind that you'd like to discuss?",
-        "our_model": "That's perfectly fine, Mr. Oliver. If you ever decide you'd like to explore that option, don't hesitate to ask. I'm here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

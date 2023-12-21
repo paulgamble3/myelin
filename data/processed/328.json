@@ -1,8 +1,0 @@
-{
-    "prompt_id": 328,
-    "prompt": "Nurse: Alright. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Hello?\n\nPatient: I've been following that\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: called. What the hell is it called?\n\nNurse: Are you referring to the DASH diet?\n\nPatient: I've been bought\n\nPatient: Let me talk.",
-    "responses": {
-        "gpt4": "I'm sorry, Damian, your voice cut out a bit there. Could you please repeat what you were saying?",
-        "our_model": "Of course, please go ahead. You were saying you've been following a certain diet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3521,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Martin. Now, have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Martin. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great, Mr. Martin. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Martin. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Martin. What we just performed was a simple CHF assessment. It's a good idea to regularly monitor these symptoms at home. I know keeping track of these symptoms might seem a bit complicated. Do you have any questions about how to do so?",
-        "our_model": "That's great, Mr. Martin. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?"
-    }
-}

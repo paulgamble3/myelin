@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3495,
-    "prompt": "Nurse: Wonderful. You can drink the laxative solution cold. This can make it easier to drink. You can also drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: Yeah. Sounds good.\n\nNurse: I'm glad to hear that. Do you have any questions about the bowel prep or the tips I shared?\n\nPatient: No.\n\nNurse: Alright. Some people don't have any problems and are able to drink all the bowel prep just fine. It's critical to follow the instructions to ensure the colonoscopy goes smoothly. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay. Let's proceed then. It's crucial to check for illness signs leading up to your procedure. So, Eunice, have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?",
-        "our_model": "Alright. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as a fever, chills, or muscle aches?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3227,
-    "prompt": "Nurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: But I know it's\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: that I gained weight.\n\nNurse: I see. Can you tell me how much weight you've gained?\n\nPatient: Which makes me really upset.",
-    "responses": {
-        "gpt4": "I understand how you feel. Weight fluctuations can be distressing. Can you tell me how much weight you've gained?",
-        "our_model": "I'm sorry to hear that you're feeling upset about weight gain. It's a common concern, especially with CHF. Can you tell me how much weight you've gained?"
-    }
-}

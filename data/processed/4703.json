@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4703,
-    "prompt": "Patient: been able to pick it up.\n\nNurse: I'm glad to hear that you've picked up your Captopril. Just to confirm, you're taking 6.25 mg of Captopril two times a day, correct?\n\nPatient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Is the patient going to hurt themselves?\n\nPatient: What are you talking about? I am the patient.\n\nNurse: I apologize for any confusion. I'm here to help you. In the past month, have you felt down or depressed?\n\nPatient: I'm not going to hurt myself, but I am terrified about this diagnosis.",
-    "responses": {
-        "gpt4": "I understand your concerns and fears, that's completely natural considering the circumstances. Have you thought about self-harm or suicide recently?",
-        "our_model": "I'm sorry for any confusion. In the past month, have you felt down or depressed?"
-    }
-}

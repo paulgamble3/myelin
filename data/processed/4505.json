@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4505,
-    "prompt": "Nurse: Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: I'm okay. I'm a little scared of all the health\n\nNurse: I'm sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: stuff I've got going on, but\n\nNurse: I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?\n\nPatient: Well, I've had a little bit of weight gain and some\n\nNurse: I see, weight gain can be a concern. May I ask how much weight you've gained and over what period of time?\n\nPatient: and swelling in my lower legs.",
-    "responses": {
-        "gpt4": "I understand that you're experiencing some swelling in your lower legs. Can you specify whether this is happening in one leg or both legs? Earlier, I thought I heard you mention unilateral leg swelling. Is that accurate?",
-        "our_model": "I'm sorry to hear that you're experiencing some weight gain and swelling in your lower legs. Can you confirm if it's just one leg or both legs that are swollen?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5174,
-    "prompt": "Nurse: I apologize for the repetition. I'm here to make this process as easy as possible for you. Do you have any other questions or concerns about the bowel prep?\n\nPatient: No.\n\nNurse: Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Excellent. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. Not that I could think of.\n\nNurse: Alright. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No. No. Not at all.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're feeling well. My final question involves your transportation plan for after the procedure. Have you arranged for a ride home afterwards? It's important to note that you won't be allowed to drive yourself due to the sedation given during the colonoscopy.",
-        "our_model": "That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

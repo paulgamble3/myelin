@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3714,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said no muscle aches.\n\nNurse: Thank you for clarifying. It's good to hear that you're not experiencing any signs of illness. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Right.\n\nNurse: Excellent. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That's\n\nNurse: Great.\n\nPatient: deals to place",
-    "responses": {
-        "gpt4": "That's wonderful to hear. Now, it's important to know that you will need someone to pick you up from the hospital and stay with you for at least 24 hours after your procedure. Do you have someone arranged for this?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

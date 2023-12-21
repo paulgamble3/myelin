@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4691,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: February nineteen nineteen fifty five.\n\nNurse: Thank you for confirming that. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Absolutely petrified.\n\nNurse: I'm really sorry to hear that you're feeling this way. It's completely normal to feel a bit overwhelmed after a hospital stay. Is there anything in particular that you're looking forward to doing now that you're back home?\n\nPatient: Trying to get my mind off of the scary diagnosis\n\nNurse: I can imagine that it's a challenging time for you. Engaging in activities you enjoy can be a good distraction. Do you have any hobbies or interests that you usually find comforting?\n\nPatient: Verified.",
-    "responses": {
-        "gpt4": "Thank you, Audrey. I can understand why this might be stressful for you, and it's really important that we address any worries or concerns you might have. I'm here on behalf of Dr. Jeff Crane to provide support and answers. Is there anything on your mind, any questions or concerns you'd like to address before we talk more on the recent changes in medications and diet guidelines provided by Dr. Crane?",
-        "our_model": "I can imagine that it's a challenging time for you. Diverting your mind to things you enjoy can be a good way to cope. Do you have any hobbies or interests that you find relaxing or enjoyable?"
-    }
-}

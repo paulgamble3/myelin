@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3056,
-    "prompt": "Nurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: It's\n\nNurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: Well, I can't complain.\n\nNurse: I'm glad to hear that, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: Oh, I don't know. I'll probably hang up a few Christmas decorations.\n\nNurse: That sounds like a lovely way to spend your time, Mr. Hardy. Do you have a favorite Christmas decoration that you're particularly excited to hang up?\n\nPatient: No. Not really.",
-    "responses": {
-        "gpt4": "Alright, it's always enjoyable to get into the holiday spirit nonetheless. Decorating can be a fun activity. Before we move forward, do you have any health concerns or symptoms that have been bothering you lately? Anything at all that you'd like to discuss?",
-        "our_model": "That's perfectly fine, Mr. Hardy. It's always nice to have a change in the home decor, especially during the holiday season. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

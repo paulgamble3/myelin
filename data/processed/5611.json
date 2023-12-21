@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5611,
-    "prompt": "Nurse: Wonderful. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. My last question is about your transportation after the procedure. Have you arranged for a ride home after your colonoscopy?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up after the procedure. Do you have any questions about the logistics of your procedure day?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, that sounds good. That was the last topic for today. Do you have any other questions or concerns you'd like to discuss before we end the call?",
-        "our_model": "Alright. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

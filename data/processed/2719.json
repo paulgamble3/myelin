@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2719,
-    "prompt": "Nurse: Thank you for sharing that with me, Ms. Aguirre. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: I thought I got it, but it's too hard right now. If that was something I'm\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting\n\nPatient: It's on my radar.\n\nNurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting smoking. Can you share what you think might be the most challenging aspect of quitting for you?\n\nPatient: I mean, it's an addiction. So that.\n\nNurse: I see, Ms. Aguirre. It's indeed a challenging journey, but remember, it's a step-by-step process. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: Okay. I'm good for now.",
-    "responses": {
-        "gpt4": "Absolutely, Ms. Aguirre. We're here for you when you're ready. If you change your mind in the future or have any questions about quitting smoking, don't hesitate to reach out. Let's move on. I wanted to ask about your sleep. Have you been having any trouble sleeping?",
-        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat what you just said?"
-    }
-}

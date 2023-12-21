@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4572,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Peck. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: I'm okay.\n\nNurse: I'm glad to hear that you're doing okay, Mr. Peck. Is there anything you're looking forward to doing this week?\n\nPatient: Yes. I'm going to the theater.\n\nNurse: That sounds exciting, Mr. Peck! What play are you planning to see at the theater?\n\nPatient: Samalite.\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch the name of the play. Could you please repeat it for me?\n\nPatient: Camelot.",
-    "responses": {
-        "gpt4": "Fantastic! Camelot is a classic. Enjoy the performance. Earlier, though, I had trouble hearing when you mentioned a change in your speech. Could you please confirm this?",
-        "our_model": "I'm sorry, Mr. Peck, I didn't quite understand. Are you saying that you're experiencing a change in your speech?"
-    }
-}

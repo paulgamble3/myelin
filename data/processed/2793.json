@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2793,
-    "prompt": "Nurse: Great, let's discuss your medications. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: No. I've been taking Tylenol for a while with it off the email.\n\nNurse: I'm sorry, I didn't quite catch that last part. Could you\n\nPatient: So yeah.\n\nNurse: please repeat Alright, if you're comfortable with your medication regimen, let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Not.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: No. I am not.",
-    "responses": {
-        "gpt4": "Thank you for the confirmation. That's good, because certain medications like those could interfere with the procedure. Now let's talk about the bowel prep process. Are you familiar with what you will need to do the day before your colonoscopy?\n",
-        "our_model": "Thank you for confirming that. It's essential to avoid those medications unless specifically recommended by your doctor. Do you have any questions about medications before we move on to discussing your diet?"
-    }
-}

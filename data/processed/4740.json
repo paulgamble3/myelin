@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4740,
-    "prompt": "Nurse: I see, could you please share what you consider to be\n\nPatient: I don't wanna deprive myself.\n\nNurse: a normal I understand that changing your diet can feel like a big step. Could you share a bit more about what you consider a normal meal?\n\nPatient: Just whatever I want.\n\nNurse: I see. It's critical to remember that our diet plays a crucial role in managing CHF and diabetes. Would it be okay if I shared some dietary recommendations with you?\n\nPatient: Soup.\n\nNurse: Soup can be a good choice, especially if it's homemade and not high in sodium. Would you like me to share some dietary recommendations that could help manage your CHF and diabetes?\n\nPatient: That sort of thing. Nothing fancy, basic food, but",
-    "responses": {
-        "gpt4": "I see. Soup can be a good option, especially if it's low in sodium. Now, given your conditions, Doctor Crane recommends a fluid restriction of 1.5 Liters and a diet restricted to 1500 mg of Sodium a day. This can help manage the fluid balance in your body and reduce the workload on your heart. Would you like me to explain how you can adjust your regular meals according to these recommendations?",
-        "our_model": "I see. Soup can be a good choice, as long as it's not too high in sodium. Would it be okay if I shared some dietary recommendations with you?"
-    }
-}

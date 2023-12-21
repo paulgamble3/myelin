@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3213,
-    "prompt": "Nurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm okay.\n\nNurse: I'm glad to hear that. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: No.\n\nNurse: That's alright. Sometimes it's just nice to be in familiar surroundings. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: No. I don't.\n\nNurse: That's okay. We all have our own ways of spending our time. How about the weather?\n\nPatient: It's been raining.",
-    "responses": {
-        "gpt4": "I see, I hope you enjoy the sound of the rain. It can be quite soothing. I'm calling on behalf of your primary care doctor, Dr. Sarah Forbes, to discuss a few things related to your recent hospital visit. Before we get started, is there anything on your mind that you'd like to discuss or any concerns you might have?",
-        "our_model": "Oh, I see. Rain can be quite relaxing though, don't you think?"
-    }
-}

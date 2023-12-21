@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1252,
-    "prompt": "Nurse: I see, Ms. Raynier. You're currently not taking Albuterol for your asthma, correct?\n\nPatient: I don't have asthma.\n\nNurse: My apologies for misunderstanding, Ms. Raynier. I see that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier, Ms. Raynier. I thought you mentioned Advent Adventville, which I couldn't find in our records. Could you please clarify which medication you were referring to?\n\nPatient: In.\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat which medication you were referring to earlier?\n\nPatient: Let's move on.",
-    "responses": {
-        "gpt4": "Sure, we can move on, Ms. Raynier. If you remember the name of the medication later, please let me or your care team know. So, you've picked up your post-surgery Tylenol and Tramadol from the pharmacy, that's good to hear. Are there any other medications we should be aware of?",
-        "our_model": "Of course, Ms. Raynier. Do you have any questions about your medications or is there anything else you'd like to discuss regarding them?"
-    }
-}

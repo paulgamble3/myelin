@@ -1,8 +1,0 @@
-{
-    "prompt_id": 697,
-    "prompt": "Nurse: That's excellent. It sounds like you're doing a great job managing your diet. I understand it can be challenging at times. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I apologize for the delay. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: I said no.\n\nNurse: I understand. Thank you for your time. Now, could you tell me about your current exercise routine?\n\nPatient: I'm walking.\n\nNurse: That's great! Walking is a\n\nPatient: That's about all I can do right now. Is locked.",
-    "responses": {
-        "gpt4": "I can understand why you might feel that way. It's great to hear that you're able to do some walking. Are you experiencing any discomfort or challenges when doing so?",
-        "our_model": "Walking"
-    }
-}

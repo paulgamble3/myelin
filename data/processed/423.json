@@ -1,8 +1,0 @@
-{
-    "prompt_id": 423,
-    "prompt": "Patient: Nope. Not at all.\n\nNurse: I'm glad to hear that.\n\nPatient: Am looking forward to the surgery deleted or not. I've been getting ready.\n\nNurse: That's a great attitude to have. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please. Yes.\n\nPatient: What about medication?\n\nNurse: Wonderful. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?\n\nPatient: Yes. Yes. Wait. Plavix.",
-    "responses": {
-        "gpt4": "Correct. Have you stopped taking Plavix as instructed?",
-        "our_model": "Yes, Plavix. You've confirmed that you've stopped taking it, correct?"
-    }
-}

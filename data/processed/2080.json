@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2080,
-    "prompt": "Nurse: I'm here to help. If you have any other questions or concerns about when to stop eating and drinking before your procedure, please feel free to ask.\n\nPatient: Yes.\n\nNurse: I'm glad that's clear. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Will I be able to move around freely?\n\nNurse: Yes, the goal of a total knee replacement is to relieve pain and improve mobility in your knee. After recovery, most patients experience significant pain relief and improved mobility.\n\nPatient: After the surgery?\n\nNurse: Yes, the goal of a total knee replacement is to relieve pain and improve mobility. After recovery, most patients experience significant pain relief and improved mobility. However, it's important to remember that everyone's recovery process is unique, and it may take some time to see the full benefits. You'll likely start physical therapy soon after your surgery to help regain strength and mobility in your knee. Does that help answer your question?\n\nPatient: But okay. It. It's okay.",
-    "responses": {
-        "gpt4": "I understand this can be overwhelming. If you have more questions or concerns about the surgery or the recovery process in the future, don't hesitate to get in touch. Now, for my next question: Have you been experiencing any signs of illness such as fever, chills, or muscle aches?",
-        "our_model": "I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?"
-    }
-}

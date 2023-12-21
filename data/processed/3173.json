@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3173,
-    "prompt": "Nurse: Of course, That's a very important goal, and one that's achievable with your upcoming surgery. Moving around without pain can significantly improve your quality of life. How are you feeling about the procedure itself?\n\nPatient: I mean,\n\nNurse: Yes, it's completely normal to have some feelings about the upcoming procedure. If you have any specific questions or concerns you'd like to discuss before we move forward, please feel free to share them. [\n\nPatient: I'm feeling okay about the procedure itself.\n\nNurse: That's good to hear. I'm here today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: I'm just wondering, you know, because I do have\n\nNurse: Absolutely, it's important to address all your concerns. You were saying you have a question about your current condition. Please, go ahead and ask. [\n\nPatient: I do have arthritis.",
-    "responses": {
-        "gpt4": "Yes, your medical records indicate that you have osteoarthritis, which is one of the reasons for your total knee replacement surgery. Dr. Cristina Stevens, an expert Orthopedic Surgeon, will be performing your surgery, and she is vastly experienced with such procedures. If you have specific questions related to your procedure or your condition, feel free to ask.",
-        "our_model": "I see, you're wondering about how your arthritis might affect the procedure or the recovery process. That's a valid concern. If it's okay with you, I'd like to review a few topics related to"
-    }
-}

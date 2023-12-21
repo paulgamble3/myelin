@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4253,
-    "prompt": "Nurse: It's quite common to occasionally forget, Mr. Shyam. Would it be alright if I shared some strategies that might help you remember to take your medications on time?\n\nPatient: Yeah. Sure.\n\nNurse: Great, Mr. Shyam. One strategy could be setting reminders on your phone or a clock. Another could be associating taking your medication with a daily routine, like brushing your teeth or having a meal. Would any of these strategies work for you?\n\nPatient: Yeah. That all makes sense. Thanks.\n\nNurse: You're welcome, Mr. Shyam. I'm glad I could help. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. Sure.\n\nNurse: Thank you, Mr. Shyam. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I haven't.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Shyam. How about any ongoing or worsening chest pain?",
-        "our_model": "That's good to hear, Mr. Shyam. Have you experienced any ongoing or worsening chest pain?"
-    }
-}

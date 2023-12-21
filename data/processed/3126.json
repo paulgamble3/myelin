@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3126,
-    "prompt": "Patient: I'm feeling good. I mean, I just wanna get it over with, you know,\n\nPatient: Get it done.\n\nNurse: Absolutely, Mr. Valenzuela. It's completely normal to feel that way. It's a big step, but it's also a crucial one in managing your health. Before we dive into the details, do you have any questions or concerns you'd like to discuss?\n\nPatient: Not really. Let's let's dive in.\n\nNurse: Alright, Mr. Valenzuela. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I know it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I am feeling hopeful\n\nNurse: That's a wonderful attitude to have, Mr. Valenzuela. We hope this procedure gives you and your doctor the answers you're looking for. If it's alright with you, I'd like to go over a few topics on prep for your colonoscopy. Is that okay?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Fantastic, Mr. Valenzuela. My primary goal for today\ufffd\ufffd\ufffds call is to make sure you have everything you need and to answer any questions you might have ahead of your procedure. We will also schedule another call the day before your colonoscopy. Let's begin with the first topic, which is the importance of a proper diet before the procedure. How familiar are you with the recommended dietary guidelines?",
-        "our_model": "Great, Mr. Valenzuela. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our checklist. Are you clear on the dietary restrictions leading up to your procedure?"
-    }
-}

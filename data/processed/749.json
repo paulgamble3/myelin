@@ -1,8 +1,0 @@
-{
-    "prompt_id": 749,
-    "prompt": "Nurse: Great, Ms. Peck. When it comes to dairy products, it's best to choose those that are low in phosphorus. This includes foods like cream, sour cream, and cream cheese. However, it's important to watch the sodium content in these foods as well. As for beans, lentils, nuts, and whole grains, these are healthy foods but they are high in phosphorus. It's okay to have them, but it's a good idea to limit the amount you eat. Would you like more suggestions?\n\nPatient: It's very confusing.\n\nNurse: I understand, Ms. Peck. It can be challenging to balance all these dietary recommendations. It's okay to take small steps and make changes gradually. Remember, the goal is to make your diet as healthy as possible while managing your sodium and phosphorus intake. Would you like to discuss this further?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Ms. Peck. I was saying that the goal is to make sustainable changes. It's okay to take small steps and make changes gradually. Would you like to discuss this further?\n\nPatient: Oh, I don't know. I think I've had enough for now.\n\nNurse: That's perfectly fine, Ms. Peck. We can always continue this discussion at another time. Now, let's talk about your exercise routine. Could you tell me what you've been doing for physical activity?\n\nPatient: Well, I haven't been doing that much. I mean,",
-    "responses": {
-        "gpt4": "I understand, Ms. Peck. It can be difficult to get started with regular physical activity. Can you tell me a bit more about what's been keeping you from exercising?",
-        "our_model": "I understand, Ms. Peck. It's okay to start slow. Could you tell me a bit more about what you're currently able to do?"
-    }
-}

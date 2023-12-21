@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1589,
-    "prompt": "Nurse: I understand that it's a bit of a change, Mr. Reynolds. Do you have any questions about\n\nPatient: Like, a free pass on the unhealthy foods.\n\nNurse: Yes, Mr. Reynolds, in a way, you could think of it as a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any favorite low fiber foods that you might consider as comfort food?\n\nPatient: I'm definitely gonna eat a lot of bread.\n\nNurse: Bread is a great choice, Mr. Reynolds. It's low in fiber and can be quite comforting. You can enjoy it with some butter or jam if you'd like. Do you usually have a particular type of bread you prefer?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Mr. Reynolds. I was asking about your favorite type of bread. [\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "Mr. Reynolds, I apologize if my question was unclear. I was asking if you have a preferred type of bread that you find comforting and would enjoy eating during your low fiber diet period before your colonoscopy.",
-        "our_model": "I'm sorry, Mr. Reynolds, it seems like there might be a connection issue. Could you please repeat your response?"
-    }
-}

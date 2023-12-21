@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5837,
-    "prompt": "Nurse: Alright. If you change your mind or have any questions about the bowel prep, don't hesitate to ask. Some people don't have any problems and are able to drink all the bowel prep just fine.\n\nPatient: [NO RESPONSE] Alright. Do you have anything else?\n\nNurse: Yes, there's one more part of the preparation I'd like to discuss. You will need to finish your laxative solution and stop everything 4 hours before your procedure. This means no eating or drinking anything, including water, 4 hours before your procedure. Do you have any questions about this part of the preparation?\n\nPatient: Nope.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: Hi. No. And you've asked me if I have any questions about ten times through this conversation. If I had a question, I would have asked it. So please stop asking me that question over and over again.\n\nNurse: I apologize for the repetition. Let's move on to the next question. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. Staying healthy is important for the procedure. For the last part, I want to discuss post-procedure logistics. Have you arranged for a ride home after the procedure?",
-        "our_model": "That's good to hear. It's important to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1582,
-    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Reynolds. I'm glad we're on the same page now. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move forward?\n\nPatient: Yeah. Go ahead.\n\nNurse: Wonderful, thank you, Mr. Reynolds. I see on your chart that you're currently taking Plavix 75 mg once a day. Given the instructions for your colonoscopy, you'll need to stop taking Plavix 5 days before the procedure. That means you should stop taking it on August 8th, which is 2 days from today. Does that make sense?\n\nPatient: Yep.\n\nNurse: Okay, Mr. Reynolds. Do you have any questions about stopping Plavix or any concerns about how this might affect you?\n\nPatient: No.\n\nNurse: Alright, Mr. Reynolds. I'm glad to hear that you're clear on this. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Perfect. It's important that we have this information, as medications like those typically need to be stopped before a colonoscopy unless the doctor has advised otherwise. Do you have any other questions concerning your medications, Mr. Reynolds?",
-        "our_model": "That's good to hear, Mr. Reynolds. It's essential to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any other questions about your medications or is there anything else you'd like to discuss before we move on to your diet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5121,
-    "prompt": "Nurse: That's wonderful! Bread is a great choice for a low fiber diet.\n\nPatient: either toasted with cream cheese.\n\nNurse: That sounds delicious. Toast with cream cheese is a great choice for a low fiber diet. You can enjoy it as much as you'd like in the days leading up to your colonoscopy. Do you usually make your own bread or do you have a favorite store-bought brand?\n\nPatient: Yeah. I make my own bread.\n\nNurse: That's wonderful! Homemade bread is always a treat. Just remember to avoid whole grains in your recipe for the next few days. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods?\n\nPatient: No. I don't.\n\nNurse: That's perfectly fine. It's good to have at least one comfort food that you enjoy. Now, let's move on to the topic of supplements. You'll need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.",
-    "responses": {
-        "gpt4": "That makes things simpler. You won't need to discontinue any supplements or medications in that case. Even so, if you have any questions or concerns about this, don't hesitate to ask. It's always better to clarify if you're unsure. Shall we continue to the next item on your checklist?",
-        "our_model": "That's good to hear. It's important to avoid these types of supplements and medications as they can interfere with the colonoscopy preparation. Do you have any questions about this or is there anything else you'd like to discuss before we move on?"
-    }
-}

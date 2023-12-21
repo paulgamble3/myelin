@@ -1,8 +1,0 @@
-{
-    "prompt_id": 724,
-    "prompt": "Nurse: Yes, I'm here, Ms. Peck. I was asking if it's okay for me to ask you a few questions about your symptoms to help understand how you're doing at home. Is that alright with you?\n\nPatient: Yeah. Go ahead.\n\nNurse: Thank you, Ms. Peck. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Nope.\n\nNurse: That's good to hear, Ms. Peck. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Ms. Peck. How about a new or worsening dry cough?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Good to hear, Ms. Peck. How about any increased swelling in your feet, ankles, stomach, or legs?",
-        "our_model": "That's good to hear, Ms. Peck. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4811,
-    "prompt": "Nurse: That's excellent. Reading the directions is a great way to ensure you're following the instructions correctly. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Okay. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. I can't think of anything.\n\nNurse: Alright. I need to ask if you have any signs of illness. Do you currently have a fever, chills, or muscle aches?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That's good to hear. Staying healthy leading up to your procedure is crucial. Let's move to the next question. I understand that your plan is to go home after the procedure. Is that still accurate?",
-        "our_model": "That's good to hear. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?"
-    }
-}

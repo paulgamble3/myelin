@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4391,
-    "prompt": "Nurse: That's excellent. It's essential to take your medications as prescribed. I understand that sometimes it can be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't. I'm good.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: I do not.",
-    "responses": {
-        "gpt4": "That's good to hear. Chest pain can be a serious symptom, so it's important to keep track of it. Have you experienced any lightheadedness or dizziness?",
-        "our_model": "I'm sorry, I didn't quite catch that. Are you saying that you do have some chest pain or chest tightness?"
-    }
-}

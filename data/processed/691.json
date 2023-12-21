@@ -1,8 +1,0 @@
-{
-    "prompt_id": 691,
-    "prompt": "Nurse: I'm sorry, you were saying something about your diet?\n\nPatient: unprocessed Foods\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: whole grains\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: Vegetables.\n\nNurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you avoiding dairy products as well?\n\nPatient: Fruits.",
-    "responses": {
-        "gpt4": "You're doing great with these healthy choices, including plenty of whole foods, whole grains, vegetables and fruits in your diet. I understand that you're also lactose intolerant. Are you able to avoid dairy products as well?",
-        "our_model": "That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?"
-    }
-}

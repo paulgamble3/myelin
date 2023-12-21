@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5225,
-    "prompt": "Nurse: That sounds like a wonderful plan, Mr. Oliver. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: Well, I've been trying to eat healthier and started to eat a lot of salad now. I'm using this salad dressing. It's called Wishbone Italian dressing. Do you happen to know how much salt is in that dressing?\n\nNurse: I'm sorry, Mr. Oliver, but as an AI, I don't have the ability to look up specific nutritional information. However, I would recommend checking the nutrition label on the bottle for the sodium content. It's critical to monitor your sodium intake, especially with your conditions. Would you like me to note this for your care team to review?\n\nPatient: Sure. That'll be good. Thank you.\n\nNurse: You're welcome, Mr. Oliver. I'll make sure to note that for your care team. Now, if it's okay with you, I'd like to go over a few topics related to your health. Is that alright?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "That's excellent! Can you please share what your last blood sugar reading was?",
-        "our_model": "That's excellent, Mr. Oliver. Could you please share your most recent blood sugar reading?"
-    }
-}

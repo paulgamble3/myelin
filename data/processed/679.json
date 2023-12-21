@@ -1,8 +1,0 @@
-{
-    "prompt_id": 679,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please confirm if you're experiencing a cough?\n\nPatient: I said No.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Hold on a second while I figure out how I can best support you. Thank you for confirming. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I apologize for the delay. Have you noticed any significant weight gain, such as more than 2 pounds in a day or 5 pounds in a week?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. Have you been able to follow your low-salt diet since you've been home?",
-        "our_model": "That's good to hear. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

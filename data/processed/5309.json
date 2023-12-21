@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5309,
-    "prompt": "Nurse: Alright, Mr. Weeks. Let's move on to your medications. Are you still taking your Carvedilol and Lasix tablets?\n\nPatient: Yeah. There's too many meds to take, though.\n\nNurse: I can understand how managing multiple medications can feel overwhelming, Mr. Weeks. It's quite common to feel this way. Are you also continuing with your Zoloft?\n\nPatient: Yeah.\n\nNurse: Wonderful, Mr. Weeks. It's critical to keep up with your medications. I understand it can be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's great to hear, Mr. Weeks. You're doing a fantastic job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: I guess.",
-    "responses": {
-        "gpt4": "Thank you for your understanding, Mr. Weeks. Firstly, have you experienced new or worsening shortness of breath with activity, laying down, or at rest?",
-        "our_model": "Thank you, Mr. Weeks. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

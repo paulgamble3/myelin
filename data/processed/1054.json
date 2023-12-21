@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1054,
-    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been okay.\n\nNurse: I'm glad to hear that. As you prepare for your colonoscopy, how are you feeling about the procedure?\n\nPatient: To get it over with.\n\nNurse: I can appreciate that sentiment. It's quite a process to go through, but it's an important step in taking care of your health. Do you have any specific concerns or questions you'd like to discuss before we begin?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. It's perfectly fine if questions come up later, feel free to ask them at any point during our conversation. I'm here to help. Let's go over some information about your colonoscopy. Are you okay with that?",
-        "our_model": "Alright, please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It's quite a process to go through, but it's great that you're taking this step to take care of your health. How are you feeling about it?"
-    }
-}

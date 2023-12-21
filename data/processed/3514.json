@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3514,
-    "prompt": "Nurse: Alright, Mr. Martin. Let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Valsartan and Lasix?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear, Mr. Martin. And are you also continuing with your Metformin?\n\nPatient: Yes. I am.\n\nNurse: Excellent, Mr. Martin. It's essential to keep up with your medications. Now, I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No, I don't. I have three medications, and I take all of them twice a day pretty easy.\n\nNurse: That's fantastic, Mr. Martin. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent, thank you. Have you noticed anything new or changes with your breathlessness while doing activities or while at rest, Mr. Martin?",
-        "our_model": "Thank you, Mr. Martin. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

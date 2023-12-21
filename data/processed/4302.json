@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4302,
-    "prompt": "Nurse: That's great to hear. Now, let's move on to your next medication. You're also taking Lantus 100 iu/ mL prefilled pen, with a dosage of 15 units every night. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. Lastly, you're taking Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful to hear. It's important to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a salad not too long ago. A veggie salad.",
-    "responses": {
-        "gpt4": "That sounds like a healthy choice. Incorporating vegetables into your diet can provide essential nutrients without adding too many calories. Did you include any protein in your salad or have some on the side?",
-        "our_model": "That sounds like a healthy choice. What kinds of vegetables did you include in your salad?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4184,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is a good way to get necessary\n\nPatient: onions,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: peppers,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're including a variety of vegetables in your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: You could tell me how much\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: salt is in Wishbone Italian salad dressing.",
-    "responses": {
-        "gpt4": "According to the nutrition label, Wishbone Italian Dressing contains approximately 260 milligrams of sodium per serving, which is about 2 tablespoons. It's good that you're mindful of your sodium intake. Would you like suggestions for low-sodium dressings?",
-        "our_model": "I'm sorry, Mr. Peck, but as an AI, I don't have the ability to provide real-time information on specific food products. However, I can suggest that it's always a good idea to check the nutrition label on food products for sodium content. Would you like me to provide some general tips on managing sodium intake?"
-    }
-}

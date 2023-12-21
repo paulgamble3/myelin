@@ -1,8 +1,0 @@
-{
-    "prompt_id": 259,
-    "prompt": "Nurse: I appreciate your patience, Mr. O'Leary. As we discussed earlier, you were instructed to stop taking your Aspirin 81 mg once a day 7 days before the procedure. Since you haven't stopped yet, it's important that you do so immediately. Do you have any questions about this medication change?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: Just the aspirin, but I'm gonna stop taking it now.\n\nNurse: That's a good decision, Mr. O'Leary. Stopping the Aspirin now will help prepare you for your surgery. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Yes, Mr. O'Leary, I'm here. I was asking about two medications you've been prescribed for after the procedure - Tylenol and Oxycodone. Have you picked these up from the pharmacy yet?",
-        "our_model": "Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?"
-    }
-}

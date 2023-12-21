@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3919,
-    "prompt": "Nurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: in my name.\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: No.\n\nNurse: That's okay. It's always good to try and incorporate a variety of fruits into your diet as well. Now, let's talk about your other chronic condition, Lupus. How have you been managing with that?\n\nPatient: Hello?\n\nNurse: I'm sorry, Carla, could you please repeat how you've been managing with your Lupus?\n\nPatient: And I didn't do anything.",
-    "responses": {
-        "gpt4": "Carla, I'm sorry, I didn't quite understand your response. Could you kindly repeat that for me?",
-        "our_model": "I'm sorry, Carla, could you please repeat how you've been managing with your Lupus?"
-    }
-}

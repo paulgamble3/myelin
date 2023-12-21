@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2984,
-    "prompt": "Patient: This is Wallace.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Wallace Ponce?\n\nPatient: Yes. It is.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling worried.",
-    "responses": {
-        "gpt4": "I'm sorry to hear that. It's common to feel a bit worried after a hospital stay. Is there something in particular you're concerned about or any questions you'd like to ask before we go through the checklist prepared by Dr. Willis?",
-        "our_model": "I'm sorry to hear that you're feeling worried. It's completely normal to have some concerns after a hospital stay. Is there anything specific that's bothering you or any questions you'd like to address before we go through the list of topics I have for you?"
-    }
-}

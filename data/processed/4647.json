@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4647,
-    "prompt": "Nurse: That's wonderful, Mr. Amador. Reading is a great way to relax and expand your knowledge. What type of books do you enjoy?\n\nPatient: Yeah. To see books.\n\nNurse: That's interesting, Mr. Amador. It's always exciting to see the world through someone else's eyes. Do you have a favorite travel book or destination that you've read about?\n\nPatient: Not yet.\n\nNurse: That's perfectly fine, Mr. Amador. There are so many places to discover and books to explore. Now, I'd like to talk about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: A little scared, but fine overall.\n\nNurse: It's completely normal to feel a bit scared, Mr. Amador. This is a significant procedure, and it's okay to have feelings about it. Can you tell me more about what's making you feel scared?\n\nPatient: Just feels invasive.",
-    "responses": {
-        "gpt4": "Thank you for sharing that, Mr. Amador. It's understandable to feel that way, given that a colonoscopy is indeed an invasive procedure. However, please know that your gastroenterologist, Dr. Meredith Bailey, is highly skilled and has performed over 1500 colonoscopies. The procedure will be conducted in a safe and professional manner. If it's alright with you, I'd like to discuss some topics to help you prepare for your colonoscopy. Does that sound okay?",
-        "our_model": "I can see why you might feel that way, Mr. Amador. It's a procedure that requires a bit of personal space. However, it's being done by Doctor Meredith Bailey, who is an excellent gastroenterologist with over 1500 colonoscopies under her belt. She's there to ensure your safety and comfort. Is there anything else that's bothering you about the procedure?"
-    }
-}

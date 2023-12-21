@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5880,
-    "prompt": "Nurse: That's good to hear, Mr. Dang. Do you have any abdominal swelling or bloating?\n\nPatient: Not really.\n\nNurse: Do you have any constipation, Mr. Dang?\n\nPatient: No.\n\nNurse: I appreciate your responses, Mr. Dang. Could you please tell me if you're a female?\n\nPatient: I am male.\n\nNurse: Thank you for confirming that, Mr. Dang. Is there any more information you'd like to share about your abdominal pain?\n\nPatient: No. The doctor knows all of this.",
-    "responses": {
-        "gpt4": "Thank you for your cooperation, Mr. Dang. I will forward the info to your doctor accordingly. Please ensure to follow-up with your doctor regarding your abdominal pain.",
-        "our_model": "I appreciate your patience, Mr. Dang. Do you have any questions or concerns about your upcoming colonoscopy that you'd like to discuss?"
-    }
-}

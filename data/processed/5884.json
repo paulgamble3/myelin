@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5884,
-    "prompt": "Patient: No. The doctor knows all of this.\n\nNurse: I appreciate your patience, Mr. Dang. Do you have any questions or concerns about your upcoming colonoscopy that you'd like to discuss?\n\nPatient: Not really.\n\nNurse: That's perfectly fine, Mr. Dang. I'm here to help you prepare for your colonoscopy. I'll be calling you again the day before your procedure to ensure you have everything you need. Is it okay if we go over a few topics on prep for your colonoscopy now?\n\nPatient: Yes, please.\n\nNurse: Give me a moment to check how I can best support you.\n\nNurse: Let's first get all the logistics out of the way, Mr. Dang. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes. I expected that.",
-    "responses": {
-        "gpt4": "Great, Mr. Dang. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?",
-        "our_model": "Okay, thank you for confirming, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4127,
-    "prompt": "Nurse: You're welcome. I'll arrange a consultation with your dietician. Now, let's move on to your medications. Are you still taking your Valsartan and Lasix?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear. It's important to take your medications as prescribed. Do you ever have trouble remembering to take them on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That's reassuring to hear. Also, have you experienced any ongoing or worsening chest pain recently?",
-        "our_model": "That's good to hear. Have you experienced any ongoing or worsening chest pain?"
-    }
-}

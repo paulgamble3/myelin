@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4148,
-    "prompt": "Nurse: Alright. It might be beneficial to discuss this with your dietician. They can provide more personalized advice. Now, let's talk about your exercise routine. Could you tell me about your current routine?\n\nPatient: I go for a walk everyday for thirty minutes.\n\nNurse: That's great! Regular walking is a good way to stay active. Do you usually walk at a steady pace or do you vary your speed?\n\nPatient: I work at a steady pace.\n\nNurse: That's good to hear. It's important to keep a steady pace to ensure you're getting a good workout without overexerting yourself. Now, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Thank you. It's great that you're already walking daily. You might consider adding some light strength training exercises to your routine. This could be as simple as lifting small weights or using resistance bands. However, it's important to start slow and gradually increase your activity level. Does that sound doable to you?\n\nPatient: Yes. It is.",
-    "responses": {
-        "gpt4": "That's excellent. Always remember, start small and gradually increase activity. Do you have any questions or concerns about this advice?",
-        "our_model": "That's great to hear. Remember, it's important to listen to your body and not push yourself too hard. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?"
-    }
-}

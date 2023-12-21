@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2800,
-    "prompt": "Nurse: Pasta is a great choice for a low fiber diet. Do you have a favorite pasta dish that you're planning to enjoy during this time?\n\nPatient: I just like regular old spaghetti.\n\nNurse: Spaghetti is a classic choice, and it's perfect for a low fiber diet. You can enjoy it with a simple sauce, just remember to avoid high fiber ingredients. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet or any other foods you're considering?\n\nPatient: No. No questions about diet at all.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to discuss supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. It's essential to avoid those supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear. I'd like to discuss the instructions for the clear liquid diet and GoLYTELY laxative solution. Many people find this to be the hardest part of the prep. How are you feeling about this part?",
-        "our_model": "Alright, let's move on to the next part of your preparation. I'd like to discuss the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

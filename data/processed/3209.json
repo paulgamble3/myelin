@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3209,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Hello, Aileen. I hope you're feeling better. I'm calling on behalf of your primary care doctor, Dr. Sarah Forbes. I'm sure being home from the hospital is a great relief for you. Is there anything specifically you've enjoyed or looking forward to now that you're at home?",
-        "our_model": "Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?"
-    }
-}

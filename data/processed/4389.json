@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4389,
-    "prompt": "Nurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes.\n\nNurse: I apologize for the oversight earlier. Are you taking your Tylenol 500 mg oral tablets, with a dosage of 1000 mg, three times a day as needed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. It's essential to take your medications as prescribed. I understand that sometimes it can be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't. I'm good.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Great, let's start then. Have you noticed any new or worsening shortness of breath with activity, while laying down, or at rest?",
-        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

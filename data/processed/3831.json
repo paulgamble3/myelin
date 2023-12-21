@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3831,
-    "prompt": "Nurse: Of course, Mr. Hardy. What would you like to know about your recent lab results?\n\nPatient: What does GFR mean? And\n\nNurse: Great question, Mr. Hardy. GFR stands for Glomerular Filtration Rate.\n\nPatient: what does your an albumin mean?\n\nNurse: Great questions, Mr. Hardy. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Your GFR is 90 mL/min/1.73m2, which is within the normal range. Albumin is a type of protein that's normally found in the blood. Your urine albumin is 82 mg/g, which is a bit high. This can be a sign of kidney damage. It's critical to continue monitoring this with your doctor. Does that help clarify things for you?\n\nPatient: Yes. It does.\n\nNurse: I'm glad I could help clarify that for you, Mr. Hardy. Now, let's discuss your medications. You're currently taking Lisinopril 5 mg oral tablet, 5 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's wonderful to hear, Mr. Hardy. Consistent use of your medication is crucial for managing your conditions. Next, you're also prescribed Apixaban 5 mg oral tablet, with a dosage of 5 mg two times a day. Have you been taking this medication as instructed?",
-        "our_model": "That's great to hear, Mr. Hardy. Taking your medication as prescribed is crucial for managing your conditions. Now, let's move on to the next medication. You're also taking Apixaban 5 mg oral tablet, 5 mg two times a day. Have you been taking this medication as prescribed?"
-    }
-}

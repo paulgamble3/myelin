@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3205,
-    "prompt": "Nurse: That's great to hear. It's important to have someone to assist you after the procedure. Now, I'd like to ask if you've arranged for someone to stay with you after the procedure?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent. It's essential to have someone around to help you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask. [\n\nPatient: [NO RESPONSE]\n\nNurse: Alright, if there are no further questions, I believe we've covered all the necessary topics for today. Before we end the call, do you have any other questions or concerns?\n\nPatient: No.\n\nNurse: Alright, that was all the topics for today. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Of course, please let me know what else you'd like to discuss or any other questions you have. I'm here to assist you.",
-        "our_model": "Of course, what's on your mind?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1866,
-    "prompt": "Nurse: Thank you, Ms. Odonnell. One suggestion is to use low-sodium tortillas and fillings. You could also try to limit the amount of sauces and seasonings, as they often contain added sodium. What do you think about these suggestions?\n\nPatient: That sounds good.\n\nNurse: I'm glad to hear that, Ms. Odonnell. Remember, small changes can make a big difference. Now, let's discuss your carbohydrate intake. It's recommended to limit carbohydrates to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: Just\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say any French.\n\nNurse: I apologize for the confusion, Ms. Odonnell. I was asking about your carbohydrate intake. It's recommended to limit your intake to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: List.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Odonnell, I didn't catch that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, Ms. Odonnell, could you please repeat what you said?"
-    }
-}

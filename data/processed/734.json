@@ -1,8 +1,0 @@
-{
-    "prompt_id": 734,
-    "prompt": "Nurse: That sounds like a good choice, Ms. Peck. How about your other meals?\n\nPatient: And then for breakfast, I have and\n\nPatient: egg And\n\nPatient: I had some fruit, I think. I'm trying to remember.\n\nNurse: Give me a moment while I figure out how I can best help you. That sounds like a good start, Ms. Peck. It's great that you're being mindful of your carbohydrate intake. Can you recall what fruit you had for breakfast?\n\nPatient: Yeah. I have some very strawberries and confiseries.\n\nNurse: I'm That's a nice choice, Ms. Peck. Strawberries are a good source of vitamins. Now, I'd like to remind you of your dietary recommendations. You're on a sodium-limited diet with less than 2000 mg of sodium per day. Are you okay if I share some tips on how to manage this?\n\nPatient: Oh, absolutely. I could use some help with that. And you know, I have the",
-    "responses": {
-        "gpt4": "Absolutely, Ms. Peck. Let's discuss some tips for like reading food labels for sodium content, choosing fresh foods instead of processed ones, and being careful with condiments as they can add a lot of sodium. Would you like some specific meal ideas or cooking tips as well?",
-        "our_model": "I'm sorry, Ms. Peck, you were saying something about your diet?"
-    }
-}

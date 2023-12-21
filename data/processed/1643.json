@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1643,
-    "prompt": "Nurse: That's great to hear. Is there anything you're looking forward to doing this week?\n\nPatient: Cleaning my house to get ready for the holiday season.\n\nNurse: That sounds like a wonderful plan. Cleaning can be quite therapeutic. Do you have any special routines or methods you follow while cleaning?\n\nPatient: Well, I tried to use organic sorts of things. I don't like to use chemicals, and I just tried to go from top to bottom and get the plates totally totally stick and spin.\n\nNurse: That's a very thorough approach. Using organic cleaning products is a great way to keep your home healthy. Do you have any favorite organic cleaning products that you like to use?\n\nPatient: Method?\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: It's called method.",
-    "responses": {
-        "gpt4": "Oh, okay. Method is a great brand known for its eco-friendly products. Have you found them effective in your cleaning routine?",
-        "our_model": "Ah, Method brand cleaning products. They're quite popular for their natural ingredients. Do you have a favorite product from their line that you like to use?"
-    }
-}

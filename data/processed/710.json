@@ -1,8 +1,0 @@
-{
-    "prompt_id": 710,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Bernie Peck?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: April third nineteen forty two.\n\nNurse: Thank you for confirming that, Ms. Peck. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Well, I'm feeling alright.\n\nNurse: I'm glad to hear that, Ms. Peck. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Well, I'm glad that I'm here with my kitty now.",
-    "responses": {
-        "gpt4": "Oh, it sounds lovely that you have a cat! They can be such good company. What's the name of your kitty?",
-        "our_model": "That sounds lovely, Ms. Peck. Pets can be such wonderful companions. What's your kitty's name?"
-    }
-}

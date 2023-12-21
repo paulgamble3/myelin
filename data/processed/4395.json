@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4395,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Trisha Raynier?\n\nPatient: Yeah. That's me.\n\nNurse: Hello Trisha, I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Great, thank you. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm fine. I've got a little bit of painless movement, but Nothing crazy.",
-    "responses": {
-        "gpt4": "I'm glad to hear that the pain isn't too bad today. Managing these symptoms effectively is crucial, especially with activities like moving around. As you will soon have your total knee replacement, it should greatly improve your quality of life. Any thoughts about what you're planning to do with your new knee?",
-        "our_model": "I'm glad to hear you're doing fine. It's normal to experience some discomfort before a procedure like a total knee replacement. It's great that you're managing well. With your upcoming procedure, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1314,
-    "prompt": "Nurse: I'm glad to hear that you're doing well. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from the surgery?\n\nPatient: Oh, boy. I sure am looking forward to being out pain and being able to go on my walks again.\n\nNurse: That sounds like a wonderful plan. Walking is a great way to stay active and enjoy the outdoors. Do you have a favorite route or park you're excited to visit once you're back on your feet?\n\nPatient: Hello? Hello?\n\nNurse: Hello, I'm here. I was asking about your favorite place for walks. Do you have a special route or park you're looking forward to visiting once you've recovered from your surgery?\n\nPatient: Are you there?\n\nNurse: Yes, I'm here. I'm sorry if there was a pause. I was asking about your favorite place to walk. Do you have a special route or park you're looking forward to visiting once you've recovered?\n\nPatient: No. I just wanna be able to walk again.",
-    "responses": {
-        "gpt4": "Absolutely, I understand that's the priority right now. We'll be there along the way to help you reach that goal. Let me know if you have any questions or concerns as we move closer to the date of your surgery.",
-        "our_model": "I can certainly appreciate that. Walking without pain is a wonderful goal. How are you feeling about your upcoming procedure?"
-    }
-}

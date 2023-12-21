@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3902,
-    "prompt": "Patient: fifteen.\n\nNurse: Thank you for sharing that. Your blood sugar level is within the normal range, which is good for your kidney health. Now, when was the last time you took your blood pressure measurement?\n\nPatient: An hour ago.\n\nNurse: Thank you for letting me know. Could you please share what the result was?\n\nPatient: It was ninety over one fifteen.\n\nNurse: Thank you for sharing that. Your blood pressure is within the normal range, which is beneficial for your overall health. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about them?\n\nPatient: Yes. In regards to my insulin,\n\nPatient: Should I take it with my kidney disease?",
-    "responses": {
-        "gpt4": "Thank you for your question. The best person to answer your question about your insulin would be your healthcare provider since I don't have access to relevant information like your specific insulin type and your blood sugar levels. I recommend asking your primary care doctor, Doctor Jack Smith, about this. Let's now address your recent labs. Are there any specific lab results you have questions about?",
-        "our_model": "That's a great question. Insulin is used to control blood sugar levels, which is important for both your kidney health and your overall health. However, it's crucial to take it as prescribed by your doctor. Are you currently taking insulin?"
-    }
-}

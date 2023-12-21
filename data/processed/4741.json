@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4741,
-    "prompt": "Nurse: a normal I understand that changing your diet can feel like a big step. Could you share a bit more about what you consider a normal meal?\n\nPatient: Just whatever I want.\n\nNurse: I see. It's critical to remember that our diet plays a crucial role in managing CHF and diabetes. Would it be okay if I shared some dietary recommendations with you?\n\nPatient: Soup.\n\nNurse: Soup can be a good choice, especially if it's homemade and not high in sodium. Would you like me to share some dietary recommendations that could help manage your CHF and diabetes?\n\nPatient: That sort of thing. Nothing fancy, basic food, but\n\nNurse: I see. Soup can be a good choice, as long as it's not too high in sodium. Would it be okay if I shared some dietary recommendations with you?\n\nPatient: what I wanna eat, and I do have sweets because sometimes I",
-    "responses": {
-        "gpt4": "It sounds like you enjoy a range of foods, including sweets. It's important to have balanced meals with limited sodium and sugar content, particularly for managing CHF and diabetes. Would it be okay if I shared some dietary recommendations with you?",
-        "our_model": "I see. It's important to enjoy what we eat. However, due to your condition, there are certain dietary recommendations to help manage your CHF and diabetes. Would it be okay if I share these with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3765,
-    "prompt": "Nurse: Does the patient report sudden arm or leg weakness?\n\nPatient: type two diabetes.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: And my\n\nPatient: kidney disease.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: What are you talking about on the page?\n\nPatient: Chance.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please repeat what you said?",
-        "our_model": "Does the patient report numbness on their arms or legs?"
-    }
-}

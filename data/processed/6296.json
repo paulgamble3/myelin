@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6296,
-    "prompt": "Nurse: Clear liquids are any liquids that you can see through. Examples include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. It's important to note that you should avoid any liquids that are red or purple, as they can interfere with the results of your colonoscopy. Do you have any questions about these clear liquids, Mr. Alves?\n\nPatient: Call us.\n\nNurse: I'm sorry, Mr. Alves, could you please repeat what you said?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: didn't say anything.\n\nNurse: My apologies for the confusion, Mr. Alves. Let's continue. Do you have any remaining questions about the clear liquid diet?\n\nPatient: No. I do not.",
-    "responses": {
-        "gpt4": "Great, Mr. Alves. Let's move on to the GoLYTELY laxative solution, which you'll need to take the day before your colonoscopy. Have you received a prescription for GoLYTELY from your doctor?",
-        "our_model": "Alright, Mr. Alves. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?"
-    }
-}

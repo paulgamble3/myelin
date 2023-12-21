@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6096,
-    "prompt": "Nurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat your question?\n\nPatient: Level.\n\nNurse: I apologize for any confusion earlier. Your BUN, or Blood Urea Nitrogen, measures the amount of waste product in your blood and is 7.12 mmol/L. This is within the normal range. Do you have any questions about this or any other lab results?\n\nPatient: I asked about my password.\n\nNurse: I apologize for the confusion earlier. Your password for what?\n\nPatient: Password. I said I asked about my phosphorus level.\n\nNurse: I apologize for the confusion earlier. Your phosphorus level is not listed in the information I have. However, it's typically within the normal range of 2.5 to 4.5 mg/dL. Do you have any other questions about your lab results?\n\nPatient: Well,",
-    "responses": {
-        "gpt4": "Yes, Jon, please feel free to ask any other questions or express your concerns about your test results. I'm here to help.",
-        "our_model": "Yes?"
-    }
-}

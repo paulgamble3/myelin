@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5830,
-    "prompt": "Nurse: That's good to hear. It's important to avoid those supplements and medications before a colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: Thank you.\n\nNurse: You're welcome. Now, I'd like to move onto the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Thanks.\n\nNurse: Of course. How are you feeling about this part of the preparation?\n\nPatient: Not looking forward to this at all. I'm grateful I can have the procedure.\n\nNurse: I can understand that it's not something to look forward to, but it's really commendable that you're taking this step for your health. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about this part of the preparation?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "That's completely fine. Just remember, you don't have to do anything right now. You'll need to start your bowel prep 24 hours before your procedure by drinking only clear liquids which involve no solid foods and drinking either clear or light-colored beverages without any red or purple dye. Is it alright if I share some examples of what clear liquids are?",
-        "our_model": "I can imagine that it's not something you're looking forward to. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. But remember, we're here to support you every step of the way. Do you have any questions about this part of the preparation?"
-    }
-}

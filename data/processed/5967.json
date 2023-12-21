@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5967,
-    "prompt": "Nurse: That sounds like a wonderful way to spend time together. Do you have a favorite board game that you all enjoy playing?\n\nPatient: We like them all.\n\nNurse: That's great to hear, it sounds like you all really enjoy these times together. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: No. I don't have any symptoms I'm worried about? No.\n\nNurse: Alright, if I'm glad to hear that you're not experiencing any concerning symptoms. Do you have any questions or concerns that you'd like to discuss before we move on to some specific topics regarding your health?\n\nPatient: Nope.\n\nNurse: Alright, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great, thank you. When was the last time you had your kidney function tested?",
-        "our_model": "Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

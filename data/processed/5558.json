@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5558,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said about your preparation for the colonoscopy?\n\nPatient: I don't have any questions.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that you're clear on all the instructions so far. I know we've covered a lot of information, but we're almost done. I just have two more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. I appreciate your patience. My first question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Alves. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Thank you. A friend of mine who's picking me up.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Mr. Alves. It's important to arrange transportation due to the sedative you'll receive during the procedure. Your friend will be on standby to come pick you up when the hospital calls. Do you have any concerns or questions about the transportation arrangement?",
-        "our_model": "That's great to hear, Mr. Alves. It's critical to have someone available to take you home after the procedure. I'm glad you've arranged that. Do you have any other questions or concerns about your upcoming colonoscopy?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4801,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I usually take Advil\n\nNurse: Thank you for sharing that. It's essential to note that medications like Advil, which are blood thinners, typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. Have you been instructed to continue taking Advil?\n\nPatient: but I stopped taking that already.\n\nNurse: That's good to hear. It's important to stop taking Advil as it's a blood thinner. Do you have any questions about why it's necessary to stop these medications before your knee replacement?\n\nPatient: No. I understand.\n\nNurse: Great. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's terrific. You're well prepared. Do you have any questions about how to take these medications after your procedure?",
-        "our_model": "I apologize for the confusion earlier. Advil, also known as ibuprofen, is not a blood thinner. It's a nonsteroidal anti-inflammatory drug (NSAID) that can increase the risk of bleeding. That's why it's important to stop taking it before surgery. Do you have any questions about this or any other medications?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2992,
-    "prompt": "Nurse: That's good to hear. It's important to keep an eye out for any swelling. Now, let's talk about your new medication, Hydrochlorothiazide. Have you been able to pick it up from the pharmacy?\n\nPatient: Yes. I've picked up everything I'm supposed to have\n\nNurse: That's great to hear. Are you taking the Hydrochlorothiazide 25 mg two times a day as prescribed?\n\nPatient: I'm taking the hydrochlorothiazide twenty five milligram twenty five milligrams, two times a day.\n\nNurse: That's excellent. You're doing a great job managing your new medication. Now, let's briefly discuss your existing medications. Are you still taking Captopril, Carvedilol, and Metformin?\n\nPatient: I sure am.\n\nNurse: That's great to hear. It's essential to continue taking these medications as prescribed. I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I take everything I'm supposed to take it. I'm still having these symptoms, and it is really getting worrisome.",
-    "responses": {
-        "gpt4": "I can see why these symptoms may be causing concern, especially after your recent hospital stay. With your permission, I'd like to ask a few more questions that could help us understand what's going on. Would that be okay with you?",
-        "our_model": "I'm sorry to hear that you're still experiencing symptoms despite taking your medications. It's critical to understand these symptoms to manage your CHF. Would it be okay if I ask you a few more questions about your symptoms?"
-    }
-}

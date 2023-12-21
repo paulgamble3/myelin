@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3484,
-    "prompt": "Nurse: I'm sorry, could you please repeat that?\n\nPatient: I really like pasta.\n\nNurse: That's great!\n\nPatient: Done.\n\nNurse: That's great! Pasta is a good choice for a low fiber diet. You can enjoy it with a simple sauce. Do you have a favorite pasta dish?\n\nPatient: Just like it plain.\n\nNurse: Plain pasta is a good choice. It's simple and easy to digest. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great. Now, on the day before your colonoscopy - that's August 16, you'll need to be on a clear liquid diet. That means you can have things like broths, clear juices, and Jell-O, but nothing red or purple. Does that make sense?",
-        "our_model": "Alright. In addition to the dietary changes, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

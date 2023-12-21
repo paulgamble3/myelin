@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5227,
-    "prompt": "Nurse: You're welcome, Mr. Oliver. I'll make sure to note that for your care team. Now, if it's okay with you, I'd like to go over a few topics related to your health. Is that alright?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Could you please share your most recent blood sugar reading?\n\nPatient: It was a hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. Your blood sugar level is within the target range, which is good news. Now, when was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: And it was a few hours",
-    "responses": {
-        "gpt4": "Thank you for that information, Mr. Oliver. Could you also provide the readings from that measurement, please? It's important to know both the systolic and diastolic readings, which are typically recorded as two numbers such as 120/80. Would you happen to remember them?",
-        "our_model": "I'm sorry, Mr. Oliver, could you please repeat the last part of your response?"
-    }
-}

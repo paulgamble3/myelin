@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4108,
-    "prompt": "Nurse: I appreciate your honesty. It's a big step to acknowledge that you smoke. Have you ever considered quitting smoking?\n\nPatient: I'm not interested right now.\n\nNurse: That's completely okay. It's a big decision to make and it's important that you're ready. Can you share why you feel you're not ready to quit smoking at this time?\n\nPatient: [NO RESPONSE]\n\nNurse: That's perfectly okay. It's a big decision and it's important that you're ready. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: Not right now.\n\nNurse: That's perfectly fine. If you ever change your mind, please don't hesitate to ask. We're here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Alright. To summarize, you're doing an excellent job managing your condition by taking your medications as prescribed, engaging in physical activity, and following a healthy diet. We discussed the importance of continuing to perform your daily blood pressure and blood sugar checks, and maintaining a low carb, low salt diet. And if you ever decide to quit smoking, we're here to help when you're ready. Can I trust that you'll continue to manage your health as you have been?",
-        "our_model": "Alright. To summarize, you've agreed to continue monitoring your blood sugar and blood pressure, maintain a balanced diet, and keep up with your physical activity. You've also agreed to consider the food recommendations I provided. Can I count on you to continue these efforts?"
-    }
-}

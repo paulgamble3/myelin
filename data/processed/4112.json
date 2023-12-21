@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4112,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paula Warrell?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I feel good.",
-    "responses": {
-        "gpt4": "That's wonderful to hear, Paula. It must be nice being back in familiar surroundings after being in the hospital. What are some things you've been looking forward to doing now that you're home?",
-        "our_model": "That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?"
-    }
-}

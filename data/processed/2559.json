@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2559,
-    "prompt": "Nurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good news. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?",
-        "our_model": "That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 261,
-    "prompt": "Nurse: That's a good decision, Mr. O'Leary. Stopping the Aspirin now will help prepare you for your surgery. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was about to mention that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Rachel?\n\nNurse: I'm sorry, Mr. O'Leary, could you please confirm what you just said?\n\nPatient: I just couldn't hear you.",
-    "responses": {
-        "gpt4": "I apologize if my previous message was unclear, Mr. O'Leary. I was asking if you have already picked up your prescribed medications, Tylenol 1000 mg and Oxycodone 5 mg, from the pharmacy yet? They are for after your procedure.",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I apologize for the inconvenience, Mr. O'Leary. I was saying that I notice you've been prescribed Tylenol 1000 mg three times a day as needed and Oxycodone 5 mg as needed for after the procedure. Have you picked up these medications from the pharmacy yet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1790,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Six seven seventy seven?\n\nNurse: Thank you for confirming, Mr. Jimenez. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yeah. It's fine.\n\nNurse: Okay, thank you for your time, Mr. Jimenez. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: And just what is something wrong?\n\nNurse: I'm sorry if I gave you the wrong impression, Mr. Jimenez. There's nothing wrong. I'm here to help you prepare for your upcoming surgery and answer any questions you might have. How has your day been so far?\n\nPatient: It's okay. I just",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Jimenez. It's nice to see you maintaining a positive attitude despite your upcoming surgery. It must be an exciting time for you, looking forward to getting a new knee. Is there something specific you're planning to do once your knee is better? Perhaps a hobby or activity you're looking forward to?",
-        "our_model": "I'm glad to hear that, Mr. Jimenez. It's important to keep a positive attitude. Do you have any plans for the day?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6070,
-    "prompt": "Nurse: I'm really sorry to hear that you're feeling scared. Can you tell me a bit more about what's been causing you to feel this way?\n\nPatient: But I'm going to hang on.\n\nNurse: I'm really sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms that you're particularly concerned about?\n\nPatient: How can I slow the progression of my CKD? I mean, can I do it with\n\nNurse: I can certainly help answer that question. Would it be okay if we go over a few topics related to your kidney disease and how to manage it?\n\nPatient: Lifestyle changes,\n\nNurse: Absolutely. Lifestyle changes can indeed play a significant role in managing and slowing the progression of CKD. Would it be okay if we go over a few topics to check on how you're doing and discuss some strategies to manage your CKD?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Great, thanks for your willingness to talk about this. Let's start with your daily routine. Have you been able to check your blood sugar daily, given that you have Type II Diabetes? If you have, could you tell me what your last reading was?",
-        "our_model": "Great, thank you. Before we dive into that, is there anything you're looking forward to doing this week?"
-    }
-}

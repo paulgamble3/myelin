@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1063,
-    "prompt": "Nurse: Okay. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes, please. Let's move on.\n\nNurse: Great. Regarding your medication, Ferrous Sulfate, you will need to stop taking it 5 days prior to your procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yes. That makes complete sense.\n\nNurse: I'm glad to hear that. Do you have any questions about stopping your Ferrous Sulfate medication?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great, thank you for confirming. It's also important to know if you're taking any over-the-counter medications such as Advil, Aspirin, Aleeve, or other blood thinners, as we may need you to stop these too. Are you taking any of these?",
-        "our_model": "Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

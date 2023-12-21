@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5581,
-    "prompt": "Nurse: Do you have abdominal pain?\n\nPatient: No.\n\nNurse: Do you have a hemorrhoid or a lump at rectum and red streak on stool?\n\nPatient: No.\n\nNurse: Do you have a cut near your rectum?\n\nPatient: What? No. Not that I know of.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: Rachel, are you there?",
-    "responses": {
-        "gpt4": "Yes, I am here. Have you been experiencing any weight loss without trying to lose weight?",
-        "our_model": "Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you."
-    }
-}

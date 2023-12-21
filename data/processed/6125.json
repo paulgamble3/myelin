@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6125,
-    "prompt": "Nurse: I'm glad I could help clarify that for you. Now, let's move on to discussing your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I don't know. I mean, it's really confusing. I don't know\n\nNurse: I understand that managing diet can sometimes feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: what I'm supposed to eat anymore. Right? I'm on such a restricted diet.\n\nNurse: I can understand how managing dietary restrictions can feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: I have cereal for breakfast. I have pizza for lunch. And I had\n\nNurse: I'm sorry, Jon, could you please repeat what you had for dinner yesterday?\n\nPatient: And and",
-    "responses": {
-        "gpt4": "I'm sorry, Jon, you were saying something about what you had for dinner?",
-        "our_model": "I'm sorry, Jon, you were saying?"
-    }
-}

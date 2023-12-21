@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5410,
-    "prompt": "Nurse: That's excellent, Mr. Hardy. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was a one forty eight.\n\nNurse: Thank you for sharing that, Mr. Hardy. Your blood sugar is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Hardy. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Do you feel you're able to incorporate this into your daily routine?\n\nPatient: Yeah. I don't think we're not.\n\nNurse: That's great to hear, Mr. Hardy. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you currently have any physical activities incorporated into your daily routine?\n\nPatient: Yeah. I think my dog almost didn't walk.",
-    "responses": {
-        "gpt4": "That's great, Mr. Hardy. Walking your dog could be a good way to incorporate more physical activity into your day. Lastly, it's important to take your medications as prescribed. You're currently on insulin. Is there any difficulty you've been experiencing with managing your insulin doses?",
-        "our_model": "That's wonderful, Mr. Hardy. Walking your dog is a great way to stay active. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?"
-    }
-}

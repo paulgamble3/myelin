@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5159,
-    "prompt": "Nurse: That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications before we move on to discussing your diet?\n\nPatient: No.\n\nNurse: Alright. Let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No.\n\nNurse: Wonderful. I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Oh, you mentioned them. I like rice and pasta mashed potatoes, yogurt\n\nNurse: Those are all excellent choices. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you usually cook these at home or do you have a favorite place where you get them from?\n\nPatient: It's",
-    "responses": {
-        "gpt4": "Got it. Let's move on to our next topic, supplements. For your colonoscopy, it's important to stop any supplements you're taking, especially those like Psyllium husk or any anti-diarrheal medications. Do you currently take any of these?",
-        "our_model": "a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods or any questions about the diet?"
-    }
-}

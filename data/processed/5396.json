@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5396,
-    "prompt": "Nurse: Alright, Mr. O'Leary. Let's move on to the next topic. Your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming that, Mr. O'Leary. It's important to have a safe and comfortable place to recover after your procedure. My last question is about your transportation and support after the procedure. Have you arranged for a ride home and for someone to stay with you afterwards?\n\nPatient: Yeah.\n\nNurse: That's great to hear, Mr. O'Leary. It's critical to have someone to assist you after the procedure. If there's anything else you need to arrange, you still have time to do so. Do you have any questions about your discharge plan or anything else?\n\nPatient: No.\n\nNurse: Alright, Mr. O'Leary. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Great, Mr. O'Leary. Just to summarize, you will need to stop taking Aspirin today, use the chlorhexidine scrub the night before and morning of your procedure, have your medications on hand, and remember not to eat or drink after midnight. And of course, remember to arrive for your procedure on time. Can I count on you to do all of that?",
-        "our_model": "Alright, Mr. O'Leary. To summarize, before your procedure, you need to stop taking Aspirin, use the chlorhexidine scrub the night before and the morning of your procedure, and remember not to eat or drink anything after midnight before your procedure. Can I count on you to do all of this?"
-    }
-}

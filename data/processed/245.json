@@ -1,8 +1,0 @@
-{
-    "prompt_id": 245,
-    "prompt": "Nurse: I can certainly appreciate that, Mr. O'Leary. The goal of this procedure is indeed to help you feel better and improve your quality of life. How are you feeling about the procedure itself?\n\nPatient: I guess I feel fine.\n\nNurse: I'm glad to hear that, Mr. O'Leary. It's a positive step towards improving your health. Before we delve into the details, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: After the procedure\n\nNurse: Of course, Mr. O'Leary. After the procedure, you'll be taken to a recovery room where the immediate effects of the anesthesia can be monitored. Once you're awake and stable, you'll be moved to your hospital room. You'll likely stay in the hospital for a few days, possibly up to a week, depending on your progress. During this time, you'll start physical therapy to help strengthen your new knee. Do you have any specific concerns about this process?\n\nPatient: Hello?\n\nNurse: Yes, Mr. O'Leary, I'm here. I was explaining the process after your procedure. You'll start physical therapy to help strengthen your new knee. Do you have any specific questions about this or anything else related to your procedure?\n\nPatient: I can't remember what the doctor said about brands.",
-    "responses": {
-        "gpt4": "Just to clarify, are you asking about the brand of the implant being used in your knee replacement procedure, Mr. O'Leary?",
-        "our_model": "I see, Mr. O'Leary. Are you referring to the type of knee implant that will be used for your procedure?"
-    }
-}

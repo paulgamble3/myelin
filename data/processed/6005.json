@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6005,
-    "prompt": "Nurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Wishbone salad dressing. I'm\n\nNurse: I'm sorry, could you please repeat\n\nPatient: Is that\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: okay. I mean, is there a lot of salt in that or something? Or or\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: or can I eat it? Because I really like it.",
-    "responses": {
-        "gpt4": "I understand that you enjoy Wishbone Italian dressing. While it's perfectly fine to enjoy the foods you like, it's worth noting that salad dressings can often be high in sodium, which isn't ideal for someone with kidney disease. Would it be alright if I provide some tips on how to manage your sodium intake?",
-        "our_model": "I understand that you enjoy Wishbone salad dressing. It's important to enjoy what you eat. However, many salad dressings, including Wishbone, can be high in sodium. Sodium is something that people with kidney disease need to monitor closely. Would it be alright if I provide some alternatives or suggestions on how to adjust your current salad dressing to align better with the renal diet?"
-    }
-}

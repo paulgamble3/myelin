@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1167,
-    "prompt": "Nurse: That's impressive, Mr. Cardenas. An early start must help you beat the heat. How long do your hikes usually last, and how challenging are the trails you choose?\n\nPatient: And pack and grab my dog, and we\n\nNurse: That sounds like a lovely way to start the weekend, Mr. Cardenas. How long are your hikes usually?\n\nPatient: either drive or ride my bike and go to a particular mountain\n\nNurse: That sounds like a great way to start the weekend, Mr. Cardenas. How long do your hikes usually last, and how challenging are the trails you choose?\n\nPatient: Go for a hike. You know, usually most of the day, stop for lunch, and head back before it gets dark.\n\nNurse: That sounds like a wonderful way to spend a day, Mr. Cardenas. How long are your hikes usually?\n\nPatient: Hike, like, maybe",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Mr. Cardenas. Could you please confirm how long your hikes usually last?",
-        "our_model": "I'm sorry, Mr. Cardenas. Could you please repeat how long your hikes usually are?"
-    }
-}

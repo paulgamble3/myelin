@@ -1,8 +1,0 @@
-{
-    "prompt_id": 610,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Trisha Raynier?\n\nPatient: Yes, ma'am.\n\nNurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: August eighth nineteen eighty one.\n\nNurse: Thank you for confirming, Ms. Raynier. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Okay, thank you for taking the time to speak with me, Ms. Raynier. How has your day been so far?\n\nPatient: It's been good.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're having a good day, Ms. Raynier. Has anything special contributed to making it a good day so far?",
-        "our_model": "I'm glad to hear that, Ms. Raynier. Have you been able to do anything enjoyable today?"
-    }
-}

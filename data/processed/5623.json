@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5623,
-    "prompt": "Nurse: I'm sorry for any confusion, but I need to confirm that I'm speaking with Pete Arnold before proceeding. Can you please confirm that you are Pete Arnold?\n\nPatient: Yes. I am.\n\nNurse: Thank you for confirming. Now, could you please provide your date of birth for verification purposes?\n\nPatient: Yes. April six nineteen eighty.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Jack Smith. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: I'm feeling very well, Rachel. Thank you for asking.\n\nNurse: That's wonderful to hear. It must be a relief to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Able to walk my dog again.",
-    "responses": {
-        "gpt4": "That's very nice! Walking your dog can be a great way to enjoy some fresh air and gentle exercise. What kind of dog do you have?",
-        "our_model": "That sounds lovely. Dogs can bring so much joy. What's your dog's name and what breed is he?"
-    }
-}

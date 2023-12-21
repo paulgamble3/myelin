@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5715,
-    "prompt": "Nurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I apologize for the confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. Just to confirm, is this reading higher or lower than your usual readings?\n\nPatient: I guess it's",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Was that reading of 128 higher or lower than your usual blood sugar levels?",
-        "our_model": "Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you."
-    }
-}

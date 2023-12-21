@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5771,
-    "prompt": "Patient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This includes foods like white bread, rice, and pasta, and you should avoid high fiber foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: Nope. I don't think so.\n\nNurse: Great, it sounds like you've got a good understanding of the dietary changes. Now, I'm curious, what are some low fiber foods that you enjoy?\n\nPatient: Oh, I like mashed potatoes, and I like\n\nNurse: Mashed potatoes are a great choice, and they're also a comfort food for many people.\n\nPatient: white bread, enroll And\n\nPatient: White rice,",
-    "responses": {
-        "gpt4": "Those are all excellent choices for a low-fiber diet - mashed potatoes, white bread, and white rice. These foods will help prepare your body for the colonoscopy. Do you want recommendations for any other low-fibre foods or do you feel confident with those?",
-        "our_model": "I'm sorry, could you please repeat the last part of your response?"
-    }
-}

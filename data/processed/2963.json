@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2963,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: April third nineteen forty two.\n\nNurse: Thank you for confirming. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Playing with my dog\n\nNurse: That sounds lovely! What kind of dog do you have and what's their name?\n\nPatient: Australian Shepherd named Pippa.",
-    "responses": {
-        "gpt4": "Ah, Pippa sounds delightful! Australian Shepherds are intelligent and energetic dogs. What kind of games or activities do you typically enjoy doing together?",
-        "our_model": "Pippa sounds like a wonderful companion. What's your favorite activity to do with Pippa?"
-    }
-}

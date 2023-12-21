@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4560,
-    "prompt": "Nurse: I'm glad you think so. Remember, these are just suggestions and it's important to find a balance that works for you. If you ever have any questions about your diet or need more suggestions, don't hesitate to ask. Now, let's move on to your other chronic conditions. How has your coronary artery disease been lately?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. It's essential to keep an eye on your symptoms and share any changes with your doctor. Now, how has your type II diabetes been lately?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. It's essential to manage your blood sugar levels regularly. Now, how has your hypertension been lately?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. I was asking how your hypertension has been lately. [\n\nPatient: No problems with it.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. Regular monitoring of your blood pressure is key to managing hypertension. Now, I'd like to respectfully ask a personal question. Do you currently smoke cigarettes or use any vaping products?",
-        "our_model": "I'm glad to hear that. It's essential to keep your blood pressure under control. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 540,
-    "prompt": "Nurse: Alright, that was all the topics for today. Before we wrap up, do you have any other questions or concerns that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, to summarize, we discussed your upcoming colonoscopy on August 13th at 9:00\n\nPatient: I have no questions, no concerns, I'm good to go.\n\nNurse: AM with I'm glad to hear that you're feeling prepared. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over your diet, medication, and bowel prep instructions. You've confirmed that you've arranged a ride home after the procedure. Does that sound right?\n\nPatient: Yes.\n\nNurse: Great, I'm glad we're on the same page. Remember, I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns in the meantime, you can reach us at 641-381-6523. Does that sound good to you?\n\nPatient: Sounds great.",
-    "responses": {
-        "gpt4": "That's excellent to hear. Wishing you a warm and comforting day ahead, Shizu. Thank you for taking the time to chat with me. I'll be looking forward to speaking with you again before your colonoscopy. Take care and enjoy your rice dishes in the lead-up to the prep! Have a good day.",
-        "our_model": "I'm glad to hear that. Thank you for your time today. I'm looking forward to speaking with you again next time. Enjoy your rice meals in the coming days. Take care and have a great day. Goodbye for now. ["
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1793,
-    "prompt": "Nurse: I'm sorry if I gave you the wrong impression, Mr. Jimenez. There's nothing wrong. I'm here to help you prepare for your upcoming surgery and answer any questions you might have. How has your day been so far?\n\nPatient: It's okay. I just\n\nNurse: I'm glad to hear that, Mr. Jimenez. It's important to keep a positive attitude. Do you have any plans for the day?\n\nPatient: So nothing's wrong. Right?\n\nNurse: That's correct, Mr. Jimenez. Everything is on track for your surgery. I'm here to ensure you're well-prepared and to address any concerns you might have. Is there anything in particular that's been on your mind today?\n\nPatient: I mean, obviously, the procedure\n\nNurse: Of course, the upcoming procedure is a significant event. It's completely normal to have thoughts and feelings about it. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I'm just",
-    "responses": {
-        "gpt4": "I can see that you might be feeling a bit overwhelmed right now, and that's totally normal. It's a big step you're taking but you're in good hands with Dr. Cristina Stevens. She's an excellent orthopedic surgeon who has performed over 1000 total knee replacements. Is there anything particular you're worried about regarding the procedure? Also, you can ask me any questions at any time during our conversation.",
-        "our_model": "I'm sorry, Mr. Jimenez, you were saying something?"
-    }
-}

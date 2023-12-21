@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1591,
-    "prompt": "Patient: Are you still there?\n\nNurse: Yes, I'm here, Mr. Reynolds. I was asking about your favorite type of bread. [\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, Mr. Reynolds, it seems like there might be a connection issue. Could you please repeat your response?\n\nPatient: Like like\n\nNurse: I'm sorry, Mr. Reynolds, I didn't\n\nPatient: together name, but I guess.\n\nPatient: And then I clicked some",
-    "responses": {
-        "gpt4": "Mr. Reynolds, I apologize, but I didn't quite catch what you said. Could you please repeat that for me?",
-        "our_model": "I'm sorry, Mr. Reynolds, I didn't quite catch that. Could you please repeat what you"
-    }
-}

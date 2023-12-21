@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3172,
-    "prompt": "Nurse: I'm glad to hear you're doing okay. It's completely normal to be thinking about how you'll feel after the surgery. With your new knee, do you have any specific plans or activities you're looking forward to doing without pain?\n\nPatient: No. I really just wanna know I'm gonna be able to move around without paying\n\nNurse: Of course, That's a very important goal, and one that's achievable with your upcoming surgery. Moving around without pain can significantly improve your quality of life. How are you feeling about the procedure itself?\n\nPatient: I mean,\n\nNurse: Yes, it's completely normal to have some feelings about the upcoming procedure. If you have any specific questions or concerns you'd like to discuss before we move forward, please feel free to share them. [\n\nPatient: I'm feeling okay about the procedure itself.\n\nNurse: That's good to hear. I'm here today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: I'm just wondering, you know, because I do have",
-    "responses": {
-        "gpt4": "Yes, please go ahead and share your thoughts. It's important that we address any questions or concerns you might have. What are you wondering about?",
-        "our_model": "Absolutely, it's important to address all your concerns. You were saying you have a question about your current condition. Please, go ahead and ask. ["
-    }
-}

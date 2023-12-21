@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3251,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Nine nine nineteen seventy two.\n\nNurse: Thank you for confirming. I'm calling on behalf of your primary care doctor, Doctor Norbeta Valencia. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: Hello? A little anxious, but Okay. Overall.\n\nNurse: I'm sorry to hear that you're feeling a bit anxious. It's completely normal to feel this way after a hospital stay. I'm sure you must be relieved to be back in the comfort of your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: No. Not really.\n\nNurse: That's alright. It's essential to take things one step at a time. Now that you're home, is there anything specific you're looking forward to doing?\n\nPatient: Just hanging out.",
-    "responses": {
-        "gpt4": "Just being able to relax at home can indeed be nice. Do you have a favorite activity you do during your hangout time? For instance, some people like watching sports, others have hobbies or pets that they love or perhaps, you have a favorite TV show?",
-        "our_model": "That sounds like a good plan, Patient. Sometimes, just relaxing at home can be the best thing. Do you have any hobbies or interests that you enjoy doing while you're at home?"
-    }
-}

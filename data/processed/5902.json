@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5902,
-    "prompt": "Nurse: I see, it's completely normal to feel overwhelmed when dealing with multiple health conditions. Remember, you're not alone in this. We're here to support you. Before we delve into the topics regarding your kidney disease, do you have any questions or concerns you'd like to discuss?\n\nPatient: There's a lot going on.\n\nNurse: I can imagine that managing multiple health conditions can feel overwhelming at times. It's a lot to keep track of. Before we delve into the specifics of your kidney disease, is there anything you're looking forward to doing this week that might help take your mind off things a bit?\n\nPatient: I don't know. I can't really think about so Now.\n\nNurse: That's That's perfectly fine. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing in your free time that you find relaxing or enjoyable?\n\nPatient: I mean, I guess so, but I can't think of it right now.\n\nNurse: That's okay. It's not always easy to think of these things on the spot. Let's move on to some questions about your health. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.",
-    "responses": {
-        "gpt4": "Great. As part of your chronic care management, it's important we discuss your blood sugar since you have Type II Diabetes. Have you been able to check your blood sugar daily? If so, do you recall what your last blood sugar reading was at home?",
-        "our_model": "Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

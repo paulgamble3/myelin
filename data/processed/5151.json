@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5151,
-    "prompt": "Nurse: Excellent. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Great. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay.\n\nNurse: Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Perfect. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Now, let's move on to talking about your medications. But before we do that, I just wanted to pause to make sure you're comfortable with us moving forward. Can we proceed?",
-        "our_model": "Alright. I'm glad to hear that the logistics are clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
-    }
-}

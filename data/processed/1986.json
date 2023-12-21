@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1986,
-    "prompt": "Nurse: I'm glad to hear you're feeling okay. It sounds like you're preparing for your upcoming procedure. That's great. Are there any specific things you're doing to prepare?\n\nPatient: in kinda nervous.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way before a procedure. Is there anything specific that's been on your mind or any particular concerns you'd like to discuss?\n\nPatient: Off the top of my head, You know, I'm wondering\n\nNurse: Of course, I'm here to help answer any questions you have. What's been on your mind?\n\nPatient: When\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: will my arthritis pain?",
-    "responses": {
-        "gpt4": "I apologize, but it seems there was a part of your question that I didn't catch. Could you please repeat it?",
-        "our_model": "I'm sorry, could you please repeat your question?"
-    }
-}

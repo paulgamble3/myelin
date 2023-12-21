@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4166,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Peck. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.\n\nNurse: Great, thank you for being open to suggestions, Mr. Peck. One strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, and vegetables. What do you think about this suggestion?\n\nPatient: Well, I'm on a low salt, low phosphorus diet.\n\nNurse: I apologize for the confusion earlier, Mr. Peck. You mentioned that your blood sugar was 148. Is that correct?\n\nPatient: Yes.\n\nNurse: Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you. Thank you for confirming that, Mr. Peck. I understand that you're on a low salt, low phosphorus diet. This is important for managing your kidney disease. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: This morning.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Peck. May I know what the reading was?",
-        "our_model": "Thank you for that information, Mr. Peck. Could you please tell me what the result of your blood pressure measurement was this morning?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4937,
-    "prompt": "Nurse: That's good to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Yes. I'm feeling so much better now.\n\nNurse: That's wonderful to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Please call me, Fredric.\n\nNurse: Of course. I apologize for the oversight. Is there anything specific you've been looking forward to doing now that you're back home?\n\nPatient: To watching my TV shows in peace\n\nNurse: That sounds like a great way to relax. What kind of TV shows do you enjoy watching?\n\nPatient: and quiet with nobody bothering me.",
-    "responses": {
-        "gpt4": "That sounds like a fantastic plan, Fredric. Peace and quiet can be so refreshing. What's your favorite TV show to watch?",
-        "our_model": "That sounds like a well-deserved break. Watching your favorite TV shows in peace and quiet can be quite relaxing. What kind of shows do you enjoy?"
-    }
-}

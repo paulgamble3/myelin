@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2310,
-    "prompt": "Nurse: Popular shows often have a lot to offer, Mr. Kageyama. It's great that you've found one that you enjoy. Now, I'd like to talk about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Kageyama, I'm here. I was asking about your feelings towards the upcoming colonoscopy. How are you feeling about it?\n\nPatient: I'm fine with it.\n\nNurse: I'm glad to hear that you're feeling okay about it, Mr. Kageyama. It's quite a process to go through this procedure. I see on your chart that you're getting this colonoscopy for preventative screening for colon cancer. How are you feeling about this?\n\nPatient: Well, as I said, I'm I'm fine. It's preventative.\n\nNurse: I appreciate your patience, Mr. Kageyama. It's great that you're taking this step to take care of your health. Do you have any questions or concerns about the procedure that you'd like to discuss before we move forward?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Kageyama. It's very important that you feel comfortable and well-informed about your upcoming procedure. If any questions or concerns come up later, don't hesitate to reach out to us.",
-        "our_model": "Alright, Mr. Kageyama. If you have any questions at any time during our conversation, feel free to ask. I'm here to ensure you have everything you need for your colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?"
-    }
-}

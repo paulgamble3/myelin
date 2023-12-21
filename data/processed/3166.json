@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3166,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Sure. June seventh nineteen seventy seven.\n\nNurse: Thank you for confirming. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Today, I'm feeling",
-    "responses": {
-        "gpt4": "I'm sorry. We got disconnected somehow. How are you feeling today?",
-        "our_model": "I'm sorry, it seems like there was a connection issue and I didn't catch the rest of what you were saying. Could you please repeat that?"
-    }
-}

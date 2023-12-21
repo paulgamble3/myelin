@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2556,
-    "prompt": "Nurse: Great, and how about your Methotrexate?\n\nPatient: Mhmm. I am taking it\n\nNurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. Have you experienced any ongoing or worsening chest pain?",
-        "our_model": "That's good to hear. Have you experienced any ongoing or worsening chest pain?"
-    }
-}

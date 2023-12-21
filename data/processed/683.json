@@ -1,8 +1,0 @@
-{
-    "prompt_id": 683,
-    "prompt": "Nurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: I guess not.\n\nNurse: I apologize for the confusion earlier. Could you please confirm if you've been using more pillows to sleep at night?\n\nPatient: I said\n\nNurse: Just give me a second to work out the best way I can assist you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: No. The best way you can assist me is to wrap up this call.",
-    "responses": {
-        "gpt4": "I understand. I'm here to assist you with your health-related matters. You're doing a great job managing your medications and monitoring your symptoms. We covered a lot today. Is there anything else you want to discuss or ask about?",
-        "our_model": "I understand. Before we wrap up, I'd like to discuss your diet briefly. Could you tell me about your recent meals?"
-    }
-}

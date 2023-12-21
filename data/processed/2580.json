@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2580,
-    "prompt": "Nurse: Alright. If you ever have any concerns or questions, feel free to share them with me at any time. Would it be alright if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Honey and twelve.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat your last blood sugar reading?\n\nPatient: One hundred and twelve.",
-    "responses": {
-        "gpt4": "Thank you for sharing. One hundred and twelve is a healthy blood sugar level considering your diabetes. It seems like you're managing it well. Remember to continue monitoring it regularly and to reach out to your health care team if there are any drastic changes. How have you been managing with your meal plan?",
-        "our_model": "Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. If you're comfortable with it, I can provide some recommendations on how to manage your blood sugar levels. Would that be alright?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2962,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Bernadine Peck?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: April third nineteen forty two.\n\nNurse: Thank you for confirming. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Playing with my dog",
-    "responses": {
-        "gpt4": "That sounds lovely! What kind of dog do you have, Bernadine?",
-        "our_model": "That sounds lovely! What kind of dog do you have and what's their name?"
-    }
-}

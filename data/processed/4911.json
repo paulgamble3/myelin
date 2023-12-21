@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4911,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that last part. Could you please repeat what you said about your diet?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion. You mentioned you're on a low salt, low carb diet. That's a great start. As for other dietary changes, it's important to maintain a balanced diet. This includes eating a variety of fruits and vegetables, lean proteins, and whole grains. However, it's always best to consult with a dietitian or your doctor for personalized advice. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Six. Yes.\n\nNurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One thirty two.",
-    "responses": {
-        "gpt4": "Thank you for sharing that. Since it is a bit over the desired range for fasting blood sugar levels in people with diabetes, can I share a few strategies that might help you in managing your blood sugar?",
-        "our_model": "Thank you for sharing that. A blood sugar level of 132 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

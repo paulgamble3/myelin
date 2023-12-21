@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4388,
-    "prompt": "Nurse: Good to know. And are you taking your Tylenol as needed, up to three times a day?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes.\n\nNurse: I apologize for the oversight earlier. Are you taking your Tylenol 500 mg oral tablets, with a dosage of 1000 mg, three times a day as needed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. It's essential to take your medications as prescribed. I understand that sometimes it can be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't. I'm good.",
-    "responses": {
-        "gpt4": "Wonderful! It looks like you're doing an excellent job at managing your medications. Keep it up, Aileen! Doctor Forbes and our medical team are always here to support you. Do you have any other questions or anything else you'd like to discuss?",
-        "our_model": "That's fantastic. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

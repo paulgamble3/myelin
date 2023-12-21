@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4785,
-    "prompt": "Nurse: I'm sorry, you were saying?\n\nPatient: my daughter,\n\nNurse: That's wonderful. Spending time with loved ones is always special. What activities do you usually enjoy doing with your daughter?\n\nPatient: Usually, baking. We bake cookies and cupcakes,\n\nNurse: Baking\n\nPatient: and decorate them, and it's lots of fun.\n\nNurse: together sounds Baking together sounds like a delightful tradition. It must be a treat to enjoy those homemade goodies. Speaking of treats, it's just a few days before your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: My dog for walks again, being able to go to the mall with",
-    "responses": {
-        "gpt4": "I'm sorry, you mentioned going to the mall with someone? Could you please repeat that part?",
-        "our_model": "That sounds like a wonderful plan. Walking your dog and going to the mall will be enjoyable activities, especially after your recovery. What kind of dog do you have?"
-    }
-}

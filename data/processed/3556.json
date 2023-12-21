@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3556,
-    "prompt": "Nurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Gardner. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Gardner. How about a new or worsening dry cough?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Mr. Gardner. Sorry if I wasn't clear earlier. I was asking if you've experienced a new or worsening dry cough lately. Have you noticed anything like that?",
-        "our_model": "Hello, Mr. Gardner. I was asking about a new or worsening dry cough. Have you noticed anything like that?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1540,
-    "prompt": "Nurse: Great, Mr. Moran. I also notice that you've been prescribed Tylenol, Oxycodone, Gabapentin, and Tramadol for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes. I picked them up today.\n\nNurse: That's excellent, Mr. Moran. It's critical to have these medications on hand for after your procedure. Do you have any questions about these medications or any other aspect of your medication regimen?\n\nPatient: No.\n\nNurse: Alright, Mr. Moran. Let's move on to the next topic, which is about preparing your skin for surgery. You'll need to use a chlorhexidine scrub to reduce the risk of infection. Have you already purchased this scrub?\n\nPatient: Yes.\n\nNurse: That's great, Mr. Moran. Now, let's go over the instructions for using the scrub. You'll need to use it the night before and the morning of your procedure. After taking a normal shower and turning the water off, does that sound good so far?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Moran. Next, apply the scrub to a wet, clean washcloth. Then gently scrub yourself from the neck down, but avoid using the scrub on your face, hair, or crotch area. Does that sound okay?",
-        "our_model": "Perfect, Mr. Moran. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
-    }
-}

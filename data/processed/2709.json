@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2709,
-    "prompt": "Nurse: That's great to hear, Ms. Aguirre. Regularly taking your medication as prescribed is crucial in managing your conditions. Now, let's discuss the next medication. You're also prescribed Tylenol 500 mg, and the dosage is 1000 mg three times a day as needed. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: I'm glad to hear that you're taking your Metformin as prescribed, Ms. Aguirre. Now, let's discuss the next medication. You're also prescribed Tylenol 500 mg, and the dosage is 1000 mg three times a day as needed. Have you been taking this medication as directed?\n\nPatient: Hello?\n\nNurse: Yes, Ms. Aguirre, I'm here. I was asking about your Tylenol medication. You're prescribed to take 1000 mg three times a day as needed. Have you been taking it as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear, Ms. Aguirre. It's important to take your medications as prescribed to manage your conditions effectively. Now, let's discuss the last medication. You're prescribed Atorvastatin 40 mg, and the dosage is 40 mg once a day. Have you been taking this medication as directed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's excellent, Ms. Aguirre. Regularly taking your medications, like your Atorvastatin, plays an essential role in managing your health conditions. I understand these medications can be hard to remember sometimes, may I provide some tips to make it easier?",
-        "our_model": "That's good to hear, Ms. Aguirre. It's critical to take your medications as prescribed to manage your conditions effectively. Lastly, you're also taking Atorvastatin 40 mg once a day. Have you been taking this medication as prescribed?"
-    }
-}

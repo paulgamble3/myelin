@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5789,
-    "prompt": "Nurse: I'm glad you found the tips helpful. It's all about making the process as comfortable as possible for you. Do you have any questions about the bowel prep?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I said, no. I no. I said no. I do not have questions.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Okay, if you have any questions in the future, don't hesitate to ask. Now, I have to ask if you have any signs of illness currently. Are you experiencing any fever, chills, or muscle aches?",
-        "our_model": "Alright, if you have any questions in the future, don't hesitate to ask. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?"
-    }
-}

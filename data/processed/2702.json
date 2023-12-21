@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2702,
-    "prompt": "Patient: No. Don't wait.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Sounds fine.\n\nNurse: Thank you for your response, Ms. Aguirre. Another suggestion is to increase your intake of fruits and vegetables, as they are naturally low in sodium and can help lower blood pressure. Do you think you could try that?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Including more fruits and vegetables in your diet can have many health benefits. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yeah. I wasn't looking to\n\nPatient: of caffeine and sodiumine.",
-    "responses": {
-        "gpt4": "I can understand why you might be curious about that, Ms. Aguirre. Sodium and caffeine can affect specific lab results, including your GFR, which stands for Glomerular Filtration Rate. GFR tells us how well your kidneys are filtering wastes from your blood. Your recent GFR result was 28 mL/min/1.73m2, which indicates your kidneys are functioning less efficiently than normal. High sodium and caffeine can put extra strain on your kidneys, so it's ideal to limit your intake of these substances. Does that answer your question, or is there anything else you're concerned about?",
-        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite understand your question. Could you please repeat it?"
-    }
-}

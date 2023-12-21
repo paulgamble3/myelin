@@ -1,8 +1,0 @@
-{
-    "prompt_id": 862,
-    "prompt": "Nurse: Thank you for confirming, Mr. Wiggins. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming your date of birth, Mr. Wiggins. I'm calling on behalf of your primary care doctor, Doctor Maria Smith, to check in on you. How have you been doing lately?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Wiggins. Is there anything you're looking forward to doing this week?\n\nPatient: I haven't really thought about it. Margo see a movie.\n\nNurse: That sounds like a nice plan, Mr. Wiggins. Do you have a particular movie in mind that you're interested in seeing?\n\nPatient: Not really.",
-    "responses": {
-        "gpt4": "That's fine, sometimes the best part is choosing the movie. Before we delve into the main topic of our call, I'm interested in finding out if there are any symptoms or health issues that have been concerning you lately?",
-        "our_model": "That's perfectly fine, Mr. Wiggins. Sometimes it's nice to just go with the flow and see what's playing. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

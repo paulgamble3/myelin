@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1105,
-    "prompt": "Patient: Like I said, just just a little anxious about it.\n\nNurse: It's completely normal to feel anxious, especially when it's about a procedure like a total knee replacement. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: I guess,\n\nPatient: I guess not.\n\nNurse: That's perfectly fine.\n\nPatient: Now?\n\nNurse: That's perfectly fine. Remember, you can ask me questions at any time during our conversation. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great. Let's start with the basics. A total knee replacement is a surgical procedure where the damaged knee joint is replaced with artificial material. The goal is to relieve pain and restore function to the joint. After recovery, most people report a significant improvement in their ability to perform common activities that were difficult before surgery due to pain or limited mobility. Do you have any questions about this information?",
-        "our_model": "Thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

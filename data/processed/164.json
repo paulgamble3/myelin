@@ -1,8 +1,0 @@
-{
-    "prompt_id": 164,
-    "prompt": "Nurse: I'm sorry if this is taking longer than you expected, Mr. Valenzuela. We're almost done. I just have a few more things to discuss. Can we please continue?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Valenzuela. I appreciate your patience. As I was saying, it's a rare time when doctors want their patients to be eating low fiber comfort foods. So, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Kate.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat what low fiber foods you enjoy as comfort food?\n\nPatient: Is it cake?\n\nNurse: Yes, Mr. Valenzuela, cake can be considered a low fiber food. However, it's important to note that you should avoid whole grain varieties and limit the amount of fruit or other high fiber toppings. Do you have a favorite type of cake that you're thinking of?\n\nPatient: Chocolate.",
-    "responses": {
-        "gpt4": "Chocolate cake sounds delightful, Mr. Valenzuela! Just remember to enjoy it in moderation. It can be a nice treat during this preparation phase for your colonoscopy. Once again, it's a unique scenario when doctors recommend patients to enjoy low fiber comfort foods, isn't it? Do you have any questions about the diet or would it be okay to move onto our next topic which is about supplements?",
-        "our_model": "Chocolate cake sounds delicious, Mr. Valenzuela. Just remember to enjoy it in moderation and follow the low fiber diet guidelines. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

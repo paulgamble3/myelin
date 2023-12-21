@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5744,
-    "prompt": "Nurse: You're welcome, Ms. Aguirre. I'm glad I could help. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Are you experiencing any pain or discomfort, or are you able to move around as you were before the surgeries?\n\nPatient: I'm pretty painless\n\nNurse: That's excellent news, Ms. Aguirre. Being pain-free is a good sign of recovery. Now, let's move on to the last topic. Do you smoke cigarettes or vape?\n\nPatient: so far for the most part. Can I take my Tylenol for pain though?\n\nNurse: I apologize for the confusion earlier, Ms. Aguirre. Could you please confirm whether you're experiencing any back pain at the moment?\n\nPatient: Not currently. But if I do have some back flare ups. Can I take my Tylenol for pain?",
-    "responses": {
-        "gpt4": "Yes, you can take your Tylenol as prescribed for any flare-ups in back pain. However, it's important to stay within the prescribed dosage - 1000 mg three times a day as needed - and not to exceed it. If your pain increases or becomes more frequent, please let your doctor know. You should also contact your doctor immediately if the Tylenol doesn't provide relief or if you experience any side effects. Does that help clarify things?",
-        "our_model": "Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Yes, Ms. Aguirre, you can take Tylenol for back pain if needed. It's prescribed to you as needed, so you can take it when you experience pain. However, it's important not to exceed the prescribed dosage. Does that answer your question?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5802,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Liz Grimes?\n\nPatient: Yes. It is.\n\nNurse: Hello Liz, I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Great, thank you. How has your day been so far?\n\nPatient: Oh, I've been Okay.\n\nNurse: I'm glad to hear that. As we move forward, I want to know how you're feeling about your upcoming colonoscopy procedure.\n\nPatient: Well, it's not something I look forward to. I especially hate the prep and the clans, but",
-    "responses": {
-        "gpt4": "I empathize with your feelings; the preparation is known to be taxing for many patients. Is there anything specific about it that bothers you? Or perhaps you have any pressing questions about the procedure? Rest assured, you can always ask me anything at any time during this call.",
-        "our_model": "I can imagine that the preparation process can be a bit uncomfortable."
-    }
-}

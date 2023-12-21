@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3793,
-    "prompt": "Nurse: That's great to hear, Ms. Odonnell. Taking your medications as prescribed is crucial for managing your blood pressure. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's important to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: Okay.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Ms. Odonnell. I just wanted to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's critical to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If you have any questions in the future, don't hesitate to ask. Now, let's discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: What do you mean by that?",
-    "responses": {
-        "gpt4": "I apologize if I was not clear, Ms. Odonnell. Can you tell me about some of the meals you've eaten in the past few days? This can help me understand your eating habits and make suggestions for maintaining a healthy diet.",
-        "our_model": "I'm asking about the types of foods you've been eating, Ms. Odonnell. For example, what did you have for breakfast, lunch, and dinner yesterday?"
-    }
-}

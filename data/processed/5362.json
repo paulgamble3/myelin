@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5362,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Good Morning Mr. O'Leary, this is Rachel calling from O'Connor Hospital about your total knee replacement procedure scheduled on the 13th of August. Is this a good time to talk?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this John O'Leary?"
-    }
-}

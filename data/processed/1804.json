@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1804,
-    "prompt": "Nurse: Wonderful, Mr. Jimenez. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Jimenez. I'm glad to hear that the logistics seem clear to you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yeah. It's fine.\n\nNurse: Excellent, thank you, Mr. Jimenez. I see on your chart that you are currently taking Tylenol, Celebrex, and Atorvastatin. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Jimenez. It's critical to follow your medication regimen as prescribed. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Good to know, Mr. Jimenez. It's important that we're aware of all your medications. I also notice that you've been prescribed Oxycodone for after the procedure. Have you picked up this prescription from your pharmacy?",
-        "our_model": "That's good to know, Mr. Jimenez. It's essential to avoid certain medications like blood thinners before surgery unless specifically recommended by your doctor. I also see that you've been prescribed Oxycodone 5 mg as needed for after the procedure. Have you picked up this prescription yet?"
-    }
-}

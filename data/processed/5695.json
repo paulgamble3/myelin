@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5695,
-    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: restrictions and supplements do I need?\n\nNurse: That's a great question. As someone with CHF, you're following a cardiac diet. This means eating a variety of nutrient-rich foods, including fruits, vegetables, whole grains, lean proteins, and healthy fats. It also means limiting sodium, added sugars, and unhealthy fats. In addition, due to your Fanconi-Bickel disease, you're also restricting Fructose and Galactose. Would you like me to share some specific dietary recommendations?\n\nPatient: Yes.\n\nNurse: Great. For your cardiac diet, it's important to include a variety of fruits and vegetables, lean proteins like chicken or fish, whole grains, and healthy fats like avocados or olive oil. You should limit sodium, added sugars, and unhealthy fats. For your Fanconi-Bickel disease, it's crucial to avoid foods high in fructose and galactose. This includes fruits like apples and pears, and foods made with high fructose corn syrup. Do you have any questions about these recommendations?\n\nPatient: I do not.\n\nNurse: Alright. Now, based on what you've shared about your recent meals, it seems like you're doing a good job following your dietary recommendations. Remember, it's important to keep doing so for your health. Do you have any concerns or questions about maintaining this diet?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great. Continuing with our conversation, next on our list is physical activity. Could you please share with me your current exercise routine?",
-        "our_model": "That's great to hear. Now, let's talk about exercise. Could you tell me about your current exercise routine?"
-    }
-}

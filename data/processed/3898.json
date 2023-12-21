@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3898,
-    "prompt": "Nurse: I'm sorry, Carla, could you please repeat what you'd like to know about your diet?\n\nPatient: Yes. I was still out to ask a question. In regards to my diet, What dietary changes do I need to make to preserve my kidney function?\n\nNurse: That's a very important question. Would it be okay if we go over a few topics related to your kidney disease and diet?\n\nPatient: Sure.\n\nNurse: Great. Let's start with your blood sugar. Since you have Stage I CKD and Lupus, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share your last blood sugar reading at home?\n\nPatient: He was one",
-    "responses": {
-        "gpt4": "I apologize but I didn't quite understand your response. Could you please tell me what was your latest blood sugar reading?",
-        "our_model": "I'm sorry, Carla, could you please repeat your last blood sugar reading?"
-    }
-}

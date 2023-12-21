@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2165,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this David Grewe?\n\nPatient: Yeah. Yeah. That's it's me.\n\nNurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I I I guess [NO RESPONSE]\n\nNurse: I appreciate your time. How has your day been so far?\n\nPatient: It's like\n\nPatient: It's sounds great.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said about your day?"
-    }
-}

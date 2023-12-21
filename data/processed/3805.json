@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3805,
-    "prompt": "Nurse: I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's completely normal to feel scared given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?\n\nPatient: We talked about this already. I'm trying to go in a circle with you.\n\nNurse: I apologize if it feels like we're going in circles, Ms. Odonnell. I'm here to help you navigate through this. You mentioned earlier that you're scared because you feel like you have a lot going on. Can you tell me more about what specifically is causing you to feel this way?\n\nPatient: A call. I'm hanging up.\n\nNurse: I apologize for any confusion, Ms. Odonnell. I'm here to help you. Let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I smoke cigarettes.\n\nNurse: Thank you for sharing that with me, Ms. Odonnell. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: Need to quit right now. Thanks, though.",
-    "responses": {
-        "gpt4": "That's okay, Ms. Odonnell. Quitting smoking is a big decision, and it's ultimately up to you when you would like to make that change. If you ever decide that you want to quit, know that there are resources available that can help. I'm here for you whenever you're ready. Now, let's move on to the last item to discuss today. Do you have any questions or concerns you'd like to share with me?",
-        "our_model": "I understand, Ms. Odonnell. It's a big step and it's normal to feel unsure about when to start. Can I ask why you feel you're not ready to quit smoking yet?"
-    }
-}

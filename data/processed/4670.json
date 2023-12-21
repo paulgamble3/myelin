@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4670,
-    "prompt": "Nurse: That's good to hear, Mr. Amador. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. Now, let's smoothly transition to the diet prep for your colonoscopy. Starting today, you'll want to eat a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. What are some low fiber foods that you enjoy as comfort food?\n\nPatient: I like pasta.\n\nNurse: That's great, Mr. Amador. Pasta is a good choice for a low fiber diet. Do you have a favorite pasta dish that you enjoy?\n\nPatient: Rigatoni.",
-    "responses": {
-        "gpt4": "Rigatoni is a great option, Mr. Amador. Just be sure to avoid sauces with seeds or chunks of vegetables during your prep. Now, 2 days before your colonoscopy - which would be August 15th for you - you'll have to switch over to a clear liquids diet. Do you understand what that means?",
-        "our_model": "That sounds delicious, Mr. Amador. Rigatoni is a great choice. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any questions about this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2970,
-    "prompt": "Nurse: Great, thank you for your understanding. Are you okay if we go over a few topics to check on how you're doing with your chronic conditions?\n\nPatient: Yes.\n\nNurse: Thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.",
-    "responses": {
-        "gpt4": "Thanks for sharing that. Since your reading is a bit above 120, would it be alright if I provide some recommendations on how to manage this?",
-        "our_model": "Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2470,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ola Farrell?\n\nPatient: It is.\n\nNurse: Hello Ola, I'm calling on behalf of your primary care doctor, Doctor Robert Benson, to check in on you. How have you been doing lately?\n\nPatient: I'm great. Thank you for asking.\n\nNurse: That's wonderful to hear! Is there anything you're looking forward to doing this week?\n\nPatient: Oh, I guess it's being back to my regular old routine.",
-    "responses": {
-        "gpt4": "That's wonderful, routines do have a way of bringing stability and comfort. What does your regular routine look like? Is there a particular part of your routine you're most fond of?",
-        "our_model": "That's a good thing, having a routine can be comforting. Is there a particular part of your routine that you enjoy the most?"
-    }
-}

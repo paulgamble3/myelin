@@ -1,8 +1,0 @@
-{
-    "prompt_id": 801,
-    "prompt": "Nurse: I understand your concern, Ms. Aguirre. These lab results are part of the ongoing monitoring of your kidney function. They don't necessarily mean that you will need dialysis. Many factors influence the progression of kidney disease, including how well you manage your overall health and any other conditions you may have. It's important to continue following your doctor's advice and maintain a healthy lifestyle. Would you like me to share more about this?\n\nPatient: Okay.\n\nNurse: necessarily mean that you will need dialysis. Many factors influence the progression of kidney disease, including how well you manage your diet, blood sugar, and blood pressure. It's critical to continue working closely with your healthcare team to manage your condition. Now, let's discuss your medications. Are you taking your Metformin 500 mg once a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Regularly taking your Metformin as prescribed is important for managing your diabetes. Now, are you also taking your Tylenol 500 mg, up to 1000 mg three times a day as needed, as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Aguirre. It's essential to manage any pain you might have. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?\n\nPatient: I don't take it very long.",
-    "responses": {
-        "gpt4": "Do you mean you have not been taking the Atorvastatin for a long time, or that you don't take it every day, Ms. Aguirre?",
-        "our_model": "That's good to hear, Ms. Aguirre. It's critical to take Tylenol only when you need it for pain relief. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?"
-    }
-}

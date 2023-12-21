@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3605,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Benton. It's good to see that you're keeping track of your blood pressure. That reading is a bit high. Would you be open to some suggestions on how to manage your blood pressure?\n\nPatient: I guess.\n\nNurse: Thank you for being open to suggestions, Mr. Benton. One thing you could try is reducing your salt intake. This can help lower blood pressure. What do you think about this suggestion?\n\nPatient: I guess it\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat your response?\n\nPatient: fine. I'm already on a low salt diet though.\n\nNurse: That's great to hear, Mr. Benton. Sticking to a low salt diet is indeed beneficial for managing blood pressure. As an alternative suggestion, regular physical activity can also help manage blood pressure. This could be a short walk around your neighborhood or some light stretching exercises at home. Would you be open to trying this?\n\nPatient: I guess if I have time,",
-    "responses": {
-        "gpt4": "Great, Mr. Benton. Even a few minutes of light physical activity can have a big impact on your overall health, so I encourage you to fit it in when you can. Remember, your care team is here to support you. Is there anything else you'd like to discuss today?",
-        "our_model": "That's a good approach, Mr. Benton. Incorporating physical activity into your routine can be as simple as taking a short walk during a break. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about these results?"
-    }
-}

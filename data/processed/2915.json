@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2915,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August third nineteen eighty two.\n\nNurse: Thank you for confirming, Ms. McKloskey. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Ms. McKloskey. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I've been feeling good.\n\nNurse: I'm glad to hear that, Ms. McKloskey. It's always nice to start the day on a positive note. As you approach your knee replacement surgery, it must be exciting to think about the activities you'll be able to enjoy with your new knee. Do you have any specific plans or hobbies you're looking forward to getting back to?\n\nPatient: So I can get back to having a normal life.",
-    "responses": {
-        "gpt4": "I can imagine, Ms. McKloskey. A new knee joint can definitely make daily activities more comfortable. Is there anything in particular, like walking the dog or going for a jog, that you're most excited about doing comfortably again?",
-        "our_model": "I'm glad to hear you're feeling good, Ms. McKloskey. It's exciting to think about getting back to a normal life. With your new knee, is there something specific you're looking forward to doing that you couldn't do before?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2788,
-    "prompt": "Nurse: You're welcome, I'm glad I could provide the information you needed. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure. Let's start with the first item on our checklist. Are you clear on the dietary restrictions you need to follow before your colonoscopy?\n\nPatient: Yes.\n\nNurse: Great, it's important to follow those dietary guidelines for the best results. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. I will be there.\n\nNurse: Perfect, punctuality is key for these procedures. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes. It does.\n\nNurse: Excellent. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, that's great. Before we move on to talk about your medications, I want to take a pause. Is it okay if we discuss the medications you're currently on and how you should manage them before your procedure?",
-        "our_model": "Alright, if any concerns come up later, don't hesitate to bring them up. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?"
-    }
-}

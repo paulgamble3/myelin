@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2477,
-    "prompt": "Nurse: Great, thank you. Since you have hypertension, it's important to monitor your blood pressure regularly. When was the last time you took your blood pressure, and do you recall what the reading was?\n\nPatient: Well, last time I took it, I can't remember off the top of my head. I don't even remember what the reading is.\n\nNurse: That's okay. It's critical to keep track of your blood pressure readings. May I share some suggestions on how to manage your blood pressure?\n\nPatient: Cores.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Of course.\n\nNurse: Thank you. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating less processed foods and adding less salt to your meals. Do you think this is something you could try?\n\nPatient: I don't see why not.",
-    "responses": {
-        "gpt4": "That's wonderful to hear! Another suggestion is regular physical activity, such as a daily walk or a light jog, if it suits you. This can really help control blood pressure. Do you think you might be able to incorporate a bit more activity into your daily routine?",
-        "our_model": "That's great to hear. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you currently have any physical activities incorporated into your routine?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6127,
-    "prompt": "Nurse: I can understand how managing dietary restrictions can feel overwhelming. Could you share with me what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: I have cereal for breakfast. I have pizza for lunch. And I had\n\nNurse: I'm sorry, Jon, could you please repeat what you had for dinner yesterday?\n\nPatient: And and\n\nNurse: I'm sorry, Jon, you were saying?\n\nPatient: string beans for dinner.\n\nNurse: Thank you for sharing that. It sounds like you're making an effort to include a variety of foods in your diet. I noticed that you had pizza for lunch. Pizza can sometimes be high in sodium. Would it be okay if I provide some suggestions on how to manage your sodium intake?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Fantastic! So, for a CKD patient, it's often recommended to have a sodium-limited diet with less than 2000 mg of sodium per day. Options could be to enjoy fresh vegetables, fruits, lean meats, and whole grains, which are typically low in sodium. Also, try to avoid processed and fast foods, as they can be high in sodium. What do you think of these suggestions?",
-        "our_model": "Okay. One strategy is to choose foods that are low in sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also a good idea to limit processed foods, which often contain high amounts of sodium. What do you think about this suggestion?"
-    }
-}

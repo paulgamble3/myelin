@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2545,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Pete Arnold?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: You said you're",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, I didn't quite catch that."
-    }
-}

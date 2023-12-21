@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3544,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Just staying home.\n\nNurse: That sounds like a good plan, Mr. Gardner. Being at home can indeed be comforting. By the way, do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I like to walk\n\nNurse: That's great, Mr. Gardner. Walking is a wonderful way to stay active. Do you have a favorite route or area where you like to walk?\n\nPatient: Just around the block.",
-    "responses": {
-        "gpt4": "That's a good approach, Mr. Gardner. A comfortable, familiar route can make walks more enjoyable. Before we proceed, do you have any questions or concerns you'd like to talk about, or is there anything specific on your mind that you would like to discuss?",
-        "our_model": "That's a good way to stay active in your own neighborhood, Mr. Gardner. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

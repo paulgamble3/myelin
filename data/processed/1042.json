@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1042,
-    "prompt": "Patient: Actually wanna ask though, what kind of diet I should be following?\n\nNurse: I'm glad you asked. Given your conditions, you're on a cardiac and renal diet. This means you should focus on foods that are low in sodium, potassium, and phosphorus. It's also important to limit your fluid intake. Would you like me to share some specific dietary recommendations?\n\nPatient: Sure. Yeah.\n\nNurse: Okay. For your cardiac diet, you should aim to eat a variety of fruits and vegetables, lean proteins, and whole grains. Try to limit your intake of saturated and trans fats, cholesterol, and sodium. For your renal diet, you should focus on foods that are low in potassium, phosphorus, and sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also important to limit your fluid intake. Based on what you've told me about your meals, it sounds like you're already making some good choices. Do you have any questions about these dietary recommendations?\n\nPatient: I don't.\n\nNurse: Alright. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: And I like to go on Bye bye. Jobs a week,\n\nPatient: maybe some, like, long walks then I do a little bit of free wait listing as well.",
-    "responses": {
-        "gpt4": "That sounds like a balanced routine. Do you enjoy these activities?",
-        "our_model": "That's great. Regular exercise is important for managing your conditions. Walking and light weight lifting are good choices. Would it be okay if I provide some recommendations about improving your exercise routine in a CHF appropriate manner?"
-    }
-}

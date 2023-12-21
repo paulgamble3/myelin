@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4495,
-    "prompt": "Nurse: I'm sorry, Mr. Delarosa, could you please repeat what you said?\n\nPatient: in exercise given my condition?\n\nNurse: Absolutely, Mr. Delarosa. Regular physical activity is beneficial for managing CHF, as long as it's within your ability and approved by your doctor. Would it be okay if I shared some suggestions on how to safely increase your exercise routine?\n\nPatient: I mean, I do have asthma, and I also have CHI.\n\nNurse: I understand your concerns, Mr. Delarosa. It's important to remember that regular physical activity can help manage your conditions. However, it's crucial to do so in a way that's safe and appropriate for your health. Would it be okay if I shared some suggestions on how to safely increase your physical activity?\n\nPatient: Okay.\n\nNurse: Thank you, Mr. Delarosa. One suggestion could be to gradually increase the frequency of your walks. For example, you could aim to walk every night instead of every other night. Another suggestion could be to add a few minutes to your walk each week. How does that sound?\n\nPatient: Oh, I I can definitely do that.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Delarosa. Please remember it's important to listen to your body. If you feel short of breath or have chest pain while walking, it's crucial to rest. Do you have any concerns or other questions about this?",
-        "our_model": "That's great to hear, Mr. Delarosa. Increasing your physical activity gradually is a good way to improve your health. Remember, it's important to listen to your body and not push yourself too hard. Do you have any questions or concerns about what we discussed?"
-    }
-}

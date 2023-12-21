@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5618,
-    "prompt": "Patient: Hi.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Pete Arnold?\n\nPatient: The person you've reached is using a screening service from Google, and we'll get a recording and transcript of this call. Go ahead and say why you're calling.",
-    "responses": {
-        "gpt4": "Hi, I'm an AI assistant from O'Connor Hospital. I called to confirm and verify if I'm speaking with Pete Arnold, our registered patient. For confidentiality reasons, I'm unable to discuss more details until I can verify the identity of the person I'm speaking with.",
-        "our_model": "I'm calling to follow up on behalf of your primary care doctor, Doctor Jack Smith. However, before we proceed, I need to confirm that I'm speaking with Pete Arnold. Can you please confirm that you are Pete Arnold?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3357,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Kageyama. It's quite a process to go through, so it's good that you're feeling okay about it. This colonoscopy is a preventative screening for colon cancer. How are you feeling about this?\n\nPatient: I think it's good. You know? I wanna make sure that I\n\nNurse: Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Do you have any questions or concerns about the procedure that you'd like to discuss before we move forward?\n\nPatient: catch anything early. You know?\n\nNurse: Absolutely, Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Regular screenings can indeed help in early detection and treatment. Before we delve into the details of your colonoscopy preparation, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: Yeah. Actually, I do have a question.\n\nNurse: Of course, Mr. Kageyama. What's your question?\n\nPatient: Wanted to see if it's okay if I eat",
-    "responses": {
-        "gpt4": "That's a great question, Mr. Kageyama. Can you please share what specifically you're thinking about eating?",
-        "our_model": "I'm sorry, Mr. Kageyama, you were saying?"
-    }
-}

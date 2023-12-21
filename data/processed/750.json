@@ -1,8 +1,0 @@
-{
-    "prompt_id": 750,
-    "prompt": "Nurse: I understand, Ms. Peck. It can be challenging to balance all these dietary recommendations. It's okay to take small steps and make changes gradually. Remember, the goal is to make your diet as healthy as possible while managing your sodium and phosphorus intake. Would you like to discuss this further?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Ms. Peck. I was saying that the goal is to make sustainable changes. It's okay to take small steps and make changes gradually. Would you like to discuss this further?\n\nPatient: Oh, I don't know. I think I've had enough for now.\n\nNurse: That's perfectly fine, Ms. Peck. We can always continue this discussion at another time. Now, let's talk about your exercise routine. Could you tell me what you've been doing for physical activity?\n\nPatient: Well, I haven't been doing that much. I mean,\n\nNurse: I understand, Ms. Peck. It's okay to start slow. Could you tell me a bit more about what you're currently able to do?\n\nPatient: I don't have a lot of energy.",
-    "responses": {
-        "gpt4": "That's understandable, Ms. Peck. With CHF, it's normal to experience periods of low energy. Do you find that there are times of the day where you feel more energetic than others?",
-        "our_model": "I understand, Ms. Peck. It's essential to listen to your body and not push yourself too hard. However, regular physical activity can help manage your conditions. Would it be okay if I shared some gentle exercise recommendations with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5631,
-    "prompt": "Nurse: That sounds like a wonderful place to spend time with Rocky. Now, I'm calling on behalf of Doctor Jack Smith and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Chase anything that is anywhere near that lake.\n\nNurse: That sounds like a wonderful place to spend time with Rocky. It's great that you have such a nice spot for your walks. Now, I'm calling on behalf of Doctor Jack Smith, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No, ma'am.\n\nNurse: Alright, let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Valsartan and Lasix?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear. And are you also continuing with your Methotrexate?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "That's great. Keeping up with your medication can be tricky, is there ever a time when you have trouble remembering to take them on time?",
-        "our_model": "Great, it's important to keep up with your medications. Are you taking them as prescribed, which would be Valsartan and Lasix twice a day, and Methotrexate once a week?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2945,
-    "prompt": "Nurse: Excellent, Ms. McKloskey. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Ms. McKloskey. Do you have any questions about the chlorhexidine scrub or the instructions I just provided?\n\nPatient: No. I don't think so.\n\nNurse: Alright, Ms. McKloskey. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Great, Ms. McKloskey. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Ms. McKloskey. Do keep in mind that not eating and drinking after midnight includes avoiding chewing gum, mints, and even water. Can you remember to follow these instructions?",
-        "our_model": "Alright, Ms. McKloskey. If any questions come up later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?"
-    }
-}

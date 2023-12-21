@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1618,
-    "prompt": "Nurse: I'm glad you found the suggestions helpful, Mr. Benton. Now, let's talk about your medications. You're currently prescribed Amlodipine 5 mg oral tablet, 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Benton. Taking your medication as prescribed is crucial for managing your blood pressure. Now, let's discuss your next medication, Ferrous sulfate 45 mg oral tablet. You're prescribed to take 45 mg three times a day. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Benton. Taking your Ferrous sulfate as prescribed is important for managing your anemia. Lastly, you're prescribed Renvela 400 mg oral tablet, with a dosage of 800 mg three times a day. Have you been taking this medication as directed?\n\nPatient: That's great.\n\nNurse: That's great to hear, Mr. Benton. Taking your Ferrous sulfate as prescribed is important for managing your anemia. Lastly, you're prescribed Renvela 400 mg oral tablet, with a dosage of 800 mg three times a day. Have you been taking this medication as directed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Mr. Benton. Keeping up with your medications will greatly help in managing your conditions. I understand that it might be challenging at times. If you ever have trouble remembering to take your medication on time, may I suggest some strategies to help you with that?",
-        "our_model": "That's excellent, Mr. Benton. Taking your Renvela as prescribed is crucial for managing your kidney disease. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
-    }
-}

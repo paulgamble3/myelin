@@ -1,8 +1,0 @@
-{
-    "prompt_id": 978,
-    "prompt": "Nurse: A Christmas show, how delightful! Is this a tradition you have or something new you're trying out?\n\nPatient: Something new. It's a new work, so it's never been seen before.\n\nNurse: That's even more exciting! Being one of the first to experience a new work must be thrilling. Is there a particular reason you chose this show or is it more about trying something new in general?\n\nPatient: My granddaughter's in it.\n\nNurse: Oh, that's wonderful! It must be special to see your granddaughter perform. Is she a part of a local theater group or is this a school production?\n\nPatient: A local theater group.\n\nNurse: That's fantastic! It's always a joy to see our loved ones pursue their passions. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: For.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat your response?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

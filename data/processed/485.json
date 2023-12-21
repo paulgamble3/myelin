@@ -1,8 +1,0 @@
-{
-    "prompt_id": 485,
-    "prompt": "Nurse: Yes, that's correct. It's critical to monitor your symptoms daily and report any changes to your doctor. This list includes checking for shortness of breath, dry cough, swelling, weight changes, and sleeping with more pillows. It's also important to take your medications as prescribed and monitor your diet. Speaking of which, could you tell me about your recent meals?\n\nPatient: Well, they haven't been so good. You know, I don't follow the low salt diet for CHF but my cardiologist referred me to a dietitian, but I still haven't made that phone call.\n\nNurse: I see, it's understandable that changing dietary habits can be challenging. Would it be okay if I share some dietary recommendations that might help manage your CHF symptoms?\n\nPatient: Well, maybe if you could just have the dietitian call me, that would be health full.\n\nNurse: I've noted down your request for the dietitian to call you. I'll make sure Doctor Van is aware of this. In the meantime, could you tell me a bit more about your regular diet?\n\nPatient: Well, like I said, it's not very good.\n\nNurse: I appreciate your honesty. Could you share a bit more about what you typically eat in a day?\n\nPatient: Oh, I don't know. I don't have",
-    "responses": {
-        "gpt4": "That's okay. When you think about breakfast, lunch, and dinner, what are some typical foods you might have?",
-        "our_model": "I understand, it can be hard to remember everything. Could you tell me about a recent meal you had?"
-    }
-}

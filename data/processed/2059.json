@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2059,
-    "prompt": "Nurse: Great. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Sounds pretty straightforward to me. No questions.\n\nNurse: I'm glad to hear that the logistics seem straightforward to you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please. Sure.\n\nNurse: I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you been taking these medications as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I actually been taking aspirin. Yes.",
-    "responses": {
-        "gpt4": "Thank you for sharing that. Aspirin is typically a medication that needs to be stopped before a knee replacement unless your doctor has recommended otherwise. You mentioned that you are currently taking Aspirin. You should have been instructed to stop taking Aspirin 7 days before the procedure, which means you should have already stopped. Did you stop taking Aspirin as instructed?",
-        "our_model": "Thank you for sharing that. It's critical to note that medications like Aspirin typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I would advise you to discuss this with your doctor. Now, I notice you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?"
-    }
-}

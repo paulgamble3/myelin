@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3764,
-    "prompt": "Patient: I have no change in\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Beach. We're talking about my\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: type two diabetes.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: And my\n\nPatient: kidney disease.",
-    "responses": {
-        "gpt4": "Has the patient experienced sudden confusion, trouble speaking or understanding speech?",
-        "our_model": "Does the patient report sudden arm or leg weakness?"
-    }
-}

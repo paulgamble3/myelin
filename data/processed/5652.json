@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5652,
-    "prompt": "Nurse: Great. For your cardiac and renal diet, it's recommended to limit your intake of sodium, potassium, and phosphorus. This means avoiding processed foods and choosing fresh fruits and vegetables instead. It's also important to limit your fluid intake. For your Lupus, a balanced diet is key. This includes a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit your intake of sugars and alcohol. Does this information help?\n\nPatient: It does. Thank you, Rachel.\n\nNurse: You're welcome. I'm glad I could provide some helpful information. Now, based on what you've shared about your diet, it sounds like you're already making some good choices. One suggestion could be to ensure you're getting a variety of colors in your fruits and vegetables, as this can provide a wide range of nutrients. Also, it's important to monitor your fluid intake. Would you like more suggestions or do you have any questions about what we've discussed so far?\n\nPatient: Are you there, Rachel?\n\nNurse: Yes, I'm here. I apologize if there was a pause. Do you have any questions about the dietary recommendations we discussed?\n\nPatient: No. I believe I understand.\n\nNurse: Great, I'm glad to hear that. Now, let's talk about your exercise routine. Could you tell me about any physical activities you've been doing recently?\n\nPatient: Well, I'm always walking my dog",
-    "responses": {
-        "gpt4": "Walking your dog is a great way to stay active. How often do you do that and for approximately how long?",
-        "our_model": "That's great, walking is a wonderful form of exercise. How long do your walks usually last?"
-    }
-}

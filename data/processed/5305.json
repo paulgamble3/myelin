@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5305,
-    "prompt": "Nurse: I see, Mr. Weeks. Sometimes, it's just nice to be back in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Not really any that I enjoy at the moment.\n\nNurse: I see, Mr. Weeks. It's okay to have periods where we don't feel like doing much. How about the weather?\n\nPatient: What about the weather?\n\nNurse: I was just wondering if there's any particular type of weather that you enjoy, Mr. Weeks?\n\nPatient: I guess, sunny days.\n\nNurse: Sunny days can indeed be quite uplifting, Mr. Weeks. Now, I have a few topics to cover with you on behalf of Doctor Stapleton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Weeks. Let's proceed then. Let's start with medications. Are you still taking your Carvedilol, Lasix, and Zoloft?",
-        "our_model": "Alright, Mr. Weeks. Let's move on to your medications. Are you still taking your Carvedilol and Lasix tablets?"
-    }
-}

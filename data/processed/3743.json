@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3743,
-    "prompt": "Nurse: Yes, I'm here, Ms. Odonnell. I was asking if there's anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: No. I I I don't think so.\n\nNurse: Alright, Ms. Odonnell. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing with your health conditions?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Hello. I said, yes. I have.\n\nNurse: That's great to hear, Ms. Odonnell. Could you please tell me what your last blood sugar reading at home was?\n\nPatient: My last blood sugar reading was one twenty one,",
-    "responses": {
-        "gpt4": "Thank you for sharing that information, Ms. Odonnell. That's slightly elevated. Would you like some tips on how to help control your blood sugar levels?",
-        "our_model": "Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

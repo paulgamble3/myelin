@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5962,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: My family will be visiting me.\n\nNurse: That sounds lovely, family visits are always something to look forward to. How often do you get to see your family?\n\nPatient: Not enough, sadly.\n\nNurse: I'm sorry to hear that, it must be tough not seeing them as often as you'd like. What activities do you usually enjoy doing with your family when they visit?\n\nPatient: Ford Games.\n\nNurse: I'm sorry, I didn't quite understand that. Could you please tell me more about the activities you enjoy doing with your family when they visit?\n\nPatient: We like to play",
-    "responses": {
-        "gpt4": "That sounds like a lot of fun! Games are a great way to spend quality time with family. Do you have a favorite game?",
-        "our_model": "I'm sorry for the interruption, please go on. You were saying that you and your family enjoy playing games when you're together. That sounds like a fun way to spend time. Do you have a favorite game that you all like to play?"
-    }
-}

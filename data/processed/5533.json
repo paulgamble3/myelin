@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5533,
-    "prompt": "Patient: You know, couldn't\n\nPatient: I'm not taking anything.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat whether you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: No. I'm not taking anything.\n\nNurse: Thank you for confirming that, Mr. Alves. It's important to ensure that certain medications don't interfere with your procedure. Do you have any questions about medications or anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No. I don't have any questions.\n\nNurse: Alright, Mr. Alves. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: In Ohio.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Alves, I didn't understand what you said. Could you please repeat that?",
-        "our_model": "I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat your question or comment about the low fiber diet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 163,
-    "prompt": "Nurse: That's great, Mr. Valenzuela. It's important to follow this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: K. I need to go. This is taking too long. Goodbye.\n\nNurse: I'm sorry if this is taking longer than you expected, Mr. Valenzuela. We're almost done. I just have a few more things to discuss. Can we please continue?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Valenzuela. I appreciate your patience. As I was saying, it's a rare time when doctors want their patients to be eating low fiber comfort foods. So, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Kate.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat what low fiber foods you enjoy as comfort food?\n\nPatient: Is it cake?",
-    "responses": {
-        "gpt4": "I apologize, but I am an artificial intelligence and am unable to compute personal preference. I am programed to provide information and assistance based on what is provided to me. Please let me know if you need any other details or have any more questions.",
-        "our_model": "Yes, Mr. Valenzuela, cake can be considered a low fiber food. However, it's important to note that you should avoid whole grain varieties and limit the amount of fruit or other high fiber toppings. Do you have a favorite type of cake that you're thinking of?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1893,
-    "prompt": "Nurse: Thank you for sharing that. It's great that you're keeping track of your blood pressure. It's a bit high, but not too far off. Would you like some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Excellent. One strategy is to reduce your salt intake. Too much salt can raise your blood pressure. Another is to maintain a healthy weight. Excess weight can also increase blood pressure. Lastly, regular physical activity can help lower your blood pressure. Do you think these are strategies you could incorporate into your daily routine?\n\nPatient: Sure.\n\nNurse: That's great to hear. Now, I see that you've had some recent blood tests and urine labs. Do you have any questions about these results?\n\nPatient: Yeah. Are my sodium and potassium levels normal?\n\nNurse: Yes, your sodium level is 139 mEq/L and your potassium level is 3.9 mEq/L. Both of these are within the normal range. Sodium and potassium are important for your body to function properly, so it's good that your levels are normal. Do you have any other questions about your lab results?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Alright, thank you for asking and it's good that you're staying informed about your health. Now, it's important for us to review your medication. I see you're prescribed Cellcept 500 mg oral tablet with a dosage of 1000 mg taken two times a day. Have you been able to take this medication as prescribed?",
-        "our_model": "Alright. Let's move on to your medications. You're currently taking Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?"
-    }
-}

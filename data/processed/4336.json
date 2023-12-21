@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4336,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Oliver. It's important to keep an eye on your blood sugar levels. Would it be alright if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Oliver. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. What do you think about this suggestion?\n\nPatient: That's helpful. Thank you.\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?\n\nPatient: Lug sugar is at\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nPatient: one hundred and twelve. Is that high or low?",
-    "responses": {
-        "gpt4": "Your blood sugar level of 112 mg/dL is within a fairly normal range for fasting blood sugar. However, you may start to experience symptoms of hyperglycemia (high blood sugar) if your blood sugar consistently stays above 130 mg/dL when fasting. On the other hand, levels below 70 mg/dL are considered low and may lead to hypoglycemia. Continue to monitor this number and inform your doctor if there are any significant changes. If you do experience symptoms of high or low blood sugar, you should seek immediate medical care. Would you like a reminder of these symptoms?",
-        "our_model": "I apologize for the confusion earlier, Mr. Oliver. I want to make sure I understand correctly. You mentioned that your blood sugar level is at one hundred and twelve. Is that correct?"
-    }
-}

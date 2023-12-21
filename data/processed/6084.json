@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6084,
-    "prompt": "Patient: This morning when I\n\nPatient: out of.\n\nNurse: I'm sorry, Jon, could you please repeat when you took your blood sugar level of 128?\n\nPatient: This morning when I got up.\n\nNurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No.\n\nNurse: That's good to hear. Do you currently have any nausea or vomiting?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. How about chest pain or shortness of breath? Are you experiencing any of these symptoms currently?",
-        "our_model": "Is there any more information you want to share about this issue?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3900,
-    "prompt": "Nurse: Great. Let's start with your blood sugar. Since you have Stage I CKD and Lupus, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share your last blood sugar reading at home?\n\nPatient: He was one\n\nNurse: I'm sorry, Carla, could you please repeat your last blood sugar reading?\n\nPatient: fifteen.\n\nNurse: Thank you for sharing that. Your blood sugar level is within the normal range, which is good for your kidney health. Now, when was the last time you took your blood pressure measurement?\n\nPatient: An hour ago.",
-    "responses": {
-        "gpt4": "Great. Could you share your blood pressure reading?",
-        "our_model": "Thank you for letting me know. Could you please share what the result was?"
-    }
-}

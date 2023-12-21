@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2057,
-    "prompt": "Nurse: Okay. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: First four sound good.\n\nNurse: Okay.\n\nPatient: Yeah.\n\nNurse: Great. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Sounds pretty straightforward to me. No questions.\n\nNurse: I'm glad to hear that the logistics seem straightforward to you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes, please. Sure.",
-    "responses": {
-        "gpt4": "From your chart, I see that you're currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Your doctor hasn't indicated any need for changes to these medications, but it would still be important to ask if you've been taking them as prescribed?",
-        "our_model": "I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you been taking these medications as prescribed?"
-    }
-}

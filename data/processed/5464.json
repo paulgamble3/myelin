@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5464,
-    "prompt": "Nurse: I apologize for the confusion. To clarify, while on a low fiber diet, you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. These foods are high in fiber and can interfere with the colonoscopy preparation. Do you have any other questions about the diet?\n\nPatient: What what should I avoid? I you caught in and out there. I I'm I'm not understanding you.\n\nNurse: I apologize for the confusion earlier. To clarify, you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables while on a low fiber diet. These foods are high in fiber and can interfere with the colonoscopy preparation. Does that make sense?\n\nPatient: Sure.\n\nNurse: Hold on a second while I figure out how I can best support you. Give me a moment to check how I can best support you.\n\nNurse: When did the change in speech start?\n\nPatient: The change in\n\nPatient: Beach.",
-    "responses": {
-        "gpt4": "I beg your pardon, can you repeat what you just said? I didn't catch it.",
-        "our_model": "Does the patient report sudden arm or leg weakness?"
-    }
-}

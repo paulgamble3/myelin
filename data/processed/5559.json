@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5559,
-    "prompt": "Nurse: Alright, Mr. Alves. I'm glad to hear that you're clear on all the instructions so far. I know we've covered a lot of information, but we're almost done. I just have two more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. I appreciate your patience. My first question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Alves. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Thank you. A friend of mine who's picking me up.\n\nNurse: That's great to hear, Mr. Alves. It's critical to have someone available to take you home after the procedure. I'm glad you've arranged that. Do you have any other questions or concerns about your upcoming colonoscopy?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Mr. Alves. I'm glad to hear that you're feeling prepared. That was all the topics for today. If you have any questions or concerns as we're ending this call, please feel free to discuss them with me now. Is there anything else you'd like to discuss before we conclude this call?",
-        "our_model": "Alright, Mr. Alves. That was all the topics for today. Before we end this call, do you have any other questions or concerns you'd like to discuss?"
-    }
-}

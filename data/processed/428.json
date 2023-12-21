@@ -1,8 +1,0 @@
-{
-    "prompt_id": 428,
-    "prompt": "Patient: Hold on. Let me review my medications because I have so many. That I need to take a look at it.\n\nNurse: Of course, take your time. It's important to be sure about your medications.\n\nPatient: Give me just a second.\n\nNurse: Of course, take your time. It's essential to be sure about your medications.\n\nPatient: So five days. Yeah. Right? Yeah. I did stop it. Thank you. I\n\nPatient: take a look. That's one of the medications that I did got taken. Yep.\n\nNurse: That's great to hear. It's important to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: First.",
-    "responses": {
-        "gpt4": "Sorry, could you please repeat that again? I want to make sure I understand your question completely.",
-        "our_model": "I'm sorry, could you please repeat what you just said?"
-    }
-}

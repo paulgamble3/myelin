@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1080,
-    "prompt": "Nurse: Does the patient develop a severe headache?\n\nPatient: Are you okay, Rachel?\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: Rachel, were you there?\n\nNurse: Does the patient report becoming dizzy or lightheaded?\n\nPatient: I thought we were talking about my colonoscopy.\n\nNurse: Does the patient report trouble with balance or coordination?\n\nPatient: Hey, Rachel. What are you doing?",
-    "responses": {
-        "gpt4": "Has the patient ever fainted or lost consciousness?",
-        "our_model": "Does the patient report their tongue is deviated?"
-    }
-}

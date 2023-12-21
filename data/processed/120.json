@@ -1,8 +1,0 @@
-{
-    "prompt_id": 120,
-    "prompt": "Nurse: Alright. If you have any questions about the NuLYTELY laxative solution or the bowel prep process, feel free to ask. Would you like some tips on making the bowel prep easier?\n\nPatient: Okay.\n\nNurse: Would you like some tips on making the bowel prep easier?\n\nPatient: Yes.\n\nNurse: Excellent. Here are a couple of tips that might help: You can drink the laxative solution cold, which some people find makes it easier to drink. You can also drink the solution through a straw to help it go down easier. What do you think about these tips?\n\nPatient: I see, like, a first grade I can do that. So Well, I can do it too.\n\nNurse: I'm glad to hear you found the tips helpful. It's all about making the process as comfortable as possible for you. Do you have any other questions about the bowel prep or is there anything else you'd like to discuss?\n\nPatient: No questions.",
-    "responses": {
-        "gpt4": "Alright. I'm proud of you for taking care of your health by undergoing this important health check. Don't worry, we'll go over these instructions again on the day before your procedure when I call you back. And of course, if you have any concerns or questions in the meantime, don't hesitate to reach out. Remember, your comfort and understanding are our top priority. How are you feeling right now?",
-        "our_model": "Alright, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2687,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Thanks, Ivan. Good.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Not really.",
-    "responses": {
-        "gpt4": "That's perfectly fine, Ms. Aguirre. Sometimes having a peaceful week is best. Before we go over some specific topics related to your kidney disease, do you have any symptoms that you're currently concerned about?",
-        "our_model": "That's okay, Ms. Aguirre. Sometimes it's nice to have a quiet week. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

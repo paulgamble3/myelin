@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4933,
-    "prompt": "Patient: This is Frederick Cooper.\n\nNurse: I apologize for the confusion, Mr. Cooper. I was trying to reach Fredric Hooper. I must have mispronounced the name. Can you confirm if you are Fredric Hooper?\n\nPatient: I am.\n\nNurse: Thank you for confirming, Mr. Hooper. For verification purposes, could you please provide your date of birth?\n\nPatient: December five\n\nPatient: nineteen sixty one.\n\nNurse: Thank you for confirming that, Mr. Hooper. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling reasonably well.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Hooper! There's no place like home, is there? I'm sure you must be looking forward to doing something now that you're back. Is there anything particular you're waiting to get back to?",
-        "our_model": "That's good to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5217,
-    "prompt": "Patient: Color.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, I'm calling on behalf of your primary care doctor, Dr. Peter Smith. We're checking in on our patients with chronic conditions. Since you are living with Stage II CKD, Type II Diabetes, and HTN, we want to ensure your well-being. How have you been feeling, Benedict?",
-        "our_model": "Hello, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?"
-    }
-}

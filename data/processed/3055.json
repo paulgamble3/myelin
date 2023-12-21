@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3055,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?\n\nPatient: Yes.\n\nNurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: It's\n\nNurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: Well, I can't complain.\n\nNurse: I'm glad to hear that, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: Oh, I don't know. I'll probably hang up a few Christmas decorations.",
-    "responses": {
-        "gpt4": "Sounds delightful! Hanging Christmas decorations can be both joyful and nostalgic. Do you have a favorite decoration or holiday tradition you'd like to share?",
-        "our_model": "That sounds like a lovely way to spend your time, Mr. Hardy. Do you have a favorite Christmas decoration that you're particularly excited to hang up?"
-    }
-}

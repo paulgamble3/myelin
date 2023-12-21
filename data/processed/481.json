@@ -1,8 +1,0 @@
-{
-    "prompt_id": 481,
-    "prompt": "Nurse: I see, it's important to monitor your weight regularly as sudden weight gain can be a sign of fluid retention. When you get a chance, could you please get your weight checked at a pharmacy or a friend's house?\n\nPatient: Yeah. I can try to do that.\n\nNurse: That would be very helpful. Lastly, have you been using more pillows at night to sleep?\n\nPatient: Okay.\n\nNurse: Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Well, I have a list here. I guess I'm supposed to check certain things every day. Is that right?",
-    "responses": {
-        "gpt4": "Yes, that's correct. Monitoring your daily symptoms is a crucial part of managing your Congestive Heart Failure (CHF). This includes checking for increased shortness of breath, sudden weight gain, swelling (especially in the legs and feet), persistent cough, or needing more pillows to sleep at night. Would you like further guidance on how to track these symptoms at home?",
-        "our_model": "Yes, that's correct. It's critical to monitor your symptoms daily and report any changes to your doctor. This list includes checking for shortness of breath, dry cough, swelling, weight changes, and sleeping with more pillows. It's also important to take your medications as prescribed and monitor your diet. Speaking of which, could you tell me about your recent meals?"
-    }
-}

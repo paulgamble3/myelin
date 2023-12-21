@@ -1,8 +1,0 @@
-{
-    "prompt_id": 418,
-    "prompt": "Nurse: That's a very important question. The goal of a total knee replacement is to relieve the pain in the knee caused by damage to the joint. After surgery and recovery, most people have significant pain relief and improved mobility. However, it's important to remember that everyone's recovery process is unique, and it may take some time to fully realize the benefits of the surgery. Does that help address your concern?\n\nPatient: That does helps you out a lot.\n\nNurse: I'm glad to hear that. Now, I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: It's totally okay. Yes.\n\nNurse: Great, thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Does that timing work for you?\n\nPatient: That's okay. Yep. That sounds good.",
-    "responses": {
-        "gpt4": "Excellent. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor of O'Connor Hospital. Does that sound alright to you?",
-        "our_model": "Excellent. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
-    }
-}

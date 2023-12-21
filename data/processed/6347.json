@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6347,
-    "prompt": "Nurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you. That's good to hear, Mr. Gardner. Now, have you had any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Gardner. How about a new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Gardner. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great to hear, Mr. Gardner. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Gardner. Finally, have you experienced any more wheezing recently?",
-        "our_model": "That's good to hear, Mr. Gardner. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

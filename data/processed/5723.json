@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5723,
-    "prompt": "Nurse: That's wonderful to hear, Ms. Aguirre. Regular physical activity can make a big difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Earlier today.\n\nNurse: That's great, Ms. Aguirre. Could you please share with me what the result was?\n\nPatient: One twenty one over eighty you.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 121 over 80 is within the acceptable range, but the top number is a bit high. Would it be alright if I share some suggestions about managing blood pressure?\n\nPatient: But it's only high by one number. Is it really that\n\nNurse: Yes, Ms. Aguirre, even a small increase in blood pressure can have an impact on your health. Would you be open to\n\nPatient: big a deal.",
-    "responses": {
-        "gpt4": "You're correct, Ms. Aguirre, a reading of 121 over 80 is just slightly above the optimal blood pressure range of less than 120 over 80. It's not a big concern, but we aim for the best control to maintain your health. Would it be okay if I share a few strategies that could help keep your blood pressure under control?",
-        "our_model": "Yes, Ms. Aguirre, even small increases in blood pressure can have a significant impact on your health, especially with your current conditions. Would you be open to discussing some strategies to help manage your blood pressure?"
-    }
-}

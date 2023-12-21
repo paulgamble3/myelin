@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6118,
-    "prompt": "Nurse: I'm glad to hear that. Now, let's move on to the last medication. You're prescribed Aspart 100 IU/mL, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Both types wanting to use insulin then?\n\nNurse: Yes, that's correct. Both type 1 and type 2 diabetes can be managed with insulin. It helps regulate your blood sugar levels. Do you have any other questions about your medications?\n\nPatient: Nope.\n\nNurse: Alright. Now, let's move on to the next medication. You're prescribed Aspart 100 IU/mL, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: I have.\n\nNurse: That's great to hear. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: I have a question about metoprolol.",
-    "responses": {
-        "gpt4": "Of course. What would you like to know about Metoprolol?",
-        "our_model": "Of course, what's your question about Metoprolol?"
-    }
-}

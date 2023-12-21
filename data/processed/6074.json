@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6074,
-    "prompt": "Nurse: Great, thank you. Before we dive into that, is there anything you're looking forward to doing this week?\n\nPatient: Hi, Jeff. I'm just looking forward to spending time with my dog.\n\nNurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name and what do you usually enjoy doing together?\n\nPatient: Excellent.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: We'd like to take walks.\n\nNurse: That sounds like a great way to spend time. Walking is also a good form of exercise. What's your dog's name?\n\nPatient: Buddy,",
-    "responses": {
-        "gpt4": "That's a great name! Walking with Buddy can also be beneficial for your health. Regular exercise, maintaining a healthy diet, and regular check-ups with your doctor are important parts of managing CKD. How often do you two get to go for a walk?",
-        "our_model": "Buddy sounds like a great companion. Now, let's move on to discuss your health. Have you been checking your blood sugar daily?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1832,
-    "prompt": "Nurse: That's wonderful, Ms. Odonnell. It's great to hear that you're staying active. Do you have a favorite song or routine in your Zumba classes?\n\nPatient: I really like our warm up. We always do this really fun.\n\nNurse: That's great to hear, Ms. Odonnell. The warm-up sounds like a fun and energizing part of your Zumba class. Before we\n\nPatient: Match up\n\nNurse: That sounds like a great way to start your class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: of dance songs.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat that?\n\nPatient: Yeah. I love our warm ups. They're a lot of fun.",
-    "responses": {
-        "gpt4": "It's great to hear that you're enjoying your Zumba classes, Ms. Odonnell.  Now, let's move on to discuss your kidney disease. Have you been experiencing any changes in your health recently that you'd like to discuss?",
-        "our_model": "That sounds like a great way to start your Zumba class, Ms. Odonnell. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

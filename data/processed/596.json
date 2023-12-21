@@ -1,8 +1,0 @@
-{
-    "prompt_id": 596,
-    "prompt": "Nurse: Wonderful, Ms. Chabot. Let's start with Captopril. Are you still taking this medication?\n\nPatient: Yeah.\n\nNurse: Excellent, Ms. Chabot. And how about Carvedilol?\n\nPatient: What about it? I take all my medications.\n\nNurse: That's great to hear, Ms. Chabot. I apologize for any confusion. I'll move on to the next medication. Are you still taking Metformin?\n\nPatient: Yes.\n\nNurse: That's good to hear, Ms. Chabot. And are you still using your Lantus injection device?\n\nPatient: Absolutely. Yes.",
-    "responses": {
-        "gpt4": "Good to know. And lastly, are you still taking Torsemide?",
-        "our_model": "That's great, Ms. Chabot. Lastly, are you still taking Torsemide?"
-    }
-}

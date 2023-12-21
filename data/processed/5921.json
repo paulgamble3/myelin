@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5921,
-    "prompt": "Nurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's discuss your medications. I'd like to go over each one to ensure you're taking them as prescribed. Let's start with Aspirin. You should be taking an 81 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's great to hear. Now, let's move on to Atorvastatin. You should be taking a 40 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's good to hear. Now, let's discuss Plavix. You should be taking a 75 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's great. Now, let's move on to Metoprolol. You should be taking a 50 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Good job, Jon! Now, let's discuss Lisinopril. You should be taking a 20 mg oral tablet daily. Have you been able to do that?",
-        "our_model": "That's good to hear. Now, let's discuss Lisinopril. You should be taking a 20 mg oral tablet daily. Have you been able to do that?"
-    }
-}

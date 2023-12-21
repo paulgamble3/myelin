@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4534,
-    "prompt": "Nurse: Wonderful. One strategy to help manage your blood pressure is to reduce your salt intake. This can be achieved by eating fewer processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad you think so. Another strategy is to maintain a healthy weight. If you're overweight, losing even a small amount of weight can help lower your blood pressure. This could be achieved through a combination of a healthy diet and regular physical activity. Do you think you could incorporate this into your routine?\n\nPatient: Yes.\n\nNurse: That's great to hear. Maintaining a healthy weight can really make a difference. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No. I don't.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's move on to your medications. I'd like to review them with you to ensure you're taking them as prescribed. Let's start with Aspirin. You're prescribed to take an 81 mg oral tablet daily. Have you been taking this medication as directed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great! Now, let's move on to the next medication, which is Atorvastatin. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as directed too?",
-        "our_model": "That's great to hear. Now, let's move on to Atorvastatin. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as directed?"
-    }
-}

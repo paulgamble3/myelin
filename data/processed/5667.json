@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5667,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, may I please confirm if I'm speaking with the individual scheduled for a follow-up call concerning their chronic care management? The person I'm looking to speak with is a patient of Dr. Maria Rodriguez.",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Kai Cardenas?"
-    }
-}

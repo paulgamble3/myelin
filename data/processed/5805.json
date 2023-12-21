@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5805,
-    "prompt": "Nurse: I'm glad to hear that. As we move forward, I want to know how you're feeling about your upcoming colonoscopy procedure.\n\nPatient: Well, it's not something I look forward to. I especially hate the prep and the clans, but\n\nNurse: I can imagine that the preparation process can be a bit uncomfortable.\n\nPatient: I'm glad I can get it done to rule out some things.\n\nNurse: I can imagine that the preparation process can be a bit uncomfortable. It's really commendable that you're taking this step for your health. Do you have any specific questions or concerns about the procedure that you'd like to discuss?\n\nPatient: How long does the procedure take?\n\nNurse: The colonoscopy procedure itself typically takes about 30 to 60 minutes. However, you should plan to be at the hospital for 2 to 3 hours for the preparation, the procedure, and the recovery time. Is there anything else you'd like to know?\n\nPatient: Not right now.",
-    "responses": {
-        "gpt4": "Great. If you think of any other questions later, please feel free to ask. Let's now talk about how you're feeling specifically about this colonoscopy as a preventative procedure for colon cancer. This procedure is a proactive measure and I'm glad to see you taking this step to take care of your health.",
-        "our_model": "Alright. If you have any questions at any point during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

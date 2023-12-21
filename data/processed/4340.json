@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4340,
-    "prompt": "Patient: one hundred and twelve. Is that high or low?\n\nNurse: I apologize for the confusion earlier, Mr. Oliver. I want to make sure I understand correctly. You mentioned that your blood sugar level is at one hundred and twelve. Is that correct?\n\nPatient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: When did the change in speech start, Mr. Oliver?\n\nPatient: I never said that.\n\nNurse: I apologize for the confusion, Mr. Oliver. I'm going to ask a few questions to better understand your current health status. Do you report sudden arm or leg weakness?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for the information, Mr. Oliver. Let's continue. Is there any problem with coordination or balance that you've noticed recently?",
-        "our_model": "Thank you for your response, Mr. Oliver. Do you report numbness on your arms or legs?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3,
-    "prompt": "Patient: Plus\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?\n\nPatient: Yes.\n\nNurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: Having good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: No. Not really. She's relaxing.",
-    "responses": {
-        "gpt4": "That sounds nice, relaxation is vital for good health. Do you have any specific relaxation methods or activities that you've found beneficial?",
-        "our_model": "Relaxation sounds wonderful. Do you have any favorite activities that help you unwind?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4449,
-    "prompt": "Nurse: That's great, Mr. Delarosa. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I've been weighing myself every day.\n\nNurse: That's excellent, Mr. Delarosa. Regular weight checks are a good way to monitor your health. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Delarosa. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: I apologize for the confusion earlier, Mr. Delarosa. I thought you said you were using more pillows to sleep. Could you please confirm whether this is correct?\n\nPatient: I don't know why you think that. I I'm not using any. I",
-    "responses": {
-        "gpt4": "I'm sorry for misunderstanding earlier, Mr. Delarosa. I appreciate your patience in clarifying that for me. Continually monitoring these symptoms is crucial to managing your health. Please remember to reach out to Dr. Gervais' office if you notice any changes. Can I assist you with anything else today?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 429,
-    "prompt": "Patient: Give me just a second.\n\nNurse: Of course, take your time. It's essential to be sure about your medications.\n\nPatient: So five days. Yeah. Right? Yeah. I did stop it. Thank you. I\n\nPatient: take a look. That's one of the medications that I did got taken. Yep.\n\nNurse: That's great to hear. It's important to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: First.\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: Oh, I didn't say anything.",
-    "responses": {
-        "gpt4": "My apologies for the confusion. Let's proceed then. Is there anything else you'd like to know or discuss regarding your medications or any other aspect of your upcoming knee replacement surgery?",
-        "our_model": "My apologies for the confusion. Let's move on. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?"
-    }
-}

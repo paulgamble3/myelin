@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5302,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: January twenty ninth nineteen eighty four.\n\nNurse: Thank you for confirming your date of birth, Mr. Weeks. I'm calling on behalf of your primary care doctor, Doctor Henry Stapleton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Honestly, not great. It's not gonna a good, you know, mental health day.\n\nNurse: I'm sorry to hear that you're having a tough day, Mr. Weeks. It's completely normal to have ups and downs, especially after a hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Not really.\n\nNurse: I see, Mr. Weeks. Sometimes, it's just nice to be back in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Not really any that I enjoy at the moment.",
-    "responses": {
-        "gpt4": "That's okay, Mr. Weeks. It's normal to feel this way sometimes, especially after a hospital stay. On a different note, it's been quite warm recently, hasn't it? I hope the weather isn't causing too much discomfort for you.",
-        "our_model": "I see, Mr. Weeks. It's okay to have periods where we don't feel like doing much. How about the weather?"
-    }
-}

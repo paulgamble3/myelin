@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1013,
-    "prompt": "Nurse: Thank you for sharing that with me. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: No.\n\nNurse: I see. It's a big step to even consider quitting. Can you share with me why you feel you're not ready to quit at this time?\n\nPatient: Four.\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: I'm just not ready to quote yet. There's too many things going on in my life, and I don't wanna think about it right now.\n\nNurse: I completely understand. It's a big decision and it's important to be ready. Can you share more about why you feel now isn't the right time?\n\nPatient: Well, I'm changing so much about my lifestyle right now because of all my various diagnosis. So",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat what you said?",
-        "our_model": "I see, managing multiple health conditions can indeed feel overwhelming. It's critical to focus on what feels manageable for you. If you ever decide you're ready to consider quitting smoking, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?"
-    }
-}

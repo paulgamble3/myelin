@@ -1,8 +1,0 @@
-{
-    "prompt_id": 278,
-    "prompt": "Patient: No.\n\nNurse: That's good to hear, Mr. O'Leary. It's critical to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: I'm going home after the procedure.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: That's great to hear, Mr. O'Leary. It's critical to have a plan for after your procedure. Now, I need to ask if you've arranged for a ride home and for someone to stay with you after the procedure. Have you been able to arrange that?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. O'Leary. It's critical to have someone to assist you after the procedure. If there's anything else you need to discuss or any other questions you have, feel free to ask. [\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "Since it seems like you're silent, I'll wrap up our call. It was a pleasure assisting you today, Mr. O'Leary. Remember, if you have any further questions or concerns about your upcoming procedure, don't hesitate to reach out to our team. We're here to make sure you feel fully prepared for your knee replacement. Take care!",
-        "our_model": "I'm here to help, Mr. O'Leary. If you have any other questions or concerns, please feel free to share. ["
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5713,
-    "prompt": "Nurse: That's wonderful, Ms. Aguirre. Family time is always special. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I don't think so.\n\nNurse: Alright, Ms. Aguirre. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Would it be alright if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.",
-    "responses": {
-        "gpt4": "Thank you for sharing that, Ms. Aguirre. The value seems somewhat elevated. Would it be okay for me to provide some recommendations to help manage your blood sugar levels?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

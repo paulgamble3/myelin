@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4565,
-    "prompt": "Nurse: I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting?\n\nPatient: I'm not really interested in quitting right now.\n\nNurse: I appreciate your honesty. It's a big step to decide to quit smoking. Can you share why you're not ready to quit at this time?\n\nPatient: Because I like smoking.\n\nNurse: I appreciate your honesty. It's a personal decision. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: I'm not interested.\n\nNurse: I appreciate your honesty. If you ever change your mind, don't hesitate to reach out. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Let me quickly summarize our conversation today. You've been doing a good job checking your blood sugar, blood pressure, and taking your medications as prescribed. You've also agreed to maintain a balanced diet, reduce your intake of sodium and phosphorus, manage your carbohydrate intake, and stay active. Can I count on you to continue doing these things?",
-        "our_model": "Alright. Just to summarize, you've agreed to consider some dietary changes and to continue monitoring your blood sugar and blood pressure levels. Can I count on you to do these things?"
-    }
-}

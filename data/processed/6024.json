@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6024,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sarkis Koroleva?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Koroleva. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Not really. Can you be quick?\n\nNurse: Of course, Mr. Koroleva. I'll make this as brief as possible. I just wanted to check in with you about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Fine. I just wanna get it over with.\n\nNurse: I can appreciate that, Mr. Koroleva. It's completely normal to want to get procedures like this over and done with. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Like I said, I feel fine. I just wanna get it over with.",
-    "responses": {
-        "gpt4": "I see, Mr. Koroleva. I'm hopeful this procedure will provide your doctor with the answers you're both looking for. Before we delve into it, do you have any specific questions or concerns you'd like to go over? Remember, you can ask me anything at any point during this conversation.",
-        "our_model": "I appreciate your patience, Mr. Koroleva. I hope this procedure gives you and your doctor the answers you're looking for. Before we wrap up, do you have any questions or concerns you'd like to discuss?"
-    }
-}

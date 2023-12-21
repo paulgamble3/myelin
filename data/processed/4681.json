@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4681,
-    "prompt": "Nurse: I understand, Mr. Amador. Do you have any remaining questions about the diet changes?\n\nPatient: Though.\n\nNurse: I'm sorry, Mr. Amador, could you please repeat what you just said?\n\nPatient: I said no.\n\nNurse: That's good to hear, Mr. Amador. Now, the other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your GoLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: No. I'm good.\n\nNurse: That's perfectly fine, Mr. Amador. Do you have any questions about the bowel prep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Amador. Remember, you'll need to make arrangements for transportation home after the colonoscopy as you will be under sedation. Will it be convenient for you to arrange a ride home?",
-        "our_model": "When did the patient start having bloody stool?"
-    }
-}

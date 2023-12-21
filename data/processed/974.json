@@ -1,8 +1,0 @@
-{
-    "prompt_id": 974,
-    "prompt": "Nurse: Great, thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May second nineteen thirty nine.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that you're doing fine. Is there anything you're looking forward to doing this week?\n\nPatient: I'm seeing a show this weekend.\n\nNurse: That sounds exciting! What kind of show are you planning to see?\n\nPatient: It's a Christmas show.",
-    "responses": {
-        "gpt4": "Oh, a Christmas show! That must be very enjoyable, particularly in this festive season. Do you tend to go to these shows annually, or is this your first time attending one?",
-        "our_model": "A Christmas show, how delightful! Is this a tradition you have or something new you're trying out?"
-    }
-}

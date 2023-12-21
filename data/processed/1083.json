@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1083,
-    "prompt": "Patient: Hey, Rachel. What are you doing?\n\nNurse: Does the patient report their tongue is deviated?\n\nPatient: Rachel. Hey, Rachel. What are you doing?\n\nNurse: is deviated?\n\nPatient: Rachel. Are you there?\n\nNurse: Is the patient's tongue deviated?\n\nPatient: Hey, Rachel. Colonoscopy. Does that\n\nPatient: mean anything to you?",
-    "responses": {
-        "gpt4": "Does the patient report severe headache?",
-        "our_model": "Does the patient report a facial droop?"
-    }
-}

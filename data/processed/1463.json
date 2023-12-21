@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1463,
-    "prompt": "Nurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like rice,\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Rice is a great choice for a low fiber diet. Do you have a favorite way to prepare it?\n\nPatient: I also was a little bit of hot fast.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like it with hot sauce\n\nNurse: That sounds like a tasty way to enjoy rice, Mr. Valenzuela. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.",
-    "responses": {
-        "gpt4": "Thank you for the information, Mr. Valenzuela. It's essential to avoid those types of supplements and anti-diarrheal medications leading up to a colonoscopy. It's fine if you're not taking any, but if you do at any moment, it's crucial you let us know. Now, do you have any queries or concerns about this, or is there anything else you'd like to discuss on this topic?",
-        "our_model": "That's good to hear, Mr. Valenzuela. It's essential to stop these supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this or anything else you'd like to discuss before we move on to the next topic?"
-    }
-}

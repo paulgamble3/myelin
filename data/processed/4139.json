@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4139,
-    "prompt": "Nurse: That sounds like a healthy choice. What kind of salad was it?\n\nPatient: A chicken salad?\n\nNurse: Yes, I understand it was a chicken salad. Could you tell me more about it?\n\nPatient: What do you wanna know?\n\nNurse: Could you tell me what ingredients were in your chicken salad?\n\nPatient: Chicken, lettuce, tomatoes, onions, mushrooms.\n\nNurse: That sounds like a balanced meal. How about the dressing?\n\nPatient: I make my own dressing.",
-    "responses": {
-        "gpt4": "That's great! Homemade dressings can be healthier. What's in your homemade dressing?",
-        "our_model": "That's great! Could you tell me what ingredients you use in your homemade dressing?"
-    }
-}

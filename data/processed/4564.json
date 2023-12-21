@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4564,
-    "prompt": "Nurse: I'm glad to hear that. It's essential to keep your blood pressure under control. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: Yeah. I do.\n\nNurse: I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting?\n\nPatient: I'm not really interested in quitting right now.\n\nNurse: I appreciate your honesty. It's a big step to decide to quit smoking. Can you share why you're not ready to quit at this time?\n\nPatient: Because I like smoking.\n\nNurse: I appreciate your honesty. It's a personal decision. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: I'm not interested.",
-    "responses": {
-        "gpt4": "I appreciate your honesty. If and when you're ready to consider it, we have many resources available to help you quit. Moving on, that concludes all the topics I wanted to discuss today. Do you have any concerns or additional questions you want to ask?",
-        "our_model": "I appreciate your honesty. If you ever change your mind, don't hesitate to reach out. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?"
-    }
-}

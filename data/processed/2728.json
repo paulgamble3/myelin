@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2728,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Stevens. I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Feeling alright. Thank you.\n\nNurse: I'm glad to hear that, Mr. Stevens. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Stevens. I was asking if there's anything in particular you've been looking forward to doing now that you're back home?\n\nPatient: Yes. It's good to be home. It's really good to be home.\n\nNurse: That's wonderful to hear, Mr. Stevens. Being in the comfort of your own home can indeed be a great feeling. Is there a particular hobby or activity that you enjoy doing at home?\n\nPatient: Oh, gosh. I mean, I love baking. I love too many things.",
-    "responses": {
-        "gpt4": "That's great, Mr. Stevens! Baking can be such a therapeutic activity. What's your favorite thing to bake? Or, maybe there's a recipe you're looking forward to trying again now that you're home?",
-        "our_model": "Baking sounds like a delightful hobby, Mr. Stevens. What kind of baked goods do you enjoy making?"
-    }
-}

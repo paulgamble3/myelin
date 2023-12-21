@@ -1,8 +1,0 @@
-{
-    "prompt_id": 312,
-    "prompt": "Nurse: I'm sorry, Damian, your response got cut off.\n\nPatient: today, and it was\n\nNurse: I'm sorry, you were saying?\n\nPatient: ninety over one twenty.\n\nNurse: Thank you for that information. A blood pressure reading of 90 over 120 is within the acceptable range, but the lower number is a bit high. It's important to keep monitoring it. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: No. It wouldn't be okay.\n\nNurse: I understand. We can move on to discussing your recent lab results. Do you have any questions about them?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Sure, go ahead. What questions do you have about your recent lab results?",
-        "our_model": "Of course. What would you like to know?"
-    }
-}

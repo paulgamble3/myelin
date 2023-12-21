@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6228,
-    "prompt": "Nurse: Great. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes. I will definitely be careful about that.\n\nNurse: Perfect. After you've gently scrubbed for about 5 minutes, you'll rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Do you have any questions about the chlorhexidine scrub?\n\nPatient: No.\n\nNurse: Alright. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: I would not forget to do that.\n\nNurse: That's great to hear. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Not even water?",
-    "responses": {
-        "gpt4": "Correct, not even water. It's crucial to have an empty stomach to prevent any complications during anesthesia. So please refrain from eating or drinking anything, including water, after midnight before your operation. Can you confirm that you understood this?",
-        "our_model": "Yes, that's correct. Even water should not be consumed after midnight before your procedure. This is to ensure your stomach is empty for the anesthesia. Do you have any other questions about this?"
-    }
-}

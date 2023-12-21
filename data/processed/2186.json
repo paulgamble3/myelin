@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2186,
-    "prompt": "Patient: I went aleve with that one.\n\nNurse: I see. It's critical to note that medications like Aleve typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make sure to pass this information along to your healthcare team. Are you taking any other medications that we should be aware of?\n\nPatient: Alright. So\n\nPatient: Five and all. Five and all. Is that one?\n\nNurse: Yes, Aleve is a type of medication that typically needs to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make a note of this. Are you still taking it currently?\n\nPatient: I'm not talking about Aleve, though. I'm talking about\n\nNurse: I see.\n\nPatient: Tylenol.",
-    "responses": {
-        "gpt4": "I'm sorry, I misunderstood you earlier. Could you please repeat your question about Tylenol?",
-        "our_model": "I apologize for any confusion. You're currently prescribed Tylenol 1000 mg three times a day as needed. Have you picked up this prescription yet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2692,
-    "prompt": "Nurse: Alright, Ms. Aguirre. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: No. That's okay.",
-    "responses": {
-        "gpt4": "Okay, Ms. Aguirre. Please remember to continue monitoring your blood sugar levels and reach out to us if you notice anything unusual. I'm here to help you manage your health conditions. Now, I would like to verify, earlier on, did you mention that your blood sugar was high or low? Your voice was a bit faint and I didn't quite hear clearly.",
-        "our_model": "I apologize for any confusion earlier, Ms. Aguirre. You mentioned that your last blood sugar reading was 128. Is that correct?"
-    }
-}

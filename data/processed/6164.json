@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6164,
-    "prompt": "Nurse: I'm sorry to hear that, Mr. Dang. Do you currently have a fever or a high temperature?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. Do you have any chest pain or flank pain associated with your abdominal pain?\n\nPatient: No.\n\nNurse: Have you noticed any black or tarry stool or blood in your stool, Mr. Dang?\n\nPatient: No.\n\nNurse: Do you have any active nausea, vomiting, or diarrhea, Mr. Dang?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I appreciate your answers, Mr. Dang. Have you had a significant weight loss in the last 6 months?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
-    }
-}

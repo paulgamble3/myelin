@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5671,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Kai Cardenas?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: June six nineteen seventy six.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Yeah. I'm feeling pretty good. Everything's going pretty nicely.\n\nNurse: That's great to hear. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just happy to sleep in my own bed.",
-    "responses": {
-        "gpt4": "Sleeping in your own bed definitely has a comfort that's hard to match. Having your own things around you can really help with recovery. Do you have any favorite hobbies or interests, like sports or pets, that you enjoy now that you're home?",
-        "our_model": "That sounds wonderful, there's nothing quite like the comfort of your own bed. Do you have any hobbies or interests that you've missed while you were in the hospital?"
-    }
-}

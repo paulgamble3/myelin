@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4382,
-    "prompt": "Nurse: That sounds wonderful. Painting can be such a therapeutic activity. What kind of paintings do you enjoy creating?\n\nPatient: Acrylic.\n\nNurse: Acrylic paintings can be quite vibrant and beautiful. Do you have a favorite subject or theme that you like to paint?\n\nPatient: Humanity.\n\nNurse: That's a powerful theme, humanity. It must be rewarding to capture the essence of people on your canvas. Now, I'm calling on behalf of Doctor Sarah Forbes and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: I do not have any questions or concern to address.\n\nNurse: Alright, let's move on to your medications then. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Lasix and Lisinopril?\n\nPatient: So whatever you need to complete, let me know.",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that? I just want to confirm if you're still taking your medications, Lasix and Lisinopril.",
-        "our_model": "Thank you for your cooperation. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?"
-    }
-}

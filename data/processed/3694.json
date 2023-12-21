@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3694,
-    "prompt": "Nurse: That's correct.\n\nPatient: I did stop, though.\n\nNurse: That's great. It's essential to stop taking Aspirin before your surgery. Do you have any questions about this or any other medication?\n\nPatient: [NO RESPONSE]\n\nNurse: I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: I got it all picked up. Yep.\n\nNurse: That's excellent. You're well-prepared. Do you have any questions about these medications or any other medication-related concerns?\n\nPatient: Block centers, basically. I'm very curious about the block centers. Like, Why do we need to stop them? I've heard it so many times, but honestly, I still don't understand why.",
-    "responses": {
-        "gpt4": "That's a very good question. Blood thinners interfere with your body's ability to form clots. When you're having surgery, this can increase the risk of excessive bleeding. That's why it's important to stop taking them before a procedure, unless your doctor advises otherwise. Does that make sense?",
-        "our_model": "That's a great question. Aspirin and other blood thinners are usually stopped before surgery because they can increase the risk of bleeding. During surgery, it's important to avoid excessive bleeding to ensure a safe and successful procedure. Does that help clarify things?"
-    }
-}

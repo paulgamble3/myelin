@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2320,
-    "prompt": "Patient: Else?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Wallace Ponce?\n\nPatient: Yes.\n\nNurse: Hello, Mr. Ponce. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm a little bit frustrated today.",
-    "responses": {
-        "gpt4": "I'm sorry to hear that, Mr. Ponce. Being at home after a hospital stay can certainly be an adjustment. Is there something you're glad or looking forward to doing now that you're back at home?",
-        "our_model": "I'm sorry to hear that you're feeling frustrated, Mr. Ponce. It's completely normal to have mixed feelings after a hospital stay. Is there anything specific that's bothering you or any concerns you'd like to discuss before we go over a few topics related to your health?"
-    }
-}

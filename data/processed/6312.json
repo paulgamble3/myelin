@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6312,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, could you please repeat your question?\n\nPatient: anything that we have missed?\n\nNurse: I believe we've covered the main points of your colonoscopy prep, Mr. Alves. I've shared a lot of information with you, but we're almost done. I have just two more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Alves. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No. I haven't.",
-    "responses": {
-        "gpt4": "Thank you for letting me know, Mr. Alves. It's important to arrange a ride home because the sedatives used during the procedure can impair your ability to drive. But don't worry, you still have time to arrange this. Can you think of someone who might be able to help with picking you up after your procedure?",
-        "our_model": "That's okay, Mr. Alves. You still have time to arrange a ride home after your procedure. It's essential to have someone available to pick you up when the hospital calls. Do you have any family or friends who could help with this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4259,
-    "prompt": "Nurse: That's good, Mr. Shyam. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I haven't.\n\nNurse: That's great, Mr. Shyam. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Shyam. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I have not.\n\nNurse: That's great, Mr. Shyam. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Mr. Shyam. Now, let's talk about your diet. Can you please tell me about some of your usual meals?",
-        "our_model": "Alright, Mr. Shyam. Now, I'd like to talk about your diet. Could you tell me about your recent meals?"
-    }
-}

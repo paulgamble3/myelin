@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3441,
-    "prompt": "Nurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Wood twenty eight.\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat your last blood sugar reading?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: No. That's okay.\n\nNurse: I'm sorry for any confusion, Ms. Aguirre. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Alright, thank you for the confirmation. We'll make a note of that for your doctor. Now moving on, have you been keeping track of your blood pressure as well, Ms. Aguirre?",
-        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming, Ms. Aguirre. I understand that you don't want any recommendations at this time. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?"
-    }
-}

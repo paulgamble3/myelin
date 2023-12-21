@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3531,
-    "prompt": "Nurse: That's a great start, Mr. Martin. Eating a diet rich in vegetables can indeed be beneficial for weight management. Could you tell me more about the types of vegetables and other foods you're including in your meals?\n\nPatient: Toafu and beans and things that, you know, are not meat.\n\nNurse: That's a great start, Mr. Martin. It sounds like you're making an effort to eat healthier. Can I share some dietary recommendations that might help you manage your weight and your CHF?\n\nPatient: Yeah. Sure.\n\nNurse: Thank you, Mr. Martin. As part of managing your CHF, it's recommended that you follow a carbohydrate-controlled diet. This means aiming for about 130 grams of carbohydrates per day. It's also important to follow a cardiac diet, which means eating plenty of fruits and vegetables, lean proteins, and whole grains, while limiting sodium, added sugars, and unhealthy fats. How does this fit with what you're currently eating?\n\nPatient: That's what I'm trying to do.\n\nNurse: That's great to hear, Mr. Martin. It sounds like you're already on the right track. Just remember to keep an eye on the amount of carbohydrates you're consuming. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: Well, I have a bike",
-    "responses": {
-        "gpt4": "That's great, Mr. Martin. Cycling is an excellent form of exercise. How often are you able to get out on your bike?",
-        "our_model": "That's fantastic, Mr. Martin. Cycling is a great form of exercise. How often do you ride your bike and for how long?"
-    }
-}

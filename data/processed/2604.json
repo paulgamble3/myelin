@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2604,
-    "prompt": "Patient: Yes. I have.\n\nNurse: That's excellent. It's critical to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Yeah. I'm trying to eat healthier now. And I Added a lot of salad.\n\nPatient: And\n\nPatient: eating\n\nPatient: I'm adding to the salad dressing. Which is the Italian bone.",
-    "responses": {
-        "gpt4": "I'm sorry, Alex, I didn't quite catch that. Could you please repeat what you're adding to the salad?",
-        "our_model": "It sounds like you're making some great changes to your diet."
-    }
-}

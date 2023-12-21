@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3766,
-    "prompt": "Patient: And my\n\nPatient: kidney disease.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: What are you talking about on the page?\n\nPatient: Chance.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: I'm the patient. Who are you talking to?\n\nPatient: What happened? I'm Thelma O'Donnell. What happened?",
-    "responses": {
-        "gpt4": "Does the patient have arm or leg numbness?",
-        "our_model": "Does the patient develop a severe headache?"
-    }
-}

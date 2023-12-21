@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1705,
-    "prompt": "Nurse: Alright, Mr. O'Leary. I'm glad that's clear. Now, I'd like to ask if you've been feeling unwell recently. Have you had any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. O'Leary. It's important to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Great, Mr. O'Leary. It's essential to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. O'Leary. It's important to have someone there to assist you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask now. [\n\nPatient: I have a question.",
-    "responses": {
-        "gpt4": "Of course, Mr. O'Leary. What would you like to ask about your upcoming procedure? I'm here to help.",
-        "our_model": "Of course, Mr. O'Leary. What's your question?"
-    }
-}

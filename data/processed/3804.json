@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3804,
-    "prompt": "Nurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Remember, managing your diet, physical\n\nPatient: going on right now.\n\nNurse: I'm really sorry to hear that you're feeling this way, Ms. Odonnell. It's completely normal to feel scared given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?\n\nPatient: We talked about this already. I'm trying to go in a circle with you.\n\nNurse: I apologize if it feels like we're going in circles, Ms. Odonnell. I'm here to help you navigate through this. You mentioned earlier that you're scared because you feel like you have a lot going on. Can you tell me more about what specifically is causing you to feel this way?\n\nPatient: A call. I'm hanging up.\n\nNurse: I apologize for any confusion, Ms. Odonnell. I'm here to help you. Let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I smoke cigarettes.",
-    "responses": {
-        "gpt4": "Thank you for answering that, Ms. Odonnell. You've made a big step by even discussing your smoking habits. Quitting smoking can significantly improve your overall health and is particularly important in managing your chronic conditions. Have you ever considered quitting smoking?",
-        "our_model": "Thank you for sharing that with me, Ms. Odonnell. I know it's not easy to talk about. Have you ever considered quitting smoking?"
-    }
-}

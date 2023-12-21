@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4948,
-    "prompt": "Nurse: Of course, Mr. Hooper. Congestive Heart Failure, or CHF, is a condition where the heart doesn't pump blood as well as it should. This can lead to a buildup of fluid in the body, which can cause symptoms like shortness of breath, fatigue, and swelling in the legs and ankles. It's important to manage\n\nPatient: about. If it can be managed with with\n\nNurse: this condition I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?\n\nPatient: dietary supplements or alternative therapies. I think it was\n\nNurse: I'm sorry, Mr. Hooper, I didn't quite catch that last part. Could you please repeat your question?\n\nPatient: a Mercola column that I was reading.\n\nNurse: I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?\n\nPatient: C o l a does this website or",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Hooper, I did not understand your last statement. Could you please repeat it?",
-        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6139,
-    "prompt": "Nurse: That's good to hear. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: I don't know. I've been taking my\n\nNurse: That's great to hear. Taking your prescribed medications is an important part of managing hypertension. Have you noticed any changes in your blood pressure since you started taking your medications?\n\nPatient: Lisinopril, I guess.\n\nNurse: That's great to hear that you're taking your Lisinopril as prescribed. It's critical to manage your blood pressure to prevent complications. Have you noticed any changes in your blood pressure?\n\nPatient: That's what I'm supposed to do.\n\nNurse: Yes, taking your prescribed medication, like Lisinopril, is an important part of managing your blood pressure. It's also beneficial to maintain a healthy lifestyle, which includes eating a balanced diet and getting regular exercise. Have you been able to do these things?\n\nPatient: I'm doing my best.",
-    "responses": {
-        "gpt4": "That's really good to hear, Jon. Continuing to adjust to a healthy lifestyle can make a significant difference in managing your chronic conditions. Now, if it's alright with you, I'd like to talk about a sensitive topic. Do you currently smoke cigarettes or use any other tobacco products?",
-        "our_model": "That's all we can ask for. You're doing your best and that's great. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 665,
-    "prompt": "Nurse: Yes, I'm here. I understand it's a lot to manage. Are you still taking Metformin and\n\nPatient: But I'm taking them\n\nNurse: Yes, I'm here. I appreciate your patience. It's important to ensure we're covering all your medications. Now, are you still taking Atorvastatin and Lantus?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you still taking Tramadol, Levothyroxine, and Tylenol as needed?\n\nPatient: Tramadol, levothyroxine, and Tylenol as needed. Yes.\n\nNurse: Thank you for confirming that. I understand it can be a lot to manage. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: You must be kidding me.",
-    "responses": {
-        "gpt4": "I understand that taking multiple medications can be overwhelming. If it's alright with you, I would like to offer some suggestions to help manage your medication schedule better. Would that be alright?",
-        "our_model": "I understand it can be challenging at times. If it's okay with you, I'd like to provide some suggestions that might help. Would that be alright?"
-    }
-}

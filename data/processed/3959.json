@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3959,
-    "prompt": "Nurse: Thank you for that information, Mr. Dang. It's essential to follow these instructions for your procedure. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Wonderful, Mr. Dang. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay.\n\nNurse: Excellent, Mr. Dang. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Dang. Let's discuss your medication next. I see on your chart that you are currently taking Xarelto 10 mg once a day. Given that you're supposed to stop this medication 5 days before your procedure, this means you will need to stop taking it on August 12, which is 2 days from today. Does that make sense?",
-        "our_model": "Okay, Mr. Dang. As you mentioned earlier, you've been instructed to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Does that make sense?"
-    }
-}

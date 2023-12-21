@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4502,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jon Chavez?\n\nPatient: Yeah. That's me.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.\n\nNurse: Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: I'm okay. I'm a little scared of all the health",
-    "responses": {
-        "gpt4": "I can imagine it might feel overwhelming sometimes, Jon. Managing multiple health conditions is not easy and it's okay to feel scared. It's great that you're opening up about your feelings. By the way, is there something you're looking forward to this week?",
-        "our_model": "I'm sorry to hear that you're feeling scared. It's completely normal to feel this way given your health conditions. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?"
-    }
-}

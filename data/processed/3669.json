@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3669,
-    "prompt": "Patient: No. I don't.\n\nNurse: Alright. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: I do fuck all for exercise. I hate exercising.\n\nNurse: I understand that many people find exercise challenging. However, it's an important part of managing your health. Would it be okay if I share some exercise recommendations with you?\n\nPatient: I\n\nPatient: Yes.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: I said, I guess,",
-    "responses": {
-        "gpt4": "I appreciate your willingness. Regular physical activity can help improve your overall health. It may include walking, swimming, cycling, or doing chores around the house. The aim should be to get at least 30 minutes of moderate-intensity activity on most days of the week. You can start slowly and gradually increase your activity level. How does this sound to you?",
-        "our_model": "Thank you. For someone with CHF, it's important to start slow and gradually increase your activity level. Walking is a great way to start. You could begin with a short walk around your home or yard, and gradually increase the distance as you feel comfortable. How does that sound to you?"
-    }
-}

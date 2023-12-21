@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5966,
-    "prompt": "Nurse: I'm sorry for the interruption, please go on. You were saying that you and your family enjoy playing games when you're together. That sounds like a fun way to spend time. Do you have a favorite game that you all like to play?\n\nPatient: board games.\n\nNurse: That sounds like a wonderful way to spend time together. Do you have a favorite board game that you all enjoy playing?\n\nPatient: We like them all.\n\nNurse: That's great to hear, it sounds like you all really enjoy these times together. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: No. I don't have any symptoms I'm worried about? No.\n\nNurse: Alright, if I'm glad to hear that you're not experiencing any concerning symptoms. Do you have any questions or concerns that you'd like to discuss before we move on to some specific topics regarding your health?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Great! Do let me know at any point if you do have any questions. Now, I would like to discuss your daily routine, including diet and exercise, to better understand how we can manage your kidney disease. Can you tell me a little about what a typical day looks like for you?",
-        "our_model": "Alright, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?"
-    }
-}

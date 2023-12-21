@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2894,
-    "prompt": "Nurse: That's good to hear, Mr. Douglas. It's important to continue taking your existing medications as prescribed. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Not really, to be honest. It's not too hard.\n\nNurse: That's fantastic, Mr. Douglas. Staying consistent with your medication schedule is key to managing your CHF. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Douglas. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Douglas. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Douglas. Have you noticed any new or worsening dry cough?",
-        "our_model": "I'm glad to hear that, Mr. Douglas. Have you noticed any new or worsening dry cough?"
-    }
-}

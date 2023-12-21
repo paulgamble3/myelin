@@ -1,8 +1,0 @@
-{
-    "prompt_id": 902,
-    "prompt": "Nurse: That's great! Watching movies is a wonderful way to relax and enjoy some time off. Do you have a favorite genre or a movie you're planning to see?\n\nPatient: I really like anything that like, dramatic. But I also really like to laugh, so a good comedy has never heard.\n\nNurse: It sounds like you have a great balance of interests. Laughter and drama can both be very therapeutic. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: I don't think so.\n\nNurse: Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. And when I last checked yesterday, and it was one twenty eight.",
-    "responses": {
-        "gpt4": "Thank you for sharing this information, Ana. Is it alright if I provide some tips on managing blood sugar levels?",
-        "our_model": "Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. However, a reading of 128 is a bit higher than the target range for people with diabetes. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?"
-    }
-}

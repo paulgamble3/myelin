@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6089,
-    "prompt": "Patient: What issue?\n\nNurse: I apologize for any confusion earlier. Let's move on to your blood pressure. When did you last measure your blood pressure?\n\nPatient: This morning when I got a\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for that information. Could you please share with me what the result was?\n\nPatient: One ten over eighty.\n\nNurse: Thank you for sharing that. It's good to see that you're keeping track of your blood pressure. Do you have any questions or concerns about your blood pressure or how to manage it?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear. May I share some suggestions related to managing your blood pressure?",
-        "our_model": "Alright. I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

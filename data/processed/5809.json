@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5809,
-    "prompt": "Patient: Well, you already asked me that. And I said I'm not looking forward to it, but I'm grateful that I can get it done.\n\nNurse: I appreciate your honesty. It's really important to take these steps for our health, even if they're not the most pleasant. I'm glad you're taking this step. If it's alright with you, I'd like to go over a few topics on prep for your colonoscopy. Is that okay?\n\nPatient: Alright.\n\nNurse: I'd like to go over a few topics on prep for your colonoscopy, if that's okay with you?\n\nPatient: Sure.\n\nNurse: Great, thank you. I'm calling today to ensure you have everything you need for your colonoscopy. We'll discuss the preparation process, what to expect during the procedure, and any post-procedure care. I will also call you again the day before your procedure to check in. Let's start with the preparation process. Are you clear on what you need to do in the days leading up to your colonoscopy?\n\nPatient: Thank\n\nPatient: Well, I've been reading all of the paperwork the doctor sent home with me.",
-    "responses": {
-        "gpt4": "That's great to hear. It sounds like you're taking a proactive approach. It's important to thoroughly understand the preparation process, as it significantly impacts the effectiveness of the procedure. If you ever have any question or concerns about this, you should feel comfortable reaching out to us.",
-        "our_model": "That's excellent. Reading the provided information is a great way to prepare. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
-    }
-}

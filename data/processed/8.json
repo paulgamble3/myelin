@@ -1,8 +1,0 @@
-{
-    "prompt_id": 8,
-    "prompt": "Nurse: That sounds like a nice way to relax. What kind of shows do you enjoy watching?\n\nPatient: I love Romans and comedy.\n\nNurse: Romance and comedy are great genres. Do you have a favorite romantic comedy that you've watched recently?\n\nPatient: No. I don't.\n\nNurse: That's perfectly fine. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: Not really.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, let's start with your medication. Are you still taking the 50mg of Metoprolol for your blood pressure, as prescribed by Dr. Wyatt?",
-        "our_model": "Okay. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

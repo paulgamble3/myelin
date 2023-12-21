@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1765,
-    "prompt": "Nurse: Thank you for your patience. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Are you taking any other medications we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: Alright. It's critical to note that medications like Advil, Aspirin, Aleve, or other blood thinners typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: That's\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: I actually just put down my pan. So I didn't say anything.\n\nNurse: I apologize for the confusion. Let's move on to the next topic. Do you have any questions about your medications?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Now let's discuss some logistics of the procedure. You'll be given a sedative during the colonoscopy and will need someone to take you home afterwards since you won't be able to drive. Do you already have a ride arranged for after the procedure?",
-        "our_model": "Alright. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This includes foods like white bread, rice, and pasta, and you should avoid high fiber foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?"
-    }
-}

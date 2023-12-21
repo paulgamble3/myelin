@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2603,
-    "prompt": "Nurse: That's wonderful. Now, let's talk about Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg tablet once daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: Alex, I didn't hear a response. Have you been taking your Disulfiram as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. It's critical to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That's great. It's very important to keep this in mind when considering new medications or supplements. Now, if it's okay with you, I'd like to transition to talking about your diet. Can you tell me about some of your recent meals?",
-        "our_model": "Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

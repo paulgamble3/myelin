@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3319,
-    "prompt": "Nurse: That's good to hear, Mr. Winner. It's essential to follow these instructions to prepare for your surgery. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I'm not. No. I actually, I stopped aspirin.\n\nNurse: That's correct, Mr. Winner.\n\nPatient: Because I knew that I'm going to the procedure. It's in two days. [NO RESPONSE]\n\nNurse: That's correct, Mr. Winner. It's important to stop taking Aspirin before your procedure. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: He's up.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I didn't say anything.",
-    "responses": {
-        "gpt4": "My apologies for the confusion, Mr. Winner. I was asking if you have picked up your post-surgery medications, Tylenol and Celebrex, from the pharmacy yet.",
-        "our_model": "I apologize for the confusion, Mr. Winner. I was asking if you've picked up your Tylenol and Celebrex from the pharmacy yet."
-    }
-}

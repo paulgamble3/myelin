@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3717,
-    "prompt": "Nurse: Great.\n\nPatient: deals to place\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said that's still the plan.\n\nNurse: Thank you for confirming that. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Uh-huh.\n\nNurse: That's great to hear. It's critical to have someone to assist you after the procedure. If there's ever a change in your plans, please let us know. Now, do you have any other questions or concerns before we wrap up our call?\n\nPatient: I'm good.",
-    "responses": {
-        "gpt4": "Perfect. Thank you, Paxton. I'd like to just summarize everything we've gone over today. We've gone through your medications, the reason to stop Aspirin, the purpose of the chlorhexidine scrub, when to stop eating and drinking before your procedure, and your discharge plan. Can I count on you to ensure all of this is taken care of before your procedure?",
-        "our_model": "I'm glad to hear that. I know we've covered a lot today, but it's all important information to ensure your procedure goes smoothly. Before we end our call, do you have any other questions or concerns?"
-    }
-}

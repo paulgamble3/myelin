@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2587,
-    "prompt": "Nurse: That's wonderful. Regular physical activity can really help in managing your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: And three hours ago.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: And one\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the result was?\n\nPatient: ninety over one cent.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat when you last took your blood pressure and what the reading was?\n\nPatient: I took it three hours ago, and it was ninety over one cent.",
-    "responses": {
-        "gpt4": "I'm sorry, Alex, I didn't quite catch your blood pressure reading. Would you mind repeating what it was?",
-        "our_model": "I'm sorry, Alex, I didn't quite understand the second part of your response. Could you please repeat what your blood pressure reading was?"
-    }
-}

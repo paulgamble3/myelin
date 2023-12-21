@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3742,
-    "prompt": "Nurse: Cookies are always a delight, Ms. Odonnell. It's a lovely way to share a sweet moment with your daughter. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: Hello? Are you there?\n\nNurse: Yes, I'm here, Ms. Odonnell. I was asking if there's anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: No. I I I don't think so.\n\nNurse: Alright, Ms. Odonnell. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing with your health conditions?\n\nPatient: Yes.\n\nNurse: Excellent, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Hello. I said, yes. I have.",
-    "responses": {
-        "gpt4": "That's great to hear, Ms. Odonnell. Can you tell me what your last blood sugar reading at home was?",
-        "our_model": "That's great to hear, Ms. Odonnell. Could you please tell me what your last blood sugar reading at home was?"
-    }
-}

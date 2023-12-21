@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4003,
-    "prompt": "Patient: No. I don't.\n\nNurse: Alright, Ms. Warrell. Let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Valsartan and Lasix?\n\nPatient: Yes. I am. Taking all my meds.\n\nPatient: Thank you for asking.\n\nNurse: That's great to hear, Ms. Warrell. Staying on top of your medications is an important part of managing your health. Are you taking them twice a day as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent, Ms. Warrell. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble remembering to take your medication on time?\n\nPatient: Oh, no. I don't. I have a pretty good",
-    "responses": {
-        "gpt4": "quite routine when it comes to my medications. I have a pillbox, and my grandson helps me refill it when he comes to visit. He's a darling. He's trying to be a fireman. Fingers crossed the poor guy makes it.",
-        "our_model": "That's fantastic, Ms. Warrell. It's great to hear that you've found a system that works for you. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

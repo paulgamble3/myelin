@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4165,
-    "prompt": "Nurse: That's great to hear, Mr. Peck. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: It was one forty eight.\n\nNurse: Thank you for sharing that, Mr. Peck. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes.\n\nNurse: Great, thank you for being open to suggestions, Mr. Peck. One strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, and vegetables. What do you think about this suggestion?\n\nPatient: Well, I'm on a low salt, low phosphorus diet.\n\nNurse: I apologize for the confusion earlier, Mr. Peck. You mentioned that your blood sugar was 148. Is that correct?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Mr. Peck. It seems that your blood sugar is a bit elevated, as a normal range for people with diabetes is usually between 80 to 130 before meals. I recommend continuing to check your blood sugars regularly, and try to incorporate some physical activity into your day if you're up for it. Remember to follow your dietitian\ufffd\ufffd\ufffds advice for your diet too. How do you feel about this?",
-        "our_model": "Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you. Thank you for confirming that, Mr. Peck. I understand that you're on a low salt, low phosphorus diet. This is important for managing your kidney disease. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?"
-    }
-}

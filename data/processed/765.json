@@ -1,8 +1,0 @@
-{
-    "prompt_id": 765,
-    "prompt": "Nurse: That sounds lovely, Ms. Aguirre. It's always nice to spend time with family. How often do you get to see your mother?\n\nPatient: Well, I'm sorry. I called her my mother. She's not really my mother. But\n\nNurse: I see, Ms. Aguirre. I apologize for misunderstanding. Could you please tell me more about this special person who's coming to visit?\n\nPatient: She's my aunt that took care of me.\n\nNurse: I see, Ms. Aguirre. It's wonderful that you have such a close relationship with your aunt. It must be comforting to have her around. What activities do you usually enjoy doing together when she visits?\n\nPatient: We just sit in play cards. You know? She's\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: quite a bit older. So",
-    "responses": {
-        "gpt4": "I see, Ms. Aguirre. It can be quite special to share these moments with people we care about. Before we continue our conversation, may I ask if there are any symptoms related to your kidney disease that have been concerning you recently?",
-        "our_model": "That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?"
-    }
-}

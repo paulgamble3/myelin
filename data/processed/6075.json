@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6075,
-    "prompt": "Nurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name and what do you usually enjoy doing together?\n\nPatient: Excellent.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: We'd like to take walks.\n\nNurse: That sounds like a great way to spend time. Walking is also a good form of exercise. What's your dog's name?\n\nPatient: Buddy,\n\nNurse: Buddy sounds like a great companion. Now, let's move on to discuss your health. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "That's good to hear, Jon. Could you share what your last blood sugar reading was?",
-        "our_model": "That's great to hear. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

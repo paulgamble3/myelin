@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3746,
-    "prompt": "Nurse: That's great to hear, Ms. Odonnell. Could you please tell me what your last blood sugar reading at home was?\n\nPatient: My last blood sugar reading was one twenty one,\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Going to affect my mental health. Uh-uh.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range for people with diabetes. If you're open to it, I can provide some recommendations to help manage your blood sugar levels. Would that be okay?\n\nPatient: I mean, sure. But did you hear my question?\n\nNurse: I'm sorry, Ms. Odonnell, I didn't quite catch your question. Could you please repeat it?\n\nPatient: I said",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Odonnell, but could clarify your previous statement? I didn't hear if you mentioned your blood sugar was high or low. Could you please specify your blood sugar levels?",
-        "our_model": "Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you."
-    }
-}

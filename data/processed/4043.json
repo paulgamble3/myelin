@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4043,
-    "prompt": "Patient: Exactly what I'm doing.\n\nNurse: I apologize for the confusion, Ms. Warrell. It sounds like you're already doing a great job staying active. Remember, it's important to keep this up for your health. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.\n\nNurse: Alright, Ms. Warrell. I'll be sure to inform Doctor Benson about our conversation and how well you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Do I have any sir. No. I don't\n\nPatient: don't have any concerns.\n\nNurse: That's great to hear, Ms. Warrell. To summarize, you've agreed to continue with your current exercise routine and to maintain your cardiac diet. You're doing a great job managing your health. If you have any questions in the future, please don't hesitate to call us back at 641-381-6523. Thank you for your time today, Ms. Warrell. Goodbye. [\n\nPatient: Alright.",
-    "responses": {
-        "gpt4": "Great. I'd like to sum up our conversation, Ms. Warrell. You're doing a great job managing your medication and diet, and it's good to hear that you're maintaining activity around the home. I will pass along this information to Dr. Benson. If you have any further questions or newly arisen concerns later, you can reach us back at this number 641-381-6523. Thank you for your time today, Ms. Warrell. Goodbye.",
-        "our_model": "Goodbye, Ms. Warrell. Take care and have a wonderful day! ["
-    }
-}

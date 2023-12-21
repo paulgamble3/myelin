@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2399,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ellen Steele?\n\nPatient: Yes.\n\nNurse: Great. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent. I hope your day is going well. Can you share a bit about how you've been feeling today?\n\nPatient: Well, Generally speaking, I've been feeling fine. I'm just getting so tired of this pain in my knee.\n\nNurse: I'm sorry to hear that you're experiencing pain. It's certainly not easy dealing with such discomfort. It's great that you're taking steps to address it with the upcoming knee replacement. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered?\n\nPatient: I would just like to be able to go for a walk and not being horrible pain.",
-    "responses": {
-        "gpt4": "I can hear the frustration in your voice, and I appreciate how you are pushing through it. Walking without being in pain is a beautiful goal, and it's a significant part of why we have this procedure. Having your new knee should help with that. How are you presently feeling about the procedure? Is it something you are ready for?",
-        "our_model": "That sounds like a wonderful goal. Being able to enjoy a pain-free walk will be a significant improvement. How are you feeling about your upcoming procedure?"
-    }
-}

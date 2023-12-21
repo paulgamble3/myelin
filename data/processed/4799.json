@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4799,
-    "prompt": "Nurse: That's great to hear. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No. I understand.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: It already.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I usually take Advil\n\nNurse: Thank you for sharing that. It's essential to note that medications like Advil, which are blood thinners, typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. Have you been instructed to continue taking Advil?\n\nPatient: but I stopped taking that already.",
-    "responses": {
-        "gpt4": "I'm glad to hear you've already stopped the Advil. It's important to avoid blood thinners before your knee replacement. Besides, I see you've also been prescribed Tylenol and Tramadol for after your procedure. Have you picked these medications up yet?",
-        "our_model": "That's good to hear. It's important to stop taking Advil as it's a blood thinner. Do you have any questions about why it's necessary to stop these medications before your knee replacement?"
-    }
-}

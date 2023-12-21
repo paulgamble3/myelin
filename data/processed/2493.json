@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2493,
-    "prompt": "Nurse: Alright, let's move on to your medications. You're currently prescribed Aspirin 81 mg oral tablet, with a dosage of 81 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help. Have you been taking your Atorvastatin 40 mg oral tablet, with a dosage of 40 mg daily, as prescribed?\n\nPatient: Well, yes, I have.\n\nNurse: That's excellent. Sticking to your medication schedule is crucial for managing your conditions. The next medication on your list is Amlodipine 10 mg oral tablet, with a dosage of 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Wonderful. It's good to hear that you're following your medication regimen. The last medication we have to discuss is Phoslo 667 mg oral tablet, which you're supposed to take three times a day. Are you able to keep up with this dosage?",
-        "our_model": "That's great to hear. The last medication on your list is Phoslo 667 mg oral tablet, with a dosage of 667 mg three times a day. Have you been taking this medication as prescribed?"
-    }
-}

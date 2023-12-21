@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5628,
-    "prompt": "Nurse: Rocky sounds like a great companion. What breed is he?\n\nPatient: and he is a brown lab\n\nNurse: Rocky sounds like a great companion. Labs are known for their friendly nature. Do you have a favorite place where you like to walk Rocky?\n\nPatient: A little lake that is not far from our house.\n\nNurse: That sounds like a peaceful place to walk. Now, I'm calling today to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: So we go for walks, and he loves to\n\nNurse: That sounds like a wonderful place to spend time with Rocky. Now, I'm calling on behalf of Doctor Jack Smith and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Chase anything that is anywhere near that lake.",
-    "responses": {
-        "gpt4": "Chasing after things must be a fun game for Rocky. Labs are indeed very playful and active. Now, moving on to the main purpose of our call, I would like to ask about your medications. As per our records, I see that you're prescribed Valsartan, Lasix, and Methotrexate. Are you still continuing with these medications?",
-        "our_model": "That sounds like a wonderful place to spend time with Rocky. It's great that you have such a nice spot for your walks. Now, I'm calling on behalf of Doctor Jack Smith, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

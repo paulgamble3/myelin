@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3258,
-    "prompt": "Nurse: J. R. R. Tolkien is indeed a master storyteller. His works like The Lord of the Rings have captivated millions of readers. It's great that you enjoy his works. Now, I'm calling on behalf of Doctor Norbeta Valencia and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 80 mg oral tablets?\n\nPatient: Yes.\n\nNurse: Great, and how have you been taking your Lasix medication?\n\nPatient: Just fine.\n\nNurse: That's good to hear, Patient. It's essential to take your medication as prescribed. Now, are you still taking your existing medications, Captopril and Potassium?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's good to hear, Patient. You're doing a great job. Remember, it's common to miss a dose here or there. Do you ever have trouble remembering to take your medications on time?",
-        "our_model": "That's good to hear, Patient. It's important to continue taking your existing medications as prescribed. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

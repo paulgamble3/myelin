@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4275,
-    "prompt": "Nurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: I'm doing good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Yeah. I'm gonna go to the morning.\n\nNurse: That sounds lovely! What do you enjoy most about your morning walks?\n\nPatient: I love to say nature, and I love to see people\n\nNurse: It's wonderful that you enjoy nature and socializing during your morning walks. Do you have a favorite spot or route that you like to follow?\n\nPatient: enjoying themselves.",
-    "responses": {
-        "gpt4": "It sounds like observing other people enjoying their day brings you joy too. That's wonderful to hear. \nBefore we dive into the specifics of your kidney disease, is there anything health-wise that's been bothering you lately, or any symptoms you are concerned about? ",
-        "our_model": "It's wonderful that you find joy in nature and seeing others enjoy themselves. Do you have a favorite spot or route for your morning walks?"
-    }
-}

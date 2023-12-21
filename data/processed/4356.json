@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4356,
-    "prompt": "Nurse: Thank you, Mr. Oliver. Let's start with your Valsartan. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Oliver. Now, let's move on to your Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Oliver. Lastly, let's discuss your Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Mr. Oliver. It's essential to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Oliver. If you think of any medication-related questions later, don't hesitate to reach out to us. Let's move on to discuss your diet. Could you please share with me what a recent meal of yours looked like?",
-        "our_model": "Alright, Mr. Oliver. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

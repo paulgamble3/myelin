@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2629,
-    "prompt": "Nurse: Excellent, Ms. Cruz. For the Captopril, you should be taking 6.25 mg two times a day. Are you following this dosage?\n\nPatient: Yep.\n\nNurse: Great job, Ms. Cruz. Now, let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: So\n\nNurse: Wonderful, Ms. Cruz. Let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Thank you.\n\nNurse: You're welcome, Ms. Cruz. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great. For the Carvedilol, you should be taking 3.125 mg twice a day. Have you been following this dosage?",
-        "our_model": "Okay, Ms. Cruz. For the Carvedilol, you should be taking 3.125 mg three times a day. Are you following this dosage?"
-    }
-}

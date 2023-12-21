@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5931,
-    "prompt": "Nurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions effectively. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating a lot of steamed vegetables, a lot of yogurt,\n\nNurse: That sounds like a good start. Steamed vegetables and yogurt can be part of a healthy diet. Can you tell me more about the types of vegetables you're eating and if\n\nPatient: a lot of past that?\n\nNurse: I'm sorry, could you please repeat the last part of your response?\n\nPatient: Pasta.\n\nNurse: Thank you for clarifying. It sounds like you're making an effort to include a variety of foods in your diet. That's great. Would it be okay if I provide some suggestions to further optimize your diet based on your health conditions?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "That's great. Given your health conditions, it would be beneficial to keep an eye on your carbohydrate intake to manage your blood sugar levels. This doesn't mean you have to completely avoid pasta, but maybe consider portion size or try whole grain versions. How does that sound?",
-        "our_model": "Thank you. Since you have Chronic Kidney Disease, it's important to limit your sodium intake to less than 2000 mg per day. This means avoiding adding extra salt to your meals and being mindful of processed foods, which often contain hidden sodium. What do you think about this suggestion?"
-    }
-}

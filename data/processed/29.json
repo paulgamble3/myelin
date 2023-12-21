@@ -1,8 +1,0 @@
-{
-    "prompt_id": 29,
-    "prompt": "Patient: No. I don't.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I have chicken soup.\n\nPatient: Earlier today.\n\nNurse: Chicken soup sounds delicious. How did you prepare it?\n\nPatient: I also been trying to eat healthier. And I started to eat a lot of salad. I'm using this Italian dressing. It's called Wishbone Italian dressing. Can you tell me How much salt is in that dressing?",
-    "responses": {
-        "gpt4": "Sure, I can help with that. A serving of Wishbone Italian dressing, which is about 2 tablespoons, contains approximately 370 milligrams of sodium or salt. Consuming too much sodium can raise blood pressure, so it's recommended to limit sodium intake to less than 2,300 milligrams a day. If it's okay with you, I can provide a few tips on how to reduce sodium in your meals.",
-        "our_model": "I'm glad to hear you're making an effort to eat healthier. As for the Wishbone Italian dressing, it contains approximately 260 mg of sodium per serving, which is about 2 tablespoons. It's essential to monitor your sodium intake, especially with your conditions. Would you like me to provide some suggestions on how to manage your sodium intake?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3548,
-    "prompt": "Nurse: That's a good way to stay active in your own neighborhood, Mr. Gardner. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Gardner. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Gardner. And how have you been taking your Lasix medication?\n\nPatient: Hi.\n\nNurse: Hello again, Mr. Gardner. I was asking about how you've been taking your Lasix medication. Is it two times a day as prescribed?\n\nPatient: Yes, sir.",
-    "responses": {
-        "gpt4": "Great job adhering to that, Mr. Gardner. Let's look at your existing medication now: have you been able to continue taking your Valsartan?",
-        "our_model": "That's great to hear, Mr. Gardner. Now, are you still taking your Valsartan?"
-    }
-}

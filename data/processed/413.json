@@ -1,8 +1,0 @@
-{
-    "prompt_id": 413,
-    "prompt": "Nurse: I can imagine it might seem a bit unusual at first.\n\nPatient: You know what I mean?\n\nNurse: Absolutely, it's a significant change. But remember, this change is for the better. It's a step towards reducing your pain and improving your mobility. Do you have any specific activities or hobbies that you're excited to get back to once you've recovered from your surgery?\n\nPatient: I mean, just the regular walking. Very simple.\n\nNurse: Walking is a wonderful activity, and it's something many of us take for granted. Being able to walk without pain is a goal worth striving for. How are you feeling about your upcoming procedure?\n\nPatient: Nothing nothing intense or anything like that. I'm pretty mellow.\n\nNurse: Walking is a wonderful activity, and being able to do it without pain is a goal worth striving for. It's the simple things that often bring us the most joy. How are you feeling about your upcoming procedure?\n\nPatient: I'm feeling alright. Doing okay.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're doing okay. Remember, it's perfectly natural to have some nerves before a procedure, but Dr. Cristina Stevens and the team at O'Connor Hospital are greatly experienced. If you have any concerns or questions, now would be a good time to address them. Would you like to ask anything before we go ahead?",
-        "our_model": "I'm glad to hear that you're feeling alright. It's normal to have some feelings of anticipation before a procedure. Before we move on, do you have any questions or concerns you'd like to discuss?"
-    }
-}

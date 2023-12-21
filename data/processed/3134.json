@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3134,
-    "prompt": "Nurse: I apologize for any confusion, Mr. Valenzuela. I meant to ask if there's anything else about the logistics of the procedure that's worrying you. For example, is there anything about the day of the procedure that you're unsure about or concerned about?\n\nPatient: No. Not yet.\n\nNurse: Alright, Mr. Valenzuela. If any concerns come up, don't hesitate to ask. I'm here to help. Before we move on to discuss your medications, I want to take a pause. Are you ready to continue?\n\nPatient: Yes.\n\nNurse: Great, Mr. Valenzuela. I see on your chart that there are no changes to your medication. However, I would like to ask if you're taking any other medications we'll need you to stop like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: I do not take it. And I'm aware what it does. Basically, it does more bleeding. Which makes sense. So I'm not [NO RESPONSE]\n\nNurse: That's correct, Mr. Valenzuela. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. It's great that you're aware of this. Do you have any questions about medications?\n\nPatient: So",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat? I want to ensure I completely understand your question or concern.",
-        "our_model": "I'm sorry, Mr. Valenzuela, I didn't quite catch that. Could you please repeat what you were saying?"
-    }
-}

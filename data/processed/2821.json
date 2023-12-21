@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2821,
-    "prompt": "Nurse: Good morning. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Yeah. I guess so.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's fine. It looks just\n\nNurse: I'm glad to hear that. As we move forward, I want to know how you're feeling about your upcoming colonoscopy procedure.\n\nPatient: just Yeah. Well, we get done though. Alright? It was just kinda cut to the chase.\n\nNurse: I appreciate your directness. I'm here to help you prepare for your colonoscopy and answer any questions you might have. How are you feeling about the procedure?\n\nPatient: Fine, I guess.",
-    "responses": {
-        "gpt4": "That's a good perspective to have. I see from your chart that the reason for this colonoscopy is due to some symptoms you've been experiencing like pus and mucus in the stool. I know it can be quite a process. Are you okay if we go over a few topics on preparation for your colonoscopy?",
-        "our_model": "I'm glad to hear that. It's normal to have some feelings about a procedure like this. Is there anything specific you'd like to discuss before we go over some details about the colonoscopy?"
-    }
-}

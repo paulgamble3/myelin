@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4705,
-    "prompt": "Nurse: Is the patient going to hurt themselves?\n\nPatient: What are you talking about? I am the patient.\n\nNurse: I apologize for any confusion. I'm here to help you. In the past month, have you felt down or depressed?\n\nPatient: I'm not going to hurt myself, but I am terrified about this diagnosis.\n\nNurse: I'm sorry for any confusion. In the past month, have you felt down or depressed?\n\nPatient: No. But\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: I'm feeling horrified at this new diagnosis.",
-    "responses": {
-        "gpt4": "I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's really important to talk things over with someone who can, though, such as a mental health professional or a trusted person in your life.",
-        "our_model": "In the past month, have you thought about hurting yourself?"
-    }
-}

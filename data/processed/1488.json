@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1488,
-    "prompt": "Patient: It's been good so far.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm ready then.\n\nNurse: That's great to hear, Mr.\n\nPatient: I'm ready to get it over with.\n\nNurse: I can appreciate that sentiment, Mr. Valenzuela. It's quite a process to go through, but it's great that you're ready to take this step. I see from your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. How are you feeling about this?\n\nPatient: I wanna find out what's going on. So, again, I'm\n\nPatient: angels to get it over with.",
-    "responses": {
-        "gpt4": "Absolutely, I can understand wanting to figure out what's going on. It's healthy to take initiative in understanding more about our own health. Can you please confirm if you're still experiencing diarrhea?",
-        "our_model": "I'm sorry, Mr. Valenzuela, I didn't quite catch that. Could you please confirm if you've been experiencing diarrhea?"
-    }
-}

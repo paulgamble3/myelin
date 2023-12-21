@@ -1,8 +1,0 @@
-{
-    "prompt_id": 458,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Tadeo Williamson?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: Well, I'm I'm glad to be home. But",
-    "responses": {
-        "gpt4": "I'm sure it must be a relief to be back in your own space. Is there something you're especially looking forward to now that you're home?",
-        "our_model": "I'm glad to hear that you're happy to be home."
-    }
-}

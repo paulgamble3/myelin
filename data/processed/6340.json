@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6340,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Gardner. You're correct that the Valsartan is important for managing your CHF and HTN. It's great that you're taking it as prescribed. Do you ever have trouble remembering to take your medications on time?\n\nPatient: What is h t n.\n\nNurse: HTN stands for hypertension, Mr. Gardner. It's another term for high blood pressure. The Valsartan you're taking helps manage both your CHF and HTN. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Why don't you just say high blood pressure instead of saying h t n?\n\nNurse: You're absolutely right, Mr. Gardner. I should have said high blood pressure instead of HTN. I apologize for any confusion. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: So I had",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Gardner, but your response was cut off. Could you please repeat what you just said?",
-        "our_model": "I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

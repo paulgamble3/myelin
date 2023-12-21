@@ -1,8 +1,0 @@
-{
-    "prompt_id": 831,
-    "prompt": "Nurse: Wonderful, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of this. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: It was last night.\n\nNurse: Thank you for that information, Mr. Oliver. Could you please tell me what the result of that blood pressure measurement was?\n\nPatient: Yes. It was one thirty o were eighty.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Oliver. Your blood pressure of 130 over 80 is in the elevated range, which is something to watch given your medical history. Please make sure to continue monitoring your blood pressure regularly and report any consistently high readings to your doctor. Now, let's talk about your kidney disease. Have you noticed any changes in your symptoms, such as swelling, changes in urine color, or increased fatigue?",
-        "our_model": "I'm sorry, Mr. Oliver, could you please repeat that?"
-    }
-}

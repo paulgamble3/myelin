@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3240,
-    "prompt": "Nurse: I understand that these changes can be challenging. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Yes, please.\n\nNurse: Absolutely. For example, instead of a burger, you might consider a grilled chicken salad. It's a lighter meal that can still be satisfying. As for the milkshake, perhaps you could try a fruit smoothie. It's a refreshing alternative that can be just as enjoyable. Remember, these are just suggestions. It's critical to find what works best for you.\n\nPatient: [NO RESPONSE]\n\nNurse: I understand that making dietary changes can be challenging. Do you have any questions or concerns about these suggestions?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Remember, the goal is to find a balance that you're comfortable with. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: I don't exercise.",
-    "responses": {
-        "gpt4": "I understand. Starting an exercise routine can be a challenge, especially if you're not used to it. With your permission, I'd like to share some recommendations for exercise that could be helpful for you. Is that alright?",
-        "our_model": "That's okay. Exercise can be a challenge, especially when you're not feeling your best. If it's alright with you, I'd like to share some recommendations about starting an exercise routine in a CHF appropriate manner. Is that okay?"
-    }
-}

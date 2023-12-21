@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3467,
-    "prompt": "Nurse: Great. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: I hope your day is going well. How are you feeling about your upcoming procedure?\n\nPatient: I'm pretty nervous, to be honest.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. Your gastroenterologist, Doctor Meredith Bailey, is highly experienced and has performed over 1500 colonoscopies. She's there to ensure your safety and comfort. Do you have any specific concerns or questions you'd like to discuss?\n\nPatient: No. Not that I can think of right now.\n\nNurse: Alright. If any questions come up during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It's great that you're taking this step to take care of your health. How are you feeling about the procedure?\n\nPatient: Like I said, I'm I'm nervous.",
-    "responses": {
-        "gpt4": "It's entirely normal to feel apprehensive before a procedure like this. Remember, this procedure can help detect any early signs of colon cancer, which can significantly boost treatment success if needed. If there are any details about the colonoscopy preparation that are bothering you, would it be okay to go over a few topics now?",
-        "our_model": "I appreciate your honesty. It's completely normal to feel nervous. I'm here to help you prepare for the procedure and answer any questions you might have. Would it be alright if we go over a few topics on prep for your colonoscopy?"
-    }
-}

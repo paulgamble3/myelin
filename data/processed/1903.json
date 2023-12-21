@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1903,
-    "prompt": "Nurse: Alright. If you have any questions in the future, don't hesitate to ask. Now, let's talk about your other chronic condition, Lupus. How have you been managing with that?\n\nPatient: It's been alright.\n\nNurse: I'm glad to hear that you're managing well. It's critical to keep an eye on any symptoms that might indicate a flare-up, such as fatigue, joint pain, or rashes. Are you experiencing any of these symptoms currently?\n\nPatient: Nope.\n\nNurse: That's good to hear. It's critical to keep up with your medication and any recommended lifestyle changes to manage your Lupus. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: I smoke a pack of cigarettes today.\n\nNurse: Thank you for sharing that. I know it's not easy to talk about, but it's important for your health. Have you ever considered quitting smoking?\n\nPatient: No. I'm not interested in it.",
-    "responses": {
-        "gpt4": "I hear you. Quitting can be a difficult decision. Can I ask what's preventing you from considering quitting at the moment? It's okay if you'd rather not share.",
-        "our_model": "I appreciate your honesty. It's a personal decision and it's important to be ready. If you ever change your mind, there are many resources available to help you quit. Would you like me to share some of these resources with you?"
-    }
-}

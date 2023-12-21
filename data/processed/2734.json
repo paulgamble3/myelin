@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2734,
-    "prompt": "Nurse: Cupcakes and bread sound delicious, Mr. Stevens. Do you have a favorite flavor or type of cupcake that you enjoy making?\n\nPatient: It's really amazing.\n\nNurse: That sounds delicious, Mr. Stevens. Baking cupcakes and bread must be a rewarding activity. Do you have a favorite type of cupcake or bread that you enjoy making the most?\n\nPatient: Yes. Carrot cake.\n\nNurse: Carrot cake is indeed a delightful choice, Mr. Stevens. It's a great way to incorporate vegetables into a sweet treat. Now, I'm calling on behalf of Doctor Marcuso and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Stevens. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Marcuso?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Mr. Stevens. It's important to follow the medication regimen for managing your CHF and CKD. However, is there ever a time when you miss a dose of your medication?",
-        "our_model": "That's great to hear, Mr. Stevens. It's critical to take your medications as prescribed to manage your conditions. Do you ever have trouble remembering to take your medication on time?"
-    }
-}

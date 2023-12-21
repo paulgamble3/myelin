@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5578,
-    "prompt": "Nurse: When did you start having bloody stool?\n\nPatient: Jeez. I don't have bloody stool.\n\nNurse: I apologize for the confusion. Could you please tell me if you have bloody or black, tarry stool?\n\nPatient: I have pus and mucus in my stool.\n\nNurse: I apologize for the confusion. I'm here to help. Do you have bloody or black, tarry stool?\n\nPatient: No.\n\nNurse: Do you have abdominal pain?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for confirming. Are you experiencing constipation or diarrhea?",
-        "our_model": "Do you have a hemorrhoid or a lump at rectum and red streak on stool?"
-    }
-}

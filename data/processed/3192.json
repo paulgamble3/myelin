@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3192,
-    "prompt": "Nurse: That's great to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Nope.\n\nNurse: Alright, that's good to know. I also notice that you've been prescribed Oxycodone 5 mg as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: No.\n\nNurse: I would encourage you to do so. It's essential to have that on hand for after the procedure. Do you have any questions about your medications or is there anything else you'd like to discuss before we move on?\n\nPatient: No.\n\nNurse: Alright, let's move on to the next topic. To prepare your skin for surgery and reduce the risk of infection, you'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: No. I'm gonna pick that up today.",
-    "responses": {
-        "gpt4": "That's fantastic to hear. It's available at most pharmacies over the counter. Would it be alright if I go through the scrub instructions step by step?",
-        "our_model": "That's a good plan. The chlorhexidine scrub is available at most pharmacies over the counter. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you'll take a shower like normal then turn the water off. Does that sound good so far?"
-    }
-}

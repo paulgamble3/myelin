@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4242,
-    "prompt": "Nurse: Great, Mr. Shyam. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm doing alright. Thanks.\n\nNurse: I'm glad to hear that, Mr. Shyam. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Just happened to be back with my cat.\n\nNurse: That sounds lovely, Mr. Shyam. Cats can be such comforting companions. What's your cat's name?\n\nPatient: His name is Scruffy.\n\nNurse: Scruffy, what a cute name! It must be nice to have him around. Do you have any hobbies or interests that you enjoy, Mr. Shyam?\n\nPatient: I was reading.",
-    "responses": {
-        "gpt4": "Reading is a great hobby, Mr. Shyam. What are you currently reading, or what's your favorite kind of book?",
-        "our_model": "Reading is a wonderful hobby, Mr. Shyam. What kind of books do you enjoy?"
-    }
-}

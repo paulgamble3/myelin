@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4712,
-    "prompt": "Patient: I'm trying to talk to you about my recent\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: CHF diagnosis.\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: Why do you refer to me as\n\nPatient: the patient.\n\nNurse: I apologize if that came across as impersonal. I'm here to help you. Do you have any more information you want to share about this issue?\n\nPatient: The only thing I wanna talk about is my congestive heart failure. Okay?",
-    "responses": {
-        "gpt4": "Absolutely, let's discuss your CHF management further. You mentioned that you're taking Captopril, which can help manage your CHF symptoms. So, can we move onto the next new medication, Carvedilol 3.125 mg? Have you picked that up from the pharmacy?",
-        "our_model": "Absolutely. I'm here to help you understand your condition and how to manage it. Let's move on to your next medication. Have you been able to pick up your Carvedilol 3.125 mg oral tablets from the pharmacy?"
-    }
-}

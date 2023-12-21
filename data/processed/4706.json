@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4706,
-    "prompt": "Nurse: I apologize for any confusion. I'm here to help you. In the past month, have you felt down or depressed?\n\nPatient: I'm not going to hurt myself, but I am terrified about this diagnosis.\n\nNurse: I'm sorry for any confusion. In the past month, have you felt down or depressed?\n\nPatient: No. But\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: I'm feeling horrified at this new diagnosis.\n\nNurse: In the past month, have you thought about hurting yourself?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Just to confirm, in the past month, have you had any thoughts of ending your own life?",
-        "our_model": "Has the patient ever planned or prepared to end their life?"
-    }
-}

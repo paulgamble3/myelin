@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6098,
-    "prompt": "Nurse: I apologize for the confusion earlier. Your password for what?\n\nPatient: Password. I said I asked about my phosphorus level.\n\nNurse: I apologize for the confusion earlier. Your phosphorus level is not listed in the information I have. However, it's typically within the normal range of 2.5 to 4.5 mg/dL. Do you have any other questions about your lab results?\n\nPatient: Well,\n\nNurse: Yes?\n\nPatient: can diet\n\nNurse: I'm sorry, Jon, could you please finish your question?\n\nPatient: help me with my phosphorus levels. I I",
-    "responses": {
-        "gpt4": "Absolutely, a diet can definitely help manage your phosphorus levels. Many foods high in protein are also high in phosphorus, such as dairy products, meat, and fish. You can limit these foods and instead opt for foods low in phosphorus, like fresh fruits and vegetables. Processed foods often have additives that contain phosphorus, so it\ufffd\ufffd\ufffds best to have fresh foods whenever possible. Would this be something you're open to trying?",
-        "our_model": "Absolutely, diet can play a significant role in managing phosphorus levels. Would it be okay if I provide some recommendations on how to manage your phosphorus levels through diet?"
-    }
-}

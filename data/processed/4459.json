@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4459,
-    "prompt": "Patient: What does that mean?\n\nNurse: I apologize if my question was unclear, Mr. Delarosa. I was asking about the types and amounts of fluids you drink in a day. For example, how many glasses of water or other beverages do you typically have?\n\nPatient: To follow these guidelines. I I I don't really understand, like,\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: this whole fluid restriction\n\nPatient: stuff.\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I hate following this diet and",
-    "responses": {
-        "gpt4": "I understand how following a special diet can seem frustrating at times, Mr. Delarosa. But it's actually an important part of managing your health conditions. What specifically don't you like about the diet?",
-        "our_model": "Hold on a second while I figure out how I can best support you."
-    }
-}

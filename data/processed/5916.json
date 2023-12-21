@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5916,
-    "prompt": "Nurse: That's good to hear that you're keeping track. Could you please share with me what the result was?\n\nPatient: Yeah. It was ninety over one twenty.\n\nNurse: Thank you for sharing that. The reading is a bit high. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Yep. That sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to increase your intake of fruits and vegetables, which can help lower blood pressure. Do you think you could try that?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "That's excellent to hear. Fruits and vegetables can have a significant positive impact on blood pressure. Lastly, maintaining a healthy weight can also help manage blood pressure. Do you have any questions or concerns about these suggestions?",
-        "our_model": "That's great to hear. Including more fruits and vegetables in your diet can have many health benefits. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

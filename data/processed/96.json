@@ -1,8 +1,0 @@
-{
-    "prompt_id": 96,
-    "prompt": "Nurse: I understand it might feel like a lot of time, but it's necessary to ensure everything goes smoothly. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sound whatever.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: Whatever sound I I got you. I I hear you.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: No need to yell at me.",
-    "responses": {
-        "gpt4": "I'm sorry if you felt that way, it's certainly not my intention. I'm here to make this process easier for you. Is there anything else you'd like to know about the process or the procedure?",
-        "our_model": "I'm sorry if it seemed like I was yelling, that was not my intention. I just want to make sure everything is clear for you. Is there anything else about the logistics that's worrying you?"
-    }
-}

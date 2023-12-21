@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4135,
-    "prompt": "Patient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about your recent meals?\n\nPatient: I had a salad. A few hours ago.\n\nPatient: A chicken salad.",
-    "responses": {
-        "gpt4": "Thank you for sharing. Keeping a healthy diet is essential for managing your health conditions. Since you're following a vegetarian diet, may I suggest some plant-based sources of protein, such as lentils, beans, and tofu, which can be good substitutes for chicken in your salad?",
-        "our_model": "That sounds like a healthy choice. What kind of salad was it?"
-    }
-}

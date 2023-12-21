@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4237,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Patient. I hope this call finds you in good spirits. It's Rachel, your chronic care management AI nurse calling on behalf of Dr. Maria Rodriguez. I bet it must feel good to be in your own home's comfort, right? Aside from convalescence, is there something at home you\ufffd\ufffd\ufffdve been looking forward to doing or perhaps even missed reveling in while you were in the hospital?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Abner Shyam?"
-    }
-}

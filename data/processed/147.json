@@ -1,8 +1,0 @@
-{
-    "prompt_id": 147,
-    "prompt": "Patient: Oh, I've been having that for months.\n\nNurse: I see, Mr. Valenzuela. Is the diarrhea chronic, meaning it's been ongoing for a long time?\n\nPatient: Yeah. For at least three months.\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.",
-    "responses": {
-        "gpt4": "Alright, Mr. Valenzuela. I'm glad you haven't experienced those symptoms. I hope this colonoscopy gives you and Dr. Bailey the answers you're looking for. Based on what you've shared, are you okay if we go over a few topics about prepping for your colonoscopy?",
-        "our_model": "I'm glad to hear that, Mr. Valenzuela. Have you noticed any weight loss or changes in your appetite?"
-    }
-}

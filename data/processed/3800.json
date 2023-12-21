@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3800,
-    "prompt": "Patient: Well, how can I make lasagna so I can eat it? Because because I really like it.\n\nNurse: I understand, Ms. Odonnell. Lasagna can be made healthier by using lean ground beef or turkey, and adding more vegetables like spinach, mushrooms, or bell peppers. It's also a good idea to limit the amount of cheese used. For the sauce, you can use a low-sodium option or make your own with fresh tomatoes. Would you like more suggestions like this?\n\nPatient: Well, that's a good suggestion. Why don't I start with that one?\n\nNurse: I'm glad you found the suggestion helpful, Ms. Odonnell. Remember, small changes can make a big difference. Now, let's move on to your other chronic conditions. You mentioned earlier that you have multiple back surgeries. How has your back been feeling lately?\n\nPatient: I did not mention earlier that I I've never had back\n\nPatient: surgery. I don't know what you're talking about.\n\nNurse: I apologize for the confusion, Ms. Odonnell. I must have misunderstood. I see that you have Type II Diabetes and Hypertension. How have you been feeling lately with these conditions?\n\nPatient: Best I can. I told you I'm scared. I have a lot",
-    "responses": {
-        "gpt4": "I understand that you're scared, Ms. Odonnell. This is a lot to handle. Is there anything you would like to discuss further about your Type II Diabetes and Hypertension?",
-        "our_model": "I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Remember, managing your diet, physical"
-    }
-}

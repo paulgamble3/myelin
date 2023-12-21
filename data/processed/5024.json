@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5024,
-    "prompt": "Nurse: Alright. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes, ma'am.\n\nNurse: That's great. It's important to have that on hand for after the procedure. Do you have any questions about your medications or is there anything else you'd like to discuss before we move on?\n\nPatient: No.\n\nNurse: I apologize for the confusion earlier. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I'm not taking anything else.",
-    "responses": {
-        "gpt4": "Alright. I actually made a mistake earlier and I apologize for the confusion. You should only be taking the Tylenol 500mg, 1000mg three times a day as needed, not the Oxycodone 10mg four times a day. I'm sorry for the error. Do you have any questions or worries about your medication?",
-        "our_model": "Alright. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?"
-    }
-}

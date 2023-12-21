@@ -1,8 +1,0 @@
-{
-    "prompt_id": 207,
-    "prompt": "Nurse: That's great, Ms. Aguirre. Could you please share with me what your blood pressure reading was this morning?\n\nPatient: Okay.\n\nNurse: Could you please share with me what your blood pressure reading was this morning?\n\nPatient: It was\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please repeat your blood pressure reading from this morning?\n\nPatient: Eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 128/80 is slightly elevated. Would it be okay if I share some suggestions on how to manage your blood pressure?\n\nPatient: I don't know where you've got that number. That not what I said.",
-    "responses": {
-        "gpt4": "I'm sorry about the misunderstanding, Ms. Aguirre. Could you please repeat your blood pressure reading for me once more?",
-        "our_model": "I apologize for the confusion, Ms. Aguirre. Could you please repeat your blood pressure reading from this morning?"
-    }
-}

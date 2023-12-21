@@ -1,8 +1,0 @@
-{
-    "prompt_id": 664,
-    "prompt": "Nurse: Yes, I'm here. I was asking if you're still taking Metformin and Riboflavin. [\n\nPatient: I know it's a lot of medication.\n\nNurse: Yes, I'm here. I understand it's a lot to manage. Are you still taking Metformin and\n\nPatient: But I'm taking them\n\nNurse: Yes, I'm here. I appreciate your patience. It's important to ensure we're covering all your medications. Now, are you still taking Atorvastatin and Lantus?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you still taking Tramadol, Levothyroxine, and Tylenol as needed?\n\nPatient: Tramadol, levothyroxine, and Tylenol as needed. Yes.",
-    "responses": {
-        "gpt4": "That's wonderful, thank you for being so diligent in managing your medications. I understand that with the amount of medications, it could be easy to occasionally miss a dose. Have you ever had trouble in taking your medication on time?",
-        "our_model": "Thank you for confirming that. I understand it can be a lot to manage. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
-    }
-}

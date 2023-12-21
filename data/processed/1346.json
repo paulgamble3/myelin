@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1346,
-    "prompt": "Nurse: I apologize for the repetition. I'm glad to hear you've picked up your Tylenol prescription. Do you have any questions about your medications?\n\nPatient: No. I I don't think so.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to the next topic. You'll need to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub for this purpose?\n\nPatient: What?\n\nNurse: a chlorhexidine scrub?\n\nPatient: Hello? Hello? Hello? Hello?\n\nNurse: Yes, I'm here. I was asking if you've already purchased a chlorhexidine scrub. This is a special scrub that helps prepare your skin for surgery and reduce the risk of infection. It's available at most pharmacies over the counter. Have you picked one up yet?\n\nPatient: What about it?",
-    "responses": {
-        "gpt4": "A chlorhexidine scrub is a type of antiseptic wash that you'll use to clean your skin before surgery. This helps to reduce the risk of infection. It's available at most pharmacies over the counter. Have you picked up a chlorhexidine scrub yet?",
-        "our_model": "for surgery and reduces the risk of infection. It's available at most pharmacies over the counter. Have you already purchased this scrub?"
-    }
-}

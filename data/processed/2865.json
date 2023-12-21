@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2865,
-    "prompt": "Nurse: Yes?\n\nPatient: I don't have a system, but I love to play music while I'm doing that.\n\nNurse: That sounds lovely. Music can certainly make any task more enjoyable. Do you have a favorite type of music or artist that you like to listen to while you're cleaning?\n\nPatient: Right now, I'm into Christmas music.\n\nNurse: That's delightful. Christmas music can indeed bring a festive spirit. Do you have a favorite Christmas song or artist that you're currently enjoying?\n\nPatient: I like the classic Christmas only. So I don't have a specific\n\nNurse: That's wonderful.\n\nPatient: Favorite. Alright.",
-    "responses": {
-        "gpt4": "Great! Listening to classic Christmas music can really lift up the mood. Please take care and enjoy your time at home. If you have any other updates about your health, feel free to share.",
-        "our_model": "The classics are always a good choice. They bring back so many memories. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?"
-    }
-}

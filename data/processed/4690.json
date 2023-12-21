@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4690,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Audrey Cruz?\n\nPatient: Yes. This is Audrey.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: February nineteen nineteen fifty five.\n\nNurse: Thank you for confirming that. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Absolutely petrified.\n\nNurse: I'm really sorry to hear that you're feeling this way. It's completely normal to feel a bit overwhelmed after a hospital stay. Is there anything in particular that you're looking forward to doing now that you're back home?\n\nPatient: Trying to get my mind off of the scary diagnosis",
-    "responses": {
-        "gpt4": "That sounds like a very understandable response to what you've been through. Sometimes, focusing on interests or hobbies can be helpful distraction. Do you have any hobbies or perhaps a pet that you enjoy spending time with?",
-        "our_model": "I can imagine that it's a challenging time for you. Engaging in activities you enjoy can be a good distraction. Do you have any hobbies or interests that you usually find comforting?"
-    }
-}

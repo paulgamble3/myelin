@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4543,
-    "prompt": "Nurse: That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units every night at bedtime. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as directed?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Sure. I've had chicken and rice.",
-    "responses": {
-        "gpt4": "That sounds tasty. It's important to balance your protein sources with plenty of vegetables for good kidney health. How about your consumption of fruits and vegetables? Do you include them in your meals?",
-        "our_model": "Thank you for sharing"
-    }
-}

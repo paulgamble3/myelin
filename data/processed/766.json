@@ -1,8 +1,0 @@
-{
-    "prompt_id": 766,
-    "prompt": "Nurse: I see, Ms. Aguirre. I apologize for misunderstanding. Could you please tell me more about this special person who's coming to visit?\n\nPatient: She's my aunt that took care of me.\n\nNurse: I see, Ms. Aguirre. It's wonderful that you have such a close relationship with your aunt. It must be comforting to have her around. What activities do you usually enjoy doing together when she visits?\n\nPatient: We just sit in play cards. You know? She's\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: quite a bit older. So\n\nNurse: That sounds like a lovely way to spend time together, Ms. Aguirre. Card games can be a great way to relax and bond. Do you have a favorite card game that you enjoy playing with your aunt?\n\nPatient: We like to place",
-    "responses": {
-        "gpt4": "I apologize, Ms. Aguirre, you mentioned you like to play a specific game? Could you please repeat that for me?",
-        "our_model": "I'm sorry, Ms. Aguirre, you were saying?"
-    }
-}

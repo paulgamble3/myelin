@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6321,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Harley Gardner?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August second nineteen six before.\n\nNurse: Thank you for confirming your date of birth, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing alright.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Gardner. I understand how much nicer it can be to recover at home. Is there anything specific you've been looking forward to doing now that you're back?",
-        "our_model": "I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?"
-    }
-}

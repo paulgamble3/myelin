@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2890,
-    "prompt": "Nurse: Great, Mr. Douglas. And how have you been taking your Captopril?\n\nPatient: As prescribed,\n\nNurse: That's excellent, Mr. Douglas. Sticking to your medication schedule is crucial for managing your CHF. Now, have you also picked up your Carvedilol 3.125 mg oral tablets?\n\nPatient: Yep.\n\nNurse: That's good to hear, Mr. Douglas. And how have you been taking your Carvedilol?\n\nPatient: As prescribed.\n\nNurse: That's great, Mr. Douglas. It's critical to take your medications as prescribed to manage your CHF effectively. Now, are you still taking your Metformin, Hydrochlorothiazide, and Vitamin D supplement?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "That's wonderful, Mr. Douglas. It's important to continue with your existing medications as well. Now, it's common for people to sometimes miss a dose. Do you ever find it challenging to remember to take your medication on time?",
-        "our_model": "That's good to hear, Mr. Douglas. It's important to continue taking your existing medications as prescribed. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

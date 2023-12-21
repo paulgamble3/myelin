@@ -1,8 +1,0 @@
-{
-    "prompt_id": 156,
-    "prompt": "Patient: Yes.\n\nNurse: Hold on a second while I figure out how I can best support you. Give me a moment to check how I can best support you.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Let's move on.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Valenzuela. I see in your file that you're currently taking a blood thinner called warfarin. For patients who are on medications like yours, we do recommend some changes in the days leading up to the procedure. You'll need to stop taking warfarin 5 days before your procedure. That means you should take your last dose on August 7th. Can you do that?",
-        "our_model": "Great, thank you, Mr. Valenzuela. I see on your chart that there are no changes to your medication in preparation for the colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5524,
-    "prompt": "Nurse: I'm sorry to hear that you're feeling agitated, Mr. Alves. It's completely normal to feel a bit anxious about medical procedures. Is there anything specific that's causing you to feel this way?\n\nPatient: It's a whole procedure in general.\n\nNurse: I see, Mr. Alves. It's quite a process to go through this procedure, and it's natural to feel a bit overwhelmed. I hope this procedure gives you and your doctor the answers you're looking for. Before we begin, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: No. I don't have any questions.\n\nNurse: Alright, Mr. Alves. Please remember that you can ask me questions at any time during our conversation. I'm here to help you prepare for your colonoscopy. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: No. It's fine.\n\nNurse: Alright, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Is there anything else you'd like to discuss at this time?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, Mr. Alves. Let's first get all the logistics out of the way for your colonoscopy on August 17 at 10:00 AM with Dr. Meredith Bailey. You'll need to arrive about 1 hour before, at 9:00 AM. Does this still work for you?",
-        "our_model": "Okay, Mr. Alves. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
-    }
-}

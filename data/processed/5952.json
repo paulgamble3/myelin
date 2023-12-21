@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5952,
-    "prompt": "Nurse: That's good to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I smoked like a pack a day.\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that. Have you ever considered quitting smoking?\n\nPatient: Yeah. I I don't I'm not ready to quit smoking. I don't want to.\n\nNurse: I appreciate your honesty. It's a big decision to make. Could you share with me why you feel you're not ready to quit smoking?\n\nPatient: Because I don't want to.\n\nNurse: I appreciate your honesty. It's a personal decision. If you ever change your mind, I have a lot of resources that I could share with you to help you quit. Would you like me to share these resources now, or would you prefer to wait until you're ready?\n\nPatient: I would prefer to wait until I'm ready.",
-    "responses": {
-        "gpt4": "Absolutely, and that's completely your call. Please know that I'm here to help whenever you decide you're ready. Now, let's move on to the next item on our checklist. Is there anything else on your mind that you would like to discuss?",
-        "our_model": "That's perfectly fine. When you're ready, don't hesitate to ask. I'm here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5977,
-    "prompt": "Nurse: Of course, take your time. It's critical to keep track of your blood pressure readings. [\n\nPatient: second here.\n\nNurse: Of course, take your time. It's critical to keep track of your blood pressure readings. [\n\nPatient: So it was ninety over\n\nNurse: I'm sorry, you were saying?\n\nPatient: one\n\nNurse: Thank you for sharing that information. A blood pressure reading of 90 over 60 is within the normal range, which is good news. It's essential to keep monitoring your blood pressure regularly. If you haven't already, I would recommend getting into the habit of taking your blood pressure daily. This will help your healthcare team monitor your progress and make any necessary adjustments to your treatment plan. Does that sound manageable to\n\nPatient: Ten.",
-    "responses": {
-        "gpt4": "I apologize for misunderstanding earlier. Could you please confirm your blood pressure reading? Was it 90 over 110?",
-        "our_model": "Thank you for sharing that information. A blood pressure reading of 90 over 100 is within the acceptable range, but the lower number is a bit high. It's important to keep an eye on this. Can I share some suggestions on how to manage your blood pressure?"
-    }
-}

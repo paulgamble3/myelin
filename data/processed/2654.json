@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2654,
-    "prompt": "Nurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue and tell me about some of the meals you've had recently?\n\nPatient: Good stuff.\n\nNurse: I'm glad to hear that you're eating well, Ms. Cruz. Could you share a bit more about the types of meals you've been having?\n\nPatient: That's my meals.\n\nNurse: That's great to hear, Ms. Cruz. Could you share a bit more about what you consider to be \"good stuff\" in your meals?\n\nPatient: Yeah. Lots of vegetables. Oh,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat what you said about your meals?\n\nPatient: a lot of I love tomatoes,",
-    "responses": {
-        "gpt4": "That's great, Ms. Cruz. Tomatoes and vegetables are a healthy part of the diet. How about your salt intake? Are you careful about limiting the amount of salt in your meals?",
-        "our_model": "That's wonderful, Ms. Cruz. Tomatoes are a great source of vitamins and antioxidants. How do you usually prepare your tomatoes?"
-    }
-}

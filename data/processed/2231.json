@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2231,
-    "prompt": "Nurse: That's great to hear. It's essential to have someone available to take you home after the procedure. Do you have any questions about the day of the procedure?\n\nPatient: My friend is gonna pick me up.\n\nNurse: That's great to hear. It's critical to have someone available to take you home after the procedure. Do you have any other questions or concerns about the logistics of your procedure?\n\nPatient: No.\n\nNurse: Alright. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Yep.\n\nNurse: Of course. What's on your mind?\n\nPatient: I don't have any questions, Rachel. Thank you.",
-    "responses": {
-        "gpt4": "You're welcome. I'm glad we were able to cover all the important points. Just to summarize:\n\n1) We've confirmed the logistics of your colonoscopy on August 13th at 9:00 AM.\n2) You understand the medication and diet instructions, including starting a low fiber diet, discontinuing Plavix, and starting a clear liquid diet 24 hours before the procedure. \n3) You've arranged for a friend to pick you up after your procedure.\n\nDoes all of this sound correct?",
-        "our_model": "You're welcome. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over your medication, dietary changes, and the bowel prep process. You've also confirmed that you're feeling well and have arranged for a ride home after the procedure. Does that sound right?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 597,
-    "prompt": "Nurse: Excellent, Ms. Chabot. And how about Carvedilol?\n\nPatient: What about it? I take all my medications.\n\nNurse: That's great to hear, Ms. Chabot. I apologize for any confusion. I'll move on to the next medication. Are you still taking Metformin?\n\nPatient: Yes.\n\nNurse: That's good to hear, Ms. Chabot. And are you still using your Lantus injection device?\n\nPatient: Absolutely. Yes.\n\nNurse: That's great, Ms. Chabot. Lastly, are you still taking Torsemide?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's excellent, Ms. Chabot. I'm glad to hear that you're consistently taking your prescribed medications. As I'm sure you know, sticking to your medication schedule is a key part of managing your CHF. It's natural to sometimes forget a dose, though. Do you ever have any trouble remembering to take your medications on time?",
-        "our_model": "That's wonderful, Ms. Chabot. It's essential to keep up with your medications. Now, I understand that taking medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

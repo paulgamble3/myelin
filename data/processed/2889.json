@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2889,
-    "prompt": "Nurse: Alright, Mr. Douglas. Let's start with your new medications. Have you been able to pick up your Captopril 12.5 mg oral tablets from the pharmacy?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Douglas. And how have you been taking your Captopril?\n\nPatient: As prescribed,\n\nNurse: That's excellent, Mr. Douglas. Sticking to your medication schedule is crucial for managing your CHF. Now, have you also picked up your Carvedilol 3.125 mg oral tablets?\n\nPatient: Yep.\n\nNurse: That's good to hear, Mr. Douglas. And how have you been taking your Carvedilol?\n\nPatient: As prescribed.",
-    "responses": {
-        "gpt4": "Perfect, Mr. Douglas! You're doing a great job with your new medications. What about your existing ones? Are you still taking Metformin, Hydrochlorothiazide, and your Vitamin D supplement?",
-        "our_model": "That's great, Mr. Douglas. It's critical to take your medications as prescribed to manage your CHF effectively. Now, are you still taking your Metformin, Hydrochlorothiazide, and Vitamin D supplement?"
-    }
-}

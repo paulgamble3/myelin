@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3946,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Okay, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: Just dandy.\n\nNurse: I'm glad to hear that, Mr. Dang. Do you have any special plans for the day?\n\nPatient: No.\n\nNurse: That's perfectly fine, Mr. Dang. Sometimes, a quiet day can be quite refreshing. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Just gonna make it easy. Hello? Are you there?",
-    "responses": {
-        "gpt4": "Yes, I'm here, Mr. Dang. It sounds like you're taking a calm approach to the procedure, which can be quite helpful. Has there been anything on your mind or questions you'd like to go over before we continue further?",
-        "our_model": "Yes, I'm here, Mr. Dang. I'm glad to hear you're planning a relaxing day. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1399,
-    "prompt": "Nurse: I'm sorry to hear that you're experiencing a fever, Mr. Grewe. It's important to monitor this closely and inform your doctor. I'll arrange for your doctor to call you to discuss your current symptoms and the impact on your upcoming procedure. Now, let's move on to your discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: I hope so.\n\nNurse: I understand, Mr. Grewe. It's normal to hope for a smooth recovery and to be able to return home after the procedure. Your doctor will make the final decision based on your progress and recovery. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yeah. My wife is always here.\n\nNurse: That's wonderful to hear, Mr. Grewe. It's critical to have someone like your wife to support you during your recovery. Now, do you have any other questions or concerns about your upcoming procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Grewe. If you have any questions in the future, don't hesitate to ask. That was all the topics for today. Before we end this call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Well, actually, I have a random question.",
-    "responses": {
-        "gpt4": "Of course, Mr. Grewe. Please feel free to ask your question. I'm here to help.",
-        "our_model": "Of course, Mr. Grewe. I'm here to help. What's your random question?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1867,
-    "prompt": "Nurse: I'm glad to hear that, Ms. Odonnell. Remember, small changes can make a big difference. Now, let's discuss your carbohydrate intake. It's recommended to limit carbohydrates to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: Just\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say any French.\n\nNurse: I apologize for the confusion, Ms. Odonnell. I was asking about your carbohydrate intake. It's recommended to limit your intake to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: List.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I said I had shrimp talk",
-    "responses": {
-        "gpt4": "Thank you for sharing, Ms. Odonnell. Shrimp tacos can be part of a balanced meal. Just be mindful of the carbohydrate content in the tortillas and any other components of the meal. How do you feel about trying to incorporate more low carb vegetables in your meals?",
-        "our_model": "I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?"
-    }
-}

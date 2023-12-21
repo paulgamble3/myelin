@@ -1,8 +1,0 @@
-{
-    "prompt_id": 28,
-    "prompt": "Patient: Okay. Yes. I have.\n\nNurse: That's great to hear. Disulfiram is an important part of your treatment plan for alcohol use disorder. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's fantastic. You're doing a great job managing your medications. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I have chicken soup.\n\nPatient: Earlier today.",
-    "responses": {
-        "gpt4": "That sounds delicious and comforting. Soup is a great meal for incorporating a variety of vegetables. How do you typically prepare your chicken soup? Do you use fresh vegetables and lean chicken?",
-        "our_model": "Chicken soup sounds delicious. How did you prepare it?"
-    }
-}

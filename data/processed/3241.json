@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3241,
-    "prompt": "Nurse: Absolutely. For example, instead of a burger, you might consider a grilled chicken salad. It's a lighter meal that can still be satisfying. As for the milkshake, perhaps you could try a fruit smoothie. It's a refreshing alternative that can be just as enjoyable. Remember, these are just suggestions. It's critical to find what works best for you.\n\nPatient: [NO RESPONSE]\n\nNurse: I understand that making dietary changes can be challenging. Do you have any questions or concerns about these suggestions?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Remember, the goal is to find a balance that you're comfortable with. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: I don't exercise.\n\nNurse: That's okay. Exercise can be a challenge, especially when you're not feeling your best. If it's alright with you, I'd like to share some recommendations about starting an exercise routine in a CHF appropriate manner. Is that okay?\n\nPatient: Yes, please.",
-    "responses": {
-        "gpt4": "Great! Start with light activities such as walking or stretching for a few minutes each day. Then gradually increase the time and intensity as long as you feel comfortable. It's always important to listen to your body and rest if you need to. Does this routine sound feasible to you?",
-        "our_model": "Great, thank you. For someone with CHF, it's often recommended to start with light activities, such as walking or gentle stretching. You could start with a short walk around your home, gradually increasing the distance as you feel comfortable. Remember, it's important to listen to your body and not push yourself too hard."
-    }
-}

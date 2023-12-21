@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2325,
-    "prompt": "Nurse: Yes, Mr. Ponce?\n\nPatient: I just noticed that I'm paying way\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you just said?\n\nPatient: Yes. I've just noticed that I can wait today.\n\nNurse: I see, Mr. Ponce.\n\nPatient: Hang up.\n\nNurse: I'm sorry for any confusion, Mr. Ponce. I'm here to help you with your health-related concerns.\n\nPatient: Against his Ponce.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what you said, Mr. Ponce?",
-        "our_model": "I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

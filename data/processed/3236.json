@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3236,
-    "prompt": "Nurse: I appreciate your honesty. It's not always easy to make dietary changes. Can you share a bit more about what you've been eating recently?\n\nPatient: Just whatever I want. I had a burger\n\nNurse: I see. And what did you have with your burger?\n\nPatient: and I had a milkshake.\n\nNurse: Thank you for sharing that. It's important to enjoy what we eat. If it's okay with you, I'd like to share some dietary recommendations that could help manage your CHF. Is that alright?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you. The recommendations are to limit your fluid intake to 1 liter per day and to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "For burgers, you could choose a leaner meat, like turkey for instance, to reduce the sodium content. Instead of a traditional milkshake, you may want to consider a smoothie made with fresh fruits. Sometimes, small changes can make a big difference. Would you be interested in giving these modifications a try?",
-        "our_model": "I understand that these changes can be challenging. Would you like some suggestions on how to incorporate these recommendations into your meals?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 506,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please share your feelings about the upcoming procedure again?\n\nPatient: Can I ask you a question?\n\nNurse: Of course, you can. What would you like to know?\n\nPatient: How accurate are the at home stools\n\nNurse: At-home stool tests can be a useful tool for screening for colon cancer, but they are not as accurate as a colonoscopy. They look for hidden blood in the stool, which can be a sign of cancer.\n\nPatient: screening tests for detecting colon cancer?\n\nNurse: At-home stool tests, also known as fecal immunochemical tests (FIT), are designed to detect hidden blood in the stool, which can be an early sign of colon cancer. They are quite accurate in finding cancers that are in the colon, but they may not be as effective in finding cancers in the upper part of the colon. That's why procedures like colonoscopies are still considered the gold standard for colon cancer screening. They allow doctors to directly examine the entire colon and take tissue samples if needed. Does that help answer your question?\n\nPatient: Yes. It does.",
-    "responses": {
-        "gpt4": "I'm glad I could provide that information for you. This upcoming colonoscopy is part of a preventative screening plan for colon cancer, correct?",
-        "our_model": "I'm glad I could provide some insight. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

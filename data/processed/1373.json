@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1373,
-    "prompt": "Patient: No.\n\nNurse: Alright, Mr. Grewe. If you have any questions at any point during our conversation, please feel free to ask. I'm here to help you. Now, I'd like to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.\n\nNurse: Okay, thank you, Mr. Grewe. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. That's okay with me.\n\nNurse: Excellent, Mr. Grewe. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yeah. Sure.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
-    "responses": {
-        "gpt4": "Great. Now, it's important that you don't eat or drink anything after midnight the night before your procedure, except for small sips of water to take any medications your doctor has advised you to take. Please also make sure you have someone available to drive you home after your procedure, as you won't be able to drive immediately after surgery. Do you understand these instructions, Mr. Grewe?",
-        "our_model": "Okay, Mr. Grewe. I'm glad that works for you. I want to remind you that due to current health guidelines, we have a strict visitor policy. You're allowed one person to accompany you to the hospital and stay with you during your recovery. Is there anything else about the logistics that's worrying you?"
-    }
-}

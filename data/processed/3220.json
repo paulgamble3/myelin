@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3220,
-    "prompt": "Nurse: That's great to hear. And how about Gabapentin?\n\nPatient: Yes.\n\nNurse: Good, and are you also taking Tylenol as needed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes. I am.\n\nNurse: That's excellent. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "Sorry to bother you, but I wanted to check in and see if you've ever found it difficult to take your medications on time?",
-        "our_model": "I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

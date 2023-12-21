@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2395,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Good morning, Patient, I'm Rachel, an AI nurse from O'Connor Hospital. I'm calling to check in with you about your total knee replacement that's coming up. Is this a good time to talk?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ellen Steele?"
-    }
-}

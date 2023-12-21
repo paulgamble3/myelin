@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1632,
-    "prompt": "Nurse: Alright, Mr. Benton. Let's move on to your anemia. How have you been managing this condition?\n\nPatient: I'm Good. I think I take my ferrosulfate, and I think I'm good.\n\nNurse: That's great to hear, Mr. Benton. Taking your Ferrous sulfate as prescribed is indeed important for managing your anemia. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Benton. Not smoking is beneficial for your overall health and particularly important for managing your chronic conditions. Now, do you have any questions or concerns that you'd like to discuss?\n\nPatient: Yeah.\n\nNurse: Of course, Mr. Benton. What's on your mind?\n\nPatient: On my lab works, what is",
-    "responses": {
-        "gpt4": "Of course, Mr. Benton. What's on your mind?",
-        "our_model": "Of course, Mr. Benton."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 95,
-    "prompt": "Nurse: I'm here. I understand your concerns. The timing of the second dose is designed to ensure your colon is as clean as possible for the procedure. This helps Doctor Bailey get the most accurate results. I'll make a note of your concerns for your care team to review. Let's move on to the logistics of your appointment. Your colonoscopy is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Gosh. You guys really require so much time for everything.\n\nNurse: I understand it might feel like a lot of time, but it's necessary to ensure everything goes smoothly. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sound whatever.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: Whatever sound I I got you. I I hear you.",
-    "responses": {
-        "gpt4": "I appreciate your understanding. We strive to ensure you have the best possible care. I'm here if you have any further questions about your upcoming appointment.",
-        "our_model": "Thank you for confirming. Is there anything else about the logistics that's worrying you?"
-    }
-}

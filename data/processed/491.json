@@ -1,8 +1,0 @@
-{
-    "prompt_id": 491,
-    "prompt": "Nurse: I'm sorry, you were saying you'll have what for breakfast?\n\nPatient: like a turkey sandwich for lunch and maybe some soup for dinner.\n\nNurse: Thank you for sharing that. It's a good start. If it's okay with you, I'd like to provide some recommendations to align your diet with the CHF guidelines. Is that alright?\n\nPatient: I guess.\n\nNurse: Thank you. One recommendation would be to limit your fluid intake to 1 liter per day. This includes all fluids, not just water. Another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like me to note these recommendations down for the dietitian to discuss with you?\n\nPatient: Sure.\n\nNurse: I've noted down your request for the dietitian to discuss these recommendations with you. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: I don't really have one. Does getting up off the couch and walking to the kitchen count,",
-    "responses": {
-        "gpt4": "It's a start, certainly. Physical activity, no matter how small, can benefit our health. Could I provide some recommendations for adding a bit more movement into your day in a way that takes into account your CHF?",
-        "our_model": "Yes, every bit of movement counts. It's critical to gradually increase your activity level as much as you can. Would it be okay if I share some recommendations about improving your exercise routine in a CHF appropriate manner?"
-    }
-}

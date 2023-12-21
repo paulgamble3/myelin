@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5075,
-    "prompt": "Nurse: Okay, Mr. Koroleva. Do you have any questions about stopping Xarelto or any concerns about how this might affect you?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. Are you currently taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's critical to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Does that make sense?\n\nPatient: Yeah. Makes sense.",
-    "responses": {
-        "gpt4": "I'm happy to hear that clarity, Mr. Koroleva. Do you have any other questions or concerns about adhering to a low fiber diet?",
-        "our_model": "I'm glad to hear that, Mr. Koroleva. Do you have any questions about eating only low fiber foods or is there anything you're unsure about?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3889,
-    "prompt": "Nurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm not just gonna call my best thing to relax.\n\nNurse: That sounds like a wonderful way to relax. Do you have a favorite book or author you enjoy reading?\n\nPatient: I don't have a favorite book right now, but I do love reading.\n\nNurse: That's great. Reading can be such a wonderful escape. Do you have a favorite genre or type of book you enjoy most?\n\nPatient: I love it.\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Strange.",
-    "responses": {
-        "gpt4": "I'm sorry, I may have misheard you. Could you please repeat that for clarity?",
-        "our_model": "I'm sorry, Carla, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5321,
-    "prompt": "Nurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that, Mr. Weeks. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: I was gonna ask you about that.\n\nNurse: Of course, Mr. Weeks. I'd be happy to help. Could\n\nPatient: During, I have\n\nNurse: you share I'm sorry, Mr. Weeks, I didn't\n\nPatient: CHF.\n\nNurse: I'm sorry, Mr. Weeks, could you please repeat your question?\n\nPatient: I want more information on the diet I should follow.",
-    "responses": {
-        "gpt4": "Apologies, Mr. Weeks. I missed what you said earlier. Could you please repeat your request?",
-        "our_model": "Of course, Mr. Weeks. Your doctor recommends a diet that restricts fluid intake to 2 liters per day and limits sodium to 1500 mg per day. This is to help manage your CHF. Can I share some dietary recommendations with you?"
-    }
-}

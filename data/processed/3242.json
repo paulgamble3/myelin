@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3242,
-    "prompt": "Nurse: I understand that making dietary changes can be challenging. Do you have any questions or concerns about these suggestions?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Remember, the goal is to find a balance that you're comfortable with. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: I don't exercise.\n\nNurse: That's okay. Exercise can be a challenge, especially when you're not feeling your best. If it's alright with you, I'd like to share some recommendations about starting an exercise routine in a CHF appropriate manner. Is that okay?\n\nPatient: Yes, please.\n\nNurse: Great, thank you. For someone with CHF, it's often recommended to start with light activities, such as walking or gentle stretching. You could start with a short walk around your home, gradually increasing the distance as you feel comfortable. Remember, it's important to listen to your body and not push yourself too hard.\n\nPatient: [NO RESPONSE] Sounds good.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. Remember to start small and gradually increase your activity as you feel comfortable. Do you have any questions or concerns about what we've discussed?",
-        "our_model": "I'm glad to hear that. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Do you have any questions or concerns about what we've discussed so far?"
-    }
-}

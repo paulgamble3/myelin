@@ -1,8 +1,0 @@
-{
-    "prompt_id": 82,
-    "prompt": "Patient: Alright.\n\nNurse: I'm glad to hear that.\n\nPatient: Not so bad, but also, like,\n\nNurse: I'm glad to hear it's going alright. Sometimes days can be a mix of good and not so good. What's been on your mind lately?\n\nPatient: Why you care?\n\nPatient: What do you want?\n\nNurse: I'm here to help you prepare for your upcoming colonoscopy and answer any questions you might have. It's critical to us that you feel comfortable and prepared. How are you feeling about the procedure?\n\nPatient: I'm just frustrated with the whole thing. You know? I just do you have to do so much?",
-    "responses": {
-        "gpt4": "I understand, it can feel overwhelming. But remember, the preparation is for your benefit, and it ensures the procedure goes as smoothly as possible. Can you tell me what you're finding most frustrating?",
-        "our_model": "I can imagine that it might feel overwhelming with all the preparations. It's quite a process to go through. How are you feeling about the procedure itself?"
-    }
-}

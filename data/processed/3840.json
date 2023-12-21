@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3840,
-    "prompt": "Patient: Not really.\n\nNurse: That's fantastic, Mr. Hardy. You're doing a great job managing your medications. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Hardy. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Yes. I've had tofu last night, with broccoli and\n\nPatient: whole wheat roll\n\nNurse: That sounds like a very balanced meal, Mr. Hardy. It's great that you're incorporating a variety of foods into your diet. Do you usually follow a specific diet plan?\n\nPatient: I just try to eat healthy.",
-    "responses": {
-        "gpt4": "It's wonderful to hear you're focused on eating healthy, Mr. Hardy. Vegetables, lean proteins, and whole grains are all valuable parts of a balanced diet. If it's okay with you, I'd like to suggest considering the DASH Diet. This diet plan focuses on reducing sodium intake and could potentially help manage your conditions. Would you be open to hearing more about it?",
-        "our_model": "That's a great approach, Mr. Hardy. Eating a balanced diet is key to managing your health conditions. Would it be okay if I provide some suggestions about your diet?"
-    }
-}

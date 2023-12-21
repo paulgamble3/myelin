@@ -1,8 +1,0 @@
-{
-    "prompt_id": 206,
-    "prompt": "Nurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I've made a note of this for your care team, Ms. Aguirre. They will be able to provide more detailed guidance on managing your diet with both your diabetes and kidney disease in mind. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: This morning.\n\nNurse: That's great, Ms. Aguirre. Could you please share with me what your blood pressure reading was this morning?\n\nPatient: Okay.\n\nNurse: Could you please share with me what your blood pressure reading was this morning?\n\nPatient: It was\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please repeat your blood pressure reading from this morning?\n\nPatient: Eight.",
-    "responses": {
-        "gpt4": "I apologize for the confusion, but I didn't get a complete blood pressure reading. Blood pressure is typically reported as two numbers. Could you please repeat both numbers?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 128/80 is slightly elevated. Would it be okay if I share some suggestions on how to manage your blood pressure?"
-    }
-}

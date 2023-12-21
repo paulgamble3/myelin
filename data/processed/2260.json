@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2260,
-    "prompt": "Nurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: Are you there, Rachel?\n\nNurse: I'm sorry for any confusion earlier, Mr. Valenzuela. Can you please confirm what you just said?\n\nPatient: I said are you there, Rachel?\n\nNurse: Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: How about get on with the questions for colonoscopy?\n\nNurse: Absolutely, Mr. Valenzuela. Are you aware of the preparation steps involved in a colonoscopy procedure?\n\nPatient: Rachel, are you there?",
-    "responses": {
-        "gpt4": "I apologize for the previous misunderstandings, Mr. Valenzuela. I was trying to assess if you mentioned feeling dizzy earlier. Could you please confirm if you're experiencing any dizziness?",
-        "our_model": "Yes, I'm here, Mr. Valenzuela. I apologize for the brief pause. Let's proceed with the questions about your colonoscopy preparation. Are you aware of the dietary restrictions and the need to take a bowel prep solution before the procedure?"
-    }
-}

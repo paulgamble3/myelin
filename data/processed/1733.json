@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1733,
-    "prompt": "Nurse: Thank you, Ms. Winner. I see on your chart that you are currently taking Jardiance 25 mg two times a day, Hydrochlorothiazide 50 mg two times a day, Atorvastatin 20 mg once a day, and Ozempic 2 mg once a week. Have you been taking these medications as prescribed?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Ms. Winner. Are you taking any other medications that we haven't discussed yet, such as over-the-counter medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: Alright, Ms. Winner. I also see that you've been prescribed Tylenol 1000 mg three times a day as needed, and Celebrex 100 mg two times a day as needed for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: That's great, Ms. Winner. It's important to have those medications on hand for after your procedure. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, I appreciate your confirmation, Ms. Winner. Let's move on to a crucial part of preparing for your surgery, which is using a chlorhexidine scrub. Do you already have the scrub at home, or do you still need to purchase it? This is an over-the-counter item that's available at most pharmacies.",
-        "our_model": "Alright, Ms. Winner. If any questions come up later, don't hesitate to ask. Now, I'd like to discuss how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?"
-    }
-}

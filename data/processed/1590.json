@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1590,
-    "prompt": "Nurse: Yes, Mr. Reynolds, in a way, you could think of it as a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any favorite low fiber foods that you might consider as comfort food?\n\nPatient: I'm definitely gonna eat a lot of bread.\n\nNurse: Bread is a great choice, Mr. Reynolds. It's low in fiber and can be quite comforting. You can enjoy it with some butter or jam if you'd like. Do you usually have a particular type of bread you prefer?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Mr. Reynolds. I was asking about your favorite type of bread. [\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, Mr. Reynolds, it seems like there might be a connection issue. Could you please repeat your response?\n\nPatient: Like like",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that, Mr. Reynolds. You mentioned something about 'like'. Can you please confirm if you were referring to a change in your speech or if you meant something else?",
-        "our_model": "I'm sorry, Mr. Reynolds, I didn't"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1939,
-    "prompt": "Patient: I like to eat brussels sprouts and salmon.\n\nNurse: That's a great combination. Brussels sprouts and salmon are both very nutritious. Do you usually have these with other foods or on their own?\n\nPatient: I'm usually terrible for mother food.\n\nPatient: I mix it up a little.\n\nNurse: That's a good approach. Variety is key in a balanced diet. Do you also include carbohydrates in your meals?\n\nPatient: I do.\n\nNurse: That's good to hear. Can you share more about the types of carbohydrates you're including in your meals?\n\nPatient: Yeah. I'll do some potatoes, but I think it's better to call.",
-    "responses": {
-        "gpt4": "I'm sorry, Sam, could you please repeat that?",
-        "our_model": "Thank you for sharing that. Potatoes and corn are both carbohydrates. As part of your dietary recommendations, you're advised to control your carbohydrate intake to 130 grams per day. This includes all sources of carbohydrates, not just potatoes and corn. Would it be okay if I share some more dietary recommendations with you?"
-    }
-}

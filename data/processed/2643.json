@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2643,
-    "prompt": "Nurse: I'm glad to hear that, Ms. Cruz. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Cruz. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great, Ms. Cruz. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: I do not know. I do not\n\nNurse: That's okay, Ms. Cruz. It's critical\n\nPatient: way myself.",
-    "responses": {
-        "gpt4": "That's alright, Ms. Cruz. It's very important to monitor your weight as sudden changes can be a sign of fluid build-up which is important for me to track given your CHF. Are you able to monitor your weight at home, and would it be alright to start doing so on a daily basis?",
-        "our_model": "That's okay, Ms. Cruz. It's essential to keep an eye on any sudden weight changes as they can be a sign of fluid retention. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

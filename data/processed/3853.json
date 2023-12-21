@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3853,
-    "prompt": "Nurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Maybe I'll meet up with some friends or something. Nothing specific, though.\n\nNurse: That sounds like a nice plan. It's always good to spend time with friends. Do you usually meet at a specific place or do you prefer to try out new places each time?\n\nPatient: Yeah. We can just go to wherever's trendy, I guess.\n\nNurse: That sounds like a fun approach. Trying out new places can be quite exciting. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Thank you. I'd like to start by asking about your blood sugar levels, as it's important for managing your Type II Diabetes. Have you been checking your blood sugar daily?",
-        "our_model": "Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

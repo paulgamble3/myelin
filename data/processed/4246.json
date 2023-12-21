@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4246,
-    "prompt": "Patient: I like mysteries.\n\nPatient: Sometimes stealing king stuff, you know,\n\nNurse: Mysteries can be quite thrilling, Mr. Shyam. Stephen King's works are indeed captivating. Do you have a favorite book of his?\n\nPatient: I like\n\nNurse: I'm sorry, Mr. Shyam, your voice cut out a bit there.\n\nPatient: it\n\nNurse: I'm sorry, Mr. Shyam, could you please repeat your favorite book by Stephen King?\n\nPatient: Oh, I I couldn't choose. You know?",
-    "responses": {
-        "gpt4": "Absolutely, I understand. Stephen King has so many great works, it can be hard to choose a favorite. Do you want to discuss anything related to your recent hospital visit or your health, Mr. Shyam?",
-        "our_model": "That's perfectly fine, Mr. Shyam. Stephen King has such a vast collection, it's hard to pick just one. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

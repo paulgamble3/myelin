@@ -1,8 +1,0 @@
-{
-    "prompt_id": 571,
-    "prompt": "Nurse: That's fantastic. Staying hydrated is important, especially with CHF. As for snacks, what do you usually go for?\n\nPatient: Oh,\n\nNurse: Yes, I'm here. What are your usual snacks?\n\nPatient: Oh, my usual snacks are it's just usually stuff like a\n\nPatient: popcorn, maybe a handful of nuts\n\nNurse: Those are good choices. Popcorn is a whole grain and nuts are a healthy source of fat.\n\nPatient: and it's, like,\n\nPatient: that.",
-    "responses": {
-        "gpt4": "Great choices, indeed! You are doing very well with your nutrition choices, Lily. Now, I would like to discuss your exercise routine. What does a typical day of physical activity look like for you?",
-        "our_model": "Those are good choices. Popcorn is a whole grain and nuts are a healthy source of fat. Now, I'd like to remind you of your dietary recommendations. Your sodium intake is not to exceed 2000 mg per day. Fluid intake is not to exceed 1.5 to 2 Liters per day. Can I share some dietary recommendations with you?"
-    }
-}

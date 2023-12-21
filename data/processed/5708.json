@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5708,
-    "prompt": "Patient: March fourteenth\n\nPatient: nineteen fifty.\n\nNurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I've been alright. Thanks.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Just kind of recovering from the holidays and getting ready for the next one.\n\nNurse: It sounds like you're taking some time to rest and prepare for the next holiday season. That's a good way to take care of yourself. Do you have any special plans or traditions for the upcoming holidays?\n\nPatient: Separating gingerbread houses.",
-    "responses": {
-        "gpt4": "Decorating gingerbread houses sounds like a lovely way to celebrate the holiday season. Do you usually involve your family or do this on your own? How long have you been doing this tradition?",
-        "our_model": "That sounds like a delightful tradition, Ms. Aguirre. Gingerbread houses can be quite festive and fun to decorate. Do you usually do this with family or friends?"
-    }
-}

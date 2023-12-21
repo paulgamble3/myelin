@@ -1,8 +1,0 @@
-{
-    "prompt_id": 213,
-    "prompt": "Patient: Okay.\n\nNurse: is 28 mL/min/1.73m2, which indicates that your kidneys are not filtering your blood as well as they should be, as this is lower than the normal range. Your urine albumin level is 65 mg/g, which is higher than normal. This could indicate some kidney damage. I hope this information is helpful, Ms. Aguirre. Do you have any questions about these results?\n\nPatient: Does this mean I have to have dialysis?\n\nNurse: Your lab results do show some signs of kidney damage, Ms. Aguirre. However, whether you need dialysis depends on many factors and is typically determined by your doctor. It's important to continue managing your health conditions and follow your doctor's advice. Would you like me to note this concern for your care team to review?\n\nPatient: Yes. Of force.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your response?\n\nPatient: I said yes. Of\n\nPatient: course.",
-    "responses": {
-        "gpt4": "Thank you for confirming, Ms. Aguirre. I've noted your question about the potential need for dialysis. Your care team will review this and get back to you soon. Is there anything else you would like to discuss?",
-        "our_model": "Thank you, Ms. Aguirre. I've made a note of your concern for your care team to review. They will be able to provide more detailed guidance based on your specific situation. Now, let's discuss your medications. You're currently prescribed Metformin 500 mg once a day. Have you been taking this medication as prescribed?"
-    }
-}

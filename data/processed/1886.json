@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1886,
-    "prompt": "Nurse: I'm glad to hear that you're doing alright. Is there anything you're looking forward to doing this week?\n\nPatient: I'm going to a birthday party tomorrow.\n\nNurse: That sounds like a lot of fun! Whose birthday party is it?\n\nPatient: My neighbor.\n\nNurse: Oh, that's nice! It's always great to celebrate with neighbors. Do you have any special plans for the party?\n\nPatient: Well, it's a murder mystery party.\n\nNurse: A murder mystery party sounds exciting! Have you been to one before?\n\nPatient: Yes. They're very fun.",
-    "responses": {
-        "gpt4": "Great! it must be something you're looking forward to. On another note, have there been any symptoms or health issues that have concerned you lately, especially relating to your kidney disease?",
-        "our_model": "That's wonderful! It's always a good time when you can enjoy a mystery. Before we move on, is there anything you've been feeling concerned about health-wise?"
-    }
-}

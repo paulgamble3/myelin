@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4733,
-    "prompt": "Nurse: I\n\nPatient: but I don't think I gained weight.\n\nNurse: apologize for I apologize for any confusion. To clarify, the questions were about any new or worsening shortness of breath, chest pain, dry cough, swelling in your feet, ankles, stomach, or legs, weight gain, and whether you've been using more pillows to sleep. These are all important symptoms to monitor for CHF. Do you have any questions about these symptoms or how to monitor them?\n\nPatient: But I don't know when I'm supposed to be weighing myself, so I haven't been doing it.\n\nNurse: I\n\nPatient: My clothes fit the same.\n\nNurse: appreciate your I apologize if I misunderstood. Could you please repeat what you said about your weight and clothing?\n\nPatient: You asked me about gaining weight. I told you",
-    "responses": {
-        "gpt4": "I haven't been weighing myself, but my clothes fit the same.",
-        "our_model": "I apologize for the interruption. Please continue with what you were saying about your weight and clothing. ["
-    }
-}

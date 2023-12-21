@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6,
-    "prompt": "Nurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: No. Not really. She's relaxing.\n\nNurse: Relaxation sounds wonderful. Do you have any favorite activities that help you unwind?\n\nPatient: Just watching TV.\n\nNurse: That sounds like a nice way to relax. What kind of shows do you enjoy watching?\n\nPatient: I love Romans and comedy.\n\nNurse: Romance and comedy are great genres. Do you have a favorite romantic comedy that you've watched recently?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That's alright. If you do end up watching something interesting, I hope you enjoy it! Now, let's move on to your health. How have you been feeling physically?",
-        "our_model": "That's perfectly fine. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?"
-    }
-}

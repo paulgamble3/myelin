@@ -1,8 +1,0 @@
-{
-    "prompt_id": 567,
-    "prompt": "Patient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been doing my best follow the diet, eating a lot of\n\nPatient: seamed veggies, A lot whole grains,\n\nNurse: That's great to hear.\n\nPatient: and seems like that. Every once in a while, I'll have a heart healthy yogurt,\n\nNurse: That sounds like a good start. It's great that you're focusing on vegetables and whole grains. How about proteins?\n\nPatient: I usually stick with, like, fish for protein?",
-    "responses": {
-        "gpt4": "That's excellent. Fish is a lean source of protein and serves as a good alternative to red meat. Also, certain types of fish offer heart-healthy omega-3 fatty acids. Just be mindful to choose varieties that are low in mercury, particularly since you're recovering. Continue maintaining this balanced diet, and be sure to regulate your sodium intake, too. Do you have any questions about your diet?",
-        "our_model": "That's excellent. Fish is a great source of protein. How about snacks and drinks?"
-    }
-}

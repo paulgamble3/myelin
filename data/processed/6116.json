@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6116,
-    "prompt": "Nurse: Insulin is a hormone that helps regulate the amount of sugar in your bloodstream. In people with diabetes, the body either doesn't make enough insulin or can't use it effectively. Insulin injections, like Lantus, can help control blood sugar levels. Does that help clarify things for you?\n\nPatient: Type two diabetes. I thought it was just for people with type one diabetes.\n\nNurse: That's a common misconception. Insulin is often used to manage both type 1 and type 2 diabetes. In type 2 diabetes, your body may not produce enough insulin or may not use it effectively. Insulin helps regulate your blood sugar levels. Does that help clarify things for you?\n\nPatient: Oh, I guess so.\n\nNurse: I'm glad to hear that. Now, let's move on to the last medication. You're prescribed Aspart 100 IU/mL, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Both types wanting to use insulin then?\n\nNurse: Yes, that's correct. Both type 1 and type 2 diabetes can be managed with insulin. It helps regulate your blood sugar levels. Do you have any other questions about your medications?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Alright. Now that we've gone through your medications, I would like to remind you to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. This is particularly important, as some drugs are not safe for people with CKD. Do you have any questions about this?",
-        "our_model": "Alright. Now, let's move on to the next medication. You're prescribed Aspart 100 IU/mL, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?"
-    }
-}

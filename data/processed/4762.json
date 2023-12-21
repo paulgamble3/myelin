@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4762,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Shyam. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Well, I'm doing better, but I have a quest question for you.\n\nNurse: Of course, Mr. Shyam. What's your question?\n\nPatient: Why?\n\nNurse: I'm glad to hear you're doing better, Mr. Shyam. As for your question, could you please clarify what you'd like to know?\n\nPatient: Do\n\nNurse: I'm glad to hear you're doing better, Mr. Shyam. It's great that you're back home. I'm here to help answer any questions you have. What would you like to know?\n\nPatient: Later.",
-    "responses": {
-        "gpt4": "Absolutely, Mr. Shyam. We can address your question later in our conversation. It must feel good to be back home from the hospital. Is there something specific you've been looking forward to doing now that you're back?",
-        "our_model": "Of course, Mr. Shyam. We can discuss that later. I'm sure you must be relieved to be back home. Is there anything in particular you've been looking forward to doing now that you're home?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6105,
-    "prompt": "Nurse: For managing phosphorus levels, it's generally recommended to include foods like fresh fruits and vegetables, rice, and pasta in your diet. However, it's important to remember that everyone's dietary needs are different. Would you like me to provide more detailed information on this?\n\nPatient: No.\n\nNurse: Alright. Now, let's discuss your medications. You're currently taking Aspirin 81 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to the next medication. You're also prescribed Atorvastatin 20 mg, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss the next medication. You're prescribed Plavix 75 mg, with a dosage of 75 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's wonderful, Jon. Let's move on to the next one. You're taking Metoprolol ER 25 mg, and the dosage is 50 mg daily. Have you been taking this medication as prescribed?",
-        "our_model": "That's great. Now, let's move on to the next medication. You're prescribed Metoprolol ER 25 mg, with a dosage of 50 mg daily. Have you been taking this medication as prescribed?"
-    }
-}

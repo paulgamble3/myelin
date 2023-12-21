@@ -1,8 +1,0 @@
-{
-    "prompt_id": 232,
-    "prompt": "Nurse: I'm sorry, Ms. Aguirre, could you please clarify what you mean by \"all times\"?\n\nPatient: I said it's been a long time since I had my back surgery.\n\nNurse: I see, thank you for clarifying that, Ms. Aguirre. It's good to hear that it's been a while since your last back surgery. How would you describe your current back pain?\n\nPatient: Not too bad.\n\nNurse: I'm sorry, Ms. Aguirre, could you please confirm if you're experiencing back pain currently?\n\nPatient: Not at the moment. Not very often.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you. I'm glad to hear that you're not experiencing back pain often, Ms. Aguirre. It's critical to keep managing your health and follow your doctor's advice. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Ms. Aguirre. Avoiding smoking is beneficial for your health, especially with your current conditions. Now, as we're close to completing our check-in for today, could you please let me know if you have any questions or concerns?",
-        "our_model": "That's great to hear, Ms. Aguirre. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns you'd like to discuss?"
-    }
-}

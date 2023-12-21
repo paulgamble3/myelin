@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4408,
-    "prompt": "Nurse: Alright. I'm glad to hear that the logistics seem clear to you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yep.\n\nNurse: Excellent. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?\n\nPatient: Yeah.\n\nNurse: That's great to hear. It's essential to follow these instructions for your surgery. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No.\n\nNurse: Alright. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I'm not.",
-    "responses": {
-        "gpt4": "That's great to know. If you were taking any of those medications, usually they'd need to be stopped before a knee replacement unless the doctor specifically recommended otherwise. \n\nI also notice that you've been prescribed Gabapentin, Advil, and Cymbalta. Have you picked up these medications from the pharmacy for after the procedure?",
-        "our_model": "That's good to hear. It's critical to avoid those medications before surgery unless specifically recommended by your doctor. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?"
-    }
-}

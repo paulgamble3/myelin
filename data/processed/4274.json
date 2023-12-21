@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4274,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Bernadine Peck?\n\nPatient: Yes.\n\nNurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: I'm doing good.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Yeah. I'm gonna go to the morning.\n\nNurse: That sounds lovely! What do you enjoy most about your morning walks?\n\nPatient: I love to say nature, and I love to see people",
-    "responses": {
-        "gpt4": "That sounds wonderful. Engaging with nature and people can be really refreshing. Before we move on to some health related queries, is there anything health-wise concerning you currently?",
-        "our_model": "It's wonderful that you enjoy nature and socializing during your morning walks. Do you have a favorite spot or route that you like to follow?"
-    }
-}

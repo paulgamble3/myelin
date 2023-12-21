@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2771,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, may I please verify if I am speaking with Shizu Kageyama?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?"
-    }
-}

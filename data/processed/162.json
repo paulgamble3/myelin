@@ -1,8 +1,0 @@
-{
-    "prompt_id": 162,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. If you have any questions in the future, don't hesitate to ask. Now, let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No. I don't.\n\nNurse: That's great, Mr. Valenzuela. It's important to follow this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: K. I need to go. This is taking too long. Goodbye.\n\nNurse: I'm sorry if this is taking longer than you expected, Mr. Valenzuela. We're almost done. I just have a few more things to discuss. Can we please continue?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Valenzuela. I appreciate your patience. As I was saying, it's a rare time when doctors want their patients to be eating low fiber comfort foods. So, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Kate.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Valenzuela, for the misunderstanding. I am asking about any low-fiber foods you enjoy. Could you please repeat?",
-        "our_model": "I'm sorry, Mr. Valenzuela, could you please repeat what low fiber foods you enjoy as comfort food?"
-    }
-}

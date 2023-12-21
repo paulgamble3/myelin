@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6055,
-    "prompt": "Nurse: That's a great question, Mr. Koroleva. After a colonoscopy, you'll need to rest and recover. You might feel a bit groggy from the sedation, and you'll need to arrange for someone to drive you home. It's generally recommended to take the rest of the day off from work. However, everyone's recovery is different, and it's important to listen to your body. Does that answer your question?\n\nPatient: Yeah.\n\nNurse: I'm glad I could help clarify that for you, Mr. Koroleva. Now, I have a couple more questions for you. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: Now.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's important to be in good health before a procedure like a colonoscopy. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's okay, Mr. Koroleva. You still have time to figure this out. It's important to have someone available to pick you up after your colonoscopy because the sedation used during the procedure can make it unsafe for you to drive or take public transportation. Would you like me to note this down for a member of your care team to assist you with arranging a ride?",
-        "our_model": "That's okay, Mr. Koroleva. You still have time to figure it out. But you will indeed need to get someone to be on standby to come pick you up when the hospital calls. Do you have any questions about this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1149,
-    "prompt": "Nurse: That's great, Mr. Cardenas. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: No. I think I understand.\n\nNurse: I apologize for the confusion earlier, Mr. Cardenas. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: No. I haven't.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. That's good to hear, Mr. Cardenas. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, it's been really hard.\n\nNurse: I'm sorry to hear that you're finding it challenging, Mr. Cardenas. Could you share more about what you've been eating recently?\n\nPatient: So I have the Glutes two deficiency",
-    "responses": {
-        "gpt4": "That does sound challenging, Mr. Cardenas. Adjusting to dietary restrictions can take time. You're doing incredibly well by putting your health first. Can you describe a typical breakfast, lunch, and dinner for me?",
-        "our_model": "I'm sorry to hear that you're finding it challenging, Mr. Cardenas. Could you please tell me more about the difficulties you're experiencing with your diet?"
-    }
-}

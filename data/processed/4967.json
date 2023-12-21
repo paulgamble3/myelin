@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4967,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Hooper. How about a new or worsening dry cough?\n\nPatient: No dry cough whatsoever. Hooper.\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat your response?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Hooper. Now, have you noticed any increased swelling\n\nPatient: Dry,\n\nNurse: in your\n\nPatient: Cost.",
-    "responses": {
-        "gpt4": "I'm sorry for misunderstanding your response earlier. So, you're not experiencing any new or worsening dry cough. Now, have you noticed any increased swelling in your ankles or feet?",
-        "our_model": "Thank you for confirming that, Mr. Hooper. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?"
-    }
-}

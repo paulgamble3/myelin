@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3358,
-    "prompt": "Nurse: Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Do you have any questions or concerns about the procedure that you'd like to discuss before we move forward?\n\nPatient: catch anything early. You know?\n\nNurse: Absolutely, Absolutely, Mr. Kageyama. It's commendable that you're taking this step to take care of your health. Regular screenings can indeed help in early detection and treatment. Before we delve into the details of your colonoscopy preparation, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: Yeah. Actually, I do have a question.\n\nNurse: Of course, Mr. Kageyama. What's your question?\n\nPatient: Wanted to see if it's okay if I eat\n\nNurse: I'm sorry, Mr. Kageyama, you were saying?\n\nPatient: some cherry",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Kageyama, could you please complete your sentence? You were asking if it was okay to eat some cherry...?",
-        "our_model": "I'm sorry, Mr. Kageyama, could you please repeat your question?"
-    }
-}

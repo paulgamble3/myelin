@@ -1,8 +1,0 @@
-{
-    "prompt_id": 607,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Trisha Raynier?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "Nice to hear from you, Trisha. To continue with our conversation, could you please confirm your date of birth for me? Please mention the month, day, and year. This is for verification purposes.",
-        "our_model": "Thank you. Could you please provide your date of birth for verification purposes?"
-    }
-}

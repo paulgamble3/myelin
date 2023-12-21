@@ -1,8 +1,0 @@
-{
-    "prompt_id": 802,
-    "prompt": "Nurse: necessarily mean that you will need dialysis. Many factors influence the progression of kidney disease, including how well you manage your diet, blood sugar, and blood pressure. It's critical to continue working closely with your healthcare team to manage your condition. Now, let's discuss your medications. Are you taking your Metformin 500 mg once a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Regularly taking your Metformin as prescribed is important for managing your diabetes. Now, are you also taking your Tylenol 500 mg, up to 1000 mg three times a day as needed, as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Aguirre. It's essential to manage any pain you might have. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?\n\nPatient: I don't take it very long.\n\nNurse: That's good to hear, Ms. Aguirre. It's critical to take Tylenol only when you need it for pain relief. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent, Ms. Aguirre. It's important to take your Atorvastatin daily as prescribed to manage your hyperlipidemia. Are you experiencing any difficulties or side effects with your medications?",
-        "our_model": "That's excellent, Ms. Aguirre. Regularly taking your Atorvastatin is important for managing your hyperlipidemia. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?"
-    }
-}

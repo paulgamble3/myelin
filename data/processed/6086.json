@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6086,
-    "prompt": "Nurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No.\n\nNurse: That's good to hear. Do you currently have any nausea or vomiting?\n\nPatient: No.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: What issue?\n\nNurse: I apologize for any confusion earlier. Let's move on to your blood pressure. When did you last measure your blood pressure?\n\nPatient: This morning when I got a",
-    "responses": {
-        "gpt4": "I apologize for any confusion. Could you please repeat that when you last took your blood pressure?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. Give me a moment to check how I can best help you."
-    }
-}

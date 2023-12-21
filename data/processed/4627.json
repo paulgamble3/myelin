@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4627,
-    "prompt": "Nurse: That's a great question, Mr. Peck. When you're looking at the nutrition label on a food product, the amount of sodium is listed in milligrams. A food is considered low in sodium if it has 140 milligrams or less per serving. It's always a good idea to compare the sodium content of different products to find the one that's lowest. Would you like me to provide some more tips on reading nutrition labels?\n\nPatient: No. That was very helpful, though. Thank you.\n\nNurse: You're welcome, Mr. Peck. I'm glad I could help. Remember, it's always a good idea to check the nutrition label for sodium content. Now, let's move on to your other chronic condition, hypertension. How have you been managing your blood pressure?\n\nPatient: I I I\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you said about managing your blood pressure?\n\nPatient: did I thought we talked about that already. I'm I'm taking my\n\nNurse: I apologize for any confusion earlier, Mr. Peck. You mentioned that you're taking your blood pressure medication, Losartan, as prescribed. That's great to hear. It's also important to monitor your blood pressure regularly. When was the last time you took your blood pressure measurement, and do you remember\n\nPatient: Wait.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Peck, could you please repeat that?",
-        "our_model": "I apologize for any confusion earlier, Mr. Peck. You're correct, we did discuss your blood pressure earlier. You mentioned that you're taking your medication as prescribed, which is great. It's also important to monitor your blood pressure regularly. How often do you check your blood pressure?"
-    }
-}

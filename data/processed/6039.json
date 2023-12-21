@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6039,
-    "prompt": "Nurse: Great, Mr. Koroleva. What are some low fiber foods that you enjoy?\n\nPatient: Red rolls.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: Bread rolls.\n\nNurse: Ah, bread rolls! Those can be a part of your low fiber diet. Do you have a favorite way to eat them?\n\nPatient: With my mouth.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: How do you normally prepare red bread rolls you just eat them.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Koroleva, I didn't quite catch that. Could you please repeat what you said?",
-        "our_model": "I see, Mr. Koroleva. Bread rolls can be a comfort food for many. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?"
-    }
-}

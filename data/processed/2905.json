@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2905,
-    "prompt": "Patient: Yeah. Sure.\n\nNurse: Thank you, Mr. Douglas. For your cardiac low sodium diet, it's important to limit foods high in sodium, such as processed foods, canned soups, and fast food. Instead, try to incorporate more fresh fruits and vegetables, lean proteins, and whole grains into your meals. For your low protein diet, you can still enjoy a variety of foods, but it's important to monitor your protein intake. Lastly, your fluid restriction of 1.5 liters per day includes all fluids, not just water. This includes soups, coffee, and other beverages. Based on what you've told me about your meals, it seems like you're doing a good job. Just remember to keep an eye on your protein and sodium intake. Do you have any questions about these dietary recommendations?\n\nPatient: No. I don't think I do.\n\nNurse: Alright, Mr. Douglas. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: Well, I like to go on, like, thirty ish minute walk few times a day.\n\nPatient: Like, morning Longer one again in the evening.\n\nNurse: That's fantastic, Mr. Douglas.\n\nPatient: I do that probably four days a week.",
-    "responses": {
-        "gpt4": "Walking regularly is excellent for managing your CHF, Mr. Douglas. It sounds like you're doing a great job with your current routine. If you're comfortable with it, I can provide some suggestions on how to keep improving your exercise routine. Would that be okay?",
-        "our_model": "That's fantastic, Mr. Douglas. Regular walking is a great way to stay active and manage your CHF. Would it be okay if I provide some recommendations about improving your exercise routine in a CHF appropriate manner?"
-    }
-}

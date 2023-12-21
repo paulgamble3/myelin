@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5452,
-    "prompt": "Patient: Yep.\n\nNurse: Great, thank you. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you for confirming. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sure.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Great, thank you for your response. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, I appreciate your responses. Before moving on to discuss about your medications, I wanted to pause and make sure we covered everything about the logistics of your appointment well. Are we good to move forward?",
-        "our_model": "Alright, thank you for letting me know. I'm here to help, so don't hesitate to reach out if any questions come up. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?"
-    }
-}

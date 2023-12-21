@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2292,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. I'm glad to hear that you're clear on the logistics. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: No. I can't think of any.\n\nNurse: That's perfectly fine, Mr. Valenzuela. If you think of any questions later, don't hesitate to reach out. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over the dietary restrictions, the need to take a bowel prep solution, and the importance of having someone to drive you home after the procedure. You've confirmed that you're clear on all these instructions. Does that sound right to you?\n\nPatient: Okay.\n\nNurse: and the importance of having someone to accompany you to the procedure and drive you home afterwards. Does that sound right, Mr. Valenzuela?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Valenzuela. I'm glad to hear that we're on the same page. Remember, I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you need to reach us in the meantime, you can call us back at 641-381-6523. Does that sound good to you?\n\nPatient: Sounds great. Can I ask you a question?",
-    "responses": {
-        "gpt4": "Of course, Mr. Valenzuela. What would you like to ask?",
-        "our_model": "Hold on a second while I figure out how I can best support you."
-    }
-}

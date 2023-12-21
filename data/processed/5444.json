@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5444,
-    "prompt": "Nurse: I'm sorry, Liz, you were saying?\n\nPatient: frustrated, and I need all these tests now that I'm getting older.\n\nNurse: I'm sorry to hear that you're feeling frustrated. It's completely normal to feel this way, especially when facing medical procedures as we age. Is there anything specific about the colonoscopy that's causing you concern?\n\nPatient: Well,\n\nNurse: Yes, I'm here to help. What's on your mind about the colonoscopy?\n\nPatient: to be honest, I've never had one before, and I can't believe that I'm at the age where I actually we need one.\n\nNurse: I see, I see, it's completely normal to feel a bit overwhelmed when facing a new medical procedure, especially one as significant as a colonoscopy. It's a preventative screening for colon cancer, and it's great that you're taking this step to take care of your health. Do you have any specific questions or concerns you'd like to discuss before we go over the preparation for the procedure?\n\nPatient: I didn't hear you.",
-    "responses": {
-        "gpt4": "My apologies if I was unclear. Do you have any particular questions or concerns about the colonoscopy procedure that you'd like to discuss with me?",
-        "our_model": "I apologize for the confusion. I was saying that it's completely normal to feel a bit overwhelmed when facing a new medical procedure, especially one as significant as a colonoscopy. It's a preventative screening for colon cancer, and it's great that you're taking this step to take care of your health. Do you have any specific questions about the procedure?"
-    }
-}

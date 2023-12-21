@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5247,
-    "prompt": "Nurse: Alright, Mr. Oliver. Now, let's discuss your other chronic conditions. You have Type II Diabetes. How have you been managing your blood sugar levels?\n\nPatient: While I took it, a couple of hours ago, and it was ninety over one ten.\n\nNurse: Thank you for sharing that, Mr. Oliver. Your blood sugar level is within the target range, which is good news. Regular monitoring and maintaining a balanced diet are key to managing your blood sugar levels. Now, let's talk about your hypertension. How have you been managing your blood pressure?\n\nPatient: Okay. My mistake. My sugar levels where a hundred and twelve, and my blood pressure was ninety over one cent.\n\nNurse: Thank you for clarifying, Mr. Oliver. Your blood pressure reading is slightly elevated. It's essential to keep it under control. Would you like me to share some suggestions on how to manage your blood pressure?\n\nPatient: Yes, please.\n\nNurse: Great, Mr. Oliver. One way to manage your blood pressure is by reducing your salt intake. As you mentioned earlier, it's important to check the sodium content in your salad dressing. Another strategy is regular physical activity, such as a daily walk. Lastly, maintaining a healthy weight can also help manage your blood pressure. Do you have any questions about these suggestions?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "That sounds good, Mr. Oliver. Before we end this call, I have one last question. Do you smoke cigarettes or vape? It's important to understand all the factors that can impact your health.",
-        "our_model": "Alright, Mr. Oliver. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4513,
-    "prompt": "Nurse: Alright. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Yes. I'm sorry.\n\nNurse: No need to apologize. I'm here to help. Let's start with your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight?\n\nNurse: Thank you for sharing that. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: One.",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that? I didn't quite understand what you said.",
-        "our_model": "I'm sorry, Jon, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 279,
-    "prompt": "Patient: I'm going home after the procedure.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: That's great to hear, Mr. O'Leary. It's critical to have a plan for after your procedure. Now, I need to ask if you've arranged for a ride home and for someone to stay with you after the procedure. Have you been able to arrange that?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. O'Leary. It's critical to have someone to assist you after the procedure. If there's anything else you need to discuss or any other questions you have, feel free to ask. [\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help, Mr. O'Leary. If you have any other questions or concerns, please feel free to share. [\n\nPatient: No. I think I'm fine.",
-    "responses": {
-        "gpt4": "Great to hear that, Mr. O'Leary. Remember, it's natural to feel a bit nervous before a procedure, but you're not alone in this journey. We're here to support you every step of the way. If there's anything else you want to discuss later, feel free to reach out to us. Take care, Mr. O'Leary.",
-        "our_model": "Alright, Mr. O'Leary. I'm glad to hear that you're feeling prepared. Just to summarize, before your procedure, remember to use the chlorhexidine scrub the night before and the morning of your procedure. Also, do not eat or drink anything after midnight before your procedure. After your procedure, you'll need to follow your doctor's instructions and take your medications as prescribed. Can I count on you to do all of this?"
-    }
-}

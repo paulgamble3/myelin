@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3225,
-    "prompt": "Nurse: That's fantastic. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: But I know it's",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite get that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

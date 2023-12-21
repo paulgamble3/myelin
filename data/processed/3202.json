@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3202,
-    "prompt": "Nurse: Excellent. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yeah. My daughter's gonna pick me up and take me home.\n\nNurse: That's great to hear. It's important to have someone to assist you after the procedure. Now, I'd like to ask if you've arranged for someone to stay with you after the procedure?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "That's excellent, having someone at home to assist you, especially for the first couple of days, is important. I understand you've been given quite a lot of information. So, before we conclude, do you have any other questions or anything else you'd like to discuss?",
-        "our_model": "That's excellent. It's essential to have someone around to help you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask. ["
-    }
-}

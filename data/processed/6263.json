@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6263,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, could you please confirm if the check-in location on the 1st Floor of O'Connor Hospital sounds good to you?\n\nPatient: I said Alves.\n\nNurse: I apologize for the confusion, Mr. Alves. I want to make sure you're comfortable with all the details. Is the check-in location on the 1st Floor of O'Connor Hospital acceptable to you?\n\nPatient: I said yes. Yes.\n\nNurse: Thank you for confirming, Mr. Alves. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that the logistics seem clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Mhmm.Yes.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Alves. As per your chart, it appears that there is no medication change required for your colonoscopy. However, I'd like to ask if you're currently taking any over-the-counter medications like Advil, Aspirin, Aleve, or other blood thinners?",
-        "our_model": "Thank you, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for your colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

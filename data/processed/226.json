@@ -1,8 +1,0 @@
-{
-    "prompt_id": 226,
-    "prompt": "Nurse: That's another good choice, Ms. Aguirre. Oatmeal is a whole grain and can be a good source of fiber. Fruits are also a great source of vitamins and minerals. Do you mind if I provide some suggestions to further optimize your diet?\n\nPatient: It's\n\nNurse: Ms. Aguirre. Oatmeal is a whole grain and can be a good source of fiber. Fruits are also a great source of vitamins and minerals. Do you mind if I provide some suggestions to further optimize your diet?\n\nPatient: Aguirre.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what you said?\n\nPatient: I said sure.\n\nNurse: Thank you, Ms. Aguirre. Since you have Chronic Kidney Disease, it's important to monitor your intake of certain nutrients. For example, you might want to limit foods high in sodium, as too much sodium can raise your blood pressure and put extra strain on your kidneys. Also, some fruits are high in potassium, which you might need to limit due to your kidney disease. Would you like me to provide more specific suggestions?\n\nPatient: We already talked about this",
-    "responses": {
-        "gpt4": "You're right, Ms. Aguirre. My apologies for repeating the information. Thank you for being patient. Is there anything else you'd like to discuss during today's call?",
-        "our_model": "I"
-    }
-}

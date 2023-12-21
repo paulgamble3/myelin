@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4146,
-    "prompt": "Nurse: That sounds delicious and healthy. It's great that you're making your own dressing. Now, I'd like to share some dietary recommendations. Is that okay with you?\n\nPatient: That's fine.\n\nNurse: Thank you. As a CHF and CKD patient, it's important to limit your intake of sodium and potassium. Also, as a vegetarian, you'll want to ensure you're getting enough protein. Are you currently taking any supplements to help with this?\n\nPatient: No. I'm not.\n\nNurse: Alright. It might be beneficial to discuss this with your dietician. They can provide more personalized advice. Now, let's talk about your exercise routine. Could you tell me about your current routine?\n\nPatient: I go for a walk everyday for thirty minutes.\n\nNurse: That's great! Regular walking is a good way to stay active. Do you usually walk at a steady pace or do you vary your speed?\n\nPatient: I work at a steady pace.",
-    "responses": {
-        "gpt4": "That's a good way to maintain a moderate exercise level. Have you considered incorporating any other types of exercise into your routine?",
-        "our_model": "That's good to hear. It's important to keep a steady pace to ensure you're getting a good workout without overexerting yourself. Now, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that okay with you?"
-    }
-}

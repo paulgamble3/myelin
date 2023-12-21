@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1817,
-    "prompt": "Nurse: Alright, Mr. Jimenez. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I don't think so.\n\nNurse: Okay, Mr. Jimenez. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have a fever, chills, or muscle aches?\n\nPatient: I'm a little achy.\n\nNurse: I'm sorry to hear that you're feeling achy, Mr. Jimenez. It's not uncommon to feel some aches and pains before a procedure, especially with the condition of your knee. However, if you notice any significant changes in your symptoms or if you develop a fever, please contact your doctor immediately. Can I count on you to do that?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Jimenez. It's important to keep your healthcare team informed. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes. It is. Definitely.",
-    "responses": {
-        "gpt4": "Okay, Mr. Jimenez. Going home after the procedure can be a comforting thought. As part of your discharge, it's also important to have someone available to drive you home and stay with you after the procedure. Have you arranged for this yet?",
-        "our_model": "That's great to hear, Mr. Jimenez. Going home after the procedure is usually the best for recovery, as it allows you to rest in a familiar and comfortable environment. Now, have you arranged for a ride home and for someone to stay with you after the procedure?"
-    }
-}

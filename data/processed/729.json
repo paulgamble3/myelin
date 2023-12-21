@@ -1,8 +1,0 @@
-{
-    "prompt_id": 729,
-    "prompt": "Nurse: That's great, Ms. Peck. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Peck. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great, Ms. Peck. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright, Ms. Peck. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, for lunch today.",
-    "responses": {
-        "gpt4": "That sounds like we're off to a good start, Ms. Peck. Could you please tell me what you had for lunch today?",
-        "our_model": "Yes,"
-    }
-}

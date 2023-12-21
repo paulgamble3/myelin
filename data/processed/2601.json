@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2601,
-    "prompt": "Nurse: That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. Now, let's discuss Hydrochlorothiazide. You're prescribed to take a 12.5 mg tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's wonderful. Now, let's talk about Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg tablet once daily. Have you been taking this medication as prescribed?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "That's great to hear. Lastly, let's discuss Disulfiram. You're prescribed to take a 250 mg tablet once daily. Have you been taking this medication as prescribed?",
-        "our_model": "Alex, I didn't hear a response. Have you been taking your Disulfiram as prescribed?"
-    }
-}

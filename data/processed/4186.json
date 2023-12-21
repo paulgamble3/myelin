@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4186,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Peck. It sounds like you're including a variety of vegetables in your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: You could tell me how much\n\nNurse: I'm sorry, Mr. Peck, could you please repeat your question?\n\nPatient: salt is in Wishbone Italian salad dressing.\n\nNurse: I'm sorry, Mr. Peck, but as an AI, I don't have the ability to provide real-time information on specific food products. However, I can suggest that it's always a good idea to check the nutrition label on food products for sodium content. Would you like me to provide some general tips on managing sodium intake?\n\nPatient: Sure. Why not?\n\nNurse: Okay, thank you, Mr. Peck. One tip is to limit processed foods, as they often contain high amounts of sodium. Instead, try to incorporate more fresh fruits, vegetables, and lean proteins into your diet. Also, consider using herbs and spices for flavor instead of salt. What do you think about these suggestions?\n\nPatient: I think that I already do them. So thank you.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Peck. I'm glad to hear you're already implementing these practices. It was a pleasure speaking with you. Do you have any other questions or is there anything else you'd like to discuss?",
-        "our_model": "That's fantastic, Mr. Peck. It sounds like you're already doing a great job managing your diet. Remember, it's also important to limit phosphorus. This means avoiding certain foods like dairy products, beans, and nuts. If you have any questions about your diet or need more suggestions, don't hesitate to ask. Is there anything else you'd like to discuss today?"
-    }
-}

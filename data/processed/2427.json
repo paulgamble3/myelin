@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2427,
-    "prompt": "Nurse: Alright. If you have any questions in the future, don't hesitate to ask. Now, I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No, not particularly.\n\nNurse: Alright. Let's proceed then. I'd like to ask if you've been experiencing any signs of illness recently. Have you had a fever, chills, or muscle aches?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. It's essential to be in the best possible health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Wonderful. It's critical to have a plan in place for after the procedure. Now, I'd like to ask if you've arranged for a ride home and for someone to stay with you after the procedure. Have you been able to do that?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's fantastic. It's very important to have somebody there to support you when you return home after the procedure. In case you haven't arranged anything yet, remember, there's still time to figure it out. However, you will indeed need to have someone on standby to pick you up when the hospital calls and stay with you afterward. Is there anything else you'd like to discuss about your post-procedure plan?",
-        "our_model": "That's great to hear. It's important to have someone there to assist you after the procedure. If there's anything else you need to arrange, you still have time to do so. Now, do you have any questions or concerns that you'd like to discuss?"
-    }
-}

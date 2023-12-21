@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5659,
-    "prompt": "Nurse: That's fantastic. It sounds like you're staying very active. Walking, biking, and playing pickle ball are all great ways to exercise. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that alright?\n\nPatient: Sure.\n\nNurse: Excellent. It's important to listen to your body while exercising. If you feel short of breath or fatigued, it's okay to slow down or take a break. Also, consider incorporating some light strength training exercises into your routine, as they can help improve your overall strength and endurance. Remember, it's always a good idea to consult with your doctor before starting any new exercise routine. Does this sound manageable to you?\n\nPatient: It does. Can I ask a question?\n\nNurse: Of course, you can. What's your question?\n\nPatient: Are there specific environmental\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Extreme temperatures that I should be cautious of with CHF?",
-    "responses": {
-        "gpt4": "Yes, extreme temperatures can affect people with CHF. Both very hot and very cold weather can put extra strain on your heart. In hot weather, your body may lose too much salt and water through sweating, which can affect your blood pressure and lead to dehydration. Cold weather may restrict blood flow and increase heart rate. Make sure you dress appropriately for the weather and stay hydrated. Remember to take rests as needed, and avoid exercising outside in particularly extreme weather. Does this help answer your question?",
-        "our_model": "I'm sorry, could you please repeat your question?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4968,
-    "prompt": "Nurse: I'm sorry, Mr. Hooper, could you please repeat your response?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Hooper. Now, have you noticed any increased swelling\n\nPatient: Dry,\n\nNurse: in your\n\nPatient: Cost.\n\nNurse: Thank you for confirming that, Mr. Hooper. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: What show ever",
-    "responses": {
-        "gpt4": "Could you please clarify your response, Mr. Hooper? Have you noticed any swelling or retention of fluid in your feet, ankles, stomach, or legs?",
-        "our_model": "I'm sorry for any confusion earlier, Mr. Hooper. Let's continue with the symptom check. Have you noticed increased swelling in your feet, ankles, stomach, or legs?"
-    }
-}

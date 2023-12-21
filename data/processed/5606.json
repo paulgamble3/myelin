@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5606,
-    "prompt": "Nurse: Alright. The other main step to remember is drinking the laxative solution the night before your procedure. You'll need to start drinking the first half of your NuLYTELY laxative solution around 6PM. And then wake up early the morning of the procedure to finish drinking the second half of the solution. Would you like some tips on making the bowel prep easier?\n\nPatient: Is there anything else, Rachel?\n\nNurse: Yes, there's one more important step. You'll need to finish drinking the second half of the NuLYTELY laxative solution the morning of your procedure. Would you like some tips on making the bowel prep easier?\n\nPatient: You.\n\nNurse: Yes, I'm here to help. Would you like some tips on how to make the bowel prep easier?\n\nPatient: No. Thank you.\n\nNurse: Alright. Just remember, you can drink the laxative solution cold and through a straw to help it go down easier. Do you have any questions about your bowel prep?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Okay. Everyone's experience with bowel prep is a bit different. Some people don't have any problems and are able to drink all the bowel prep just fine. If you run into any issues, remember we're here to support you. Now, let's transition to the next part of the prep which is when to stop eating and drinking before your procedure. You'll need to finish your laxative solution and stop everything 4 hours before your procedure. Any questions about this?",
-        "our_model": "Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?"
-    }
-}

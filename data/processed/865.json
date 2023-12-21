@@ -1,8 +1,0 @@
-{
-    "prompt_id": 865,
-    "prompt": "Nurse: That sounds like a nice plan, Mr. Wiggins. Do you have a particular movie in mind that you're interested in seeing?\n\nPatient: Not really.\n\nNurse: That's perfectly fine, Mr. Wiggins. Sometimes it's nice to just go with the flow and see what's playing. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Wiggins, I'm here. You mentioned earlier that you're planning to see a movie. I was asking if there are any particular symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Wiggins. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Great, thank you, Mr. Wiggins. Since you have Type II diabetes, I'd like to ask if you have been checking your blood sugar daily? If you have, could you please share your last blood sugar reading at home?",
-        "our_model": "Great, thank you, Mr. Wiggins. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

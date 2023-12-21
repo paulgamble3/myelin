@@ -1,8 +1,0 @@
-{
-    "prompt_id": 80,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Marylou Howell?\n\nPatient: Okay. Yep.\n\nNurse: Hello. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Sure. It's a good time.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: Alright.\n\nNurse: I'm glad to hear that.\n\nPatient: Not so bad, but also, like,",
-    "responses": {
-        "gpt4": "Oh, it sounds like you might have something else on your mind. Would you like to share? It's perfectly okay if you don't want to.",
-        "our_model": "I'm glad to hear it's going alright. Sometimes days can be a mix of good and not so good. What's been on your mind lately?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5907,
-    "prompt": "Nurse: That's excellent. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?\n\nPatient: It's one\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nPatient: It's one twenty eight, like I told you.",
-    "responses": {
-        "gpt4": "Thank you for confirming. 128 is a bit high for a fasting blood sugar level. If you haven't eaten anything recently, it may be a good idea to try and bring it down. Have you taken your medication today?",
-        "our_model": "Thank you for confirming that. It's a bit higher than the target range for fasting blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?"
-    }
-}

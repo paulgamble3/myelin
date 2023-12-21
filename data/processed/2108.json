@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2108,
-    "prompt": "Nurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Now, let's move on to the next medication. You're also prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been able to take this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. Regularly taking your insulin is key to managing your blood sugar levels. Now, let's discuss the last medication. You're prescribed Disulfiram 250 mg oral tablet, with a dosage of Disulfiram 250 mg oral tablet once daily. Have you been able to take this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No.\n\nNurse: That's excellent. You're doing a great job managing your medications. Remember, there are medications and supplements that aren't safe for CKD patients to take. You should talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Please remember, if you have any questions in the future, don't hesitate to ask your doctor or pharmacist. Now, I'd like to ask about your recent meals. Can you tell me a bit about what you ate yesterday?",
-        "our_model": "Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

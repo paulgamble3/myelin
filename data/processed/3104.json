@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3104,
-    "prompt": "Nurse: I'm sorry to hear that. It's important to monitor this closely. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Yes. I have\n\nNurse: I'm sorry to hear that you're experiencing chest pain. It's crucial to keep track of this. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "It's encouraging that you haven't noticed an unusual weight gain. Now, have you been needing to use more pillows at night to sleep?",
-        "our_model": "That's good to hear. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5569,
-    "prompt": "Nurse: Thank you for confirming your date of birth. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. As you approach your colonoscopy date, how are you feeling about the procedure?\n\nPatient: I'm ready to get it over with.\n\nNurse: I can appreciate that sentiment. It's quite a process to go through, but it's important for your health. I see that you're getting this colonoscopy due to pus and mucus in your stool. How are you feeling about this?\n\nPatient: Ready to get it over with.",
-    "responses": {
-        "gpt4": "I understand, and we appreciate your cooperation. Now, I thought I heard you mention earlier that you have a wound that's producing pus. Is that correct?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm what you said about your wound with pus?"
-    }
-}

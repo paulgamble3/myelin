@@ -1,8 +1,0 @@
-{
-    "prompt_id": 34,
-    "prompt": "Nurse: You're welcome. It's great to hear that you're making an effort to eat healthier. Now, let's discuss your obesity. Have you noticed any changes in your weight recently?\n\nPatient: No. I haven't.\n\nNurse: That's okay. It's essential to continue monitoring your weight regularly. Regular physical activity and a balanced diet can help manage your weight. Would you like me to provide some suggestions on how to manage your weight?\n\nPatient: No. That's fine, but thank you.\n\nNurse: You're welcome. It's great to hear that you're making an effort to manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?\n\nPatient: I don't drink.\n\nNurse: That's excellent to hear. Abstaining from alcohol is a significant step in managing your alcohol use disorder. It's essential to continue this practice. Do you have any questions or concerns about managing your alcohol use?\n\nPatient: No. Because I don't drink.",
-    "responses": {
-        "gpt4": "That's fantastic to hear. Now, let's move on to smoking. Do you smoke cigarettes or vape? This is crucial to know for managing your overall health.",
-        "our_model": "That's great to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
-    }
-}

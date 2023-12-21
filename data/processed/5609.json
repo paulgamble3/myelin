@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5609,
-    "prompt": "Nurse: Alright. Just remember, you can drink the laxative solution cold and through a straw to help it go down easier. Do you have any questions about your bowel prep?\n\nPatient: Nope.\n\nNurse: Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Nope.\n\nNurse: Wonderful. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear. Remember, if you start to feel unwell closer to the procedure, please let us know right away. My last question is more about logistics. Do you have a ride home arranged after your procedure?",
-        "our_model": "That's good to hear. It's critical to be in good health for your procedure. My last question is about your transportation after the procedure. Have you arranged for a ride home after your colonoscopy?"
-    }
-}

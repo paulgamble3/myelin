@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1315,
-    "prompt": "Nurse: That sounds like a wonderful plan. Walking is a great way to stay active and enjoy the outdoors. Do you have a favorite route or park you're excited to visit once you're back on your feet?\n\nPatient: Hello? Hello?\n\nNurse: Hello, I'm here. I was asking about your favorite place for walks. Do you have a special route or park you're looking forward to visiting once you've recovered from your surgery?\n\nPatient: Are you there?\n\nNurse: Yes, I'm here. I'm sorry if there was a pause. I was asking about your favorite place to walk. Do you have a special route or park you're looking forward to visiting once you've recovered?\n\nPatient: No. I just wanna be able to walk again.\n\nNurse: I can certainly appreciate that. Walking without pain is a wonderful goal. How are you feeling about your upcoming procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, but I meant to ask about how you're feeling emotionally and mentally about your upcoming surgery. Are you feeling anxious, nervous, excited or something else?",
-        "our_model": "I'm sorry, I may not have been clear. I was asking about your feelings towards the upcoming procedure. Are there any concerns or questions you'd like to discuss before we proceed?"
-    }
-}

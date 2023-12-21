@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1220,
-    "prompt": "Nurse: Alright, Mr. Dang. I appreciate your patience. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Dang. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the day of your procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Dang. So just to recap, we've discussed your current medications, diet prep for your procedure, and the clear liquid diet. We also covered the bowel prep, when to stop eating and drinking before your procedure, symptoms of illness, and your ride home after the procedure. Does that sound correct?",
-        "our_model": "Alright, Mr. Dang. To summarize, we discussed your upcoming colonoscopy on August 17 at 10:00 AM with Doctor Meredith Bailey. We went over your medication, diet changes, and the bowel prep with the NuLYTELY laxative solution. You've confirmed that you're feeling good about the procedure and you've arranged for a ride home after the procedure. Does that sound right?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5508,
-    "prompt": "Nurse: I'm glad to hear you're open to the idea, Ms. Aguirre. Walking after meals can be a simple yet effective way to manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Thought,\n\nNurse: I'm glad to hear you're open to the idea, Ms. Aguirre. Walking after meals can be a simple yet effective way to manage your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: In the morning,\n\nNurse: Thank you for sharing that, Ms. Aguirre. Could you please tell me what the result of your last blood pressure measurement was?\n\nPatient: So I did it in the morning, and it was\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what your blood pressure reading was in the morning?\n\nPatient: eighty over one twenty or one twenty over eighty.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please confirm if your blood pressure was 120 over 80 or if it was 80 over 120?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit high. Would it be okay if I provide some suggestions to help manage your blood pressure?"
-    }
-}

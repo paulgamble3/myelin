@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4959,
-    "prompt": "Nurse: I appreciate your patience, Mr. Hooper. While dietary supplements and alternative therapies can sometimes be beneficial, it's important to remember that managing CHF typically requires a combination of lifestyle changes, medication, and regular monitoring. Dietary supplements and alternative therapies should be discussed with your doctor, Doctor Trevor Sutton, as they can interact with your current medications or treatments. Would you like me to arrange a consultation with Doctor Sutton to discuss this further?\n\nPatient: I'll bring it up when I see him next time. I kinda thought it was a bunch of bunk\n\nNurse: That's a\n\nPatient: Who would be in the note\n\nNurse: That sounds like a good plan, Mr. Hooper. It's always important to discuss any new treatment ideas with your doctor. Now, let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed?\n\nPatient: I sure am. Yes.\n\nNurse: That's great to hear, Mr. Hooper. Sticking to your medication schedule is crucial in managing your CHF. Do you ever have trouble remembering to take your medication on time?\n\nPatient: Well, I'm sure in my day I must have missed something at least once",
-    "responses": {
-        "gpt4": "That's completely understandable, Mr. Hooper. It happens to everyone. If it's okay with you, I'd like to suggest a few strategies that might make it easier to remember. Would that be alright?",
-        "our_model": "It's quite common to miss a dose here or there, Mr. Hooper. If it's okay with you, I'd like to provide some suggestions that might help you remember to take your medications on time. Would that be alright?"
-    }
-}

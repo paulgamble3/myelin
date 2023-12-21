@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1988,
-    "prompt": "Nurse: Of course, I'm here to help answer any questions you have. What's been on your mind?\n\nPatient: When\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: will my arthritis pain?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Be better after the surgery?\n\nNurse: That's a very important question. The goal of a total knee replacement is to relieve the pain in the knee caused by arthritis. Most people who have total knee replacement surgery experience a dramatic reduction of knee pain and a significant improvement in the ability to perform common activities of daily living. But remember, it will take time to fully recover and see the full benefits of the surgery. Is there anything else you're curious about or any other concerns you'd like to discuss?\n\nPatient: Yeah. I'm gonna ask about my medications.",
-    "responses": {
-        "gpt4": "Absolutely, go ahead. What would you like to know about your medications?",
-        "our_model": "Of course, I'm here to help with that. Let's review your medications one by one. You're currently taking Celebrex 100 mg oral capsule, two times a day as needed. Have you been taking this medication as prescribed?"
-    }
-}

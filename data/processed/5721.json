@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5721,
-    "prompt": "Nurse: Great, thank you, Ms. Aguirre. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: That sounds good.\n\nNurse: I'm glad you think so, Ms. Aguirre. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could try this?\n\nPatient: Sure.\n\nNurse: That's wonderful to hear, Ms. Aguirre. Regular physical activity can make a big difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Earlier today.\n\nNurse: That's great, Ms. Aguirre. Could you please share with me what the result was?\n\nPatient: One twenty one over eighty you.",
-    "responses": {
-        "gpt4": "Thank you for sharing, Ms. Aguirre. A reading of 121/80 is generally considered healthy. Regular monitoring is key to maintain good control of blood pressure. It's also important to manage stress levels as it can directly influence your blood pressure. Do you have any particular activities you do to manage stress?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 121 over 80 is within the acceptable range, but the top number is a bit high. Would it be alright if I share some suggestions about managing blood pressure?"
-    }
-}

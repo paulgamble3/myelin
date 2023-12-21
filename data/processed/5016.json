@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5016,
-    "prompt": "Patient: No. I am good. My daughter is going to be giving me a ride\n\nNurse: That's great to hear. It's always good to have a support system in place. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Rachel?\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: My daughter will be giving me a ride.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.\n\nNurse: That's wonderful to hear. It's always good to have a support system in place. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Thank you for allowing me to proceed. I can see from your chart that you are taking Tylenol 500mg tablets. If you were instructed to stop your medications, have you already stopped this medication?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

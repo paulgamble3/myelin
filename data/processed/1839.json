@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1839,
-    "prompt": "Nurse: Alright, Ms. Odonnell. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Okay.\n\nNurse: Great, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. It was one hundred twenty one today.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if your blood sugar level was high or low?\n\nPatient: I said it was one hundred twenty one.",
-    "responses": {
-        "gpt4": "Thank you for confirming, Ms. Odonnell. A blood sugar level of 121 is slightly higher than the target range. It's important to continue monitoring your blood sugar levels. If they continue to be high, you should inform your healthcare provider. Are there any changes in your diet or medication that you think could have caused this increase?",
-        "our_model": "Give me a moment to check how I can best support you. Hold on a second while I figure out how I can best support you. Thank you for confirming that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

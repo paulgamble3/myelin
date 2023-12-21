@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6103,
-    "prompt": "Nurse: Yes, diet can indeed play a role in managing phosphorus levels. It's generally recommended for CKD patients to limit foods high in phosphorus. These include dairy products, beans, lentils, nuts, and whole grains. Would you like more information on this?\n\nPatient: No. That's that's good. Thank you.\n\nNurse: You're welcome. Now, let's move on to your medications. You're currently taking Aspirin 81 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Well, what kind food should I eat?\n\nNurse: For managing phosphorus levels, it's generally recommended to include foods like fresh fruits and vegetables, rice, and pasta in your diet. However, it's important to remember that everyone's dietary needs are different. Would you like me to provide more detailed information on this?\n\nPatient: No.\n\nNurse: Alright. Now, let's discuss your medications. You're currently taking Aspirin 81 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, it's important to take your medications exactly as prescribed. Next, are you taking Atorvastatin 20 mg daily as prescribed?",
-        "our_model": "That's great to hear. Now, let's move on to the next medication. You're also prescribed Atorvastatin 20 mg, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 231,
-    "prompt": "Nurse: apologize for I apologize for the repetition, Ms. Aguirre. I'll make sure to note this for your care team to ensure we provide you with the most relevant information. Now, let's move on to discuss your back surgeries. How has your recovery been going?\n\nPatient: All times since I had my last surgery.\n\nNurse: I'm sorry, Ms. Aguirre, could you please clarify what you mean by \"all times\"?\n\nPatient: I said it's been a long time since I had my back surgery.\n\nNurse: I see, thank you for clarifying that, Ms. Aguirre. It's good to hear that it's been a while since your last back surgery. How would you describe your current back pain?\n\nPatient: Not too bad.\n\nNurse: I'm sorry, Ms. Aguirre, could you please confirm if you're experiencing back pain currently?\n\nPatient: Not at the moment. Not very often.",
-    "responses": {
-        "gpt4": "That's good to hear, Ms. Aguirre. I'm pleased that you're not currently experiencing much back pain. If you do experience any uncontrolled pain in the future, don't hesitate to reach out to your doctor or healthcare team for advice. As we're wrapping up our conversation, I'd like to ask if there's anything else you'd like to discuss today?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you. I'm glad to hear that you're not experiencing back pain often, Ms. Aguirre. It's critical to keep managing your health and follow your doctor's advice. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
-    }
-}

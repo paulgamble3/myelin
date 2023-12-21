@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2923,
-    "prompt": "Nurse: Alright, Ms. McKloskey. If you do have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have everything you\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here, Ms. McKloskey. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Ms. McKloskey. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Sure.\n\nNurse: Excellent, thank you, Ms. McKloskey. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. That's what I'm planning on.",
-    "responses": {
-        "gpt4": "Great, I'm glad to hear that. I also wanted to make sure you know that once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound okay, Ms. McKloskey?",
-        "our_model": "Excellent, Ms. McKloskey. It's good to hear that the timing works well for you. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 577,
-    "prompt": "Patient: And\n\nPatient: Yeah. I guess that's kinda my name. Stores. Of exercise.\n\nNurse: That's a great start. Walking is a wonderful low-impact exercise that can help manage CHF. How about other activities?\n\nPatient: I I don't know that I really do much else for exercises if I'm on it.\n\nNurse: That's okay. Walking is a great form of exercise. If it's alright with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Would that be okay?\n\nPatient: Sure.\n\nNurse: Excellent. It's critical to remember that any increase in physical activity should be gradual. If you're comfortable with your current walking routine, you might consider adding an extra day or two of walking to your schedule. Also, consider adding some light strength training exercises to your routine. This could be something as simple as lifting a can of soup in each hand. Remember, it's always important to listen to your body and rest if you need to. Does that sound manageable to you?\n\nPatient: Yeah. It does.",
-    "responses": {
-        "gpt4": "That's great to hear. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?",
-        "our_model": "That's great to hear. Remember, the goal is to gradually increase your activity level in a way that's comfortable for you. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?"
-    }
-}

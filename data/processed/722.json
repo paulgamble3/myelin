@@ -1,8 +1,0 @@
-{
-    "prompt_id": 722,
-    "prompt": "Nurse: That's wonderful, Ms. Peck. Using a pill organizer is a great way to keep track of your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Hello?\n\nNurse: Yes, Ms. Peck, I'm here. I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Are you there?\n\nNurse: Yes, I'm here, Ms. Peck. I was asking if it's okay for me to ask you a few questions about your symptoms to help understand how you're doing at home. Is that alright with you?\n\nPatient: Yeah. Go ahead.\n\nNurse: Thank you, Ms. Peck. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "I\ufffd\ufffd\ufffdm glad to hear that, Ms. Peck. Moving on, have you experienced any ongoing or worsening chest pain?",
-        "our_model": "That's good to hear, Ms. Peck. Now, have you experienced any ongoing or worsening chest pain?"
-    }
-}

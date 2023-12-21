@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3501,
-    "prompt": "Patient: Hello.",
-    "responses": {
-        "gpt4": "Hello, I am Rachel, an AI Nurse calling on behalf of Dr. Maria Rodriguez. May I ask whom I am speaking with?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Sam Martin?"
-    }
-}

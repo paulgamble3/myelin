@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5467,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, am I speaking with the person who is registered under the name Ana Aguirre?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?"
-    }
-}

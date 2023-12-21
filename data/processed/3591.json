@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3591,
-    "prompt": "Nurse: I appreciate your patience, Mr. Benton. I'm going to trigger a GREEN kickout for refuses_Rachel. This means I'll update your care team about our conversation. They may reach out to you directly. Thank you for your time today. [\n\nPatient: No. You can keep talking. I just\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Hold on a second while I figure out how I can best support you. I\n\nPatient: wanted to know if I could speak to a person. I said it was fine.\n\nNurse: appreciate your I apologize for the confusion earlier, Mr. Benton. I'm here to help you and gather information on behalf of your doctor. Is there anything you're looking forward to doing this week?\n\nPatient: No.\n\nNurse: That's okay, Mr. Benton. Sometimes it's just about taking one day at a time. Before we move on to discuss your kidney disease, do you have any symptoms or concerns you'd like to share with me?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Benton. If at any point during our conversation you do have questions or concerns related to your health, please feel free to let me know. Are you okay with me going over a few topics with you to check on how you're doing?",
-        "our_model": "Alright, Mr. Benton. If you have any questions or concerns at any point during our conversation, please feel free to share them. Would it be okay if we go over a few topics to check on how you're doing?"
-    }
-}

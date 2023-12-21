@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6327,
-    "prompt": "Nurse: That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your own bed can indeed be very comforting. By the way, do you have any hobbies or interests that you enjoy in your free time?\n\nPatient: No. I don't. I'm not really a hobby guy.\n\nNurse: That's perfectly fine, Mr. Gardner. Everyone has their own ways of spending their time. How about pets?\n\nPatient: You're awfully nosy, aren't you?\n\nNurse: I apologize if I seem intrusive, Mr. Gardner. I'm just trying to get to know you a bit better so I can provide you with the best care possible. It's completely fine if you'd rather not share. Let's move on. Do you have any questions or concerns you'd like to address before we go through a few topics related to your health?\n\nPatient: The only\n\nNurse: I'm sorry, Mr. Gardner, your response got cut off. Could you please repeat your question or concern?\n\nPatient: I've been thinking about is the fluid restriction. I'm not sure how to measure that.",
-    "responses": {
-        "gpt4": "I see, fluid restriction can indeed be a little confusing. Think of it like this, a standard bottle of water is usually 500 ml, or half a liter, so three of those would make 1.5 liters. This would include not just water, but all fluids within a day, such as coffee, soup, or fruit. Does this help clarify or would you like me to go into more detail?",
-        "our_model": "That's a great question, Mr. Gardner. The fluid restriction of 1.5 liters is a daily limit. It includes all fluids, not just water, such as soup, coffee, or any other beverages. One way to measure it could be using a measuring cup. Do you have any other questions or concerns about your diet or anything else?"
-    }
-}

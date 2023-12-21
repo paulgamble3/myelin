@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1325,
-    "prompt": "Nurse: It's completely normal to have some concerns about pain. The goal of your knee replacement is to relieve the pain you're currently experiencing due to your osteoarthritis. After the surgery, there will be some discomfort as you heal, but this is usually well managed with medication. Over time, as you recover, the pain will decrease and you should experience significant relief compared to your current condition. Does that help address your concern?\n\nPatient: I mean, I guess so.\n\nNurse: I'm glad to hear that. If you have any other questions or concerns, feel free to ask. Otherwise, I'd like to review a few topics with you to ensure you have everything you need for your upcoming procedure. Is that okay with you?\n\nPatient: So I have osteoarthritis. I\n\nNurse: Yes, you're correct. You have osteoarthritis, which is why you're having the knee replacement. This procedure is designed to relieve the pain caused by osteoarthritis and improve your mobility. Before we move on, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. Do you have any other questions or concerns you'd like to discuss before we move on to the next topic?\n\nPatient: Is I t o r",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite understand your last message. Could you please repeat that or clarify?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

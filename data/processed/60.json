@@ -1,8 +1,0 @@
-{
-    "prompt_id": 60,
-    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you.\n\nPatient: What? Okay.\n\nNurse: When did the swelling start, Ms. Ware?\n\nPatient: The swelling is in my stomach.\n\nNurse: Is the swelling on one side or two sides, Ms. Ware?\n\nPatient: It's in my stomach.\n\nNurse: Does the swelling extend to your legs, Ms. Ware?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Does the swelling go above the knee in the affected leg, Ms. Ware?",
-        "our_model": "Does the swelling extend to your legs, Ms. Ware?"
-    }
-}

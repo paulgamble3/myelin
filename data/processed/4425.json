@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4425,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, may I ask if I'm speaking with the individual to whom this phone number is registered?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Curtis Delarosa?"
-    }
-}

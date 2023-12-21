@@ -1,8 +1,0 @@
-{
-    "prompt_id": 899,
-    "prompt": "Nurse: Hello. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling quite home. Thank you for asking.\n\nNurse: I'm glad to hear that you're feeling at home. Is there anything you're looking forward to doing this week?\n\nPatient: I'm really looking forward to hanging out with you and my friend.\n\nNurse: That sounds like a wonderful plan. What activities do you usually enjoy doing with your friend?\n\nPatient: We love to go see the movies.\n\nNurse: That's great! Watching movies is a wonderful way to relax and enjoy some time off. Do you have a favorite genre or a movie you're planning to see?\n\nPatient: I really like anything that like, dramatic. But I also really like to laugh, so a good comedy has never heard.",
-    "responses": {
-        "gpt4": "It's wonderful to hear that you have such a broad interest in movies. Dramas and comedies both provide very different experiences but can equally be enjoyable. Is there a particular comedy or drama film you have in mind to watch this week?",
-        "our_model": "It sounds like you have a great balance of interests. Laughter and drama can both be very therapeutic. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

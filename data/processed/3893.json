@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3893,
-    "prompt": "Nurse: I'm sorry, Carla, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I love mystery enrollment.\n\nNurse: Mystery and thriller novels can indeed be quite engaging. Do you have a favorite author in this genre?\n\nPatient: No. I don't.\n\nNurse: That's perfectly fine. There are so many great authors out there. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: Well,\n\nNurse: Yes.\n\nPatient: actually need to do it in regards to my diet.",
-    "responses": {
-        "gpt4": "I apologize, I didn't fully understand your response. Could you please repeat what you mentioned about your diet?",
-        "our_model": "I'm sorry, Carla, could you please repeat what you said about your diet?"
-    }
-}

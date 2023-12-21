@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6367,
-    "prompt": "Patient: fish?\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: With vegetables, and bread.\n\nNurse: Thank you for confirming that, Mr. Gardner. It's good to hear that you're including fish and vegetables in your meals. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?\n\nPatient: Yeah. Go ahead.\n\nNurse: When did the change in speech start?\n\nPatient: What changes\n\nPatient: page.",
-    "responses": {
-        "gpt4": "Can you elaborate on what you mean by changes in your speech, Mr. Gardner? Are you noticing any difficulties with pronouncing words, slow speech, or are you unable to speak at normal speed?",
-        "our_model": "I'm sorry Does the patient report sudden arm or leg weakness?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1719,
-    "prompt": "Nurse: I'm glad to hear that, Ms. Winner. It's always nice to have a good day. As you approach your total knee replacement, it must be exciting to think about the possibilities that come with a new knee. Do you have any plans or activities you're looking forward to once you've recovered from your procedure?\n\nPatient: Did you hear me? I said playing with my grandchildren.\n\nNurse: That sounds wonderful, Ms. Winner. Playing with your grandchildren must bring you a lot of joy. Do you have any favorite games or activities you enjoy doing with them?\n\nPatient: Well, they're all different agents.\n\nNurse: I'm sorry, Ms. Winner, I didn't quite understand. Could you please tell me more about the activities you enjoy doing with your grandchildren?\n\nPatient: Difference. Stuff.\n\nNurse: It's lovely that you enjoy a variety of activities with your grandchildren, Ms. Winner. It's clear that they bring you a lot of happiness. Now, how are you feeling about your upcoming procedure?\n\nPatient: By",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Winner. I didn't quite understand your last message. Could you please let me know how you're feeling about your upcoming total knee replacement procedure?",
-        "our_model": "I'm sorry, Ms. Winner, I didn't quite catch that. Could you please share your feelings about the upcoming procedure?"
-    }
-}

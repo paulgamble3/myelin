@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1981,
-    "prompt": "Nurse: Does the patient have any more information they want to share about this issue?\n\nPatient: What issue?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you.\n\nPatient: Why are you calling?\n\nNurse: I apologize if I wasn't clear. I'm calling to discuss your upcoming total knee replacement surgery. It's scheduled for August 13th at 9:00 AM with Doctor Cristina Stevens. Is this a good time to talk about it?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Well, I'm I'm feeling okay",
-    "responses": {
-        "gpt4": "That's good to hear. Is there anything specific that has made your day pleasant?",
-        "our_model": "I'm glad to hear that you're feeling okay. It's critical to stay positive as you prepare for your surgery. Speaking of which, you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?"
-    }
-}

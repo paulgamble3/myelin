@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4489,
-    "prompt": "Patient: Try that.\n\nNurse: I'm glad to hear you're willing to try, Mr. Delarosa. Remember, it's a process and it's okay to take small steps. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: Right now, I'm just\n\nPatient: doing walking.\n\nNurse: That's great, Mr. Delarosa. Walking is a wonderful form of exercise. How often and for how long do you walk?\n\nPatient: I walk every other night for about an hour.\n\nNurse: That's excellent, Mr. Delarosa. Walking for an hour every other night is a good way to stay active. If it's okay with you, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Would that be alright?\n\nPatient: I mean, I I guess so. I I'm just",
-    "responses": {
-        "gpt4": "I understand, Mr. Delarosa. Making changes, especially when it comes to exercise, it's not easy. But these recommendations can help manage your CHF and improve your overall health. Can I share them with you?",
-        "our_model": "I understand, Mr. Delarosa. It's normal to feel a bit unsure about changes. One suggestion could be to try and walk a little bit every"
-    }
-}

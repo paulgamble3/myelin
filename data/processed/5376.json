@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5376,
-    "prompt": "Nurse: Thank you for your understanding, Mr. O'Leary. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Great, Mr. O'Leary. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?\n\nPatient: No. I'm not worried.\n\nNurse: I'm glad to hear that, Mr. O'Leary. Let's move on to discuss your medications. Before we do, I want to make sure you're ready to proceed. Can we move forward?\n\nPatient: Yeah. Fine.\n\nNurse: Thank you, Mr. O'Leary. I see on your chart that you are currently taking Aspirin 81 mg once a day. As per the instructions, you should have stopped taking this medication 7 days before the procedure. Have you stopped taking your Aspirin?\n\nPatient: I actually couldn't remember if I was supposed to or not. But I I guess I can stop taking it now.",
-    "responses": {
-        "gpt4": "Mr. O'Leary, I understand the confusion. Also, today is the 10th of August, so please go ahead and stop taking the Aspirin today. That way, it'll be out of your system by the day of your surgery on the 13th. Do you have any questions about stopping the Aspirin?",
-        "our_model": "Thank you for your honesty, Mr. O'Leary. It's critical to stop taking Aspirin 81 mg once a day as it can increase the risk of bleeding during surgery. Do you have any questions about this medication change?"
-    }
-}

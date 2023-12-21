@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4802,
-    "prompt": "Nurse: Thank you for sharing that. It's essential to note that medications like Advil, which are blood thinners, typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. Have you been instructed to continue taking Advil?\n\nPatient: but I stopped taking that already.\n\nNurse: That's good to hear. It's important to stop taking Advil as it's a blood thinner. Do you have any questions about why it's necessary to stop these medications before your knee replacement?\n\nPatient: No. I understand.\n\nNurse: Great. I also notice that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier. Advil, also known as ibuprofen, is not a blood thinner. It's a nonsteroidal anti-inflammatory drug (NSAID) that can increase the risk of bleeding. That's why it's important to stop taking it before surgery. Do you have any questions about this or any other medications?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great. It's very important to follow protocol before a surgical procedure, and you're doing a wonderful job at that. Now let's move on to instructions for the night before the surgery. Could you confirm that you understand the instructions related to eating and drinking before the operation?",
-        "our_model": "Alright. Now, let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?"
-    }
-}

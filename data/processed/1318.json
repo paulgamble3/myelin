@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1318,
-    "prompt": "Nurse: I can certainly appreciate that. Walking without pain is a wonderful goal. How are you feeling about your upcoming procedure?\n\nPatient: Yes.\n\nNurse: I'm sorry, I may not have been clear. I was asking about your feelings towards the upcoming procedure. Are there any concerns or questions you'd like to discuss before we proceed?\n\nPatient: I'm pretty calm about it. I really\n\nNurse: That's great to hear that you're feeling calm about the procedure. It's a positive approach. Before we move on, do you have any questions or concerns you'd like to discuss?\n\nPatient: hope that I will be out of pain\n\nNurse: It's great to hear that you're feeling calm about the procedure. Being pain-free is indeed a significant goal and one that we hope to help you achieve. Before we move on, do you have any questions or concerns you'd like to discuss?\n\nPatient: after the procedure.",
-    "responses": {
-        "gpt4": "I understand\ufffd\ufffd\ufffdbeing pain-free after the procedure is a key outcome we hope for. Are there any specific questions or concerns you have about this that you'd like to discuss?",
-        "our_model": "It's completely normal to feel a bit anxious before a procedure, but it's great to hear that you're feeling calm. The"
-    }
-}

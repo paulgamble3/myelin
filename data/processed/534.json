@@ -1,8 +1,0 @@
-{
-    "prompt_id": 534,
-    "prompt": "Nurse: I appreciate your patience, and I'm glad to hear that you're familiar with the process. Just to confirm, you're comfortable with the instructions for drinking the GoLYTELY laxative solution, correct?\n\nPatient: Correct.\n\nNurse: Great, thank you for confirming. Now, let's move on to the next part of your prep, which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, I'm glad that's clear. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions or concerns about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No, ma'am.",
-    "responses": {
-        "gpt4": "That's good to hear. Please let us know if you do feel unwell before the procedure. Now, for my final question, have you arranged for a ride home after the procedure?",
-        "our_model": "That's good to hear. It's critical to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6322,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Harley Gardner?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: August second nineteen six before.\n\nNurse: Thank you for confirming your date of birth, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing alright.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Nope. Just sleeping in my own bed.",
-    "responses": {
-        "gpt4": "Absolutely, there's no place like your own bed for a good rest. In trying to make our conversation more informal, are there any hobbies you enjoy doing? Or perhaps you have a favorite sport you like watching? Or maybe even a pet in the house to keep you company?",
-        "our_model": "That sounds like a wonderful way to relax, Mr. Gardner. Sleeping in your"
-    }
-}

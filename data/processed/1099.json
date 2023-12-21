@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1099,
-    "prompt": "Nurse: I'm sorry to hear that you're experiencing pain, especially with movement.\n\nPatient: But\n\nNurse: I'm sorry to hear that you're experiencing pain, especially when moving. It's quite common with osteoarthritis. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once your knee is feeling better?\n\nPatient: The balance right now\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: All I can think about is\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: I'm not impacting?",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 808,
-    "prompt": "Patient: Very good.\n\nNurse: I'm I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you\n\nPatient: And\n\nNurse: please repeat I'm sorry, Ms. Aguirre, I\n\nPatient: for breakfast,\n\nPatient: I had an egg In\n\nNurse: I'm sorry, Ms. Aguirre, could you\n\nPatient: I had you. Phone. No one.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, there seems to have been a miscommunication. Could you please repeat what you had for breakfast?",
-        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch the last part of your breakfast. Could you please repeat what you had for breakfast?"
-    }
-}

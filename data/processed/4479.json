@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4479,
-    "prompt": "Nurse: I'm glad Your doctor has recommended a fluid restriction of 1 liter per day, Mr. Delarosa. This includes all fluids, not just water. It's critical to try to stay within this limit. Does that make sense?\n\nPatient: So one liter, like, one liter soda bottles.\n\nNurse: Yes, Mr. Delarosa, a 1-liter soda bottle is a good way to visualize the amount of fluid you should limit yourself to in a day. It includes all fluids, not just water. Does that help clarify things?\n\nPatient: Yes. So things like coffee and juice\n\nNurse: Yes, Mr. Delarosa, all fluids count towards your daily limit, including coffee, juice, and any other beverages. It's essential to keep track of these. Does that make sense?\n\nPatient: and soda. Right?\n\nNurse: Yes, Mr. Delarosa, that's correct. All fluids count towards your daily limit, including coffee, juice, and soda. It's critical to keep track of these. Do you have any other questions about your fluid intake?\n\nPatient: No. Thank you.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Delarosa. If you have any other questions in the future, don't hesitate to ask. It was great speaking with you today. Take care.",
-        "our_model": "You're welcome, Mr. Delarosa. Now, let's talk about your diet. Your doctor has recommended a 2000 mg Sodium Restricted diet. This means limiting foods high in sodium. Would it be okay if I shared some tips on how to follow this diet?"
-    }
-}

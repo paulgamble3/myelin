@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4470,
-    "prompt": "Nurse: I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: No. It's not correct.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: I do not have.\n\nNurse: I apologize for the confusion, Mr. Delarosa. I understand that you do not have one-sided arm weakness. Now, let's discuss your diet. Can I share some dietary recommendations with you?\n\nPatient: Yeah. What are we talking about? I have CHF and I have asthma.\n\nNurse: I apologize for the confusion earlier, Mr. Delarosa. I understand that you have CHF and asthma. Now, let's discuss your dietary recommendations. Is it okay if I share them with you?\n\nPatient: I have high blood pressure, and this call is making that high blood pressure sure where.",
-    "responses": {
-        "gpt4": "I completely understand, Mr. Delarosa. I'm here to help guide you through this process and ease any concerns you may have regarding your health. Can we proceed with discussing the dietary recommendations for your health condition? This can help improve your quality of life and manage your high blood pressure.",
-        "our_model": "I'm sorry I'm sorry for any confusion, Mr. Delarosa. I understand that managing multiple health conditions can be challenging. I'm here to help you understand your dietary recommendations. Would it be okay if I shared some information about this?"
-    }
-}

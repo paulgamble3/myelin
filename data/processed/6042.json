@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6042,
-    "prompt": "Nurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: How do you normally prepare red bread rolls you just eat them.\n\nNurse: I see, Mr. Koroleva. Bread rolls can be a comfort food for many. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. In addition to the diet changes, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. These types of supplements can interfere with the colonoscopy preparation. Do you have any questions about this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Koroleva. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. I do want to acknowledge that this is often the hardest part of the preparation. How are you feeling about it?",
-        "our_model": "Alright, Mr. Koroleva. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

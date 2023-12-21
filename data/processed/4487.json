@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4487,
-    "prompt": "Patient: don't know how to make food taste good without salt.\n\nNurse: I understand, Mr. Delarosa. Reducing salt can affect the taste of food. There are other ways to add flavor, though. For example, you could use herbs and spices, lemon juice, or vinegar. Would it be okay if I shared some more suggestions on how to make food taste good without salt?\n\nPatient: Okay.\n\nNurse: Thank you, Mr. Delarosa. One way to add flavor is to use herbs and spices. They can add a lot of flavor without adding sodium. Also, you could try using citrus fruits like lemon or lime to add a tangy flavor. Lastly, vinegar can also add a nice flavor without sodium. How does that sound?\n\nPatient: Try that.\n\nNurse: I'm glad to hear you're willing to try, Mr. Delarosa. Remember, it's a process and it's okay to take small steps. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: Right now, I'm just\n\nPatient: doing walking.",
-    "responses": {
-        "gpt4": "That's great, Mr. Delarosa. Walking is a good form of exercise that can benefit your heart. How often andhow long do you typically walk?",
-        "our_model": "That's great, Mr. Delarosa. Walking is a wonderful form of exercise. How often and for how long do you walk?"
-    }
-}

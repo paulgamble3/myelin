@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3693,
-    "prompt": "Nurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I I stopped aspirin. I did not know you needed to stop, though.\n\nNurse: That's correct.\n\nPatient: I did stop, though.\n\nNurse: That's great. It's essential to stop taking Aspirin before your surgery. Do you have any questions about this or any other medication?\n\nPatient: [NO RESPONSE]\n\nNurse: I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: I got it all picked up. Yep.",
-    "responses": {
-        "gpt4": "That's terrific! It's good to have everything in order before your surgery. Is there anything else you would like to ask or know about your medications?",
-        "our_model": "That's excellent. You're well-prepared. Do you have any questions about these medications or any other medication-related concerns?"
-    }
-}

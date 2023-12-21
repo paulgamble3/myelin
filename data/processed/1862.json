@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1862,
-    "prompt": "Nurse: You're welcome, Ms. Odonnell. I'm glad to hear that you find these suggestions manageable. Remember, it's all about balance and making small changes. Now, let's move on to your sodium intake. It's recommended to limit sodium to less than 2000 mg per day. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh, I've today, I had some\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your meal today?\n\nPatient: Shrimp tacos.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?\n\nPatient: I had shrimp tacos.\n\nNurse: Thank you for sharing that, Ms. Odonnell. Shrimp tacos can be a part of a balanced diet, but it's important to be mindful of the sodium content, especially in the tortillas and any sauces or seasonings used. Would it be alright if I provide some suggestions on how to make your meals healthier?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Thank you, Ms. Odonnell. One suggestion is to choose low-sodium options when possible. For example, you could use corn tortillas instead of flour tortillas, as they are usually lower in sodium. Also, try to limit using high-sodium condiments like soy sauce or ketchup. What do you think about these suggestions?",
-        "our_model": "Thank you, Ms. Odonnell. One suggestion is to use low-sodium tortillas and fillings. You could also try to limit the amount of sauces and seasonings, as they often contain added sodium. What do you think about these suggestions?"
-    }
-}

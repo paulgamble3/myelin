@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2335,
-    "prompt": "Nurse: That's good to hear, Mr. Ponce. It's essential to continue taking these medications as prescribed. Now, I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. Not really.\n\nNurse: That's fantastic, Mr. Ponce. You're doing a great job managing your medications. Now, with your permission, I'd like to ask a few more questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Thank you, Mr. Ponce. You mentioned earlier that you've gained weight and are experiencing shortness of breath. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Right now.\n\nNurse: I see, Mr. Ponce. Swelling can be a sign of fluid buildup, which is something we want to monitor closely. Now, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Ponce. Thank you for taking the time to answer these symptom-related questions. These questions are part of a simple CHF assessment, and it's a good idea to take note of these symptoms every day. Does that sound manageable to you, or do you have any questions about how to keep track of your symptoms?",
-        "our_model": "Alright, Mr. Ponce. That's good to hear. We've just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
-    }
-}

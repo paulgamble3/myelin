@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2632,
-    "prompt": "Nurse: You're welcome, Ms. Cruz. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Yes.\n\nNurse: Okay, Ms. Cruz. For the Carvedilol, you should be taking 3.125 mg three times a day. Are you following this dosage?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear, Ms. Cruz. Now, let's discuss the last new medication. Have you picked up your new prescription for Hydrochlorothiazide 50 mg oral tablet?\n\nPatient: Yes.\n\nNurse: Perfect, Ms. Cruz. For the Hydrochlorothiazide, you should be taking 50 mg two times a day. Are you following this dosage?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Cruz, could you please repeat your response? Are you taking the Hydrochlorothiazide 50 mg two times a day as instructed?",
-        "our_model": "Hello, Ms. Cruz. I was saying that for the Hydrochlorothiazide, you should be taking 50 mg two times a day. Are you following this dosage?"
-    }
-}

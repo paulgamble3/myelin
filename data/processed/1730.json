@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1730,
-    "prompt": "Nurse: Great, Ms. Winner. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Winner. I'm glad to hear that the logistics seem clear to you. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yeah. It's go.\n\nNurse: I'm sorry, Ms. Winner, I didn't quite catch that. Could you please confirm if it's okay for us to discuss your medications?\n\nPatient: I said, yeah. Let's go.\n\nNurse: Thank you, Ms. Winner. I see on your chart that you are currently taking Jardiance 25 mg two times a day, Hydrochlorothiazide 50 mg two times a day, Atorvastatin 20 mg once a day, and Ozempic 2 mg once a week. Have you been taking these medications as prescribed?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Good to hear that you've been consistent with your medications, Ms. Winner. If I may ask, have you been instructed to stop taking Aspirin 81 mg? If yes, did you stop as instructed which is 7 days before the procedure?",
-        "our_model": "That's good to hear, Ms. Winner. Are you taking any other medications that we haven't discussed yet, such as over-the-counter medications like Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

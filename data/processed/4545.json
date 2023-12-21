@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4545,
-    "prompt": "Patient: No.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Sure. I've had chicken and rice.\n\nNurse: Thank you for sharing\n\nPatient: Some steamed vegetables,\n\nNurse: That sounds like a balanced meal. Steamed vegetables are a great choice as they retain more nutrients. How are you preparing your chicken and rice?\n\nPatient: Raspberries for Brex\n\nPatient: this.",
-    "responses": {
-        "gpt4": "I'm sorry, Jon, I didn't quite catch that. Did you mean you had raspberries for breakfast? Could you please repeat?",
-        "our_model": "I'm sorry, Jon, I didn't quite catch the last part of your response. Could you please repeat what you said for breakfast?"
-    }
-}

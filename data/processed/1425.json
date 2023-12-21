@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1425,
-    "prompt": "Patient: floods chronic\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you been experiencing any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, faint, or dizzy at all?\n\nPatient: No.\n\nNurse: Just give me a second to work out the best way I can assist you. Just give me a second to work out the best way I can assist you.",
-    "responses": {
-        "gpt4": "I appreciate you taking the time to share these details, Mr. Valenzuela. Have you noticed any changes in your appetite?",
-        "our_model": "I'm sorry, Mr. Valenzuela, could you please confirm what you just said?"
-    }
-}

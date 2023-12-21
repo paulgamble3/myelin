@@ -1,8 +1,0 @@
-{
-    "prompt_id": 966,
-    "prompt": "Nurse: That's good to hear that you're doing physical therapy. It's an important part of recovery after back surgery. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Heck no. Those will kill you.\n\nNurse: That's a very healthy stance. It's great to hear that you don't smoke. Now, I'd like to ask if you have any questions or concerns that you'd like to discuss. Is there anything on your mind?\n\nPatient: Yeah.\n\nNurse: Of course. What's on your mind?\n\nPatient: I tried to pee in a couple of times, but you're an albumin test.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: Why?",
-    "responses": {
-        "gpt4": "If I understand correctly, you're asking about the urine albumin test. This test measures the amount of protein called albumin in your urine. The presence of too much albumin in the urine can be a sign of kidney damage. It's common for people with chronic conditions like hypertension and diabetes to have this test to monitor their kidney function. Do you have any other questions or concerns?",
-        "our_model": "That's a great question. The urine albumin test measures the amount of albumin in your urine. Albumin is a protein that can pass into the urine when the kidneys are damaged. A high level of albumin in the urine can be a sign of kidney disease. That's why it's important to monitor this. Does that answer your question?"
-    }
-}

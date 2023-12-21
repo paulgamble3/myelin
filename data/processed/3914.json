@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3914,
-    "prompt": "Nurse: That's great. Eating a variety of vegetables can provide a range of nutrients. Do you also include any fruits in your meals?\n\nPatient: I do\n\nNurse: That's good to hear. Fruits are a great source of vitamins and fiber. Do you usually have them as a snack or do you incorporate them into your meals?\n\nPatient: Hello?\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: Okay. I do\n\nNurse: That's good to hear. Fruits can also provide a variety of nutrients.\n\nPatient: go to my nearest",
-    "responses": {
-        "gpt4": "Could you please repeat that? I didn't quite catch what you said.",
-        "our_model": "I'm sorry, Carla, could you please repeat what you said about fruits in your meals?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6054,
-    "prompt": "Nurse: Alright, Mr. Koroleva. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: Will I be able to go back to work right after my colonoscopy?\n\nNurse: That's a great question, Mr. Koroleva. After a colonoscopy, you'll need to rest and recover. You might feel a bit groggy from the sedation, and you'll need to arrange for someone to drive you home. It's generally recommended to take the rest of the day off from work. However, everyone's recovery is different, and it's important to listen to your body. Does that answer your question?\n\nPatient: Yeah.\n\nNurse: I'm glad I could help clarify that for you, Mr. Koroleva. Now, I have a couple more questions for you. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: Now.\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're not experiencing any illness symptoms, Mr. Koroleva. It's important to be as healthy as possible when undergoing a procedure like this. Now, for our final question - have you already arranged for someone to drive you home after the procedure?",
-        "our_model": "That's good to hear, Mr. Koroleva. It's important to be in good health before a procedure like a colonoscopy. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

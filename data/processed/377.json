@@ -1,8 +1,0 @@
-{
-    "prompt_id": 377,
-    "prompt": "Patient: I mean, there's so many incredible Yummy. Low fiber fruit.\n\nNurse: Yes, Mr. Koroleva, there are indeed some yummy low fiber fruits. Can you share which ones you enjoy?\n\nPatient: Yes. As I said, I really like bread,\n\nNurse: Bread is a good choice, Mr. Koroleva. It's low in fiber and can be quite comforting. Do you have a favorite type of bread or a favorite way to eat it?\n\nPatient: Toast it?\n\nNurse: Toasted bread sounds like a great comfort food, Mr. Koroleva. It's a good choice for your low fiber diet. Do you usually have it with anything specific?\n\nPatient: Alright. Can we move on with the diet? I got it. Because it's been on and on. We kinda, like, stuck in the circle. So I'm ready to take this Ethan\n\nPatient: further,",
-    "responses": {
-        "gpt4": "Of course, Mr. Koroleva. I apologize if I made you feel stuck. Let's move forward. Three days before your procedure, you'll need to start a clear liquid diet. This means you can have things like water, broth, clear juices without pulp, and jello, but not in red or purple colors. Do you have any questions about the clear liquid diet?",
-        "our_model": "Of course, Mr. Koroleva. I apologize if it felt repetitive. Let's move on to the next topic."
-    }
-}

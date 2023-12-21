@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5790,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: I said, no. I no. I said no. I do not have questions.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're feeling well. Remember, it's essential to let us know if there are any changes to your health status ahead of your procedure. Now, I have one last question for you. Have you arranged for a ride home after the procedure?",
-        "our_model": "That's good to hear. It's essential that you're in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

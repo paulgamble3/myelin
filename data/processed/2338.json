@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2338,
-    "prompt": "Nurse: I see, Mr. Ponce. Swelling can be a sign of fluid buildup, which is something we want to monitor closely. Now, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: Alright, Mr. Ponce. That's good to hear. We've just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: And then I go.\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat your question?\n\nPatient: I still have a question.\n\nNurse: Of course, Mr. Ponce. What's your question?\n\nPatient: I don't have a question.",
-    "responses": {
-        "gpt4": "My apologies for the misunderstanding, Mr. Ponce. Let's move on to dietary habits. May I ask about your recent meals to get a better understanding of your regular diet?",
-        "our_model": "Alright, Mr. Ponce. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Can you tell me about your recent meals?"
-    }
-}

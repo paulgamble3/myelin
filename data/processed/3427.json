@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3427,
-    "prompt": "Nurse: That's good to hear, Mr. Jimenez. It's essential to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Wonderful, Mr. Jimenez. It's critical to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Jimenez. It's critical to have someone with you for a few days after the procedure to help with daily activities. If there's anything else you need to discuss or any questions you have, feel free to share. [\n\nPatient: [NO RESPONSE]\n\nNurse: Alright, Mr. Jimenez. That was all the topics for today. Before we wrap up, do you have any other questions or concerns?\n\nPatient: Nope. No other questions.",
-    "responses": {
-        "gpt4": "I'm glad I could help clarify things for you, Mr. Jimenez. To summarize, you will continue taking your regular medicines, scrub your body with the chlorhexidine scrub the night before and the morning of the operation, and not eat or drink anything after midnight the night before your procedure. Can I count on you to do all of this?",
-        "our_model": "Alright, Mr. Jimenez. That was all the topics for today. Before we end this call, do you have any other questions or concerns?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 342,
-    "prompt": "Nurse: I see. That's commendable.\n\nPatient: to follow a low salt diet\n\nNurse: That's wonderful. It's essential for managing your conditions. Can you share a bit more about what you typically eat in a day?\n\nPatient: and\n\nNurse: I see. That's a great effort. It's essential for managing your conditions.\n\nPatient: And what what dietary changes should I do to preserve my kidney.\n\nNurse: That's a great question.\n\nPatient: Function.",
-    "responses": {
-        "gpt4": "That's a great question, Damian. In addition to following a low-salt diet, it's beneficial to: \n\n1. Maintain a healthy weight\n2. Limit proteins from animal sources\n3. Stay hydrated, but be mindful not to overdo fluids\n4. Limit alcohol and caffeine intake \n5. Avoid smoking and recreational drugs\n6. Exercise regularly \n\nDo you have any specific questions about these suggestions?",
-        "our_model": "That's a great question. The DASH diet, which stands for Dietary Approaches to Stop Hypertension, is a good choice for managing your conditions. It emphasizes eating fruits, vegetables, whole grains, lean proteins, and low-fat dairy, while limiting foods high in saturated fats, cholesterol, and sodium. It's also important to limit your sodium intake to less than 2000 mg per day. This can help manage your blood pressure and protect your kidneys. Would it be okay if I share some specific foods you might want to include or avoid in your diet?"
-    }
-}

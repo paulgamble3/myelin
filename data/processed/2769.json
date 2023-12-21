@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2769,
-    "prompt": "Nurse: Of course, Mr. Stevens. We discussed your symptoms, medications, and dietary recommendations. You're doing well with your medications and haven't noticed any new or worsening symptoms. We also talked about the Cardiac diet, DASH diet, and Sodium Limited Diet, which can help manage your CHF, HTN, and CKD. Remember to keep an eye on your symptoms and continue following these dietary recommendations. If you have any questions or concerns in the future, don't hesitate to reach out. [\n\nPatient: Tell me what we talked about.\n\nNurse: Of course, Mr. Stevens. We discussed your hobby of baking, particularly cupcakes and bread. We also confirmed that you're taking your medications as prescribed and reviewed your symptoms. I provided some dietary recommendations, including the Cardiac diet, the DASH diet, and the Sodium Limited Diet. I hope this summary is helpful. Do you have any other questions or concerns?\n\nPatient: Rachel?\n\nNurse: Yes, Mr. Stevens, I'm here. Is there anything else you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Stevens. Thank you for your time today. If you have any questions in the future, don't hesitate to reach out. Take care and have a great day! [\n\nPatient: That's all. But you disappear somewhere.",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Mr. Stevens. I'm here to assist you. Do you have any other questions or is there anything else you'd like to discuss?",
-        "our_model": "I apologize for any confusion earlier, Mr. Stevens. I'm here to assist you. Is there anything else you'd like to discuss or any questions you have?"
-    }
-}

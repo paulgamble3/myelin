@@ -1,8 +1,0 @@
-{
-    "prompt_id": 595,
-    "prompt": "Nurse: You're welcome, Ms. Chabot. I'm glad I could help. Now, I'd like to ask you a few questions about your medications. Are you still taking your existing medications?\n\nPatient: Yes. Go for it.\n\nNurse: Wonderful, Ms. Chabot. Let's start with Captopril. Are you still taking this medication?\n\nPatient: Yeah.\n\nNurse: Excellent, Ms. Chabot. And how about Carvedilol?\n\nPatient: What about it? I take all my medications.\n\nNurse: That's great to hear, Ms. Chabot. I apologize for any confusion. I'll move on to the next medication. Are you still taking Metformin?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's fantastic, Ms. Chabot. Consistency with medication is very important. How about the Lantus injection? Are you continuing with this as well?",
-        "our_model": "That's good to hear, Ms. Chabot. And are you still using your Lantus injection device?"
-    }
-}

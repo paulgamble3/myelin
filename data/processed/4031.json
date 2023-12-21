@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4031,
-    "prompt": "Nurse: I'm sorry, Ms. Warrell, I didn't quite catch the last vegetable you mentioned. Could you please repeat it?\n\nPatient: So so delicious.\n\nNurse: That sounds like a very nutritious and flavorful dish, Ms. Warrell. It's great that you're enjoying it. Now, I'd like to remind you of your dietary recommendations. You're following a cardiac diet, which means it's important to eat foods that are low in sodium, saturated fat, and cholesterol. Can I share some dietary recommendations with you?\n\nPatient: Sure. Yeah.\n\nNurse: Great, Ms. Warrell. For your cardiac diet, it's recommended to include a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit your intake of sodium, saturated fats, and added sugars. How does this fit in with your current meals?\n\nPatient: What are the recommendations\n\nNurse: Wonderful, Ms. Warrell. For a cardiac diet, it's recommended to include a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit sodium, saturated and trans fats, and added sugars. How does this compare to your current diet?\n\nPatient: Well, they told me",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Warrell, your voice cut out for a moment. Could you please repeat what you said about the diet recommendations?",
-        "our_model": "I'm sorry, Ms. Warrell, you were saying something about what you were told about your diet?"
-    }
-}

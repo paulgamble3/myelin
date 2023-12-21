@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2738,
-    "prompt": "Nurse: That's great to hear, Mr. Stevens. It's critical to take your medications as prescribed to manage your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I don't I'm pretty good.\n\nNurse: That's excellent, Mr. Stevens. Staying on top of your medication schedule is a key part of managing your health. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: It's okay with me.\n\nNurse: Thank you, Mr. Stevens. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Stevens. Now, have you experienced any ongoing or worsening chest pain recently?\n\nPatient: No. I do not.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Stevens. How about a new or worsening dry cough? Have you been experiencing anything of the sort?",
-        "our_model": "I'm glad to hear that, Mr. Stevens. Moving on, have you noticed any new or worsening dry cough?"
-    }
-}

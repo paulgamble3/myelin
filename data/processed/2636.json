@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2636,
-    "prompt": "Nurse: Hello, Ms. Cruz. I was saying that for the Hydrochlorothiazide, you should be taking 50 mg two times a day. Are you following this dosage?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Cruz. Now, are you still taking your existing medication, Metformin 500 mg oral tablet?\n\nPatient: Yes.\n\nNurse: That's good to hear, Ms. Cruz. It's important to continue taking your Metformin as prescribed. Now, I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I don't have any issues.\n\nNurse: That's fantastic, Ms. Cruz. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few\n\nPatient: Taking them on time.",
-    "responses": {
-        "gpt4": "That's fantastic, Ms. Cruz. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions to better understand how you're feeling and if there are any potential side effects or issues to address. Is that alright with you?",
-        "our_model": "That's fantastic, Ms. Cruz. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4195,
-    "prompt": "Nurse: I'm glad I could provide the information you needed, Mr. Peck. If you have any other questions in the future, don't hesitate to ask. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. I do. I smoke.\n\nNurse: Thank you for sharing that with me, Mr. Peck. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: So\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yes. But I'm not ready to do that now.\n\nNurse: That's completely okay, Mr. Peck. It's a big step to decide to quit smoking. Can you share with me why you feel you're not ready to quit at this time?\n\nPatient: Because I'm not.",
-    "responses": {
-        "gpt4": "I understand, Mr. Peck. Quitting smoking is a big decision and it has to be made when you feel you're ready. It's one of the best things you can do for your health, though, and I'm here to support you if you ever decide to quit. Maybe we could start by talking about reducing the number of cigarettes you smoke each day?",
-        "our_model": "That's perfectly okay, Mr. Peck. It's a personal decision and it's important that you feel ready. If you ever change your mind, I have a lot of resources that I could share with you to help you quit. Would you like me to share some of these resources now, or would you prefer to wait until you're ready?"
-    }
-}

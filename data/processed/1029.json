@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1029,
-    "prompt": "Nurse: Oh, I see! Rabis likes to nibble on people. That's quite a character trait. Now, I have a few topics to cover with you on behalf of Doctor Jack Smith. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. I don't think so.\n\nNurse: Alright. Let's start with your medications. Are you still taking your Valsartan and Lasix?\n\nPatient: Yes. I am.\n\nNurse: Great. And are you also continuing with your Methotrexate?\n\nPatient: Yes, ma'am.\n\nNurse: That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: I'm pretty good at",
-    "responses": {
-        "gpt4": "Taking medication consistently can be tough, but it sounds like you're doing a stellar job, Pete. Is it okay with you if we move on and talk a bit about how you're feeling physically?",
-        "our_model": "That's excellent."
-    }
-}

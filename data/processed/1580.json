@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1580,
-    "prompt": "Patient: but whoever's bringing me can't wait at the hospital.\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nNurse: Yes, Mr. Reynolds, that's correct. You can get dropped off at the hospital, and your driver can return to pick you up after your procedure. It's critical to note that due to the sedation used during the colonoscopy, you won't be able to drive yourself home. Does that make sense?\n\nPatient: Well, yeah. I knew that.\n\nNurse: I apologize for any confusion earlier, Mr. Reynolds. I'm glad we're on the same page now. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move forward?\n\nPatient: Yeah. Go ahead.\n\nNurse: Wonderful, thank you, Mr. Reynolds. I see on your chart that you're currently taking Plavix 75 mg once a day. Given the instructions for your colonoscopy, you'll need to stop taking Plavix 5 days before the procedure. That means you should stop taking it on August 8th, which is 2 days from today. Does that make sense?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "Excellent, Mr. Reynolds. I'm glad that's clear. Stopping Plavix beforehand helps to prevent excessive bleeding during the procedure. Do you have any concerns or questions about this medication change?",
-        "our_model": "Okay, Mr. Reynolds. Do you have any questions about stopping Plavix or any concerns about how this might affect you?"
-    }
-}

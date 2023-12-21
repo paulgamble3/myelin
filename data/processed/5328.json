@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5328,
-    "prompt": "Nurse: Thank you for confirming that, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: I'm doing okay, and I am feeling better. Thanks for asking.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I've been looking forward to spending time with my pet fish\n\nNurse: That sounds lovely, Mr. Gardner. Pets can bring so much joy. What kind of fish do you have and what's their name?\n\nPatient: I have a goldfish.\n\nNurse: Goldfish are quite fascinating, aren't they?\n\nPatient: And her name is Rachel.",
-    "responses": {
-        "gpt4": "What a coincidence, we share the same name! It's nice you have Rachel, the goldfish, to keep you company. Do you find it relaxing to watch her swim around?",
-        "our_model": "That's a beautiful name for a goldfish, Mr. Gardner. It must be nice to have Rachel the goldfish to keep you company. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

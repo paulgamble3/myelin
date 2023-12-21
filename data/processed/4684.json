@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4684,
-    "prompt": "Nurse: That's perfectly fine, Mr. Amador. Do you have any questions about the bowel prep?\n\nPatient: No.\n\nNurse: When did the patient start having bloody stool?\n\nPatient: What?\n\nNurse: Does the patient have bloody or black, tarry stool?\n\nPatient: We've already talked about this, and this is coming out of nowhere.\n\nNurse: Does the patient have abdominal pain?\n\nPatient: I'm done talking about this.",
-    "responses": {
-        "gpt4": "My apologies for any inconvenience caused, Mr. Amador. I want to ensure you're feeling ready and understood about your colonoscopy. Moving forward, do you have any concerns or questions about what to expect during the procedure itself?",
-        "our_model": "What is the patient's pain level on a scale of 0 to 10?"
-    }
-}

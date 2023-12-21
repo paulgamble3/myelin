@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6057,
-    "prompt": "Nurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's important to be in good health before a procedure like a colonoscopy. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No.\n\nNurse: That's okay, Mr. Koroleva. You still have time to figure it out. But you will indeed need to get someone to be on standby to come pick you up when the hospital calls. Do you have any questions about this?\n\nPatient: Can I just drive my cell phone?\n\nNurse: I'm sorry, Mr. Koroleva, could you please repeat that?\n\nPatient: Can't I just drive my self home?",
-    "responses": {
-        "gpt4": "I see where you're coming from, Mr. Koroleva. However, it's not safe to drive yourself home after a colonoscopy because the sedatives used during the procedure can impair your reflexes and judgment. This is why we ask that someone else is available to pick you up. Does that make sense?",
-        "our_model": "I'm sorry, Mr. Koroleva, but it's not safe for you to drive yourself home after the procedure. The sedation used during the colonoscopy can make you drowsy and it's important to have someone else drive you home. Do you have a friend or family member who could help with this?"
-    }
-}

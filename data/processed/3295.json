@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3295,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Winner. It's always good to have a day that's not bad. Is there anything in particular that's made your day better?\n\nPatient: Just getting ready getting ready for the surgery.\n\nNurse: It sounds like you're taking some time to prepare for your surgery, Mr. Winner. That's really important. Is there anything specific you've been doing to get ready?\n\nPatient: Anything specific?\n\nNurse: Yes, Mr. Winner. Could you please share more about what you've been doing to prepare for your surgery?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you were saying?\n\nPatient: Yeah. I went to I went to Walmart, and to buy a grocery,",
-    "responses": {
-        "gpt4": "That's great, Mr. Winner. It's important to have your household prepared as well before the surgery, so shopping for groceries sounds like a good plan. Have you also been doing any exercises or preparing yourself mentally for the surgery?",
-        "our_model": "I'm sorry, Mr. Winner, could you please repeat that?"
-    }
-}

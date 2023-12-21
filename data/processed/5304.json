@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5304,
-    "prompt": "Nurse: I'm sorry to hear that you're having a tough day, Mr. Weeks. It's completely normal to have ups and downs, especially after a hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Not really.\n\nNurse: I see, Mr. Weeks. Sometimes, it's just nice to be back in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Not really any that I enjoy at the moment.\n\nNurse: I see, Mr. Weeks. It's okay to have periods where we don't feel like doing much. How about the weather?\n\nPatient: What about the weather?\n\nNurse: I was just wondering if there's any particular type of weather that you enjoy, Mr. Weeks?\n\nPatient: I guess, sunny days.",
-    "responses": {
-        "gpt4": "Sunny days can indeed lift one's mood up, Mr. Weeks. Before we proceed, I want to assure you that you can bring up any questions or concerns at any time. Is there anything on your mind at the moment that you'd like to discuss?",
-        "our_model": "Sunny days can indeed be quite uplifting, Mr. Weeks. Now, I have a few topics to cover with you on behalf of Doctor Stapleton. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

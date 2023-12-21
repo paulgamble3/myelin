@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3706,
-    "prompt": "Nurse: Yes, that's correct. You'll use the chlorhexidine scrub after your regular shower. After applying it to a washcloth and gently scrubbing your skin, you'll need to rub gently for 5 minutes, then rinse the solution off and pat dry with a clean towel. Can you remember to do that?\n\nPatient: You know?\n\nNurse: Yes. You're correct. You should continue to cleanse your body as you normally would during your shower. The chlorhexidine scrub is an additional step to help prepare your skin for surgery. After applying the scrub, you'll need to rub gently for 5 minutes, then rinse the solution off and pat dry with a clean towel. Can you remember to do that?\n\nPatient: I mean, ma'am, I've taken out before my life. So I think I got it from here.\n\nNurse: That's great to hear. I'm glad you're feeling confident about this. Do you have any questions about the chlorhexidine scrub or the process of using it?\n\nPatient: No.\n\nNurse: Alright. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: Well, can you elaborate? On, like, what's the reason of not eating?",
-    "responses": {
-        "gpt4": "Absolutely. The reason you need to avoid eating or drinking after midnight is to ensure your stomach is empty by the time of your surgery. This is to prevent any food or liquids in your stomach from getting into your lungs while you're under anesthesia, which could cause complications. Does that help clarify things?",
-        "our_model": "Certainly."
-    }
-}

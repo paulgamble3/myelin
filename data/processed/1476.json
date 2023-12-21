@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1476,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. I'm glad to hear that you're clear on the instructions. Remember, we're here to support you every step of the way. If you have any questions or concerns at any point, don't hesitate to reach out. Is there anything else you'd like to discuss today?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I have not.\n\nNurse: That's good to hear, Mr. Valenzuela. It's essential that you're in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Valenzuela. It's critical to have someone else drive you home after your procedure as the sedatives used during the colonoscopy may take a while to wear off. Do you have any more questions or concerns on this particular topic?",
-        "our_model": "That's great to hear, Mr. Valenzuela."
-    }
-}

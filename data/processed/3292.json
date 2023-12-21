@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3292,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes. It is.\n\nNurse: Great, Mr. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Pretty good time to talk. Yes.\n\nNurse: I'm glad to hear that, Mr. Winner. How has your day been so far?\n\nPatient: Not bad. Just you know,\n\nNurse: I'm glad to hear that, Mr. Winner. It's always good to have a day that's not bad. Is there anything in particular that's made your day better?\n\nPatient: Just getting ready getting ready for the surgery.",
-    "responses": {
-        "gpt4": "That's quite responsible of you, Mr. Winner. Focusing on your upcoming surgery is important and it must be comforting to put some dedicated time into preparing. What have you been doing to prepare?",
-        "our_model": "It sounds like you're taking some time to prepare for your surgery, Mr. Winner. That's really important. Is there anything specific you've been doing to get ready?"
-    }
-}

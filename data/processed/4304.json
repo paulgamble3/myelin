@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4304,
-    "prompt": "Nurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a salad not too long ago. A veggie salad.\n\nNurse: That sounds like a healthy choice. What kinds of vegetables did you include in your salad?\n\nPatient: Letters. L\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat which vegetables you included in your salad?\n\nPatient: lettuce.\n\nPatient: L\n\nPatient: mushroom, tomatoes, and onions.",
-    "responses": {
-        "gpt4": "That sounds like a delicious and nutritious salad! It's great that you're incorporating a variety of vegetables into your meals. Those are all excellent choices for maintaining kidney health as well. Let's keep up the good work! Do you have any questions about your diet or anything else we've discussed today?",
-        "our_model": "That's a great start to a healthy salad. Did you add any dressing or other toppings?"
-    }
-}

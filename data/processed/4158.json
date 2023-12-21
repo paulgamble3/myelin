@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4158,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Peck. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez, to check in on you. How have you been doing lately?\n\nPatient: I've been doing fine.\n\nNurse: I'm glad to hear that, Mr. Peck. Is there anything you're looking forward to doing this week?\n\nPatient: Probably decorating my house.\n\nNurse: That sounds like a lovely way to spend your time, Mr. Peck. What kind of decorations are you planning to use?\n\nPatient: No Christmas decorations from years and years ago.\n\nNurse: That sounds like a wonderful way to bring back old memories, Mr. Peck. Do you have a favorite Christmas decoration from your collection?\n\nPatient: Yes. Santa Claus with rain, dear, and he goes on the roof.",
-    "responses": {
-        "gpt4": "It sounds like that Santa Claus decoration is really special. Is there a story behind why it's your favorite?",
-        "our_model": "That sounds delightful, Mr. Peck. Santa on the roof with reindeer must be a beautiful sight. Before we move on to discuss your kidney disease, do you have any symptoms or health concerns you'd like to share with me?"
-    }
-}

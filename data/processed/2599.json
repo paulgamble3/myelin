@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2599,
-    "prompt": "Nurse: Maintaining a healthy lifestyle can help keep your GFR at a good level. This includes eating a balanced diet, staying active, and managing your blood sugar and blood pressure. It's also important to take your medications as prescribed. Speaking of which, would it be alright if we go over your medications now?\n\nPatient: Sure.\n\nNurse: Okay. Let's start with Valsartan. You're prescribed to take a 40 mg tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's move on to Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. Now, let's discuss Hydrochlorothiazide. You're prescribed to take a 12.5 mg tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "That's wonderful to hear. Next, let's discuss Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?",
-        "our_model": "That's wonderful. Now, let's talk about Aspart. You're prescribed to take 5 units three times a day. Have you been taking this medication as prescribed?"
-    }
-}

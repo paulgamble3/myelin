@@ -1,8 +1,0 @@
-{
-    "prompt_id": 658,
-    "prompt": "Nurse: That's excellent. Now, let's briefly discuss your existing medications. Are you still taking Digoxin and Enalapril?\n\nPatient: It's digoxin,\n\nNurse: I apologize for the confusion. Are you still taking Digoxin?\n\nPatient: And, yes, I'm taking that in Enalapril.\n\nNurse: Good to hear. How about Sumpatriptan and Triamcinolone ointment?\n\nPatient: It is Summa Sumatriptan\n\nNurse: I apologize for the mispronunciation. Are you still taking Sumatriptan and applying Triamcinolone ointment as prescribed?\n\nPatient: and triamcinolone. And yes.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Patient. Lastly, are you still taking Metformin, Riboflavin, and Atorvastatin? After this, I'll ask about a few more medications.",
-        "our_model": "Thank"
-    }
-}

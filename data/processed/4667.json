@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4667,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Amador. I'm going to move on to talk about your medications. But before I do, I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.\n\nNurse: I see on your chart that you're currently not on any medication that needs to be stopped before the procedure. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners, Mr. Amador?\n\nPatient: Yes.\n\nNurse: I see on your chart that you're currently not on any medication that needs to be stopped before the procedure. Are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners, Mr. Amador?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Amador. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I want to make sure we're on the same page, Mr. Amador. You're not currently taking any sort of medication that requires adjusting or stopping before the colonoscopy, correct?",
-        "our_model": "I'm glad to hear that, Mr. Amador. Now, let's smoothly transition to the diet prep for your colonoscopy. Starting today, you'll want to eat a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?"
-    }
-}

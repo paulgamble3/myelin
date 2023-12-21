@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1076,
-    "prompt": "Patient: What are you talking about?\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: No.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: I'm the patient, and I don't report that.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: Are you okay?\n\nPatient: Rachel.",
-    "responses": {
-        "gpt4": "Yes? How can I assist you further?",
-        "our_model": "Does the patient develop a severe headache?"
-    }
-}

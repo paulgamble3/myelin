@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5251,
-    "prompt": "Patient: I do smoke a pack of cigarettes a day.\n\nPatient: But I'm not going to quit.\n\nNurse: I appreciate your honesty, Mr. Oliver. Quitting smoking is a personal decision and can be a challenging process. Could you share with me why you feel you're not ready to quit at this time?\n\nPatient: It just helps me relax.\n\nNurse: I understand, Mr. Oliver. Smoking can sometimes be a way to cope with stress. However, it's important to remember that smoking can have a negative impact on your health, especially with your chronic conditions. If you ever decide to quit, there are many resources available to help you. Would you like me to share some of these resources with you?\n\nPatient: Yes, please.\n\nNurse: Absolutely, Mr. Oliver. There are many resources available to help you quit smoking, including nicotine replacement therapies, medications, and counseling services. You can also consider joining a support group or using a quit-smoking app. Remember, it's never too late to quit, and every attempt to quit, even if not successful, can lead to a future successful quit attempt. Do you have any questions about these resources?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Mr. Oliver. Remember, we're here to support you, and whenever you feel ready to consider quitting smoking, we can assist you with that journey. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?",
-        "our_model": "Alright, Mr. Oliver. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

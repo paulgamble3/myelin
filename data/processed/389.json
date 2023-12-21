@@ -1,8 +1,0 @@
-{
-    "prompt_id": 389,
-    "prompt": "Nurse: You'll need to start drinking the second half of the NuLYTELY laxative solution around 6 AM, Mr. Koroleva. This will give it enough time to work before your procedure at 11 AM. Does that make sense?\n\nPatient: Yeah. I mean, I guess so.\n\nNurse: I'm glad to hear that, Mr. Koroleva. It's essential to follow these instructions to ensure your colonoscopy goes smoothly. Would you like some tips on making the bowel prep easier?\n\nPatient: Yes, please. What are the tips?\n\nNurse: I'm glad you asked, Mr. Koroleva. Here are a couple of tips that might make the bowel prep easier for you. First, you can drink the laxative solution cold, which some people find makes it more palatable. Second, you can drink the solution through a straw, which can help it go down easier. What do you think about these tips?\n\nPatient: I okay. I'll try it out. We'll see how it goes. But I'm gonna just chug it.\n\nNurse: That's a good attitude, Mr. Koroleva. It's all about finding what works best for you. Do you have any other questions about the bowel prep?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you feel prepared, Mr. Koroleva. Let's move on to discuss the final part of your prep. Around four hours before your procedure, you'll need to finish your laxative solution and stop eating and drinking everything. Do you have any questions about this part of the prep?",
-        "our_model": "Alright, Mr. Koroleva. Now, let's move on to the next part of your prep, which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Does that make sense?"
-    }
-}

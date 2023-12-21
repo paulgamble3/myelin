@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3916,
-    "prompt": "Nurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: Okay. I do\n\nNurse: That's good to hear. Fruits can also provide a variety of nutrients.\n\nPatient: go to my nearest\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: I need to improve\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: in my name.",
-    "responses": {
-        "gpt4": "I'm sorry, Carla, could you please repeat that? Your last message was not clear to me.",
-        "our_model": "I'm sorry, Carla, could you please repeat what you said about fruits in your meals?"
-    }
-}

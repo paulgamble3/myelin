@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2978,
-    "prompt": "Patient: It was one hundred over eighty.\n\nNurse: Hold on a second while I figure out how I can best support you. Hold on a second while I figure out how I can best support you.\n\nNurse: When was your blood sugar reading of one hundred over eighty taken?\n\nPatient: This morning.\n\nNurse: Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No.\n\nNurse: Do you currently have any symptoms such as nausea or vomiting?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Do you currently have any symptoms such as abdominal pain?",
-        "our_model": "Is there any more information you want to share about this issue?"
-    }
-}

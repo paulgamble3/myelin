@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2658,
-    "prompt": "Nurse: That's wonderful, Ms. Cruz. Tomatoes are a great source of vitamins and antioxidants. How do you usually prepare your tomatoes?\n\nPatient: salads. I'd really love salads. Like, Greek\n\nNurse: That sounds delicious, Ms. Cruz. Greek salads can be a great way to include a variety of vegetables in your diet. Do you usually have any protein like chicken or fish with your salad?\n\nPatient: salad is one of my favorite salads.\n\nNurse: That sounds delicious, Ms. Cruz. Greek salads are a great way to include a variety of vegetables in your diet. Do you also include any protein sources in your salads, like chicken or beans?\n\nPatient: Yeah.\n\nNurse: That's great, Ms. Cruz. Including protein in your salads can help you feel full and satisfied. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Thank you, Ms. Cruz. The dietary recommendations for your conditions include low sodium, low salt foods, less processed foods, and limiting fluid intake. While enjoying our meals, it's crucial to remember these recommendations. Please keep this in mind when you're choosing and preparing your meals. Do you have any questions about this?",
-        "our_model": "Thank you, Ms. Cruz. One of the recommendations is to limit your fluid intake to 1.5 liters per day. This includes all fluids, not just water. Are you currently following this recommendation?"
-    }
-}

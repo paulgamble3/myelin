@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3955,
-    "prompt": "Nurse: Thank you for confirming that, Mr. Dang. It's critical to discuss your medication in relation to your upcoming procedure. Have you been instructed to stop taking Xarelto before your colonoscopy?\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: Hello?\n\nNurse: Yes, I'm here, Mr. Dang. I was asking if you've been instructed to stop taking Xarelto before your colonoscopy. [\n\nPatient: [NO RESPONSE]\n\nNurse: I'm sorry, Mr. Dang, I didn't catch your response. Have you been instructed to stop taking Xarelto before your colonoscopy?\n\nPatient: Yes. I was told to stop taking it five days before.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Mr. Dang. Let's move on to the logistics for the day of your colonoscopy. I'd like to ensure that we have all the details in order. As you may know, your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Dr. Meredith Bailey. You'll need to arrive at least one hour before your appointment, at about 9:00 AM. Does that schedule work well for you?",
-        "our_model": "Thank you for that information, Mr. Dang. It's essential to follow these instructions for your procedure. Now, let's get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1944,
-    "prompt": "Nurse: Of course. What's your question?\n\nPatient: In butter, a carb?\n\nNurse: Yes, butter is not a carbohydrate. It's a fat. However, it's important to use it in moderation as part of a balanced diet. Would you like more information on how to balance your diet?\n\nPatient: Sure.\n\nNurse: Wonderful. In addition to controlling your carbohydrate intake, it's also recommended to follow a cardiac diet. This means limiting your intake of sodium, saturated fats, and cholesterol. It's also important to include a variety of foods in your diet, such as fruits, vegetables, lean proteins, and whole grains. Do you have any questions about these recommendations?\n\nPatient: No. I don't think so.\n\nNurse: Alright. Based on what you've shared about your diet, it seems like you're already making some good choices. One suggestion could be to incorporate more non-starchy vegetables into your meals, as they are low in carbohydrates and high in fiber. Would you like to discuss more ways to align your diet with the recommendations?\n\nPatient: Not right now. But, Rachel, if you don't have you a question.",
-    "responses": {
-        "gpt4": "Of course, Sam. What's your question?",
-        "our_model": "Of course. What's your question?"
-    }
-}

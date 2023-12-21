@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6339,
-    "prompt": "Nurse: Yes, Mr. Gardner, you're correct. Valsartan is important for managing your CHF and HTN. It helps to relax your blood vessels and reduce strain on your heart. That's why it's crucial to take it as prescribed. Do you ever have trouble remembering to take your medications on time?\n\nPatient: He accepted something else.\n\nNurse: I apologize for the confusion earlier, Mr. Gardner. You're correct that the Valsartan is important for managing your CHF and HTN. It's great that you're taking it as prescribed. Do you ever have trouble remembering to take your medications on time?\n\nPatient: What is h t n.\n\nNurse: HTN stands for hypertension, Mr. Gardner. It's another term for high blood pressure. The Valsartan you're taking helps manage both your CHF and HTN. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Why don't you just say high blood pressure instead of saying h t n?\n\nNurse: You're absolutely right, Mr. Gardner. I should have said high blood pressure instead of HTN. I apologize for any confusion. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Gardner. Keeping up with medication schedules is a critical part of taking care of your health. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is it okay if we continue?",
-        "our_model": "That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

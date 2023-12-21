@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5979,
-    "prompt": "Nurse: I'm sorry, you were saying?\n\nPatient: one\n\nNurse: Thank you for sharing that information. A blood pressure reading of 90 over 60 is within the normal range, which is good news. It's essential to keep monitoring your blood pressure regularly. If you haven't already, I would recommend getting into the habit of taking your blood pressure daily. This will help your healthcare team monitor your progress and make any necessary adjustments to your treatment plan. Does that sound manageable to\n\nPatient: Ten.\n\nNurse: Thank you for sharing that information. A blood pressure reading of 90 over 100 is within the acceptable range, but the lower number is a bit high. It's important to keep an eye on this. Can I share some suggestions on how to manage your blood pressure?\n\nPatient: My understanding is that\n\nNurse: I'm sorry, you were saying something about your understanding of blood pressure?\n\nPatient: The bottom number",
-    "responses": {
-        "gpt4": "I apologize for any confusion. You were mentioning something about the bottom number of your blood pressure reading. Could you please clarify your comment?",
-        "our_model": "Yes, the bottom number, also known as the diastolic pressure, is the pressure in your arteries when your heart is resting between beats. It's generally recommended to be below 80. Your current reading is 100, which is a bit high. Would you like some suggestions on how to manage your blood pressure?"
-    }
-}

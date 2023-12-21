@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1400,
-    "prompt": "Nurse: I understand, Mr. Grewe. It's normal to hope for a smooth recovery and to be able to return home after the procedure. Your doctor will make the final decision based on your progress and recovery. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yeah. My wife is always here.\n\nNurse: That's wonderful to hear, Mr. Grewe. It's critical to have someone like your wife to support you during your recovery. Now, do you have any other questions or concerns about your upcoming procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Grewe. If you have any questions in the future, don't hesitate to ask. That was all the topics for today. Before we end this call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Well, actually, I have a random question.\n\nNurse: Of course, Mr. Grewe. I'm here to help. What's your random question?\n\nPatient: I weighed two hundred and five pounds, and I'm five foot eight inches.",
-    "responses": {
-        "gpt4": "I see, Mr. Grewe. It sounds like you're referencing your weight and height. Can you tell me more about what you're asking? Are you wondering about how your weight might impact your recovery, or is there something else on your mind?",
-        "our_model": "Thank you for sharing that, Mr. Grewe. It's essential to keep track of your weight, especially with your conditions. As you know, maintaining a healthy weight can help manage your"
-    }
-}

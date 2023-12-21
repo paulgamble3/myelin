@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3617,
-    "prompt": "Patient: Yeah.\n\nNurse: That's wonderful, Mr. Benton. You're doing a great job managing your medications. Remember, it's important to take them as prescribed to manage your kidney disease. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Well, I guess that I'm on the dash diet.\n\nPatient: It's a lot of low salt stuff.\n\nNurse: That's excellent, Mr. Benton. The DASH diet is indeed a good choice for managing your conditions. Can you share a specific meal you've had recently?\n\nPatient: Are there any dietary changes you think I can make to ask actually preserve my kidney function.\n\nNurse: It's great to hear that you're following the DASH diet, Mr. Benton. It's a good choice for managing your conditions. As for preserving kidney function, it's important to limit foods high in phosphorus and potassium. These include dairy products, bananas, oranges, and potatoes. Would you be open to some suggestions on how to adjust your diet?\n\nPatient: S.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

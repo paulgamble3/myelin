@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3226,
-    "prompt": "Nurse: Great, thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: But I know it's\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: that I gained weight.",
-    "responses": {
-        "gpt4": "Thank you for sharing that with me. Sudden weight gain can be a sign of fluid retention. Apart from the weight gain, have you noticed any swelling in your legs or ankles?",
-        "our_model": "I see. Can you tell me how much weight you've gained?"
-    }
-}

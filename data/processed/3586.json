@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3586,
-    "prompt": "Patient: Can I speak to a real doctor?\n\nNurse: I'm sorry for any confusion, Mr. Benton. As an AI, I'm here to assist you and gather information on behalf of your doctor. I can certainly help with any concerns or questions you have. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: A guess.\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I guess,\n\nNurse: I apologize for the confusion earlier, Mr. Benton. I want to ensure I understand you correctly. Are you saying that you would prefer not to continue this call or that you would like to speak with a human instead?\n\nPatient: It's fine. Just get it over with.\n\nNurse: Just give me a second to work out the best way I can assist you.",
-    "responses": {
-        "gpt4": "Okay, Mr. Benton. Does the patient have any more information they want to share about this issue?",
-        "our_model": "Okay, Mr. Benton. I appreciate your time. Is there anything else you'd like to share about your feelings towards this call?"
-    }
-}

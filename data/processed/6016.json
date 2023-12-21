@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6016,
-    "prompt": "Nurse: I appreciate your honesty. Smoking can have a significant impact on your health, especially with your current conditions. Have you ever considered quitting smoking?\n\nPatient: I've got a lot on my plate right now. I'm really not ready to quit yet.\n\nNurse: I understand that you're dealing with a lot right now and quitting smoking might not be a priority. It's a big decision to make and it's important that you're ready. Can I ask why you feel you're not ready to quit smoking yet?\n\nPatient: I enjoy it, and I'd rather move on\n\nNurse: I understand\n\nPatient: I don't wanna quit. Okay?\n\nNurse: that you I understand that you enjoy smoking and you're not ready to quit yet. That's completely okay. If you ever change your mind, I have a lot of resources that could help you. Would you like me to share these with you for future reference?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's perfectly okay. Remember, it's a big decision and it's important to make it when you're ready. We're here to support you no matter what. Moving on, let's discuss any questions you may have. Do you have any questions or concerns about your health that you'd like to discuss?",
-        "our_model": "That's perfectly fine. If you ever change your mind, please don't hesitate to ask. Now, that was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2254,
-    "prompt": "Patient: No.\n\nNurse: Have you been in contact with other individuals with diarrhea or had any recent travel, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Is there any more information you'd like to share about this issue, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for sharing this information, Mr. Valenzuela. I'm going to note down your responses for your care team to review. They may want to discuss this further with you. Now, let's move on to discussing your upcoming colonoscopy. Are you aware of the preparation steps involved?\n\nPatient: I think so. Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Valenzuela. It's important to be well-prepared. Let's go over some of the details to ensure everything goes smoothly. Have you received your bowel prep medication? It is usually a strong laxative.",
-        "our_model": "That's great, Mr. Valenzuela. Could you briefly summarize the preparation steps you're aware of?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4924,
-    "prompt": "Nurse: Creatinine is a waste product that's produced by your muscles. It's normally removed from your blood by your kidneys. When your kidneys aren't working properly, the level of creatinine in your blood can increase. Your creatinine level was 0.8 mg/dL, which is within the normal range. This suggests that your kidneys are functioning well at this time. Does that make sense?\n\nPatient: Well, that's good news.\n\nNurse: Yes, it is indeed good news. Now, let's move on to discuss your medications. You're currently taking Captopril 12.5 mg oral tablet with a dosage of 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Uh-huh.\n\nNurse: You're currently taking Captopril 12.5 mg oral tablet with a dosage of 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Apixaban 5 mg oral tablet, with a dosage of 5 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "That's excellent, Mr. Rivers. Staying up-to-date with your medication is important for managing your conditions. Let's move on to your insulin. You're prescribed Insulin Lantus 100 IU/mL prefilled pen with a dosage of 10 units every night at bedtime. Have you been taking your insulin as directed?",
-        "our_model": "That's excellent. Now, let's discuss your Insulin Lantus 100 IU/mL prefilled pen. The prescribed dosage is 10 units every night at bedtime. Have you been taking this medication as prescribed?"
-    }
-}

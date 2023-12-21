@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4580,
-    "prompt": "Nurse: That sounds like a great way to enjoy the theater, Mr. Peck. Is it a social group or a group of friends who share the same interest in theater?\n\nPatient: Yes. It's my senior group.\n\nNurse: That's wonderful, Mr. Peck. It's great to have a group of friends with similar interests. Before we move on, is there anything you've been feeling concerned about regarding your health, especially related to your kidney disease?\n\nPatient: Well,\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you said?\n\nPatient: What kind of healthy habits?\n\nNurse: I apologize for any confusion earlier, Mr. Peck. You were saying something about your health. Could you please repeat that for me?\n\nPatient: Can I",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Peck, could you please complete your sentence?",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat your question?"
-    }
-}

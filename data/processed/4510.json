@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4510,
-    "prompt": "Nurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Both legs.\n\nNurse: Hold on a second while I figure out how I can best support you. Thank you for clarifying that. Swelling in both legs can be a sign of fluid buildup, which can be related to your kidney disease and other conditions. It's important to monitor this closely. Have you noticed any changes in your diet or physical activity recently that might have contributed to this?\n\nPatient: No.\n\nNurse: Alright. I appreciate your response. It's essential to keep an eye on these symptoms and share them with your doctor. Is there anything else that's been on your mind or any questions you'd like to discuss before we move on to some specific topics regarding your kidney disease?\n\nPatient: No.\n\nNurse: Alright. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Yes. I'm sorry.",
-    "responses": {
-        "gpt4": "No need to apologize, Jon. I'm here to help. Let's proceed then. May I ask about your recent lab results? If you have them handy, it would be helpful to review them together. Would that be alright?",
-        "our_model": "No need to apologize. I'm here to help. Let's start with your blood sugar levels. Have you been checking your blood sugar daily?"
-    }
-}

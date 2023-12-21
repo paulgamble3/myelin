@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4032,
-    "prompt": "Patient: Sure. Yeah.\n\nNurse: Great, Ms. Warrell. For your cardiac diet, it's recommended to include a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit your intake of sodium, saturated fats, and added sugars. How does this fit in with your current meals?\n\nPatient: What are the recommendations\n\nNurse: Wonderful, Ms. Warrell. For a cardiac diet, it's recommended to include a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats. It's also important to limit sodium, saturated and trans fats, and added sugars. How does this compare to your current diet?\n\nPatient: Well, they told me\n\nNurse: I'm sorry, Ms. Warrell, you were saying something about what you were told about your diet?\n\nPatient: Ever since\n\nPatient: I",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Warrell, you were saying something about what you were told about your diet? Could you please repeat that?",
-        "our_model": "I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?"
-    }
-}

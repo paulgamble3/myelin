@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6313,
-    "prompt": "Nurse: I believe we've covered the main points of your colonoscopy prep, Mr. Alves. I've shared a lot of information with you, but we're almost done. I have just two more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Alves. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Alves. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No. I haven't.\n\nNurse: That's okay, Mr. Alves. You still have time to arrange a ride home after your procedure. It's essential to have someone available to pick you up when the hospital calls. Do you have any family or friends who could help with this?\n\nPatient: I'll think about it. I still have how many days, seven days a week. Right?",
-    "responses": {
-        "gpt4": "Yes, Mr. Alves. You still have a week to arrange for a ride home. Since sedation is typically used during a colonoscopy, you'll need someone to drive you home afterward. If needed, you should also have this person stay with you for a few hours once you're home. Who do you foresee might be able to help you with this?",
-        "our_model": "Yes, Mr. Alves, you have a week to arrange a ride home after your procedure. It's important to have someone on standby to pick you up when the hospital calls. Do you have any other questions or concerns about this or is there anything else you'd like to discuss?"
-    }
-}

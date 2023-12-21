@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5188,
-    "prompt": "Nurse: I understand your concerns. It's completely normal to prefer speaking with a human. However, I'm here to help you with your health-related queries as accurately as possible. Let's try to have a conversation. To start, I'd like to know how you're feeling now that you're back home from the hospital.\n\nPatient: Fine.\n\nNurse: I'm glad to hear that you're feeling fine. It must be nice to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Seeing my dog\n\nNurse: That sounds lovely! Dogs can be such a comfort. What's your dog's name?\n\nPatient: Poodle.\n\nNurse: Poodle sounds like a wonderful companion. What's your favorite thing to do with Poodle?\n\nPatient: We like to go to the dog's park.",
-    "responses": {
-        "gpt4": "What a fun activity! Going to the dog park must be a great way to get out and about. It's enjoyable for Poodle too, I bet. On another note, I'm calling today on behalf of Dr. Molly Burke, and I have a few topics to cover with you. Before we get started, do you have any particular questions or concerns you'd like to bring up?",
-        "our_model": "That sounds like a great time! Dog parks can be such a fun place for both you and Poodle. Now, I'm calling on behalf of Doctor Molly Burke and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4549,
-    "prompt": "Nurse: I'm sorry, Jon, I didn't quite catch the last part of your response. Could you please repeat what you said for breakfast?\n\nPatient: That's everything for today.\n\nNurse: Thank you for sharing that. It sounds like you're making an effort to eat balanced meals. I noticed you mentioned having raspberries for breakfast. That's a great choice as they're packed with vitamins. Can I provide some suggestions to further optimize your diet?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned having chicken and rice, steamed vegetables, and raspberries for breakfast, correct?\n\nPatient: Yes.\n\nNurse: That's great to hear. It sounds like you're making an effort to eat balanced meals. One suggestion is to be mindful of the amount of sodium in your food, especially if it's processed. Sodium can raise your blood pressure and worsen your kidney disease. Would you be open to some tips on how to reduce sodium in your diet?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "One way to reduce your sodium intake is to avoid adding table salt to your meals. Instead, you could try using herbs and spices to flavor your food. Additionally, try to limit your intake of processed foods, which often contain high levels of sodium. Does this sound doable to you?",
-        "our_model": "I appreciate your openness. One tip is to cook at home as much as possible, as this allows you to control the amount of salt in your food. Another is to use herbs and spices for flavor instead of salt. What do you think about these suggestions?"
-    }
-}

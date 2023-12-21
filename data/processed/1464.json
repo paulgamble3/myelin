@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1464,
-    "prompt": "Nurse: Thank you for clarifying, Mr. Valenzuela. Rice is a great choice for a low fiber diet. Do you have a favorite way to prepare it?\n\nPatient: I also was a little bit of hot fast.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like it with hot sauce\n\nNurse: That sounds like a tasty way to enjoy rice, Mr. Valenzuela. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I'm not.\n\nNurse: That's good to hear, Mr. Valenzuela. It's essential to stop these supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this or anything else you'd like to discuss before we move on to the next topic?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Okay, Mr. Valenzuela. Let's move onto our next important topic \ufffd\ufffd\ufffd the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep, and I'd like to know if there's anything concerning you about it or how you're generally feeling about it?",
-        "our_model": "Alright, Mr. Valenzuela. I'd like to move onto the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

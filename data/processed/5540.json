@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5540,
-    "prompt": "Nurse: Homemade bread sounds delicious, Mr. Alves.\n\nPatient: I love to make toast.\n\nNurse: That sounds delicious, Mr. Alves. Homemade bread and toast can be a good source of carbohydrates for your low fiber diet. Do you usually have any special toppings or spreads on your toast?\n\nPatient: Queen cheese.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you usually put on your toast?\n\nPatient: Cream cheese.\n\nNurse: Oh, cream cheese sounds like a great topping for your toast, Mr. Alves. It's also a good source of protein. Just remember, this is a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have any other favorite low fiber foods?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Mr. Alves. Remember that pasta and rice are also good low-fiber options. Once the low fiber diet phase is completed, the next step will involve a clear liquid diet and a colonoscopy prep solution. I will call you closer to that time to give you more details about this phase of the prep. For now, do you have any other questions or concerns about the preparation process?",
-        "our_model": "Alright, Mr. Alves. It's good to know that you enjoy your homemade bread and cream cheese. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

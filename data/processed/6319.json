@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6319,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Harley Gardner?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, to ensure I have the correct Harley Gardner, could you please provide me with your date of birth in the format of month, day, and year for verification?",
-        "our_model": "Thank you for confirming. Could you please provide your date of birth for verification purposes?"
-    }
-}

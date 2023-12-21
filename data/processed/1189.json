@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1189,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Dang. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm feeling good about it.\n\nNurse: That's great to hear, Mr. Dang. It's critical to approach these procedures with a positive attitude. Do you have any questions or concerns you'd like to discuss before we begin?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Dang. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm feeling good. I just said that\n\nNurse: I apologize for the confusion, Mr. Dang. You mentioned earlier that you're feeling good about the procedure. Could you confirm if you're currently experiencing abdominal pain?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm pleased that you're reporting no abdominal pain. Please tell me if there are any changes. Is there anything else you'd like to discuss regarding your health or the upcoming procedure?",
-        "our_model": "I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you."
-    }
-}

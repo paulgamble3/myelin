@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1232,
-    "prompt": "Nurse: I'm sorry to hear that you're feeling anxious, Ms. Raynier. It's completely normal to feel this way before a major procedure. Is there anything specific that's causing you to feel anxious?\n\nPatient: I mean, the whole surgery. It's it scares me.\n\nNurse: I can see why you might feel scared, Ms. Raynier. It's a big step. But please remember that your surgeon, Doctor Cristina Stevens, is highly experienced and has performed over 1000 total knee replacements. She's known for her excellent work. Is there anything you're looking forward to once you've recovered from your surgery?\n\nPatient: And\n\nNurse: I can see why you might feel scared, Ms. Raynier. It's a big step. But\n\nPatient: if I get\n\nNurse: I'm sorry, Ms. Raynier, you were saying something about the surgery?\n\nPatient: you know, knee replacement surgery. How long do the new joints last?",
-    "responses": {
-        "gpt4": "Great question, Ms. Raynier. Generally, the majority of knee replacements can last for 20 years and even longer, depending on factors like your overall health, lifestyle and how well you follow post-surgery care instructions. Your surgeon will provide more specific details based on your individual circumstances.",
-        "our_model": "Give me a moment while I figure out how I can best help you. That's a very valid question, Ms. Raynier. On average, knee replacements can last between 10 to 15 years. It's important to remember that everyone's experience is unique, but with proper care and rehabilitation, you can expect your new knee to serve you well for a significant period of time. Is there anything else you're concerned about regarding the surgery?"
-    }
-}

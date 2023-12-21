@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2663,
-    "prompt": "Nurse: I'm sorry, Ms. Cruz, I didn't quite catch your response. Are you currently following the fluid restriction of 1.5 liters per day?\n\nPatient: I do. I I try my best. So Hello?\n\nNurse: That's great That's great to hear, Ms. Cruz. It can be challenging, but it's important for managing your CHF. Now, another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. Are you currently following this recommendation?\n\nPatient: Yes. I am.\n\nNurse: That's excellent, Ms. Cruz. You're doing a great job managing your diet. Now, based on what you've shared about your meals, it sounds like you're already making healthy choices. Just remember to keep an eye on the sodium content in pre-packaged foods, as they can be high in sodium. Do you have any questions about your diet or any foods in particular?\n\nPatient: Do you have any thoughts? What's the\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: Well, I mean,",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Cruz, could you please repeat your question?",
-        "our_model": "I'm sorry, Ms. Cruz, could you please repeat your question?"
-    }
-}

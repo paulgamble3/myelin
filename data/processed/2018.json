@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2018,
-    "prompt": "Nurse: It's completely normal to have these concerns.\n\nPatient: You know?\n\nNurse: Absolutely, it's natural to have such concerns. The goal of a total knee replacement is to relieve the pain in your knee caused by damage to the joint. It's one of the most reliable treatments in medicine with a high success rate. As for the anesthesia, it's administered by a team of highly skilled professionals who monitor you closely throughout the procedure. They'll make sure you're safe and comfortable. Is there anything else you're worried about?\n\nPatient: Well, I think that's about it.\n\nNurse: I appreciate you sharing your concerns with me. It's important to address these feelings. Remember, you can ask me any questions at any time during our conversation. Now, I'd like to ask, what are you looking forward to doing once you've recovered from your knee replacement?\n\nPatient: I just like to be able to walk without painting.\n\nNurse: That's a wonderful goal. Walking without pain can significantly improve your quality of life. It's a simple pleasure that we often take for granted. Do you have a favorite place or route you're excited to walk again without pain?\n\nPatient: Cool. I just walked around my neighborhood.",
-    "responses": {
-        "gpt4": "That sounds lovely. Sometimes there's no place like home. It must be nice to have familiar sights and sounds on your walks. What do you enjoy most about your neighborhood walks?",
-        "our_model": "That sounds lovely. Walking in your neighborhood can be a great way to enjoy the outdoors and stay active. It's a goal worth looking forward to. Now, let's move on to some logistics. Is it okay if we review a few topics related to your upcoming procedure?"
-    }
-}

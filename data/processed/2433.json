@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2433,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?\n\nPatient: Yes.\n\nNurse: Hello, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I've been alright.\n\nNurse: I'm glad to hear that, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to going square dancing.",
-    "responses": {
-        "gpt4": "Wow, square dancing sounds like a lot of fun. How often do you go square dancing and is there a group you typically go with?",
-        "our_model": "That sounds like a lot of fun, Mr. Oliver! Square dancing is a great way to stay active. How long have you been square dancing?"
-    }
-}

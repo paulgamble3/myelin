@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6364,
-    "prompt": "Nurse: I'm sorry, Mr. Gardner, I didn't quite understand your response. Could you please repeat what kind of soup\n\nPatient: said I had\n\nNurse: and bread\n\nPatient: fish, not\n\nNurse: I'm sorry, Mr. Gardner, I'm having a bit of trouble understanding. Could you please confirm what you had for your meal?\n\nPatient: I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could\n\nPatient: fish?",
-    "responses": {
-        "gpt4": "Yes, thank you for clarifying, Mr. Gardner. You mentioned that you had fish as part of your meal. It's important to include protein in your diet. Do you usually have fish often or was this a special meal?",
-        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you."
-    }
-}

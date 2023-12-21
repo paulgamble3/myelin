@@ -1,8 +1,0 @@
-{
-    "prompt_id": 375,
-    "prompt": "Nurse: Cauliflower is a great choice, Mr. Koroleva.\n\nPatient: Pasta. I love cauliflower pasta.\n\nNurse: Cauliflower pasta sounds delicious, Mr. Koroleva. It's a great choice for your low fiber diet. Do you usually prepare it in a specific way?\n\nPatient: Are you sure that that cauliflower is low fiber? I think it's pretty high in fiber.\n\nNurse: You're correct, Mr. Koroleva. Cauliflower is high in fiber. I apologize for the confusion. It's best to avoid it in the days leading up to your colonoscopy. Do you have any other favorite low fiber foods?\n\nPatient: I mean, there's so many incredible Yummy. Low fiber fruit.\n\nNurse: Yes, Mr. Koroleva, there are indeed some yummy low fiber fruits. Can you share which ones you enjoy?\n\nPatient: Yes. As I said, I really like bread,",
-    "responses": {
-        "gpt4": "Bread is a great low fiber option, Mr. Koroleva. Do you prefer a specific type of bread, like white bread or sourdough?",
-        "our_model": "Bread is a good choice, Mr. Koroleva. It's low in fiber and can be quite comforting. Do you have a favorite type of bread or a favorite way to eat it?"
-    }
-}

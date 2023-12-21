@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4739,
-    "prompt": "Nurse: I see, thank you for clarifying. It's a good idea to weigh yourself daily, preferably at the same time each day, like in the morning after using the restroom but before eating or drinking anything. This can help us detect any sudden weight gain, which could be a sign of fluid retention. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: My recent meals are normal. I don't understand about that special diet, so I haven't been doing it.\n\nNurse: I see, could you please share what you consider to be\n\nPatient: I don't wanna deprive myself.\n\nNurse: a normal I understand that changing your diet can feel like a big step. Could you share a bit more about what you consider a normal meal?\n\nPatient: Just whatever I want.\n\nNurse: I see. It's critical to remember that our diet plays a crucial role in managing CHF and diabetes. Would it be okay if I shared some dietary recommendations with you?\n\nPatient: Soup.",
-    "responses": {
-        "gpt4": "Soup can be a good choice, but it's important to watch the sodium content, as many canned or prepared soups can be high in salt. Do you typically make your soup at home or buy it prepared?",
-        "our_model": "Soup can be a good choice, especially if it's homemade and not high in sodium. Would you like me to share some dietary recommendations that could help manage your CHF and diabetes?"
-    }
-}

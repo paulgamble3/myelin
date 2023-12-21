@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2029,
-    "prompt": "Nurse: That's good to know. It's important to avoid certain medications like blood thinners before surgery unless specifically recommended by your doctor. I also notice that you've been prescribed Oxycodone 5 mg as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes.\n\nNurse: That's good to hear. It's important to have that on hand for after the procedure. Do you have any questions about your medications or is there anything else you'd like to discuss regarding this topic?\n\nPatient: No. Not regarding my medications.\n\nNurse: Alright, I'm glad to hear that. Now, let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes.\n\nNurse: That's great, you're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. Does that sound good so far?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great. After your normal shower, turn off the water. Then, apply the chlorhexidine scrub with a clean washcloth. Gently scrub yourself from the neck down, but make sure to avoid using the scrub on your face, hair, or crotch area. Can you do that?",
-        "our_model": "Perfect. After taking a normal shower, you'll turn the water off and apply the scrub to a wet, clean washcloth. You'll then gently scrub yourself from the neck down. It's critical to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
-    }
-}

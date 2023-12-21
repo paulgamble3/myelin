@@ -1,8 +1,0 @@
-{
-    "prompt_id": 522,
-    "prompt": "Nurse: Great, I'm glad that's clear. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Rice.\n\nNurse: Rice is a great choice for a low fiber diet. It's easy to digest and can be quite comforting. Do you usually prepare it in a specific way that you enjoy?\n\nPatient: Just the regular way.\n\nNurse: That sounds simple and delicious. It's not often that doctors recommend eating low fiber comfort foods, but in this case, it's exactly what's needed for your colonoscopy prep. Do you have any other questions or concerns about the diet or anything else?\n\nPatient: No.\n\nNurse: Alright, let's move on to the topic of supplements. You'll need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I am not.",
-    "responses": {
-        "gpt4": "That makes things easier. It's important to stop these because they can interfere with the colonoscopy preparation and procedure. Please feel free to share if you have any questions about medications or supplements.",
-        "our_model": "That's good to hear. It's important to avoid those supplements and medications before your colonoscopy. Do you have any questions about this or anything else?"
-    }
-}

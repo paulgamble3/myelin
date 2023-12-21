@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4469,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Delarosa. I thought you said you had one-sided leg weakness. Could you please confirm whether this is correct?\n\nPatient: This is incorrect.\n\nNurse: I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: No. It's not correct.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: I do not have.\n\nNurse: I apologize for the confusion, Mr. Delarosa. I understand that you do not have one-sided arm weakness. Now, let's discuss your diet. Can I share some dietary recommendations with you?\n\nPatient: Yeah. What are we talking about? I have CHF and I have asthma.",
-    "responses": {
-        "gpt4": "I appreciate you confirming that you do not have one-sided arm weakness. I'm sorry for misunderstanding earlier. It's important to ensure that no new or disturbing symptoms have developed. Let's proceed.",
-        "our_model": "I apologize for the confusion earlier, Mr. Delarosa. I understand that you have CHF and asthma. Now, let's discuss your dietary recommendations. Is it okay if I share them with you?"
-    }
-}

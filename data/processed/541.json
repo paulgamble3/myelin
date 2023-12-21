@@ -1,8 +1,0 @@
-{
-    "prompt_id": 541,
-    "prompt": "Nurse: Alright, to summarize, we discussed your upcoming colonoscopy on August 13th at 9:00\n\nPatient: I have no questions, no concerns, I'm good to go.\n\nNurse: AM with I'm glad to hear that you're feeling prepared. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over your diet, medication, and bowel prep instructions. You've confirmed that you've arranged a ride home after the procedure. Does that sound right?\n\nPatient: Yes.\n\nNurse: Great, I'm glad we're on the same page. Remember, I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns in the meantime, you can reach us at 641-381-6523. Does that sound good to you?\n\nPatient: Sounds great.\n\nNurse: I'm glad to hear that. Thank you for your time today. I'm looking forward to speaking with you again next time. Enjoy your rice meals in the coming days. Take care and have a great day. Goodbye for now. [\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hi! Is there anything else you need help with?",
-        "our_model": "Hello, can you please repeat what you said?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1838,
-    "prompt": "Nurse: Yes, that's correct, Ms. Odonnell. Also, changes in urination like frothy or bubbly urine, or a decrease in the amount of urine could be signs to watch for. If you notice any of these, it's important to let your doctor know. Do you have any other questions or concerns before we move on?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Okay.\n\nNurse: Great, thank you, Ms. Odonnell. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. It was one hundred twenty one today.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood sugar level of 121 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Thank you, Ms. Odonnell. Regular physical activity like your Zumba classes can make your body more sensitive to insulin and can lower your blood glucose levels. Be sure to eat a variety of healthy foods from all food groups. The American Diabetes Association also recommends meals that are balanced with protein, whole grains, and vegetables. It's also critical to take all medication as prescribed. If you're still finding it difficult to keep your glucose levels in targeted range, a call to your primary care provider may be necessary. I hope this helps. Is there anything else you'd like to ask or know more about?",
-        "our_model": "I'm sorry, Ms. Odonnell, could you please confirm if your blood sugar level was high or low?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3389,
-    "prompt": "Nurse: Alright, Mr. Kageyama. I'm glad to hear that you're clear on when to stop eating and drinking before your procedure. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Kageyama. I appreciate your patience. Now, I'd like to ask if you've been feeling well lately. Have you had any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Kageyama. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yeah. My son's gonna let him know.\n\nNurse: That's great to hear, Mr. Kageyama. It's critical to have someone available to take you home after the procedure. I'm glad to hear that your son will be there for you. Do you have any other questions or concerns about the logistics of your procedure?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Great, Mr. Kageyama. Well, that covers all the topics for today. I know it's been a lot of information, and I appreciate your time and patience. Before we wrap up, do you have any other questions or concerns that you'd like to discuss?",
-        "our_model": "Alright, Mr. Kageyama. That was all the topics for today. Before we wrap up, do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

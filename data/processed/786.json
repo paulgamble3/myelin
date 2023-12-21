@@ -1,8 +1,0 @@
-{
-    "prompt_id": 786,
-    "prompt": "Patient: Go ahead. It's gonna need\n\nPatient: too.\n\nNurse: Thank you, Ms. Aguirre. One way to manage blood pressure is by reducing sodium intake. This can be achieved by eating less processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Oh my gosh. Like, I haven't heard that before.\n\nNurse: I understand, Ms. Aguirre. It's a common suggestion, but it can make a big difference. Would you be willing to try reducing your sodium intake?\n\nPatient: Into. I had\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: stage four chronic kidney disease.",
-    "responses": {
-        "gpt4": "Yes, Ms. Aguirre, you're correct. It's particularly important to manage blood pressure and maintain a healthy diet for individuals with stage four chronic kidney disease. Would it be alright if we discuss some dietary considerations specific to kidney health?",
-        "our_model": "I appreciate your patience, Ms. Aguirre. Could you please repeat what you said about having Stage IV Chronic Kidney Disease?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2452,
-    "prompt": "Nurse: That's excellent, Mr. Oliver. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Mr. Oliver. It's important to take your medications as prescribed to manage your conditions effectively. I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble remembering to take your medications?\n\nPatient: Know.\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I said no.\n\nNurse: That's great to hear, Mr. Oliver. It's important to take your medications as prescribed. I also want to remind you that there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Oliver. We've covered a lot today. Is there anything else you'd like to discuss or any other questions you have?",
-        "our_model": "Alright, Mr. Oliver. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

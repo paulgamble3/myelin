@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3756,
-    "prompt": "Nurse: I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Ms. Odonnell. I was asking about your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: My blood pressure sure I took it this morning.\n\nNurse: That's great, Ms. Odonnell. Could you please tell me what the result was?\n\nPatient: Yes. It was eighty over one hundred.\n\nNurse: Thank you for sharing that, Ms. Odonnell. A blood pressure reading of 80 over 100 is within the normal range, which is good news. It's critical to keep monitoring it regularly. If you're open to it, I can share some suggestions about managing blood pressure. Would that be okay?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Wonderful, Ms. Odonnell. Similar to managing diabetes, maintaining a healthy diet and regular physical activity are key to managing your blood pressure. This includes eating plenty of fruits, vegetables, whole grains, lean proteins, and limiting foods that are high in salt and saturated fats. Staying active can also help. It's recommended to do at least 30 minutes of moderate-intensity exercise most days of the week. How do you feel about these suggestions?",
-        "our_model": "Great, Ms. Odonnell. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fewer processed foods and not adding extra salt to meals. Also, incorporating more fruits and vegetables into your diet can help. What do you think about this suggestion?"
-    }
-}

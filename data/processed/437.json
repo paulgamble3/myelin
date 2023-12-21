@@ -1,8 +1,0 @@
-{
-    "prompt_id": 437,
-    "prompt": "Nurse: I'm sorry, could you please repeat your question?\n\nPatient: Yeah. Could you help me to learn the phoneword or the Penn Penn Reliver Aleve. What's the other medication?\n\nNurse: Of course.\n\nPatient: For?\n\nNurse: Of course, I apologize if I misunderstood your question earlier. Could you please repeat it?\n\nPatient: The the medications that they prescribed to me. What are they for?\n\nNurse: Absolutely, let me explain.\n\nPatient: Why?",
-    "responses": {
-        "gpt4": "I apologize for the confusion, could you please repeat your question for me?",
-        "our_model": "Absolutely, let me explain. Tylenol is a pain reliever and is often used to manage mild to moderate pain. It's often used after surgery to help manage any discomfort you might experience. Tramadol, on the other hand, is a stronger pain reliever. It's typically used for more severe pain and is often prescribed after surgeries like yours. Does that help clarify things for you?"
-    }
-}

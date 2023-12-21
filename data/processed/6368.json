@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6368,
-    "prompt": "Patient: With vegetables, and bread.\n\nNurse: Thank you for confirming that, Mr. Gardner. It's good to hear that you're including fish and vegetables in your meals. Now, I'd like to remind you of your dietary recommendations. Is it okay if I share them with you?\n\nPatient: Yeah. Go ahead.\n\nNurse: When did the change in speech start?\n\nPatient: What changes\n\nPatient: page.\n\nNurse: I'm sorry Does the patient report sudden arm or leg weakness?\n\nPatient: I don't know what you're talking about.",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Mr. Gardner. I meant to ask, have you noticed any sudden weakness or numbness in your arm or leg recently?",
-        "our_model": "Does the patient report numbness on their arms or legs?"
-    }
-}

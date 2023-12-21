@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3264,
-    "prompt": "Patient: Yes.\n\nNurse: Thank you, Patient. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Patient. Now, have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, thank you for confirming. It's important to monitor these symptoms. I'm sorry, there seems to have been a misunderstanding. Are you experiencing shortness of breath or wheezing currently?",
-        "our_model": "I apologize for the confusion earlier. I'm glad to hear that you're not experiencing any ongoing or worsening chest pain. Now, have you noticed any new or worsening dry cough?"
-    }
-}

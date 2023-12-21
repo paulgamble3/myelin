@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5741,
-    "prompt": "Patient: I'm supposed to be on a Reno low carb, low salt\n\nNurse: I'm sorry, Ms. Aguirre, your voice cut out a bit there. Could you please repeat your question?\n\nPatient: diet. What food should I be eating considering I'm stage four CKD patient?\n\nNurse: Just give me a second to work out the best way I can assist you. Hold on a second while I figure out how I can best support you.\n\nNurse: I appreciate your question, Ms. Aguirre. As a Stage IV CKD patient, it's important to follow a diet that's low in sodium, potassium, and phosphorus. This means avoiding processed foods, certain fruits and vegetables, and dairy products. Instead, you should focus on fresh fruits and vegetables, lean proteins, and whole grains. For example, a balanced meal could include grilled chicken, steamed broccoli, and brown rice. Would you like more specific suggestions or do you have any other questions about your diet?\n\nPatient: No. That helps. Thank you.\n\nNurse: You're welcome, Ms. Aguirre. I'm glad I could help. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's been good.",
-    "responses": {
-        "gpt4": "That's good to hear, Ms. Aguirre. It's important to continue with any prescribed physical therapy to aid in your recovery. Now, let's discuss your hyperlipidemia. Have you been monitoring your cholesterol levels per your doctor's recommendations?",
-        "our_model": "I'm glad to hear that, Ms. Aguirre. Are you experiencing any pain or discomfort, or are you able to move around as you were before the surgeries?"
-    }
-}

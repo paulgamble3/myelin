@@ -1,8 +1,0 @@
-{
-    "prompt_id": 74,
-    "prompt": "Nurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: I said yes.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: Hello?\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: Yes.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Is the swelling causing you any discomfort or impeding you from carrying out your normal activities?",
-        "our_model": "Does the swelling start suddenly, Ms. Ware?"
-    }
-}

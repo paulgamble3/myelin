@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3026,
-    "prompt": "Nurse: Alright. I'm glad we could go over the logistics. Before we move on to discuss your medications, I want to take a pause. Are you ready to move forward?\n\nPatient: Yes.\n\nNurse: Excellent. I see on your chart that you're currently taking Ferrous Sulfate 200 mg once a day. For your colonoscopy, you'll need to stop taking this medication 5 days prior to the procedure. That means you should stop taking it on August 12. Does that make sense?\n\nPatient: Yes.\n\nNurse: Excellent. Do you have any questions about stopping this medication?\n\nPatient: No.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to know. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in general?",
-        "our_model": "That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in general?"
-    }
-}

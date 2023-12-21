@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5135,
-    "prompt": "Nurse: Alright. If any questions come up later, feel free to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have any fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after the procedure?\n\nPatient: Yes. I have. My sister's picking me up.\n\nNurse: That's great to hear. It's essential to have someone to take you home after the procedure. Do you have any questions about the day of the procedure or is there anything else you'd like to discuss?\n\nPatient: No. I don't have any other questions.",
-    "responses": {
-        "gpt4": "I appreciate your time and patience today. That was all the topics for us to review today. Before we end the call, do you have any other questions or concerns that you'd like to discuss?",
-        "our_model": "Alright. If any questions come up later, feel free to ask. That was all the topics for today. Do you have any questions or concerns that you'd like to discuss?"
-    }
-}

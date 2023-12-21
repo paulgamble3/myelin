@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4380,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you enjoy doing at home?\n\nPatient: So I've been doing a a lot of painting.\n\nNurse: Oh, painting! That sounds wonderful. It must be a great way to relax and express your creativity. What kind of paintings do you enjoy doing?\n\nPatient: Okay.\n\nNurse: That sounds wonderful. Painting can be such a therapeutic activity. What kind of paintings do you enjoy creating?\n\nPatient: Acrylic.\n\nNurse: Acrylic paintings can be quite vibrant and beautiful. Do you have a favorite subject or theme that you like to paint?\n\nPatient: Humanity.",
-    "responses": {
-        "gpt4": "That's interesting! Painting with humanity as a theme must be very profound. Could you please tell me more about it? I didn't quite understand.",
-        "our_model": "That's a powerful theme, humanity. It must be rewarding to capture the essence of people on your canvas. Now, I'm calling on behalf of Doctor Sarah Forbes and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2664,
-    "prompt": "Nurse: That's great That's great to hear, Ms. Cruz. It can be challenging, but it's important for managing your CHF. Now, another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. Are you currently following this recommendation?\n\nPatient: Yes. I am.\n\nNurse: That's excellent, Ms. Cruz. You're doing a great job managing your diet. Now, based on what you've shared about your meals, it sounds like you're already making healthy choices. Just remember to keep an eye on the sodium content in pre-packaged foods, as they can be high in sodium. Do you have any questions about your diet or any foods in particular?\n\nPatient: Do you have any thoughts? What's the\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: Well, I mean,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat your question?\n\nPatient: I do have lots of thoughts. I miss my regular food.",
-    "responses": {
-        "gpt4": "I can understand how challenging dietary changes can be, especially when it means missing out on foods you love. It's important to remember that these changes are made with the aim of improving your health and managing your heart failure. This doesn't mean you can never have your favorite foods again, you might just have to find healthy alternatives or have them less often. Do you need help with any recipe modifications or finding low-sodium versions of your favorite foods?",
-        "our_model": "I can understand that, Ms. Cruz. It's normal to miss the taste of foods we're used to. Could you share more about the types of food you miss?"
-    }
-}

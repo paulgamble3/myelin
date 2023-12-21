@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2901,
-    "prompt": "Nurse: That's great, Mr. Douglas. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Time.\n\nPatient: No. I don't think so.\n\nNurse: Alright, Mr. Douglas. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been doing my best to\n\nPatient: Because I have p p k u.\n\nNurse: I appreciate your efforts, Mr. Douglas.\n\nPatient: Do you have any advice about, like, what food I should stay away from with that?",
-    "responses": {
-        "gpt4": "Of course, I'd be glad to provide some information. It's important to monitor your protein intake due to PKU. Also, because of your CHF, you should also maintain a low-sodium diet and limit fluid intake to 1.5 liters per day. It might seem a bit overwhelming, but even small changes can make a big difference. Is it okay if I share some dietary recommendations with you?",
-        "our_model": "Absolutely, Mr. Douglas. With PKU, it's important to limit foods high in protein. This includes meat, fish, eggs, dairy products, nuts, and seeds. Also, due to your CHF, it's recommended to follow a cardiac low sodium diet, a low protein diet, and a 1.5 Liters Fluid Restriction. Would it be okay if I share some dietary recommendations with you?"
-    }
-}

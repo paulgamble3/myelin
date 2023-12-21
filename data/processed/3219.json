@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3219,
-    "prompt": "Nurse: Alright, let's move on to your medications then. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear. And how about Gabapentin?\n\nPatient: Yes.\n\nNurse: Good, and are you also taking Tylenol as needed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Lastly, are you taking your Potassium once a day as prescribed?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "Excellent, you're doing a great job staying on top of your medications. Do you ever find it challenging to take your medications on time? ",
-        "our_model": "That's excellent. You're doing a great job managing your medications. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
-    }
-}

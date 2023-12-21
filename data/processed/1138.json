@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1138,
-    "prompt": "Nurse: Alright, Mr. Cardenas. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Rodriguez?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear, Mr. Cardenas. It's critical to take your medications as prescribed to manage your CHF. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble taking your medication on time?\n\nPatient: No. Not really. It's pretty easy since\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how\n\nPatient: there's only two medications and only\n\nNurse: That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: know, I take them at the same time every day and night.",
-    "responses": {
-        "gpt4": "It sounds like you have a good system in place for managing your medications, Mr. Cardenas. Regular timing can be very helpful. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?",
-        "our_model": "That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6001,
-    "prompt": "Nurse: Alright, if it's okay with you, I'd like to discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to eat lots of salad.\n\nNurse: That's great to hear, salads can be a good source of fiber and various vitamins. Could you tell me more about the types of salads you've been having?\n\nPatient: Own dressing. Italian.\n\nNurse: That's great to hear that you're incorporating salads into your meals. Salads can be a good source of fiber and various vitamins. However, some salad dressings can be high in sodium. Would it be alright if I provide some suggestions on how to make your meals more kidney-friendly?\n\nPatient: Hello?\n\nNurse: Hello, I'm here. I was saying that it's great you're eating salads and I'd like to provide some suggestions on how to make your meals align better with the renal diet. Is that okay?\n\nPatient: Well, I was",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what you said?",
-        "our_model": "I'm sorry, could you please repeat what you just said?"
-    }
-}

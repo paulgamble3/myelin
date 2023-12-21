@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3428,
-    "prompt": "Nurse: Wonderful, Mr. Jimenez. It's critical to have a plan in place for when you return home. Have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Jimenez. It's critical to have someone with you for a few days after the procedure to help with daily activities. If there's anything else you need to discuss or any questions you have, feel free to share. [\n\nPatient: [NO RESPONSE]\n\nNurse: Alright, Mr. Jimenez. That was all the topics for today. Before we wrap up, do you have any other questions or concerns?\n\nPatient: Nope. No other questions.\n\nNurse: Alright, Mr. Jimenez. That was all the topics for today. Before we end this call, do you have any other questions or concerns?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear. Before we say goodbye, I just want to summarize the steps you need to take before the procedure:\n\n1. Continue taking your Tylenol, Celebrex, and Atorvastatin as prescribed. \n2. Discuss taking Aspirin with your doctor. \n3. Use the chlorhexidine scrub the night before and the morning of your procedure. \n4. Don't eat or drink anything after midnight before your surgery. \n5. Arrange for a ride home from the hospital and someone to stay with you for a few days post-surgery.\n \nCan I count on you to do all of this, Mr. Jimenez?",
-        "our_model": "Alright, Mr. Jimenez. To summarize, before your procedure, remember to use the chlorhexidine scrub the night before and the morning of your procedure. Also, remember not to eat or drink anything after midnight before your procedure. Can I count on you to do all of this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1218,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Dang. You'll need to finish your laxative solution and stop everything 4 hours before your procedure. This includes water and any other clear liquids. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. I appreciate your patience. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's wonderful, Mr. Dang. It's critical to have a ride home after your colonoscopy as you will not be able to drive yourself. Now, that should cover all our topics for today. Do you have any lingering questions or concerns you'd like to discuss?",
-        "our_model": "That's great to hear, Mr. Dang. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the day of your procedure?"
-    }
-}

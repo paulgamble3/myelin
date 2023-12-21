@@ -1,8 +1,0 @@
-{
-    "prompt_id": 988,
-    "prompt": "Nurse: Thank you for sharing that. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of this. Now, let's talk about your blood pressure. When did you last measure your blood pressure, and what was the result?\n\nPatient: I last measured it earlier today, and it was\n\nNurse: I'm sorry, you were saying?\n\nPatient: one hundred over eighty\n\nNurse: Thank you for that information. A blood pressure reading of 100 over 80 is within the normal range, which is good news. It's essential to keep monitoring it regularly. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yes. What's in\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Lites does GF Army.",
-    "responses": {
-        "gpt4": "Ah, you're asking about GFR. GFR stands for Glomerular Filtration Rate. Essentially, it's a test to measure how well your kidneys are filtering waste and extra fluid out of your blood. A normal GFR can vary depending on age, sex, and size but is typically above 60. Your GFR is currently at 43, indicating that your kidneys aren't working as well as a healthy one would. This is part of why we're keeping such close tabs on your health. Do you have any other questions about your lab results?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your question?"
-    }
-}

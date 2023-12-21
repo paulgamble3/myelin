@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4366,
-    "prompt": "Nurse: Of course, Mr. Oliver. What else would you like to discuss?\n\nPatient: What habits I should prevent from that will\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat your question?\n\nPatient: what happens I should stop so I can prevent going on dialysis?\n\nNurse: That's a very important question, Mr. Oliver. While I can't predict the future, there are certain lifestyle habits that can help slow the progression of kidney disease. Would you like me to share some of these with you?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Oliver. One habit to consider is maintaining a healthy diet. This includes limiting sodium, potassium, and phosphorus, which can be found in certain foods. It's also important to stay hydrated and avoid overusing over-the-counter medications. Regular exercise can also help manage your conditions and overall health. What do you think about these suggestions?\n\nPatient: Dot",
-    "responses": {
-        "gpt4": "Mr. Oliver, I didn't quite understand your last message. Could you please repeat your question or comment?",
-        "our_model": "I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

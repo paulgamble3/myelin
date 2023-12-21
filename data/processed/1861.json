@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1861,
-    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please repeat your question?\n\nPatient: I think it's manageable. Thank you.\n\nNurse: You're welcome, Ms. Odonnell. I'm glad to hear that you find these suggestions manageable. Remember, it's all about balance and making small changes. Now, let's move on to your sodium intake. It's recommended to limit sodium to less than 2000 mg per day. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh, I've today, I had some\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your meal today?\n\nPatient: Shrimp tacos.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you had for lunch today?\n\nPatient: I had shrimp tacos.",
-    "responses": {
-        "gpt4": "Thank you for sharing, Ms. Odonnell. Shrimp tacos can be a good choice, especially if they're made with fresh ingredients. Just remember to watch out for high-sodium additives like certain sauces and cheeses. Could we discuss a few more points before we wrap up our conversation?",
-        "our_model": "Thank you for sharing that, Ms. Odonnell. Shrimp tacos can be a part of a balanced diet, but it's important to be mindful of the sodium content, especially in the tortillas and any sauces or seasonings used. Would it be alright if I provide some suggestions on how to make your meals healthier?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2415,
-    "prompt": "Nurse: That's correct, Tylenol is not a blood thinner. However, it's important to note that you've also been prescribed Tylenol 1000 mg three times a day as needed, Dilaudid 2 mg three times a day as needed, and Gabapentin 300 mg three times a day for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes. I have.\n\nNurse: That's great. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: No. I don't think so.\n\nNurse: Alright. If you have any questions in the future, don't hesitate to ask. Now, let's talk about how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes.\n\nNurse: That's excellent. Now, let's go over the instructions for using the scrub. You'll need to use it the night before and the morning of your procedure. First, you'll take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Great. After your shower, with the water off, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Just remember to avoid using the scrub on your face, hair or crotch area. Can you do that?",
-        "our_model": "Wonderful. After that, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's essential to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
-    }
-}

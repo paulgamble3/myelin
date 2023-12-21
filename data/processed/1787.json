@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1787,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Six seven seventy seven?",
-    "responses": {
-        "gpt4": "Great, thank you, Mr. Jimenez. I'm calling regarding your upcoming total knee replacement surgery that's scheduled for August 13th. Is this a good moment to talk about this?\n",
-        "our_model": "Thank you for confirming, Mr. Jimenez. I'm calling about your upcoming total knee replacement. Is this a good time to talk?"
-    }
-}

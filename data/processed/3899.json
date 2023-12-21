@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3899,
-    "prompt": "Nurse: That's a very important question. Would it be okay if we go over a few topics related to your kidney disease and diet?\n\nPatient: Sure.\n\nNurse: Great. Let's start with your blood sugar. Since you have Stage I CKD and Lupus, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent. Could you please share your last blood sugar reading at home?\n\nPatient: He was one\n\nNurse: I'm sorry, Carla, could you please repeat your last blood sugar reading?\n\nPatient: fifteen.",
-    "responses": {
-        "gpt4": "A blood sugar level of 115 mg/dL is generally considered to be in the normal range. However, I would recommend continuing daily monitoring to ensure it stays that way. I see that you're on top of things.\n\nMoving on, could you please tell me when you last measured your blood pressure, and what the result was?",
-        "our_model": "Thank you for sharing that. Your blood sugar level is within the normal range, which is good for your kidney health. Now, when was the last time you took your blood pressure measurement?"
-    }
-}

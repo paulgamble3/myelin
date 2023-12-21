@@ -1,8 +1,0 @@
-{
-    "prompt_id": 568,
-    "prompt": "Patient: Well, I've been doing my best follow the diet, eating a lot of\n\nPatient: seamed veggies, A lot whole grains,\n\nNurse: That's great to hear.\n\nPatient: and seems like that. Every once in a while, I'll have a heart healthy yogurt,\n\nNurse: That sounds like a good start. It's great that you're focusing on vegetables and whole grains. How about proteins?\n\nPatient: I usually stick with, like, fish for protein?\n\nNurse: That's excellent. Fish is a great source of protein. How about snacks and drinks?\n\nPatient: I'm really just the water gal. I drink a lot of water. I don't really drink soda or coffee or anything like that. Yeah.",
-    "responses": {
-        "gpt4": "That's fantastic. Staying hydrated with water is healthier than sugary or caffeinated drinks. How about snacks? Do you enjoy any specific kinds?",
-        "our_model": "That's fantastic. Staying hydrated is important, especially with CHF. As for snacks, what do you usually go for?"
-    }
-}

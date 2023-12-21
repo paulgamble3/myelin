@@ -1,8 +1,0 @@
-{
-    "prompt_id": 992,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: E.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: By my labs,\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question about your labs?\n\nPatient: I see the acronym g\n\nNurse: I'm sorry, I'm having a bit of trouble understanding\n\nPatient: f r.",
-    "responses": {
-        "gpt4": "I apologize for misunderstanding earlier, it sounds like you're asking about the term 'GFR'. Is that right?",
-        "our_model": "Ah, I see. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood. A GFR of 43 mL/min/1.73m2, like yours, indicates that your kidneys are not working at their full capacity. It's critical to monitor this with regular tests. Does that help clarify things?"
-    }
-}

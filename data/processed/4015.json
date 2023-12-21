@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4015,
-    "prompt": "Nurse: That's great to hear, Ms. Warrell. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Ms. Warrell. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No, ma'am.\n\nNurse: That's good to hear, Ms. Warrell. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: I apologize for the confusion earlier, Ms. Warrell. Could you please confirm whether you've been using more pillows at night to sleep?\n\nPatient: Of course.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you've been able to maintain your usual sleep habits, Ms. Warrell. Using more pillows can sometimes be a sign of worsening heart failure, as it can indicate difficulty breathing while laying flat. However, since you're not experiencing this, it's a positive sign. Is there anything else you'd like to discuss today?",
-        "our_model": "Give me a moment while I figure out how I can best help you. Give me a moment to check how I can best support you."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3340,
-    "prompt": "Nurse: Alright, Mr. Winner. I'm glad we could discuss that. I know we've covered a lot of information, but we're almost done. Do you have any questions so far?\n\nPatient: No questions.\n\nNurse: Great, Mr. Winner. I just have a couple more questions for you. Firstly, have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Winner. It's important to be in good health before your procedure. Now, I see that your anticipated discharge plan is to go home after the procedure. Is that still correct?\n\nPatient: Yes.\n\nNurse: Great, Mr. Winner. It's essential to have a plan in place for after your procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes. I got it all settled, like, months ago. When I was scheduled for the surgery.",
-    "responses": {
-        "gpt4": "That's excellent, Mr. Winner. It's always beneficial to plan ahead to ensure your transition home is as smooth as possible. I just want to remind you that the person who will pick you up and stay with you should be ready to come when the hospital calls. Can I count on you to remember that?",
-        "our_model": "That's excellent, Mr. Winner. It's important to have someone to assist you after the procedure. If you didn't have a ride home yet, I would have reassured you that you still have time to figure it out. But you will indeed need to get someone to be on standby to come pick you up when the hospital calls and stay with you afterwards."
-    }
-}

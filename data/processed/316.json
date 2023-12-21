@@ -1,8 +1,0 @@
-{
-    "prompt_id": 316,
-    "prompt": "Patient: I wanna know\n\nNurse: Yes. What would you like to know about your recent lab results?\n\nPatient: what\n\nNurse: Of course. What would you like to know about your recent lab results?\n\nPatient: Done.\n\nPatient: And Priya to nine is\n\nNurse: I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?\n\nPatient: And what what do I mean and what",
-    "responses": {
-        "gpt4": "I'm sorry, Damian, your voice cut out. Could you please repeat what you said?",
-        "our_model": "I'm sorry, Damian, I didn't quite catch that. Could you please repeat your question?"
-    }
-}

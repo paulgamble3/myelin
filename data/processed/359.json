@@ -1,8 +1,0 @@
-{
-    "prompt_id": 359,
-    "prompt": "Nurse: Yes, Mr. Koroleva. It's a significant step, and I hope this procedure gives you and your doctor the answers you're looking for. If it's okay with you, I'd like to go over a few topics on prep for your colonoscopy. Would that be alright?\n\nPatient: Yes.\n\nNurse: Great, Mr. Koroleva. I'm calling today to ensure you have everything you need for your upcoming colonoscopy. I will also call you again the day before your procedure to check in. Do you have any questions or concerns you'd like to discuss before we move forward?\n\nPatient: Not at the moment.\n\nPatient: Thank you.\n\nPatient: [NO RESPONSE]\n\nNurse: Alright, Mr. Koroleva. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?\n\nPatient: Okay. Yes.",
-    "responses": {
-        "gpt4": "Wonderful, Mr. Koroleva. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound suitable to you?",
-        "our_model": "Great, Mr. Koroleva. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
-    }
-}

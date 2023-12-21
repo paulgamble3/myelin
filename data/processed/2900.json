@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2900,
-    "prompt": "Nurse: That's good to hear, Mr. Douglas. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great, Mr. Douglas. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Time.\n\nPatient: No. I don't think so.\n\nNurse: Alright, Mr. Douglas. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been doing my best to\n\nPatient: Because I have p p k u.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're being mindful of your meals, Mr. Douglas, especially since your PKU requires some dietary considerations. Do you have any favorite meals you've been enjoying?",
-        "our_model": "I appreciate your efforts, Mr. Douglas."
-    }
-}

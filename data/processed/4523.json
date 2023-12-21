@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4523,
-    "prompt": "Nurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: That's good to hear. It's important to keep an eye on your blood sugar levels. Would you be open to some suggestions on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned that you're not currently experiencing any symptoms like sweating, correct?\n\nPatient: Correct.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please confirm if you're feeling dizzy at the moment?\n\nPatient: No. I'm not feeling busy.",
-    "responses": {
-        "gpt4": "I'm sorry for the misunderstanding, I thought I heard you say earlier that you were feeling dizzy. Can you confirm that you are not, in fact, feeling dizzy?",
-        "our_model": "I'm glad to hear that you're not feeling dizzy. It's critical to monitor your blood sugar levels regularly. Would you be open to some suggestions on how to manage your blood sugar levels?"
-    }
-}

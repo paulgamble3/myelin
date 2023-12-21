@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5676,
-    "prompt": "Nurse: Embroidery sounds like a wonderful way to spend your time. It's a creative outlet and can be very therapeutic. Do you have a favorite design or pattern that you enjoy working on?\n\nPatient: I haven't done it in so long, and I wanted to get back into it. So I'm really just to seeing the\n\nNurse: I'm sorry, I didn't quite catch that. Could\n\nPatient: dishes right now.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to with your embroidery?\n\nPatient: This thing is\n\nNurse: I'm sorry, I didn't quite understand that. Could you please repeat what you're looking forward to with your embroidery?\n\nPatient: sitches again. I'm out of practice.",
-    "responses": {
-        "gpt4": "That's understandable, I'm sure it will come right back to you. It's exciting to get back to something you enjoy. Let's just confirm a few things about how you've been feeling, if that's okay? I believe you mentioned a change in speech symptom earlier. Is that correct?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm if you're experiencing a change in your speech?"
-    }
-}

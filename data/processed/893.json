@@ -1,8 +1,0 @@
-{
-    "prompt_id": 893,
-    "prompt": "Nurse: Thank you for sharing that with me, Mr. Wiggins. I know it's not easy to talk about. Have you ever considered quitting smoking?\n\nPatient: I'm not really interested in quoting.\n\nNurse: I appreciate your honesty, Mr. Wiggins. It's a big decision to make. Could you share why you're not interested in quitting at this time?\n\nPatient: Just not ready. It's too hard. I don't wanna deal with it.\n\nNurse: I can see how you might feel that way, Mr. Wiggins. It's a big change and it's not easy. If you ever decide you're ready to explore quitting, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: No. That's okay.\n\nNurse: Alright, Mr. Wiggins. If you ever change your mind, please don't hesitate to ask. We're here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Wiggins. Just to summarize, you've agreed to continue monitoring your blood sugar and blood pressure levels, taking your medications as prescribed, maintaining a balanced vegan diet, and engaging in regular physical activity. Can I count on you to do these things?",
-        "our_model": "Alright, Mr. Wiggins. To summarize, you've agreed to continue monitoring your blood sugar and blood pressure, taking your medications as prescribed, and maintaining a balanced diet. Can I count on you to continue these practices?"
-    }
-}

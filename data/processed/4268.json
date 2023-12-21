@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4268,
-    "prompt": "Nurse: That's great to hear, Mr. Shyam. Remember, these changes can take time and it's okay to make them gradually. Now, let's talk about your exercise routine. Could you tell me about your current routine?\n\nPatient: I go on a couple of walks a week. That's kind of my main source.\n\nNurse: That's a good start, Mr. Shyam. Walking is a great low-impact exercise. Do you mind if I provide some recommendations about improving your exercise routine in a CHF appropriate manner?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Shyam. It's important to gradually increase your activity level as your strength and endurance improve. This could mean adding an extra walk each week or extending the length of your walks. It's also beneficial to incorporate some light strength training exercises, like lifting small weights or using resistance bands. Remember, it's always important to listen to your body and not push yourself too hard. Does this sound manageable to you?\n\nPatient: Yeah. It does.\n\nNurse: That's great to hear, Mr. Shyam. Remember, it's okay to start slow and gradually increase your activity level. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright, Mr. Shyam. I'll be sure to pass along the information about your progress and our conversation to Dr. Rodriguez. Before we end the call, do you have any remaining questions or concerns I can help with?",
-        "our_model": "Alright, Mr. Shyam. I'll be sure to inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
-    }
-}

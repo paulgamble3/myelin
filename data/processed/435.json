@@ -1,8 +1,0 @@
-{
-    "prompt_id": 435,
-    "prompt": "Nurse: That's excellent.\n\nPatient: I'm a good student.\n\nNurse: That's excellent. It's important to follow these instructions for your surgery. Now, I notice that you've also been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications yet?\n\nPatient: I did. Yeah. Can you tell me what is the score? Is this pain relievers.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Yeah. Could you help me to learn the phoneword or the Penn Penn Reliver Aleve. What's the other medication?\n\nNurse: Of course.\n\nPatient: For?",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that?",
-        "our_model": "Of course, I apologize if I misunderstood your question earlier. Could you please repeat it?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1341,
-    "prompt": "Nurse: Great, You're welcome. Are you currently taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I'm not.\n\nNurse: That's good to know. I want to make sure you're taking the correct dosage of Tylenol. You should be taking 1000 mg three times a day as needed for pain, not just up to three times a day. Does that clarify things for you?\n\nPatient: Alright.\n\nNurse: Thank you for confirming. Now, I notice that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yeah.\n\nNurse: that you've also been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: What?",
-    "responses": {
-        "gpt4": "I apologize, there has been a misunderstanding. You should not have been prescribed Oxycodone 10 mg. Your medication is Tylenol 500 mg, which can be taken up to 1000 mg three times a day as needed for pain. This is the medication you should be taking to manage your osteoarthritis pain, not Oxycodone. Please disregard the information about Oxycodone and continue with your prescribed regimen of Tylenol. Can you please confirm that you understand this correction?",
-        "our_model": "I apologize for any confusion. I was referring to your current medication, Tylenol 500 mg. You can take this as needed for pain, up to three times a day. Have you picked up this prescription yet?"
-    }
-}

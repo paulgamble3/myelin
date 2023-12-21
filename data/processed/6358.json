@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6358,
-    "prompt": "Nurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said about your meals since you got back from the hospital?\n\nPatient: dish with some vegetables.\n\nNurse: That sounds like a healthy choice, Mr. Gardner. Can you tell me more about the dish and the types of vegetables you\n\nPatient: And\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch the last part of your meal. Could you please repeat it?\n\nPatient: piece of bread.\n\nNurse: Thank you for sharing that, Mr. Gardner. It sounds like you're making an effort to include vegetables in your meals, which is great. Can you tell me more about the type of soup you had and the kind of bread?\n\nPatient: I had",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Gardner, your response got cut off. Could you please repeat that?",
-        "our_model": "I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what kind of soup and bread you had?"
-    }
-}

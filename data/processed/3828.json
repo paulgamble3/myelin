@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3828,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Hardy. Your blood pressure reading is within the normal range, which is good. It's important to keep monitoring it regularly. Would it be okay if I share some suggestions about managing your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Hardy. One way to manage your blood pressure is by reducing your salt intake. This can be done by eating less processed foods and not adding extra salt to your meals. Another strategy is to maintain a healthy weight. This can be achieved through a balanced diet and regular physical activity, which you're already working on. Lastly, limiting alcohol and avoiding tobacco can also help manage your blood pressure. Do you feel these are strategies you could incorporate into your lifestyle?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Hardy. Your willingness to make these changes will really help in managing your blood pressure. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about these results?\n\nPatient: I do.\n\nNurse: Of course, Mr. Hardy. What would you like to know about your recent lab results?\n\nPatient: What does GFR mean? And",
-    "responses": {
-        "gpt4": "GFR stands for Glomerular Filtration Rate. This number tells us how well your kidneys are working. Your GFR is at 90 milliliters per minute, which is within the normal range. This means that your kidneys are doing a good job at filtering your blood. Do you have any other questions about your lab results?",
-        "our_model": "Great question, Mr. Hardy. GFR stands for Glomerular Filtration Rate."
-    }
-}

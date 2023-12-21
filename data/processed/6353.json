@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6353,
-    "prompt": "Patient: That's\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment while I figure out how I can best help you.\n\nPatient: correct.\n\nNurse: That's great to hear, Mr. Gardner. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: My meal?\n\nPatient: Since I got back from the hospital,\n\nNurse: Yes, Mr. Gardner. Could you tell me about some of the meals you've had since you got back from the hospital?\n\nPatient: lasix night, I had",
-    "responses": {
-        "gpt4": "I apologize for the confusion, Mr. Gardner. But, it seems your response was cut-off. Could you please tell me about the meals you've had since you got back from the hospital? ",
-        "our_model": "I'm sorry, Mr. Gardner, your voice cut out a bit there. Could you please repeat what you said about your meals since you got back from the hospital?"
-    }
-}

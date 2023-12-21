@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2228,
-    "prompt": "Nurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone available to take you home after the procedure. Do you have any questions about the day of the procedure?\n\nPatient: My friend is gonna pick me up.",
-    "responses": {
-        "gpt4": "Great, it will definitely be helpful to have your friend there for you. With that, we've covered all the topics for today. Do you have any questions or concerns you'd like to talk about?",
-        "our_model": "That's great to hear. It's critical to have someone available to take you home after the procedure. Do you have any other questions or concerns about the logistics of your procedure?"
-    }
-}

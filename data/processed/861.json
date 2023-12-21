@@ -1,8 +1,0 @@
-{
-    "prompt_id": 861,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Cortez Wiggins?\n\nPatient: Yes.\n\nNurse: Thank you for confirming, Mr. Wiggins. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming your date of birth, Mr. Wiggins. I'm calling on behalf of your primary care doctor, Doctor Maria Smith, to check in on you. How have you been doing lately?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Wiggins. Is there anything you're looking forward to doing this week?\n\nPatient: I haven't really thought about it. Margo see a movie.",
-    "responses": {
-        "gpt4": "That sounds like a nice plan! Do you know yet what movie you and Margo might watch, or do you like to decide that together when you get to the theater?",
-        "our_model": "That sounds like a nice plan, Mr. Wiggins. Do you have a particular movie in mind that you're interested in seeing?"
-    }
-}

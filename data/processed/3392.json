@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3392,
-    "prompt": "Patient: Good afternoon.",
-    "responses": {
-        "gpt4": "Good afternoon! This is Rachel, your chronic care management AI Nurse. May I confirm if I'm speaking with the person who is a patient of Dr. Herbert Barrymore, Daniel?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?"
-    }
-}

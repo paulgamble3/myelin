@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1038,
-    "prompt": "Nurse: That's good. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I haven't.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Nope. I don't.",
-    "responses": {
-        "gpt4": "Alright. Now let's move along to diet. It's important to discuss diet since it can play a big role in managing your conditions. Could you share what you typically eat in a day?",
-        "our_model": "Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?"
-    }
-}

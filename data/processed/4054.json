@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4054,
-    "prompt": "Nurse: Alright. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes. I have.\n\nNurse: Great, and how have you been taking your Lasix?\n\nPatient: Just fine.\n\nNurse: That's good to hear. Now, are you still taking your Valsartan?\n\nPatient: Mhmm.\n\nNurse: That's great. It's important to keep up with your medications. I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble taking your medication on time?\n\nPatient: No. I'm pretty good about my routine.",
-    "responses": {
-        "gpt4": "That's excellent to hear, keeping up with your medication can really help manage your CHF. Given that you're managing so well, do you mind if we move on to discuss any symptoms you might be experiencing?",
-        "our_model": "That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

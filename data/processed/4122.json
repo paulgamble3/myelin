@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4122,
-    "prompt": "Patient: I stopped\n\nNurse: I'm sorry, Paula, could you please repeat what you said?\n\nPatient: questions in regards to my diet. Can you tell me\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question about your diet?\n\nPatient: Which diet should I be following?\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: No.\n\nPatient: Can you tell me which diet should I be following with my condition?",
-    "responses": {
-        "gpt4": "Yes, of course. Could you first please remind me what your specific condition or diagnosis is so I can provide a more tailored answer?",
-        "our_model": "I'm glad you asked. As a CHF and CKD patient, it's important to follow a diet that's low in sodium and potassium. You're also on a vegetarian diet, which can be beneficial for your conditions. However, I would recommend discussing this with your dietician who can provide a more personalized plan. Would you like me to arrange a consultation with your dietician?"
-    }
-}

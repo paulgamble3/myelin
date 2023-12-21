@@ -1,8 +1,0 @@
-{
-    "prompt_id": 828,
-    "prompt": "Nurse: Those sound like wonderful ways to spend time with your grandkids, Mr. Oliver. Movies and ice cream are always a hit. Do you have a favorite movie or ice cream flavor that you all enjoy?\n\nPatient: I personally like chocolate chip.\n\nNurse: Chocolate chip is a classic, Mr. Oliver. It's always a delight. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Oliver. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure.\n\nNurse: Wonderful, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Oliver. Could you please share with me your last blood sugar reading at home?",
-        "our_model": "That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

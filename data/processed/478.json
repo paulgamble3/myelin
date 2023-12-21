@@ -1,8 +1,0 @@
-{
-    "prompt_id": 478,
-    "prompt": "Nurse: I'm sorry to hear that the dry cough is still bothering you. It's good that it's a bit better, but we'll continue to monitor it. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: Well, they waived me at the ER. And\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I was a hundred and eighty eight pounds. But I haven't weighed myself since then because my bathroom scales broke.\n\nNurse: I see, it's important to monitor your weight regularly as sudden weight gain can be a sign of fluid retention. When you get a chance, could you please get your weight checked at a pharmacy or a friend's house?\n\nPatient: Yeah. I can try to do that.",
-    "responses": {
-        "gpt4": "That's great. It's really important for monitoring your health. Now, regarding your appetite, have you noticed any changes? Are you still able to eat and drink normally, or have you had a decrease in appetite?",
-        "our_model": "That would be very helpful. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

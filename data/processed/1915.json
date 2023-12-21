@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1915,
-    "prompt": "Nurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm looking forward to being back in my own home and being in my own.\n\nNurse: That sounds wonderful.\n\nPatient: Space.\n\nNurse: That sounds wonderful. There's nothing quite like the comfort of your own home. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: Yeah. I'm building my own car.\n\nNurse: That's fantastic! Building a car is quite an undertaking. How long have you been working on this project?\n\nPatient: Well, there are a bunch of miniature cars",
-    "responses": {
-        "gpt4": "That sounds like a really fun project! Can you tell me more about these miniature cars? Are they replicas of certain models?",
-        "our_model": "Oh, I see. Miniature car building is a fascinating hobby. How long have you been working on these miniature cars?"
-    }
-}

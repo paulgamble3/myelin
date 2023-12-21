@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2578,
-    "prompt": "Nurse: Gingerbread cookies sound delicious!\n\nPatient: Thank you.\n\nNurse: Gingerbread cookies sound delicious. It's great that you have a favorite activity that brings you all together. Before we move on to discuss your kidney disease, is there anything else you've been feeling or experiencing that you're concerned about?\n\nPatient: No. Never\n\nNurse: Alright. If you ever have any concerns or questions, feel free to share them with me at any time. Would it be alright if we go over a few topics related to your health now?\n\nPatient: Yes.\n\nNurse: Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great to know you're keeping track of your blood sugar levels. Could you please tell me what your last blood sugar reading at home was?",
-        "our_model": "That's great to hear. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

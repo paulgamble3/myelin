@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2942,
-    "prompt": "Nurse: That's excellent, Ms. McKloskey. It's essential to have the chlorhexidine scrub ready. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. Does that sound good so far?\n\nPatient: Yes. That sounds just fine.\n\nNurse: Okay, Ms. McKloskey. After taking a normal shower, you'll turn the water off. Then, you'll apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. Can you do that?\n\nPatient: Yes. I can do that.\n\nNurse: Okay, Ms. McKloskey. Just remember to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: Yes.\n\nNurse: Excellent, Ms. McKloskey. Finally, you will need to rub gently for 5 minutes then rinse the solution off and pat dry with a clean towel. I know that's a lot. Do you have any questions about the chlorhexidine scrub?\n\nPatient: Are you still there?",
-    "responses": {
-        "gpt4": "Yes, I'm here, Ms. McKloskey. Just remember, after applying the chlorhexidine scrub, gently rub for 5 minutes, then rinse the solution off and pat dry with a clean towel. I know that's a lot to remember. Can you do that?",
-        "our_model": "Yes, I'm here, Ms. McKloskey. Do you have any questions about the chlorhexidine scrub or the instructions I just provided?"
-    }
-}

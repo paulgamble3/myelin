@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3415,
-    "prompt": "Nurse: That's good to hear, Mr. Jimenez. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Sometimes I take aspirin\n\nNurse: Thank you for sharing that, Mr. Jimenez. It's important to note that medications like Aspirin are blood thinners and typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I would advise you to discuss this with your doctor. I also notice that you've been prescribed Oxycodone 5 mg as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Jimenez. Do you have any questions about your medications or is there anything else you'd like to discuss regarding this topic?\n\nPatient: No.\n\nNurse: Alright, Mr. Jimenez. Let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you have the chlorhexidine scrub, Mr. Jimenez. Let's go over the instructions together. You will need to use the scrub the night before and the morning of your procedure. Does that sound manageable so far?",
-        "our_model": "That's excellent, Mr. Jimenez. You're well-prepared. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?"
-    }
-}

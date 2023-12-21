@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5557,
-    "prompt": "Nurse: Alright, Mr. Alves. I'm glad to hear that you're clear on when to stop eating and drinking before your procedure. It's important to follow these instructions to ensure your colonoscopy goes smoothly. Do you have any other questions or concerns about your preparation?\n\nPatient: No. I can't.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said about your preparation for the colonoscopy?\n\nPatient: I don't have any questions.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that you're clear on all the instructions so far. I know we've covered a lot of information, but we're almost done. I just have two more questions for you. Before we proceed, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. I appreciate your patience. My first question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Mr. Alves. I'm pleased to hear you're not feeling unwell. It's very important that you arrive to your appointment feeling as healthy as possible. Now, for the last question before we end our conversation. Have you arranged a ride to take you home after the procedure? Having a caregiver drive you home after the procedure is required.",
-        "our_model": "That's good to hear, Mr. Alves. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5275,
-    "prompt": "Patient: On my blood work, There's something that says b u n, and then there's another one that says prazaminin.\n\nPatient: What do they mean?\n\nNurse: Thank you for clarifying, Ms. Rivers. BUN stands for Blood Urea Nitrogen. It's a waste product that's produced in your body and is filtered out by your kidneys. A high BUN level could indicate that your kidneys aren't working as well as they should be. Creatinine is another waste product that your kidneys filter out. A high creatinine level could also indicate kidney problems. Does that help clarify things for you?\n\nPatient: Yeah.\n\nNurse: I'm glad to hear that, Ms. Rivers. If you have any other questions about your lab results, feel free to ask.\n\nPatient: Yeah.\n\nNurse: I'm glad I could help clarify that for you, Ms. Rivers. Now, I'd like to review your medications with you. You're currently taking Captopril 12.5 mg oral tablet, 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "That's great to hear, Ms. Rivers. Sticking to your medication schedule is crucial for managing your conditions. Now let's move onto your next medication. You're also taking Apixaban 5 mg oral tablet, twice a day. Are you taking this medication as prescribed?",
-        "our_model": "That's great to hear, Ms. Rivers. Taking your medication as prescribed is crucial for managing your conditions. Now, let's move on to the next medication. You're also taking Apixaban 5 mg oral tablet, 5 mg two times a day. Have you been taking this medication as prescribed?"
-    }
-}

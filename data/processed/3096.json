@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3096,
-    "prompt": "Nurse: That sounds lovely. Cats can be such wonderful companions. What's your cat's name?\n\nPatient: His name is president Lincoln.\n\nNurse: President Lincoln, that's quite a name! He must have been thrilled to have you back home. Now, I'm calling on behalf of Doctor Phil Steele to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. I don't think so.\n\nNurse: Alright, let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Bumex and Captopril?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear. It's essential to keep up with your medications. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble with this?\n\nPatient: I guess maybe every once in a while.",
-    "responses": {
-        "gpt4": "It's okay, you're not alone. It happens to many of us. Would it be okay with you if I suggested a few strategies that might help you manage your medications more effectively?",
-        "our_model": "It's quite common to miss a dose here or there. Would it be alright if I shared some suggestions on how to manage this?"
-    }
-}

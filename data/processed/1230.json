@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1230,
-    "prompt": "Nurse: Okay, thank you for taking the time to speak with me, Ms. Raynier. How has your day been so far?\n\nPatient: So I'm\n\nNurse: I'm sorry, Ms. Raynier, you were saying something about your day?\n\nPatient: I'm very anxious about the surgery.\n\nNurse: I'm sorry to hear that you're feeling anxious, Ms. Raynier. It's completely normal to feel this way before a major procedure. Is there anything specific that's causing you to feel anxious?\n\nPatient: I mean, the whole surgery. It's it scares me.\n\nNurse: I can see why you might feel scared, Ms. Raynier. It's a big step. But please remember that your surgeon, Doctor Cristina Stevens, is highly experienced and has performed over 1000 total knee replacements. She's known for her excellent work. Is there anything you're looking forward to once you've recovered from your surgery?\n\nPatient: And",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat what you were saying?",
-        "our_model": "I can see why you might feel scared, Ms. Raynier. It's a big step. But"
-    }
-}

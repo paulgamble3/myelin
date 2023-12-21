@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4138,
-    "prompt": "Patient: I had a salad. A few hours ago.\n\nPatient: A chicken salad.\n\nNurse: That sounds like a healthy choice. What kind of salad was it?\n\nPatient: A chicken salad?\n\nNurse: Yes, I understand it was a chicken salad. Could you tell me more about it?\n\nPatient: What do you wanna know?\n\nNurse: Could you tell me what ingredients were in your chicken salad?\n\nPatient: Chicken, lettuce, tomatoes, onions, mushrooms.",
-    "responses": {
-        "gpt4": "That sounds like a well-balanced plate. It's important to incorporate lots of colorful vegetables in your meals. When considering your cardiac and CKD conditions, how about we replace the chicken with beans or tofu to align with your vegetarian diet and reduce protein load on your kidneys? How does that sound to you?",
-        "our_model": "That sounds like a balanced meal. How about the dressing?"
-    }
-}

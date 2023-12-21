@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5961,
-    "prompt": "Nurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Sandline.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to doing this week?\n\nPatient: My family will be visiting me.\n\nNurse: That sounds lovely, family visits are always something to look forward to. How often do you get to see your family?\n\nPatient: Not enough, sadly.\n\nNurse: I'm sorry to hear that, it must be tough not seeing them as often as you'd like. What activities do you usually enjoy doing with your family when they visit?\n\nPatient: Ford Games.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat the activities you enjoy doing with your family?",
-        "our_model": "I'm sorry, I didn't quite understand that. Could you please tell me more about the activities you enjoy doing with your family when they visit?"
-    }
-}

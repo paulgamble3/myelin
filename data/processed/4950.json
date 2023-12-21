@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4950,
-    "prompt": "Patient: a Mercola column that I was reading.\n\nNurse: I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?\n\nPatient: C o l a does this website or\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: or a column or something like that. And and he was saying that you can manage CHF with dietary supplements. And alternative types of therapies, like,\n\nPatient: know, I guess things like meditation or dietary supplements, things like\n\nNurse: When did you start noticing these changes in your speech, Mr. Hooper?\n\nPatient: I don't know Saint John's Ward. I don't even know what he's proposing.",
-    "responses": {
-        "gpt4": "Mr. Hooper, as an AI medical assistant, I strongly advise discussing any potential use of supplements or alternative therapies with your healthcare provider first, as they may interact with your current medications. However, I would like to return to an earlier question: have you been experiencing any difficulty speaking or changes in your speech lately?",
-        "our_model": "When did you start noticing these changes in your speech, Mr. Hooper?"
-    }
-}

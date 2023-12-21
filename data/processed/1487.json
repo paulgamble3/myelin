@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1487,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: It's been good so far.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm ready then.\n\nNurse: That's great to hear, Mr.\n\nPatient: I'm ready to get it over with.",
-    "responses": {
-        "gpt4": "That's a positive outlook, Mr. Valenzuela. It's completely natural to feel eager to get the procedure done. It's also essential to understand why this is being performed. Based on your chart, this colonoscopy is being performed due to unexplained and long-lasting diarrhea. Is that correct?",
-        "our_model": "I can appreciate that sentiment, Mr. Valenzuela. It's quite a process to go through, but it's great that you're ready to take this step. I see from your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. How are you feeling about this?"
-    }
-}

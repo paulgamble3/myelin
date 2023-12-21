@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3713,
-    "prompt": "Nurse: Thank you. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No Moss Aleve.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said no muscle aches.\n\nNurse: Thank you for clarifying. It's good to hear that you're not experiencing any signs of illness. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Right.\n\nNurse: Excellent. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That's",
-    "responses": {
-        "gpt4": "Great. Lastly, I wanted to verify if you've arranged for someone to take you home and stay with you after the procedure. It's very important that you aren't alone during the initial stage of your recovery.",
-        "our_model": "Great."
-    }
-}

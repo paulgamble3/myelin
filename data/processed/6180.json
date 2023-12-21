@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6180,
-    "prompt": "Nurse: Thank you for confirming, Ms. Shannon. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yep.\n\nNurse: Okay, thank you. How has your day been so far, Ms. Shannon?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Shannon. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm really, really, really scared.\n\nNurse: I'm really sorry to hear that you're feeling scared, Ms. Shannon. It's completely normal to feel this way. Can you tell me more about what's causing you to feel scared?\n\nPatient: I've never had a colonoscopy before.",
-    "responses": {
-        "gpt4": "I see, it's understandable to feel a bit nervous when facing something new like this. However, rest assured, your gastroenterologist, Dr. Meredith Bailey, is really excellent in her field. She has performed over 1500 colonoscopies and has trained at leading institutions such as Cornell Medical School and Stanford University Hospital. Would it help to know more details about what to expect during and after the procedure?",
-        "our_model": "I see, Ms. Shannon. It's completely normal to feel a bit anxious when facing a new medical procedure. I'm here to help you understand the process and hopefully alleviate some of your concerns. Would you like me to go over a few topics on prep for your colonoscopy?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 420,
-    "prompt": "Nurse: Great, thank you. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Okay.\n\nNurse: Does that timing work for you?\n\nPatient: That's okay. Yep. That sounds good.\n\nNurse: Excellent. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Sound good?\n\nNurse: Okay. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Nope. Not at all.",
-    "responses": {
-        "gpt4": "Alright. I would like to discuss your medications next, but before we dive in, is there anything you would like to ask or discuss?",
-        "our_model": "I'm glad to hear that."
-    }
-}

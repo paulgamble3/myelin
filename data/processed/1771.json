@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1771,
-    "prompt": "Nurse: Chicken is a great choice, especially if it's cooked without the skin or any high-fiber stuffing. It's lean and easy to digest. Do you usually prepare it in a specific way?\n\nPatient: Mashed potatoes,\n\nNurse: Those are excellent choices. Chicken and mashed potatoes are both low in fiber and can be quite comforting. Do you usually prepare them in a specific way?\n\nPatient: Yeah.\n\nNurse: That's great. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the next topic. You'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Okay.\n\nNurse: Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for confirming that. If you start taking any such medication or supplement prior to your colonoscopy, please make sure to notify your doctor as they could potentially interfere with the effectiveness of the colonoscopy. Do you have any questions about this subject?",
-        "our_model": "Alright."
-    }
-}

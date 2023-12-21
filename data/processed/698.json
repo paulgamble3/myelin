@@ -1,8 +1,0 @@
-{
-    "prompt_id": 698,
-    "prompt": "Nurse: Yes, I'm here. I apologize for the delay. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: I said no.\n\nNurse: I understand. Thank you for your time. Now, could you tell me about your current exercise routine?\n\nPatient: I'm walking.\n\nNurse: That's great! Walking is a\n\nPatient: That's about all I can do right now. Is locked.\n\nNurse: Walking\n\nPatient: And I'm walking.",
-    "responses": {
-        "gpt4": "That's great! walking is a good way to stay active. Everyday activities like shopping or doing housework also count as physical activity. \n\nWould it be alright if I provide some tips for safely increasing your physical activity level?",
-        "our_model": "is a That's great. Walking is a wonderful form of exercise. How often and for how long do you walk?"
-    }
-}

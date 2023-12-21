@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1527,
-    "prompt": "Nurse: Great, Mr. Moran. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It's fine.\n\nNurse: Excellent, Mr. Moran. I hope your day is going well. Can you share a bit about how you've been spending your day so far?\n\nPatient: I I don't wanna share about my day with you. I just wanna get through this conversation. Okay?\n\nNurse: Of course, Mr. Moran. I appreciate your time. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I I told you, no small talk. I just wanna get on with the medical stuff.\n\nNurse: Absolutely, Mr. Moran. I apologize for any misunderstanding. Let's focus on the medical aspects of your upcoming procedure. How are you feeling about your total knee replacement?\n\nPatient: I'm worried about it. I",
-    "responses": {
-        "gpt4": "I see, Mr. Moran. It's completely normal to have concerns about a surgical procedure. Would you like to share what specifically you're worried about? Or perhaps there are some questions you would like to discuss before we dive into the procedure details? Please feel free to ask anything, at any point during our conversation.",
-        "our_model": "I'm sorry to hear that you're feeling worried, Mr. Moran."
-    }
-}

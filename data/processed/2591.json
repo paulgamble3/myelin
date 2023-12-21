@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2591,
-    "prompt": "Nurse: I'm sorry, Alex, I didn't quite understand the second part of your response. Could you please repeat what your blood pressure reading was?\n\nPatient: Ninety over a hundred and ten.\n\nNurse: Thank you for sharing that. It's essential to keep an eye on your blood pressure. If you're comfortable with it, I can provide some recommendations on how to manage your blood pressure. Would that be alright?\n\nPatient: Sure.\n\nNurse: Excellent. One strategy is to maintain a healthy diet. This includes eating a variety of foods, but especially focusing on fruits, vegetables, and lean proteins. It's also important to limit foods high in sodium. Do you feel you're able to incorporate this into your daily routine?\n\nPatient: Yes.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you think you could incorporate some form of physical activity into your daily routine?\n\nPatient: Yeah. I can go for a walk around the park.",
-    "responses": {
-        "gpt4": "That sounds like a great plan, Alex. Walking is a fantastic way to help manage your blood pressure while also enjoying the outdoors. Keep up the good work, and don't hesitate to reach out if you have any questions or concerns. Is there anything else you'd like to talk about today?",
-        "our_model": "That's wonderful. Walking is a great way to stay active and it can really help in managing your blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

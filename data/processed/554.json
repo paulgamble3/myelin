@@ -1,8 +1,0 @@
-{
-    "prompt_id": 554,
-    "prompt": "Nurse: Alright, let's move on to your medications then. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes. I have.\n\nNurse: Great, and how have you been taking your Lasix 20 mg tablets?\n\nPatient: Just as prescribed.\n\nNurse: That's excellent. Now, have you also picked up your new prescription for Lisinopril 10 mg oral tablets?\n\nPatient: Yes. I have.\n\nNurse: Good to hear. And are you taking the Lisinopril 10 mg tablets as prescribed by Doctor Chang?\n\nPatient: Yep. I am.",
-    "responses": {
-        "gpt4": "That's wonderful, Lily. Consistency in taking your medication is key. Let's briefly touch on your existing medications. Are you still taking Potassium, Metoprolol, and Tylenol as prescribed?",
-        "our_model": "That's great. Now, let's briefly discuss your existing medications. Are you still taking Potassium, Metoprolol, and Tylenol as prescribed?"
-    }
-}

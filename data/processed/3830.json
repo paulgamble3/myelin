@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3830,
-    "prompt": "Nurse: That's great to hear, Mr. Hardy. Your willingness to make these changes will really help in managing your blood pressure. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about these results?\n\nPatient: I do.\n\nNurse: Of course, Mr. Hardy. What would you like to know about your recent lab results?\n\nPatient: What does GFR mean? And\n\nNurse: Great question, Mr. Hardy. GFR stands for Glomerular Filtration Rate.\n\nPatient: what does your an albumin mean?\n\nNurse: Great questions, Mr. Hardy. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Your GFR is 90 mL/min/1.73m2, which is within the normal range. Albumin is a type of protein that's normally found in the blood. Your urine albumin is 82 mg/g, which is a bit high. This can be a sign of kidney damage. It's critical to continue monitoring this with your doctor. Does that help clarify things for you?\n\nPatient: Yes. It does.",
-    "responses": {
-        "gpt4": "I'm glad I could help clarify that for you, Mr. Hardy. If you have any more questions about your labs in the future, don't hesitate to ask. Now, if we can, let's transition to your medications. You're currently taking a 5mg oral tablet of Lisinopril daily. Have you been taking this medication as prescribed?",
-        "our_model": "I'm glad I could help clarify that for you, Mr. Hardy. Now, let's discuss your medications. You're currently taking Lisinopril 5 mg oral tablet, 5 mg daily. Have you been taking this medication as prescribed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4716,
-    "prompt": "Nurse: Absolutely. I'm here to help you understand your condition and how to manage it. Let's move on to your next medication. Have you been able to pick up your Carvedilol 3.125 mg oral tablets from the pharmacy?\n\nPatient: Yes.\n\nNurse: That's great to hear. Just to confirm, you're taking 3.125 mg of Carvedilol three times a day, correct?\n\nPatient: Yes.\n\nNurse: Thank you for confirming that. Now, let's discuss your Hydrochlorothiazide. Have you been able to pick up your Hydrochlorothiazide 50 mg oral tablets from the pharmacy?\n\nPatient: Yes.\n\nNurse: That's good to hear. Just to confirm, you're taking 50 mg of Hydrochlorothiazide two times a day, correct?\n\nPatient: Correct.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Audrey. It's good to know that you have your new medications. Are you continuing to take your Metformina?",
-        "our_model": "Great, thank you for confirming that. Now, are you still taking your Metformin?"
-    }
-}

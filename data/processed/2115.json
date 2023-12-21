@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2115,
-    "prompt": "Nurse: That's great to hear. Now, let's discuss your other chronic conditions. You also have hypertension. How have you been managing this condition?\n\nPatient: It's been okay.\n\nNurse: I'm glad to hear that. Regular monitoring of your blood pressure and taking your medication as prescribed are key to managing hypertension. Now, let's discuss your obesity. Have you been able to make any changes to your diet or physical activity to help manage this condition?\n\nPatient: I just told you I'm eating more salad.\n\nNurse: I apologize for the oversight. Eating a balanced diet, like the one you're describing, is a great step towards managing obesity. Regular physical activity is also important. Have you been able to incorporate any physical activity into your routine?\n\nPatient: Yes. I usually will do stuff with my dogs.\n\nNurse: That's fantastic! Regular physical activity, like the time you spend with your dogs, can really help manage your weight. Now, let's discuss your alcohol use disorder. Have you been able to manage your alcohol consumption?\n\nPatient: Yeah. One day at a time.",
-    "responses": {
-        "gpt4": "That's a positive attitude. Remember, each day is a victory. Now, let's transition into discussing your tobacco usage, if applicable. Do you currently smoke cigarettes or use other forms of tobacco, such as vape products?",
-        "our_model": "That's a great approach. It's essential to remember that every day you choose not to drink is a success. Now, let's move on to the last topic. Do you smoke cigarettes or vape?"
-    }
-}

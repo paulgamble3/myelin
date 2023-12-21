@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3337,
-    "prompt": "Nurse: Yes, Mr. Winner.\n\nPatient: Not what about water?\n\nNurse: Yes, Mr. Winner, even water should not be consumed after midnight before your procedure. This is to ensure your stomach is completely empty for the anesthesia. It's a crucial safety measure. Do you have any other questions about this?\n\nPatient: Know.\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you said?\n\nPatient: I said no.\n\nNurse: Alright, Mr. Winner. I'm glad we could discuss that. I know we've covered a lot of information, but we're almost done. Do you have any questions so far?\n\nPatient: No questions.",
-    "responses": {
-        "gpt4": "That's great, Mr. Winner. Let's cover clothing and what to bring on the day of surgery. It's best to wear loose comfortable clothing. You may want to consider a button-up shirt as it might be difficult to pull a shirt over your head after surgery. Do you have any questions about what to bring or wear?",
-        "our_model": "Great, Mr. Winner. I just have a couple more questions for you. Firstly, have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?"
-    }
-}

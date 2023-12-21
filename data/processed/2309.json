@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2309,
-    "prompt": "Nurse: Ah, \"Steinfeld\". It's always nice to have a show that you enjoy. How did you come to start watching it?\n\nPatient: It's very popular.\n\nNurse: Popular shows often have a lot to offer, Mr. Kageyama. It's great that you've found one that you enjoy. Now, I'd like to talk about your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Kageyama, I'm here. I was asking about your feelings towards the upcoming colonoscopy. How are you feeling about it?\n\nPatient: I'm fine with it.\n\nNurse: I'm glad to hear that you're feeling okay about it, Mr. Kageyama. It's quite a process to go through this procedure. I see on your chart that you're getting this colonoscopy for preventative screening for colon cancer. How are you feeling about this?\n\nPatient: Well, as I said, I'm I'm fine. It's preventative.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Kageyama. Prevention is indeed better than cure. Let's go through some information about the procedure. The procedure usually takes about 30-60 minutes. You'll be given a sedative to help you relax and sleep through it. After the procedure, you'll be kept under observation for a while before you can go home. Do you have any questions so far?",
-        "our_model": "I appreciate your patience, Mr. Kageyama. It's great that you're taking this step to take care of your health. Do you have any questions or concerns about the procedure that you'd like to discuss before we move forward?"
-    }
-}

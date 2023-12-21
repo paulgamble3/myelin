@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1254,
-    "prompt": "Nurse: I apologize for the confusion earlier, Ms. Raynier. I thought you mentioned Advent Adventville, which I couldn't find in our records. Could you please clarify which medication you were referring to?\n\nPatient: In.\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat which medication you were referring to earlier?\n\nPatient: Let's move on.\n\nNurse: Of course, Ms. Raynier. Do you have any questions about your medications or is there anything else you'd like to discuss regarding them?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: I have. Yes.",
-    "responses": {
-        "gpt4": "Great, that's already a step ahead, Ms. Raynier. Now, let's go over the instructions for using the scrub. Firstly, you'll need to use it both the night before and the morning of your surgery. You'll start by taking a shower like you typically do. Does that sound alright so far?",
-        "our_model": "That's great to hear, Ms. Raynier. The chlorhexidine scrub is available at most pharmacies over the counter. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. Does that sound good so far?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3159,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry, Mr. Valenzuela. Could you please clarify your response?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry for the confusion, Mr. Valenzuela. I was asking if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches.\n\nPatient: Yeah. I said, no. I haven't.\n\nNurse: Thank you for clarifying, Mr. Valenzuela. It's critical to monitor for any signs of illness leading up to your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes. I have Yes. I have.",
-    "responses": {
-        "gpt4": "That's great, Mr. Valenzuela. It's crucial to have a ride home after the procedure since you'll be sedated and won't be able to drive yourself. We want to make sure you're safe. Is there anything else you want to discuss?",
-        "our_model": "That's great to hear, Mr. Valenzuela. It's critical to have someone available to take you home after the procedure, as you may still be feeling the effects of the sedation. Do you have any other questions or concerns about the logistics of the day of the procedure?"
-    }
-}

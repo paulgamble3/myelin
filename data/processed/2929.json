@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2929,
-    "prompt": "Nurse: I'm glad to hear that, Ms. McKloskey. Let's move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you, Ms. McKloskey. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's good to hear, Ms. McKloskey. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I have. Are you there?\n\nNurse: Yes, I'm here, Ms. McKloskey. Thank you for confirming that you've been taking your Tylenol as prescribed. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I'm not on any other",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Ms. McKloskey. It's important to note that, unless your doctor has specifically recommended otherwise, medications like Advil, Aspirin, and Aleve typically need to be stopped before a knee replacement. Would you like me to provide you with more information on this?",
-        "our_model": "That's good to hear, Ms. McKloskey. It's critical to avoid certain medications before surgery. I also notice that you've been prescribed Oxycodone 10 mg four"
-    }
-}

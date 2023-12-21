@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5194,
-    "prompt": "Nurse: Wonderful. And how have you been taking your Lasix?\n\nPatient: Orally\n\nNurse: That's correct. You're taking it orally, but I meant to ask if you've been taking it twice a day as prescribed. Have you been able to follow this schedule?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's briefly discuss your existing medications. Are you still taking Digoxin, Enalapril, Sumpatriptan, Triamcinolone ointment, Metformin, Riboflavin, Atorvastatin, Lantus, Tramadol, Levothyroxine, and Tylenol as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. It's critical to keep up with your medications. I understand that it can sometimes be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?\n\nPatient: No. I use the pull box.",
-    "responses": {
-        "gpt4": "A pill box is a great strategy to keep track of medications! You're doing a fantastic job. Shall we move on to discuss how you've been feeling in terms of your symptoms? Is that alright with you?",
-        "our_model": "That's a great strategy. Using a pill box can be very helpful in managing multiple medications. You're doing a great job. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

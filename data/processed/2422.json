@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2422,
-    "prompt": "Nurse: That's great. Having the instructions handy will be very helpful. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: I can certainly try.\n\nNurse: That's all we can ask for. Your effort is greatly appreciated.\n\nPatient: Okay.\n\nNurse: That's all we can ask for. Your effort is greatly appreciated. Now, let's discuss the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: I\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I didn't say anything.",
-    "responses": {
-        "gpt4": "My apologies for the confusion. Would you like me to continue?",
-        "our_model": "No problem at all. Let's move on to the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?"
-    }
-}

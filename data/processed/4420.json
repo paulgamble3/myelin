@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4420,
-    "prompt": "Nurse: Great. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.\n\nNurse: Okay. I'm glad to hear that you're doing well. My next question is about your current health status. Do you have any signs of illness such as a fever, chills, or muscle aches?\n\nPatient: No. I don't.\n\nNurse: That's good to hear. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "Perfect. Lastly, have you arranged for a ride home and for someone to stay with you after the procedure? This is very important because you will need assistance immediately following the procedure.",
-        "our_model": "Excellent. It's important to have a comfortable and safe place to recover after your procedure. Now, my last question is about your transportation and support at home. Have you arranged for a ride home and for someone to stay with you after the procedure?"
-    }
-}

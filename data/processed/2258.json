@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2258,
-    "prompt": "Nurse: That's great, Mr. Valenzuela. Could you briefly summarize the preparation steps you're aware of?\n\nPatient: Are you there?\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. Hold on a second while I figure out how I can best support you.\n\nPatient: Great.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: Are you there, Rachel?\n\nNurse: I'm sorry for any confusion earlier, Mr. Valenzuela. Can you please confirm what you just said?\n\nPatient: I said are you there, Rachel?",
-    "responses": {
-        "gpt4": "I apologize if there was any misunderstanding earlier. Could you please confirm what you said? I want to ensure I'm providing you with the correct assistance.",
-        "our_model": "Give me a moment to check how I can best support you. Give me a moment while I figure out how I can best help you."
-    }
-}

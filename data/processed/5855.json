@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5855,
-    "prompt": "Nurse: I can appreciate that, Mr. Alves. It's natural to want to resolve health concerns quickly. I hope this procedure provides you and your doctor with the answers you're looking for. Would it be alright if we go over a few topics on preparing for your colonoscopy?\n\nPatient: That's fine.\n\nNurse: Okay, thank you, Mr. Alves. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first item on our list. Have you received and understood the instructions about the dietary restrictions and bowel preparation for your colonoscopy?\n\nPatient: Alves.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite understand your response. Could you please repeat what you said?\n\nPatient: I said Alves.\n\nNurse: I apologize for the confusion, Mr. Alves. I was asking about your understanding of the dietary restrictions and bowel preparation for your colonoscopy. Have you received and understood these instructions?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Alves. Following those instructions is crucial for a successful procedure. Now, let's get all the logistics out of the way. Your colonoscopy procedure is on August 17 at 10:00 AM with Dr. Meredith Bailey. You will need to arrive about 1 hour earlier, at 9:00 AM. Is that okay with you?",
-        "our_model": "Great, Mr. Alves. It's essential to follow those instructions closely for the best results. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
-    }
-}

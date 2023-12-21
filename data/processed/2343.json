@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2343,
-    "prompt": "Patient: So I have some sausage, veggies,\n\nPatient: and\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you had for your meal?\n\nPatient: South Carolina two.\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you had for your meal?\n\nPatient: And\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that.\n\nPatient: Let me check it.",
-    "responses": {
-        "gpt4": "Take your time, Mr. Ponce. When you're ready, you can share the information.",
-        "our_model": "Of course, Mr. Ponce. Take your time. I'd like to get a good idea of your regular diet."
-    }
-}

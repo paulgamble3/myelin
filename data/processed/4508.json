@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4508,
-    "prompt": "Nurse: I see, weight gain can be a concern. May I ask how much weight you've gained and over what period of time?\n\nPatient: and swelling in my lower legs.\n\nNurse: I'm sorry to hear that you're experiencing some weight gain and swelling in your lower legs. Can you confirm if it's just one leg or both legs that are swollen?\n\nPatient: So, folks,\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Both legs.\n\nNurse: Hold on a second while I figure out how I can best support you. Thank you for clarifying that. Swelling in both legs can be a sign of fluid buildup, which can be related to your kidney disease and other conditions. It's important to monitor this closely. Have you noticed any changes in your diet or physical activity recently that might have contributed to this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I see. Thanks for your response. We need to rule out certain possibilities that might be contributing to the swelling in your legs. Are you currently on any medication? If so, can you tell me what they are?",
-        "our_model": "Alright. I appreciate your response. It's essential to keep an eye on these symptoms and share them with your doctor. Is there anything else that's been on your mind or any questions you'd like to discuss before we move on to some specific topics regarding your kidney disease?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1530,
-    "prompt": "Nurse: Absolutely, Mr. Moran. I apologize for any misunderstanding. Let's focus on the medical aspects of your upcoming procedure. How are you feeling about your total knee replacement?\n\nPatient: I'm worried about it. I\n\nNurse: I'm sorry to hear that you're feeling worried, Mr. Moran.\n\nPatient: I don't know anything about it.\n\nNurse: I appreciate your honesty, Mr. Moran. It's completely normal to have concerns before a procedure. Do you have any specific questions or concerns you'd like to discuss before we go over the details?\n\nPatient: No.\n\nNurse: Alright, Mr. Moran. If you have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have all the information you need. Is it okay if we review a few topics related to your upcoming procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great. Let's clear up all the logistics first. You are scheduled for a Left Total Knee Replacement procedure on August 13th at 9:00 AM with Dr. Cristina Stevens. Please make sure to arrive about 1 hour before the procedure, so around 8:00 AM. Does that work for you, Mr. Moran?",
-        "our_model": "Great, Mr. Moran. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

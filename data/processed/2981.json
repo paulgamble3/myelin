@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2981,
-    "prompt": "Nurse: Do you currently have any symptoms such as nausea or vomiting?\n\nPatient: No.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: I don't have an issue.\n\nNurse: I understand. I'm glad to hear that you're not experiencing any symptoms. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: We are literally talking about it right now.\n\nNurse: I apologize for the confusion earlier. Could you please confirm if your blood sugar was taken in the past two hours?\n\nPatient: I took it this morning.",
-    "responses": {
-        "gpt4": "Thank you for your patience. Did you get a chance to eat anything since you took your blood sugar reading?",
-        "our_model": "I understand that you took your blood sugar this morning. Can you please tell me what your current blood sugar reading is?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3547,
-    "prompt": "Nurse: That's great, Mr. Gardner. Walking is a wonderful way to stay active. Do you have a favorite route or area where you like to walk?\n\nPatient: Just around the block.\n\nNurse: That's a good way to stay active in your own neighborhood, Mr. Gardner. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Gardner. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes.\n\nNurse: Excellent, Mr. Gardner. And how have you been taking your Lasix medication?\n\nPatient: Hi.",
-    "responses": {
-        "gpt4": "Hello again, Mr. Gardner. I was asking about how you've been taking the Lasix medication. Could you share your routine with me?",
-        "our_model": "Hello again, Mr. Gardner. I was asking about how you've been taking your Lasix medication. Is it two times a day as prescribed?"
-    }
-}

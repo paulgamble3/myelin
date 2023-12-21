@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4260,
-    "prompt": "Nurse: That's great, Mr. Shyam. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Shyam. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I have not.\n\nNurse: That's great, Mr. Shyam. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Shyam. Now, I'd like to talk about your diet. Could you tell me about your recent meals?\n\nPatient: You know, I've been trying to focus on eating vegetables and every meal, eating whole grains, I eat yogurt sometimes, stuff like that.",
-    "responses": {
-        "gpt4": "That's a great start, Mr. Shyam. Yogurt is a good source of protein, but it also contains lactose. Since you have galactosemia, we do have to be careful with dairy products. Would you like some dietary recommendations?",
-        "our_model": "It sounds like you're making a conscious effort to eat healthily, Mr. Shyam. That's great. Do you mind if I share some dietary recommendations that could help manage your CHF, CKD, and Galactosemia?"
-    }
-}

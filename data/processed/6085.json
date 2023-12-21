@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6085,
-    "prompt": "Nurse: I'm sorry, Jon, could you please repeat when you took your blood sugar level of 128?\n\nPatient: This morning when I got up.\n\nNurse: Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?\n\nPatient: No.\n\nNurse: That's good to hear. Do you currently have any nausea or vomiting?\n\nPatient: No.\n\nNurse: Is there any more information you want to share about this issue?\n\nPatient: What issue?",
-    "responses": {
-        "gpt4": "Sorry for any confusion. I was referring to your recent blood sugar level and any symptoms or issues you might be experiencing because of it. Is there anything else you would like to discuss about this?",
-        "our_model": "I apologize for any confusion earlier. Let's move on to your blood pressure. When did you last measure your blood pressure?"
-    }
-}

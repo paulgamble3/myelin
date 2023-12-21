@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4316,
-    "prompt": "Nurse: That's excellent. It's critical to keep your phosphorus levels in check. Now, let's move on to discuss your other chronic conditions. You have Type II Diabetes. How have you been managing your blood sugar levels?\n\nPatient: It's a little bit far away.\n\nNurse: I'm sorry, I didn't quite understand your response. Could you please tell me how you've been managing your blood sugar levels?\n\nPatient: Trying to eat healthier.\n\nNurse: That's a great start. Eating a balanced diet can really help manage your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to make sure and take it.\n\nNurse: That's excellent. Staying on top of your diet and taking your medications as prescribed are key in managing your blood sugar levels. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: Trying to stay on top of it.",
-    "responses": {
-        "gpt4": "It's good to hear you're keeping an eye on your blood pressure. Remember that regular physical exercise and a balanced diet can play an important role in managing this condition. Now, let's move to a different topic. If you don't mind me asking, do you smoke cigarettes or vape?",
-        "our_model": "That's good to hear. Staying on top of your blood pressure is crucial for your overall health."
-    }
-}

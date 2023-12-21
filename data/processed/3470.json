@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3470,
-    "prompt": "Nurse: Alright. If any questions come up during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It's great that you're taking this step to take care of your health. How are you feeling about the procedure?\n\nPatient: Like I said, I'm I'm nervous.\n\nNurse: I appreciate your honesty. It's completely normal to feel nervous. I'm here to help you prepare for the procedure and answer any questions you might have. Would it be alright if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yeah. That's fine.\n\nNurse: Wonderful. I'm calling today to ensure you have everything you need for your colonoscopy. We'll also have another call the day before your procedure to check in. Let's start with the first item on our list. Are you clear on the dietary restrictions leading up to your colonoscopy?\n\nPatient: Yes.\n\nNurse: Wonderful. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good?",
-        "our_model": "Okay. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?"
-    }
-}

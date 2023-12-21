@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5502,
-    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. Your blood sugar level is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: I'm sorry, Ms. Aguirre, could you please confirm if your blood sugar level is high or low?\n\nPatient: Sure. Yeah. Please tell me.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: Say it again. I'm sorry.\n\nNurse: I apologize for any confusion, Ms. Aguirre. Your blood sugar level of 128 is a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Of course. Yes.",
-    "responses": {
-        "gpt4": "I appreciate you letting me know, Ms. Aguirre. But I'm not certain I heard correctly. Could you confirm if your blood sugar level was high or low according to your latest reading?",
-        "our_model": "Thank you, Ms. Aguirre. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. What do you think about this suggestion?"
-    }
-}

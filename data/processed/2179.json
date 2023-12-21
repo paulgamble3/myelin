@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2179,
-    "prompt": "Nurse: Wonderful. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yep.\n\nNurse: Wonderful. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. I'm glad to hear that the logistics seem clear. I'd like to move on to discuss your medications, but I want to make sure you're ready. Can we proceed?\n\nPatient: Yeah.\n\nNurse: Excellent. I see on your chart that you are currently taking Lantus, 5 units once a day. For the day of the procedure, you'll need to adjust this to 2 units of Lantus. Have you already made this adjustment, or is this something you'll need to do in the coming days?\n\nPatient: Yeah. I'll do it.",
-    "responses": {
-        "gpt4": "Just to make sure, you are going to adjust your Lantus dosage to 2 units on the day of the procedure, correct?",
-        "our_model": "Great. It's important to make this adjustment for the day of the procedure. Do you have any questions about this change?"
-    }
-}

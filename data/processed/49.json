@@ -1,8 +1,0 @@
-{
-    "prompt_id": 49,
-    "prompt": "Nurse: Alright, Ms. Ware. Let's start with your medications. Are you still taking your Lasix and Lisinopril as prescribed by Doctor Forbes?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Ware. How about your Gabapentin?\n\nPatient: Yeah.\n\nNurse: Good to know, Ms. Ware. And are you also continuing with your Tylenol and Potassium as needed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Ware. It's essential to keep up with your medications. I understand that sometimes it can be challenging to remember all the doses. Do you ever have trouble taking your medication on time?\n\nPatient: And",
-    "responses": {
-        "gpt4": "I'm sorry, I think I might have misheard your last response. Could you please repeat that?",
-        "our_model": "I'm sorry, Ms. Ware, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

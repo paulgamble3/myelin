@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1439,
-    "prompt": "Nurse: That's good to hear, Mr. Valenzuela. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to ask. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to eat a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: No. I don't.\n\nNurse: That's great, Mr. Valenzuela. It's important to follow this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I enjoyed eating brownies,\n\nNurse: Brownies sound like a delicious choice, Mr. Valenzuela. Just remember to have them without any nuts or seeds. Do you usually make them at home or do you buy them from a bakery?\n\nPatient: Oh, I didn't buy them.",
-    "responses": {
-        "gpt4": "I see, Mr. Valenzuela. You may want to take this time to treat yourself to your favorite bakery's brownies. This is a rare time when doctors want their patients to be eating low fiber comfort foods. May I help you with any other food-related questions?",
-        "our_model": "That's interesting, Mr. Valenzuela. Do you have a favorite brownie recipe that you follow when you bake them at home?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 335,
-    "prompt": "Nurse: I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?\n\nPatient: Jesus Christ.\n\nNurse: I apologize if I cut you off. I'm here to listen. Please continue. You were saying you've been following the DASH diet?\n\nPatient: Oh, yeah. That's what that's called. So I'm powering the desk\n\nNurse: That's great to hear. The DASH diet is a good choice for managing your conditions.\n\nPatient: diet,\n\nNurse: That's great to hear. The DASH diet is a good choice for managing your conditions. Can you tell me a bit more about what you typically eat in a day?\n\nPatient: But I'm doing, like, low salt stuff online",
-    "responses": {
-        "gpt4": "That sounds like a good approach. It's important to limit your sodium intake with the DASH diet, as too much sodium can increase blood pressure. Can you tell me about some of the meals you've had recently?",
-        "our_model": "That's excellent. The DASH diet and a low-salt diet are both beneficial for managing your conditions. Can you share some examples of meals you've had recently?"
-    }
-}

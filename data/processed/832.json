@@ -1,8 +1,0 @@
-{
-    "prompt_id": 832,
-    "prompt": "Nurse: That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of this. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: It was last night.\n\nNurse: Thank you for that information, Mr. Oliver. Could you please tell me what the result of that blood pressure measurement was?\n\nPatient: Yes. It was one thirty o were eighty.\n\nNurse: I'm sorry, Mr. Oliver, could you please repeat that?\n\nPatient: One thirty over eighty?",
-    "responses": {
-        "gpt4": "Thank you, Mr. Oliver. A blood pressure reading of 130/80 indicates that your blood pressure is in the high range. Let's keep a close eye on this. I'm going to record this information and inform Dr. Smith. Do you have any questions about your health or anything else you'd like to discuss?",
-        "our_model": "Thank you for repeating that, Mr. Oliver. A blood pressure reading of 130 over 80 is slightly elevated. It's critical to keep an eye on this. Would you be open to hearing some suggestions on how to manage your blood pressure?"
-    }
-}

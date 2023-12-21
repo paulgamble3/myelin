@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3163,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Great, I am calling on behalf of your primary care doctor, Dr. Herbert Barrymore. Can you please verify your date of birth for me for security reasons to make sure I am speaking with the right person?",
-        "our_model": "Thank you for confirming. Could you please provide your date of birth for verification purposes?"
-    }
-}

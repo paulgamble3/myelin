@@ -1,8 +1,0 @@
-{
-    "prompt_id": 482,
-    "prompt": "Nurse: That would be very helpful. Lastly, have you been using more pillows at night to sleep?\n\nPatient: Okay.\n\nNurse: Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Well, I have a list here. I guess I'm supposed to check certain things every day. Is that right?\n\nNurse: Yes, that's correct. It's critical to monitor your symptoms daily and report any changes to your doctor. This list includes checking for shortness of breath, dry cough, swelling, weight changes, and sleeping with more pillows. It's also important to take your medications as prescribed and monitor your diet. Speaking of which, could you tell me about your recent meals?\n\nPatient: Well, they haven't been so good. You know, I don't follow the low salt diet for CHF but my cardiologist referred me to a dietitian, but I still haven't made that phone call.",
-    "responses": {
-        "gpt4": "Thank you for being honest about your diet. Following a specific diet can seem overwhelming sometimes, but it's one of the best ways to manage your CHF. Have you thought any more about setting up a meeting with the dietician?",
-        "our_model": "I see, it's understandable that changing dietary habits can be challenging. Would it be okay if I share some dietary recommendations that might help manage your CHF symptoms?"
-    }
-}

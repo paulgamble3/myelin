@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5399,
-    "prompt": "Patient: Oh,\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?\n\nPatient: Yes. It is.",
-    "responses": {
-        "gpt4": "It's nice to speak to you, Mr. Hardy. Dr. Anuj Gopal has asked me to check in with you regarding your chronic kidney disease. I'd like to start by asking how you've been doing recently?",
-        "our_model": "Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?"
-    }
-}

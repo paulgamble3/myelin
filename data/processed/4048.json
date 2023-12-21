@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4048,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Glen Forbes?\n\nPatient: Yes. It is.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling alright. Thank you for asking.\n\nNurse: That's good to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just glad to be back in my own home.\n\nNurse: I can imagine, there's no place like home. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: Yes. I do enjoy building small scale model cars.",
-    "responses": {
-        "gpt4": "That sounds quite intriguing. Models cars, huh? Is there a particular brand or type of car you enjoy working on?",
-        "our_model": "That sounds like a fascinating hobby. It must be quite therapeutic to work on those detailed models. Do you have a favorite model car that you're currently working on?"
-    }
-}

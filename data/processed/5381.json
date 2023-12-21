@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5381,
-    "prompt": "Patient: excited about the idea of stopping it.\n\nNurse: I understand your concern, Mr. O'Leary. It's important to balance the risk of stroke with the risk of bleeding during surgery. Your doctor has determined that it's safer for you to stop the Aspirin before your procedure. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: Well, just\n\nPatient: Just the one I just told you about. I am taking aspirin.\n\nNurse: Thank you for confirming that, Mr. O'Leary. It's critical to note that other medications like Advil, Aspirin, Aleve, or other blood thinners typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Oxycodone 5 mg as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yeah.\n\nNurse: That's great, Mr. O'Leary. Having these medications on hand will help manage your pain after the procedure. Do you have any questions about these medications or any other medications you're currently taking?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, Mr. O'Leary. If any questions come up in the future, don't hesitate to reach out to us. Let's move on to discuss the recovery process following your knee replacement. Is that okay with you?",
-        "our_model": "Alright, Mr. O'Leary. Let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?"
-    }
-}

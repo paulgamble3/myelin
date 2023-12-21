@@ -1,8 +1,0 @@
-{
-    "prompt_id": 216,
-    "prompt": "Patient: I said yes. Of\n\nPatient: course.\n\nNurse: Thank you, Ms. Aguirre. I've made a note of your concern for your care team to review. They will be able to provide more detailed guidance based on your specific situation. Now, let's discuss your medications. You're currently prescribed Metformin 500 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Taking your medication as prescribed is crucial in managing your conditions. Now, let's move on to the next medication. You're also prescribed Tylenol 500 mg, to be taken up to 1000 mg three times a day as needed. Have you been taking this medication as directed?\n\nPatient: Thanks.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your response?\n\nPatient: Take it when I need to.",
-    "responses": {
-        "gpt4": "Thank you for sharing that, Ms. Aguirre. It's good to know that you're taking your Tylenol as needed. Now, you're also prescribed Lisinopril 10 mg one time a day for blood pressure. Have you been taking this medication as directed?",
-        "our_model": "That's good to hear, Ms. Aguirre. It's critical to take Tylenol only when you need it for pain relief. Lastly, you're prescribed Atorvastatin 40 mg once a day. Have you been taking this medication as prescribed?"
-    }
-}

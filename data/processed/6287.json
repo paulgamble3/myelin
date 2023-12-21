@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6287,
-    "prompt": "Nurse: I see, Mr. Alves. Could you please tell me which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: The medications that I'm taking?\n\nNurse: Yes, Mr. Alves. Could you please share which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: Well,\n\nNurse: Yes, Mr. Alves. Could you please list the supplements or anti-diarrheal medications you're currently taking?\n\nPatient: I'm gonna take go lightly,\n\nNurse: Yes, Mr. Alves, GoLYTELY is a laxative solution that you'll be taking as part of your colonoscopy prep. It's not an anti-diarrheal medication. Are there any other supplements or medications that you're currently taking?\n\nPatient: No. Not at the moment.",
-    "responses": {
-        "gpt4": "Thank you for sharing that, Mr. Alves. In preparation for your colonoscopy, it might be necessary to adjust or temporarily stop certain medications. That includes dietary fiber supplements and anti-diarrheal medications. Are there any questions you have about this?",
-        "our_model": "Alright, Alright, Mr. Alves. It's good to know that you're not currently taking any other supplements or anti-diarrheal medications. Remember, it's important to stop these types of medications before your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on to the next topic?"
-    }
-}

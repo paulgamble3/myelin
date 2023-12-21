@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3301,
-    "prompt": "Nurse: I see, Mr. Winner. It's great that you're thinking about your diet. I'm not able to provide a specific grocery list, but I can certainly give some general advice. Would that be helpful?\n\nPatient: Why you cannot give me a shopping list?\n\nNurse: I'm an AI, Mr. Winner, and while I can provide general advice, I don't have the ability to create a personalized shopping list. However, I can certainly help you understand what types of foods are beneficial for your health and recovery. Would you like me to do that?\n\nPatient: Alright. Is it\n\nNurse: Absolutely, Mr. Winner. After your surgery, it's important to eat a balanced diet to aid your recovery. This includes plenty of fruits and vegetables, lean proteins, and whole grains. It's also beneficial to limit your intake of sodium and sugars. Does that help?\n\nPatient: Yes. That helps.\n\nNurse: I'm glad to hear that, Mr. Winner.\n\nPatient: You said limit sugar, Sensorio?",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that? I didn't quite catch what you said.",
-        "our_model": "Yes, Mr. Winner. Limiting sugar can help manage your blood glucose levels, especially with your Type II Diabetes. This can also help with your overall health and recovery. Do you have any other questions about your diet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2472,
-    "prompt": "Nurse: Hello Ola, I'm calling on behalf of your primary care doctor, Doctor Robert Benson, to check in on you. How have you been doing lately?\n\nPatient: I'm great. Thank you for asking.\n\nNurse: That's wonderful to hear! Is there anything you're looking forward to doing this week?\n\nPatient: Oh, I guess it's being back to my regular old routine.\n\nNurse: That's a good thing, having a routine can be comforting. Is there a particular part of your routine that you enjoy the most?\n\nPatient: Just knowing that I have a routine give me comfort and peace of mind.\n\nNurse: I see, having that sense of stability can indeed be reassuring. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: I can't think of any off the top of my head.",
-    "responses": {
-        "gpt4": "Alright. If you remember anything, feel free to let me know at any point during this call. In the meantime, do you have any questions about your health or treatment that you'd like to go over?",
-        "our_model": "That's perfectly fine. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?"
-    }
-}

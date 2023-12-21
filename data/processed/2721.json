@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2721,
-    "prompt": "Nurse: I appreciate your honesty, Ms. Aguirre. It's a big step to even consider quitting smoking. Can you share what you think might be the most challenging aspect of quitting for you?\n\nPatient: I mean, it's an addiction. So that.\n\nNurse: I see, Ms. Aguirre. It's indeed a challenging journey, but remember, it's a step-by-step process. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: Okay. I'm good for now.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what you just said?\n\nPatient: I said I'm good for now.\n\nNurse: Alright, Ms. Aguirre. If you ever change your mind or if you have any questions about quitting smoking in the future, don't hesitate to ask. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Ms. Aguirre. To summarize, we discussed managing your blood sugar levels, blood pressure, understanding your lab results, your medications, diet advice, your recovery from back surgeries, and your smoking habits. You've agreed to implement the recommendations made. May I count on you to do so?",
-        "our_model": "Alright, Ms. Aguirre. To summarize, you've agreed to try to incorporate more physical activity into your daily routine and to include more fruits and vegetables in your diet. Can I count on you to try these suggestions?"
-    }
-}

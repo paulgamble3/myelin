@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4066,
-    "prompt": "Patient: Serial\n\nPatient: And\n\nPatient: eggs, yesterday morning.\n\nNurse: That sounds like a good start to the day. What about for lunch and dinner?\n\nPatient: For lunch. I had keto,\n\nPatient: friendly. Valid. And for dinner, I had some chicken\n\nNurse: That's good to hear. It's critical to include protein in your meals. Did you have any sides or vegetables with your chicken?\n\nPatient: No. Because I'm not sure what I'm allowed to eat on my diet.",
-    "responses": {
-        "gpt4": "I understand. It can be confusing when starting a new diet. Generally, non-starchy vegetables like broccoli, spinach, and bell peppers are good options for a ketogenic diet. Also, healthy fats like avocados or olive oil can be included. For more personalized advice, it may be beneficial to speak to a dietitian. Would you like me to arrange a referral to a dietitian who can help plan meals that are both heart-healthy and suitable for weight management?",
-        "our_model": "I see. It's important to remember that while on a ketogenic diet, you should focus on high-fat, low-carb foods. However, due to your CHF, it's also crucial to follow a cardiac low sodium diet. This means avoiding processed foods and adding less salt to your meals. Would it be okay if I shared some dietary recommendations with you?"
-    }
-}

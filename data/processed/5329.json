@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5329,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I've been looking forward to spending time with my pet fish\n\nNurse: That sounds lovely, Mr. Gardner. Pets can bring so much joy. What kind of fish do you have and what's their name?\n\nPatient: I have a goldfish.\n\nNurse: Goldfish are quite fascinating, aren't they?\n\nPatient: And her name is Rachel.\n\nNurse: That's a beautiful name for a goldfish, Mr. Gardner. It must be nice to have Rachel the goldfish to keep you company. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. You can just go ahead. And if I have any questions, I'll ask.",
-    "responses": {
-        "gpt4": "Sounds good. Let's begin with medications then. Have you had a chance to pick up your new medication, Lasix 20 mg oral tablet?",
-        "our_model": "Alright, Mr. Gardner. Let's start with your new medication. Have you been able to pick up your Lasix 20 mg oral tablets from the pharmacy?"
-    }
-}

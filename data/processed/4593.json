@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4593,
-    "prompt": "Nurse: including protein I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?\n\nPatient: Chicken or fish with\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?\n\nPatient: vegetables, but I like dessert.\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're already incorporating some healthy choices into your meals. One suggestion could be to balance your meals with a mix of carbohydrates, protein, and fats. This can help slow down the absorption of sugar into your bloodstream. For dessert, perhaps you could try having a piece of fruit or a small portion of a low-sugar dessert. What do you think about this suggestion?\n\nPatient: What's a low sugar dessert? I usually like to have some cake or ice screen.\n\nNurse: Hold on a second while I figure out how I can best support you. I understand, Mr. Peck. Low-sugar desserts could include things like fresh fruit, a small piece of dark chocolate, or even a piece of cake but with a smaller portion size. Would you be open to trying these alternatives to your usual desserts?\n\nPatient: What is what do you mean by smaller portion in.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Peck, I didn't catch that. Could you please repeat your question?",
-        "our_model": "I apologize for any confusion earlier, Mr. Peck. Could you please repeat your question?"
-    }
-}

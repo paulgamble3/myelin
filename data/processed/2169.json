@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2169,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about your day?\n\nPatient: Pretty stressed out.\n\nNurse: I'm sorry to hear that you're feeling stressed. It's completely normal to feel this way before a procedure. Is there anything specific that's causing you stress today?\n\nPatient: I'm just scared for this procedure. So\n\nNurse: I can see why you might be feeling scared. It's a big procedure, but it's also a very common one with a high success rate. Doctor Cristina Stevens, your surgeon, is highly experienced and has performed over 1000 total knee replacements. She's known for her excellent work. Is there anything you're looking forward to once you've recovered from your knee replacement?\n\nPatient: Well, I'm I'm hoping a bit better in time to go to Maya.\n\nNurse: That sounds like a wonderful plan.\n\nPatient: My grandson's birthday party.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite understand that. Could you please repeat what you just said?",
-        "our_model": "That sounds like a wonderful goal."
-    }
-}

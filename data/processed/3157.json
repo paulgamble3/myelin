@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3157,
-    "prompt": "Nurse: That's a valid concern, Mr. Valenzuela. It's critical to stay hydrated, especially during the bowel prep. However, the 4-hour fasting period before the procedure is crucial for the success of the colonoscopy. Your care team will monitor you closely during the procedure to ensure your well-being. Do you have any other questions or concerns?\n\nPatient: Alright. No. Thank you so much. This is extremely helpful.\n\nNurse: You're very welcome, Mr. Valenzuela. I'm glad I could assist. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I do not have any questions.\n\nNurse: Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry, Mr. Valenzuela. Could you please clarify your response?\n\nPatient: No. I haven't.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Valenzuela. It's crucial to be as healthy as possible leading up to a procedure. If anything changes, please call our team right away. Now, let's move on to the last question. Have you arranged for a ride home after your colonoscopy procedure? It's important to have someone available to pick you up after the procedure, as you might feel a little groggy from the sedation.",
-        "our_model": "I'm sorry for the confusion, Mr. Valenzuela. I was asking if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches."
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4055,
-    "prompt": "Nurse: Great, and how have you been taking your Lasix?\n\nPatient: Just fine.\n\nNurse: That's good to hear. Now, are you still taking your Valsartan?\n\nPatient: Mhmm.\n\nNurse: That's great. It's important to keep up with your medications. I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble taking your medication on time?\n\nPatient: No. I'm pretty good about my routine.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Perfect, thank you. Let's start with breathlessness. Have you noticed any new or increasing shortness of breath during activities, while resting or when you're lying down?",
-        "our_model": "Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

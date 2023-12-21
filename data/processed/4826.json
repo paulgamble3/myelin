@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4826,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Kageyama. As we approach your colonoscopy date, how are you feeling about the procedure?\n\nPatient: Fine. Standard procedure.\n\nNurse: I see, thank you for sharing, Mr. Kageyama. It's indeed a standard procedure, but we understand that it can still raise some concerns. Do you have any specific questions or concerns you'd like to discuss before we begin?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Kageyama, I'm here. You mentioned earlier that you're feeling fine about the procedure. Is there anything else you'd like to discuss or any questions you have at this point?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. Please remember that you can ask me any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Really? Okay.",
-    "responses": {
-        "gpt4": "Yes, Mr. Kageyama, procedures like this can indeed be a bit process-heavy but they're important for your health. I'm glad to know that you're taking this step for your well-being. Would you be comfortable if we discussed a few topics about your preparation for the colonoscopy?",
-        "our_model": "Yes, Mr. Kageyama, it's a preventative screening to take care of your health. It's great that you're taking this step. Do you have any concerns or questions about the procedure?"
-    }
-}

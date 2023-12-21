@@ -1,8 +1,0 @@
-{
-    "prompt_id": 395,
-    "prompt": "Nurse: You're welcome, Mr. Koroleva. I'm glad to hear that you're feeling good about the information we've covered so far. Now, I'd like to ask if you've been experiencing any signs of illness recently. Have you had any fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: That's good to hear, Mr. Koroleva. It's essential to be in good health before your procedure. Now, for my last question, have you arranged for a ride home after your colonoscopy?\n\nPatient: My goodness. No. Do I need to I thought I'm gonna just walk. Why do I need a ride?\n\nPatient: I don't live that far, so I think I'm okay.\n\nNurse: I understand your thinking, Mr. Koroleva. However, after a colonoscopy, you'll be given a sedative to help you relax during the procedure. This can make it unsafe for you to drive or walk home. It's important to have someone available to pick you up when the hospital calls. Do you have a friend or family member who could help with this?\n\nPatient: I think.\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Koroleva. It's always better to arrange for a ride home after your procedure. Safety is our top priority. Do you have any other questions about your colonoscopy prep or the procedure itself?",
-        "our_model": "I understand, Mr. Koroleva. After a colonoscopy, you'll be given a sedative to help you relax during the procedure. This can make it unsafe for you to drive or take public transportation home. It's important to have someone available to pick you up and take you home after the procedure. Do you have a friend or family member who could help with this?"
-    }
-}

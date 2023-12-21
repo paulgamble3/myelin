@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4652,
-    "prompt": "Patient: No.\n\nNurse: Alright, Mr. Amador. If you have any questions or concerns at any point, feel free to ask. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Yes.\n\nNurse: Okay, Mr. Amador. I see on your chart that you're getting this colonoscopy due to blood in your stool. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Fine.\n\nNurse: I'm sorry, Mr. Amador, could you please confirm what you just said?\n\nPatient: I said it's fine. Can we just get through with this conversation?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment while I figure out how I can best help you.",
-    "responses": {
-        "gpt4": "Of course, Mr. Amador. I hope this procedure gives you and your doctor the answers you're looking for. I would like to ask you some questions to help ensure we are providing you with the best care possible. If it is fine, could you tell me when you first started noticing blood in your stool?",
-        "our_model": "When did you start having bloody stool, Mr. Amador?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3564,
-    "prompt": "Nurse: That's good to hear, Mr. Gardner. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: That's great, Mr. Gardner. We just performed a simple CHF assessment. It's a good idea to keep an eye on these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?\n\nPatient: Hello?\n\nNurse: Hello, Mr. Gardner. I was asking if you have any questions about monitoring your symptoms at home. [\n\nPatient: No. I'm fine.\n\nNurse: I'm glad to hear that, Mr. Gardner. Now, I'd like to talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I've been eating pretty healthy It's more of the",
-    "responses": {
-        "gpt4": "That's a good start. May I ask what kind of foods you've been including in your meals? Are you incorporating fruits, vegetables, lean proteins, and whole grains?",
-        "our_model": "I'm sorry, Mr. Gardner, your voice cut out a bit there. Could you please repeat what you said about your recent meals?"
-    }
-}

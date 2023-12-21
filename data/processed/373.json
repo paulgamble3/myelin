@@ -1,8 +1,0 @@
-{
-    "prompt_id": 373,
-    "prompt": "Nurse: I can understand how it might seem a bit boring, Mr. Koroleva. But it's only for a short time and it's important for the procedure. What are some low fiber foods that you enjoy?\n\nPatient: I mean, past is a low fiber. Right?\n\nNurse: Yes, pasta is a low fiber food, Mr. Koroleva. It's a good choice. Do you have a favorite type of pasta or a favorite pasta dish?\n\nPatient: Yes. Cauliflower.\n\nNurse: Cauliflower is a great choice, Mr. Koroleva.\n\nPatient: Pasta. I love cauliflower pasta.\n\nNurse: Cauliflower pasta sounds delicious, Mr. Koroleva. It's a great choice for your low fiber diet. Do you usually prepare it in a specific way?\n\nPatient: Are you sure that that cauliflower is low fiber? I think it's pretty high in fiber.",
-    "responses": {
-        "gpt4": "Ah, I apologize for the confusion, Mr. Koroleva. You're right. Although cauliflower is a vegetable, it's typically higher in fiber. For this period, it would be best to hold off on the cauliflower and perhaps focus on white pasta with a simple sauce. How does that sound?",
-        "our_model": "You're correct, Mr. Koroleva. Cauliflower is high in fiber. I apologize for the confusion. It's best to avoid it in the days leading up to your colonoscopy. Do you have any other favorite low fiber foods?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2082,
-    "prompt": "Nurse: Yes, the goal of a total knee replacement is to relieve pain and improve mobility in your knee. After recovery, most patients experience significant pain relief and improved mobility.\n\nPatient: After the surgery?\n\nNurse: Yes, the goal of a total knee replacement is to relieve pain and improve mobility. After recovery, most patients experience significant pain relief and improved mobility. However, it's important to remember that everyone's recovery process is unique, and it may take some time to see the full benefits. You'll likely start physical therapy soon after your surgery to help regain strength and mobility in your knee. Does that help answer your question?\n\nPatient: But okay. It. It's okay.\n\nNurse: I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's essential to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: That's build a plan.",
-    "responses": {
-        "gpt4": "Great, going home after the procedure is a good plan. Moving on to the last question for today's call, have you arranged for a ride home and for someone to stay with you after the procedure? It's necessary to have someone pick you up from the hospital and stay with you after the procedure.",
-        "our_model": "Okay. It's essential to have a comfortable and safe place to recover after your procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?"
-    }
-}

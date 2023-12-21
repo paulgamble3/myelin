@@ -1,8 +1,0 @@
-{
-    "prompt_id": 460,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Tadeo Williamson?\n\nPatient: Yes.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: Well, I'm I'm glad to be home. But\n\nNurse: I'm glad to hear that you're happy to be home.\n\nPatient: you know, I had to go back to the ER because of this dry hacking cough and trouble sleeping, They tested me for COVID, and that was negative.\n\nNurse: I'm sorry to hear about your cough and sleeping troubles.\n\nPatient: But I was having I guess I was having a CHF flare so my doctor increased my laces, to twice a day.",
-    "responses": {
-        "gpt4": "It sounds like you have been through a lot recently, and I appreciate you sharing this with me. Now that you are back home, is there anything in particular that you have been looking forward to doing?",
-        "our_model": "I'm sorry to hear about your recent visit to the ER, but I'm glad to hear that you're back home. It must be a relief to be in your own space again. Is there anything you're particularly looking forward to doing now that you're home?"
-    }
-}

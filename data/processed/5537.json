@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5537,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat your question or comment about the low fiber diet?\n\nPatient: I didn't have a question.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that you're clear on the low fiber diet. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I love homemade branch.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what low fiber foods you enjoy as comfort food?\n\nPatient: Homemade bread.\n\nNurse: Homemade bread sounds delicious, Mr. Alves.\n\nPatient: I love to make toast.",
-    "responses": {
-        "gpt4": "Toast is a great option, especially when you're on a low fiber diet. If you have any concerns or further questions about the dietary restrictions, you can always give us a call. If not, may I proceed?",
-        "our_model": "That sounds delicious, Mr. Alves. Homemade bread and toast can be a good source of carbohydrates for your low fiber diet. Do you usually have any special toppings or spreads on your toast?"
-    }
-}

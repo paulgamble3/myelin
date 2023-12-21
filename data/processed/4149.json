@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4149,
-    "prompt": "Nurse: That's great! Regular walking is a good way to stay active. Do you usually walk at a steady pace or do you vary your speed?\n\nPatient: I work at a steady pace.\n\nNurse: That's good to hear. It's important to keep a steady pace to ensure you're getting a good workout without overexerting yourself. Now, I'd like to provide some recommendations about improving your exercise routine in a CHF appropriate manner. Is that okay with you?\n\nPatient: Yes. That's fine.\n\nNurse: Thank you. It's great that you're already walking daily. You might consider adding some light strength training exercises to your routine. This could be as simple as lifting small weights or using resistance bands. However, it's important to start slow and gradually increase your activity level. Does that sound doable to you?\n\nPatient: Yes. It is.\n\nNurse: That's great to hear. Remember, it's important to listen to your body and not push yourself too hard. Adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright. I want to remind you that I will inform Dr. Benson of our discussion and how you are doing. Now, do you have any remaining questions or concerns that you would like me to pass on to him, or anything else you would like to discuss with me?",
-        "our_model": "Alright. I'll be sure to inform Doctor Benson about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
-    }
-}

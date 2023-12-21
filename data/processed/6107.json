@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6107,
-    "prompt": "Nurse: That's great to hear. Now, let's move on to the next medication. You're also prescribed Atorvastatin 20 mg, with a dosage of 40 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss the next medication. You're prescribed Plavix 75 mg, with a dosage of 75 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great. Now, let's move on to the next medication. You're prescribed Metoprolol ER 25 mg, with a dosage of 50 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss the next medication. You're prescribed Lisinopril 10 mg, with a dosage of 20 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great. Let's move on to your insulin. You're prescribed Lantus 100 IU/mL inj prefilled pen, with a dosage of 15 units every night at bedtime. Have you been taking this medication as prescribed?",
-        "our_model": "That's great. Now, let's move on to the next medication. You're prescribed Lantus 100 IU/mL, with a dosage of 15 units every night at bedtime. Have you been taking this medication as prescribed?"
-    }
-}

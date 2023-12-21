@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2187,
-    "prompt": "Patient: Alright. So\n\nPatient: Five and all. Five and all. Is that one?\n\nNurse: Yes, Aleve is a type of medication that typically needs to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make a note of this. Are you still taking it currently?\n\nPatient: I'm not talking about Aleve, though. I'm talking about\n\nNurse: I see.\n\nPatient: Tylenol.\n\nNurse: I apologize for any confusion. You're currently prescribed Tylenol 1000 mg three times a day as needed. Have you picked up this prescription yet?\n\nPatient: Yeah. But I'm already taking care now. Do I need the stop it before my surgery or no?",
-    "responses": {
-        "gpt4": "I'm sorry, I had a bit of difficulty understanding you. Could you please repeat that?",
-        "our_model": "You can continue taking your Tylenol as prescribed. It's safe to use before your surgery. Do you have any other questions about your medications?"
-    }
-}

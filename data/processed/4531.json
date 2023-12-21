@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4531,
-    "prompt": "Nurse: I'm Thank you for sharing that. A blood pressure reading of 90 over 120 is a bit high. High blood pressure can put extra strain on your heart and blood vessels. Would it be okay if I provide some recommendations to help manage your blood pressure?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned that your blood pressure was 90 over 120, correct?\n\nPatient: Yes.\n\nNurse: I appreciate you confirming that. It's critical to keep an eye on your blood pressure levels. Would you be open to some suggestions on how to manage your blood pressure levels?\n\nPatient: Sure.\n\nNurse: Wonderful. One strategy to help manage your blood pressure is to reduce your salt intake. This can be achieved by eating fewer processed foods and adding less salt to your meals. What do you think about this suggestion?\n\nPatient: Sounds good.",
-    "responses": {
-        "gpt4": "That's great to hear. Another strategy is to maintain a healthy weight, as being overweight can increase your risk of high blood pressure. Regular physical activity and a balanced diet can help with this. Do you think you could incorporate this into your lifestyle?",
-        "our_model": "I'm glad you think so. Another strategy is to maintain a healthy weight. If you're overweight, losing even a small amount of weight can help lower your blood pressure. This could be achieved through a combination of a healthy diet and regular physical activity. Do you think you could incorporate this into your routine?"
-    }
-}

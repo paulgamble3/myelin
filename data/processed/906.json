@@ -1,8 +1,0 @@
-{
-    "prompt_id": 906,
-    "prompt": "Nurse: Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. However, a reading of 128 is a bit higher than the target range for people with diabetes. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Hello?\n\nNurse: Yes, I'm here. Would it be alright if I shared some recommendations on how to manage your blood sugar levels?\n\nPatient: Sure.\n\nNurse: Great, thank you. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks that contain a mix of carbohydrates, protein, and fat. Another strategy is regular physical activity, as it can help your body use insulin more effectively. Lastly, it's important to take your medication as prescribed. Do these suggestions make sense to you?\n\nPatient: They do.",
-    "responses": {
-        "gpt4": "Excellent. I'm glad to hear that. Now, let's talk about your blood pressure. When did you last measure it and what was the reading?",
-        "our_model": "I'm glad to hear that. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?"
-    }
-}

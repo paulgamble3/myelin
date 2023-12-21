@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4142,
-    "prompt": "Nurse: That sounds like a balanced meal. How about the dressing?\n\nPatient: I make my own dressing.\n\nNurse: That's great! Could you tell me what ingredients you use in your homemade dressing?\n\nPatient: Olive oil\n\nNurse: That's a healthy choice. What other ingredients do you use in your dressing?\n\nPatient: solved.\n\nNurse: That's a healthy choice. Do you also add any herbs or spices to your dressing?\n\nPatient: Pepper, and a little bit of lime.",
-    "responses": {
-        "gpt4": "That sounds delicious and healthy. Are you able to keep consistent with this kind of meals regularly?",
-        "our_model": "That sounds delicious and healthy. It's great that you're making your own dressing. Now, I'd like to share some dietary recommendations. Is that okay with you?"
-    }
-}

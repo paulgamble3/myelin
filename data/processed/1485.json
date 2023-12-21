@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1485,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Timoteo Valenzuela?\n\nPatient: Yes.\n\nNurse: Thank you for confirming, Mr. Valenzuela. Could you please provide your date of birth for verification purposes?\n\nPatient: July fourth nineteen sixty six.\n\nNurse: Thank you for confirming your date of birth, Mr. Valenzuela. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Mr. Valenzuela. How has your day been so far?\n\nPatient: It's been good so far.",
-    "responses": {
-        "gpt4": "I'm glad to hear that your day has been good, Mr. Valenzuela. It's important to keep positive especially before a procedure. How are you feeling about your colonoscopy? May be a bit nervous or unsure perhaps?",
-        "our_model": "I'm glad to hear that, Mr. Valenzuela. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. ["
-    }
-}

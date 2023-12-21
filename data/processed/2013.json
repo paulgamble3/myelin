@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2013,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Daniel Jimenez?\n\nPatient: Yes.\n\nNurse: Hello. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: My day's been pretty good. I do have a lot of anxiety and fear about this upcoming procedure",
-    "responses": {
-        "gpt4": "That is very natural, to feel a sense of anxiety before such a procedure. I am here to assist and provide information that might help alleviate some of your concerns. It seems like you are looking forward to getting your new knee. Despite your fears, do you have any special plans for what you'd like to do once your knee has fully healed?",
-        "our_model": "I'm glad to hear your day has been good. It's completely normal to feel anxious and fearful before a procedure like a total knee replacement. Can you tell me more about what's causing your anxiety?"
-    }
-}

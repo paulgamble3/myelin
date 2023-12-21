@@ -1,8 +1,0 @@
-{
-    "prompt_id": 480,
-    "prompt": "Nurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I was a hundred and eighty eight pounds. But I haven't weighed myself since then because my bathroom scales broke.\n\nNurse: I see, it's important to monitor your weight regularly as sudden weight gain can be a sign of fluid retention. When you get a chance, could you please get your weight checked at a pharmacy or a friend's house?\n\nPatient: Yeah. I can try to do that.\n\nNurse: That would be very helpful. Lastly, have you been using more pillows at night to sleep?\n\nPatient: Okay.\n\nNurse: Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. It might be a sign if you needed more pillows to breathe easier. Thank you for answering all these questions. It's very important to continue monitoring your symptoms at home. I will forward this information to Dr. Van's team. Do you have any questions for me?",
-        "our_model": "That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
-    }
-}

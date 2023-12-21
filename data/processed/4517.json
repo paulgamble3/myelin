@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4517,
-    "prompt": "Patient: One.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yes.\n\nNurse: I apologize for any confusion earlier. You mentioned that your blood sugar level was 128, correct?\n\nPatient: Yes.\n\nNurse: Give me a moment to check how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: When was your blood sugar level of 128 taken?\n\nPatient: This morning.",
-    "responses": {
-        "gpt4": "I see. And did you take the reading before eating anything or after eating?",
-        "our_model": "Thank you for that information. Do you currently have any symptoms such as active dizziness, lightheadedness, or profuse sweating?"
-    }
-}

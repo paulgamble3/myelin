@@ -1,8 +1,0 @@
-{
-    "prompt_id": 402,
-    "prompt": "Nurse: That's great to hear, Mr. Koroleva. It's critical to have someone you trust to take you home after the procedure. Do you have any other questions or concerns about the logistics of your colonoscopy?\n\nPatient: No.\n\nNurse: Alright, Mr. Koroleva. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: I do not.\n\nNurse: Alright, Mr. Koroleva. To summarize, we discussed your upcoming colonoscopy on August 17 at 11:00 AM with Doctor Meredith Bailey. We went over your medication changes, diet preparation, and the bowel prep with NuLYTELY. You've agreed to stop taking Xarelto 5 days before the procedure, start a low fiber diet today, and arrange for a ride home after the procedure. Does that sound right?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Koroleva. I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns in the meantime, you can reach us at 641-381-6523. Does that sound good?\n\nPatient: Thank you.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Koroleva. I'm looking forward to speaking with you again before the procedure. It was great hearing about your love for pasta and bread today. I hope you enjoy these comfort foods while you prepare for your procedure. Take care and have a wonderful day. Goodbye.",
-        "our_model": "You're welcome, Mr. Koroleva. I'm looking forward to speaking with you again next time. I hope you enjoy your cauliflower pasta and toast in the coming days. Take care and have a great day. Goodbye."
-    }
-}

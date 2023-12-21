@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2838,
-    "prompt": "Nurse: I'm glad to hear that. Do you have any questions about eating only low fiber foods or is there anything you're unsure about?\n\nPatient: No.\n\nNurse: Alright, thank you for your response. I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I like rice.\n\nNurse: Rice is a great choice, it's low in fiber and can be quite comforting. You can have it in various ways, like plain white rice or even in a rice pudding. Do you usually have it in a particular way that you enjoy?\n\nPatient: I just like it plain.\n\nNurse: Plain rice is a good option, it's simple and easy to digest. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Is there anything else you'd like to discuss about your diet or shall we move on to the next topic?\n\nPatient: We can move on.",
-    "responses": {
-        "gpt4": "Thank you for letting me know. Next, let's talk about supplements. For your colonoscopy, you will also need to stop any supplements you may take like Psyllium husk or any anti-diarrheal medications. Do you take any supplements or anti-diarrheal medications that we should be aware of?",
-        "our_model": "Alright, thank you. The next topic is about supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 30,
-    "prompt": "Patient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I have chicken soup.\n\nPatient: Earlier today.\n\nNurse: Chicken soup sounds delicious. How did you prepare it?\n\nPatient: I also been trying to eat healthier. And I started to eat a lot of salad. I'm using this Italian dressing. It's called Wishbone Italian dressing. Can you tell me How much salt is in that dressing?\n\nNurse: I'm glad to hear you're making an effort to eat healthier. As for the Wishbone Italian dressing, it contains approximately 260 mg of sodium per serving, which is about 2 tablespoons. It's essential to monitor your sodium intake, especially with your conditions. Would you like me to provide some suggestions on how to manage your sodium intake?\n\nPatient: No. It's okay. Thank you.",
-    "responses": {
-        "gpt4": "Alright. It seems like you're making some good meal choices. I'd like to remind you about the importance of a renal friendly diet, given your CKD stage IIIB. This would involve balancing the right amounts of protein, sodium, phosphorus and potassium while enjoying your meals. If you have any questions about this or need support, always feel free to speak with your doctor or dietician. Can we now discuss your next chronic condition?",
-        "our_model": "You're welcome. It's great to hear that you're making an effort to eat healthier. Now, let's discuss your obesity. Have you noticed any changes in your weight recently?"
-    }
-}

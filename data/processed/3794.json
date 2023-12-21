@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3794,
-    "prompt": "Nurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Ms. Odonnell. I just wanted to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's critical to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If you have any questions in the future, don't hesitate to ask. Now, let's discuss your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: What do you mean by that?\n\nNurse: I'm asking about the types of foods you've been eating, Ms. Odonnell. For example, what did you have for breakfast, lunch, and dinner yesterday?\n\nPatient: That's a I had oatmeal for breakfast.",
-    "responses": {
-        "gpt4": "That's a great start to the day, Ms. Odonnell. Oatmeal is a good source of fibre, which can help control your blood sugar levels. What did you have for lunch?",
-        "our_model": "That's a great start to the day, Ms. Odonnell. Oatmeal is a whole grain and a good source of fiber. What did you have for lunch and dinner yesterday?"
-    }
-}

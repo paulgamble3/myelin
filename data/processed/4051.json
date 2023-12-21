@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4051,
-    "prompt": "Nurse: I can imagine, there's no place like home. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: Yes. I do enjoy building small scale model cars.\n\nNurse: That sounds like a fascinating hobby. It must be quite therapeutic to work on those detailed models. Do you have a favorite model car that you're currently working on?\n\nPatient: Well, I'm not working on one right now. But last month, I did one that's a pink Cadillac just like Elvis Presley would have owned.\n\nNurse: That sounds fantastic! Elvis' pink Cadillac is quite an iconic car. It must have been a fun project to work on. Now, I'm calling on behalf of Doctor Ellie Ortega and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: And I don't think so.\n\nNurse: Alright. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "Great! And how are you taking your medication? It's important to take it as prescribed by your doctor.",
-        "our_model": "Great, and how have you been taking your Lasix?"
-    }
-}

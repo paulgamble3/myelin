@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3132,
-    "prompt": "Nurse: Great, Mr. Valenzuela. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: That sounds good to me. Yes.\n\nNurse: Perfect, Mr. Valenzuela. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?\n\nPatient: Well, two six what do you mean by that?\n\nNurse: I apologize for any confusion, Mr. Valenzuela. I meant to ask if there's anything else about the logistics of the procedure that's worrying you. For example, is there anything about the day of the procedure that you're unsure about or concerned about?\n\nPatient: No. Not yet.\n\nNurse: Alright, Mr. Valenzuela. If any concerns come up, don't hesitate to ask. I'm here to help. Before we move on to discuss your medications, I want to take a pause. Are you ready to continue?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Perfect, Mr. Valenzuela. Let's move onto the medications. I see on your chart that you don't have any specific medication change for this procedure. Just to double-check, are you taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners? These types of medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise.",
-        "our_model": "Great, Mr. Valenzuela. I see on your chart that there are no changes to your medication. However, I would like to ask if you're taking any other medications we'll need you to stop like Advil, Aspirin, Aleeve, or other blood thinners?"
-    }
-}

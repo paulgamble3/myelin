@@ -1,8 +1,0 @@
-{
-    "prompt_id": 462,
-    "prompt": "Nurse: I'm glad to hear that you're happy to be home.\n\nPatient: you know, I had to go back to the ER because of this dry hacking cough and trouble sleeping, They tested me for COVID, and that was negative.\n\nNurse: I'm sorry to hear about your cough and sleeping troubles.\n\nPatient: But I was having I guess I was having a CHF flare so my doctor increased my laces, to twice a day.\n\nNurse: I'm sorry to hear about your recent visit to the ER, but I'm glad to hear that you're back home. It must be a relief to be in your own space again. Is there anything you're particularly looking forward to doing now that you're home?\n\nPatient: Oh, just I would really like to get some sleep, but Since the doctor increased my lASIKs, I have to get up to go pee so often. I'm having a hard time having a good night sleep.\n\nNurse: I'm sorry to hear that you're having trouble sleeping. It's quite common for Lasix to increase urination as it helps your body get rid of extra fluid. However, it's important to take it as prescribed to manage your CHF symptoms. Are you still taking your Valsartan as well?\n\nPatient: Attendance.",
-    "responses": {
-        "gpt4": "I think there may have been a misunderstanding. I was asking about Valsartan, one of the medications you are on. Are you still taking it?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

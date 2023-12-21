@@ -1,8 +1,0 @@
-{
-    "prompt_id": 70,
-    "prompt": "Nurse: Just give me a second to work out the best way I can assist you. Does the swelling start suddenly, Ms. Ware?\n\nPatient: I woke up with it.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: How many times are you gonna ask me that?\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: I said it started today.\n\nNurse: Does the swelling start suddenly, Ms. Ware?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Has the swelling affected your ability to move, Ms. Ware?",
-        "our_model": "Does the swelling start suddenly, Ms. Ware?"
-    }
-}

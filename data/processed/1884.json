@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1884,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Carla Arnold?\n\nPatient: Yes.\n\nNurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jack Smith, to check in on you. How have you been doing lately?\n\nPatient: Avenue. Alright.\n\nNurse: I'm glad to hear that you're doing alright. Is there anything you're looking forward to doing this week?\n\nPatient: I'm going to a birthday party tomorrow.\n\nNurse: That sounds like a lot of fun! Whose birthday party is it?\n\nPatient: My neighbor.",
-    "responses": {
-        "gpt4": "It's nice to hear that you have such a close relationship with your neighbor. Are you planning to bring anything to the party?",
-        "our_model": "Oh, that's nice! It's always great to celebrate with neighbors. Do you have any special plans for the party?"
-    }
-}

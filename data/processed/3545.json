@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3545,
-    "prompt": "Nurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Just staying home.\n\nNurse: That sounds like a good plan, Mr. Gardner. Being at home can indeed be comforting. By the way, do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I like to walk\n\nNurse: That's great, Mr. Gardner. Walking is a wonderful way to stay active. Do you have a favorite route or area where you like to walk?\n\nPatient: Just around the block.\n\nNurse: That's a good way to stay active in your own neighborhood, Mr. Gardner. Now, I have a few topics to cover with you on behalf of Doctor Thornton. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Gardner. Let's start with your new medication. Have you picked up your prescription for Lasix 20mg yet?",
-        "our_model": "Alright, Mr. Gardner. Let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets?"
-    }
-}

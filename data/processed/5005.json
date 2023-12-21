@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5005,
-    "prompt": "Nurse: That's wonderful, it sounds like a lovely way to keep a family tradition alive. Now, I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your knee replacement?\n\nPatient: I really wanna be able to go for a walk on the\n\nNurse: That sounds like a wonderful goal. Walking is a great way to enjoy the outdoors and it's also beneficial for your overall health. Do you have a favorite place or route you're looking forward to walking?\n\nPatient: beach next summer.\n\nNurse: That sounds like a beautiful plan. Walking on the beach is such a refreshing activity. Do you have a favorite beach you're planning to visit, or is it more about the act of walking by the ocean?\n\nPatient: Honestly, that I'm not sure which beach I wanna go to yet.\n\nNurse: That's perfectly fine. The important thing is the goal itself - to be able to enjoy a walk on the beach. It's a wonderful motivation for your recovery. Now, how are you feeling about your upcoming procedure?\n\nPatient: Well, I am really",
-    "responses": {
-        "gpt4": "I'm sorry for the interruption, but your voice cut out. Could you share again how you're feeling about the upcoming procedure?",
-        "our_model": "I'm sorry, you were saying?"
-    }
-}

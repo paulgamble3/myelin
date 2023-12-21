@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6370,
-    "prompt": "Patient: What changes\n\nPatient: page.\n\nNurse: I'm sorry Does the patient report sudden arm or leg weakness?\n\nPatient: I don't know what you're talking about.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: We were talking about my meal.\n\nNurse: Does the patient develop a severe headache?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I apologize for any confusion, Mr. Gardner. Did you experience a sudden, severe headache that you'd describe as the worst you've ever had?",
-        "our_model": "Does the patient report trouble seeing from one or both eyes?"
-    }
-}

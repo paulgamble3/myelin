@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2476,
-    "prompt": "Nurse: That's perfectly fine. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have hypertension, it's important to monitor your blood pressure regularly. When was the last time you took your blood pressure, and do you recall what the reading was?\n\nPatient: Well, last time I took it, I can't remember off the top of my head. I don't even remember what the reading is.\n\nNurse: That's okay. It's critical to keep track of your blood pressure readings. May I share some suggestions on how to manage your blood pressure?\n\nPatient: Cores.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Of course.",
-    "responses": {
-        "gpt4": "Thank you. Here's a simple strategy: Try to establish a regular routine of checking your blood pressure, preferably at the same time each day, like when you wake up in the morning or before bed. This consistency can help provide more accurate readings over time. Also, maintaining a healthy diet, engaging in regular physical activity - if your doctor says it's safe - limiting alcohol, and avoiding smoking can all help keep your blood pressure in check. Would it be possible for you to incorporate one of these strategies into your routine?",
-        "our_model": "Thank you. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating less processed foods and adding less salt to your meals. Do you think this is something you could try?"
-    }
-}

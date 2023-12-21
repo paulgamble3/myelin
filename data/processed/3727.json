@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3727,
-    "prompt": "Nurse: Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?\n\nPatient: I don't know. I'm I'm a little scared, but of\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been causing you to feel scared?\n\nPatient: these things that are happening to me.\n\nNurse: I'm really sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Can you tell me more about what's been happening that's causing you to feel scared?\n\nPatient: Well, I just\n\nNurse: Yes, Ms. Odonnell, please go ahead and share what's been happening. I'm here to listen and help you. [\n\nPatient: seem to have a lot of medical conditions that I've been",
-    "responses": {
-        "gpt4": "I understand that having multiple health conditions could indeed be overwhelming, Ms. Odonnell. It might help to discuss how you've been managing with each one, so we can figure out how best to support you. Would that be alright with you? Is there anything specific you're looking forward to doing this week, even something small?",
-        "our_model": "I'm really sorry to hear that you're feeling overwhelmed, Ms. Odonnell. It's definitely a lot to manage. Can you tell me which specific symptoms or conditions are causing you the most concern right now?"
-    }
-}

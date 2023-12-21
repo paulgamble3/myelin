@@ -1,8 +1,0 @@
-{
-    "prompt_id": 503,
-    "prompt": "Nurse: Thank you for confirming. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: So far so good.\n\nNurse: I'm glad to hear that. As you approach your colonoscopy procedure, how are you feeling about it?\n\nPatient: With.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please share your feelings about the upcoming procedure again?\n\nPatient: Can I ask you a question?",
-    "responses": {
-        "gpt4": "Of course, I'm here to help with any questions you have. What would you like to know?",
-        "our_model": "Of course, you can. What would you like to know?"
-    }
-}

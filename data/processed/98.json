@@ -1,8 +1,0 @@
-{
-    "prompt_id": 98,
-    "prompt": "Nurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: Whatever sound I I got you. I I hear you.\n\nNurse: Thank you for confirming. Is there anything else about the logistics that's worrying you?\n\nPatient: No need to yell at me.\n\nNurse: I'm sorry if it seemed like I was yelling, that was not my intention. I just want to make sure everything is clear for you. Is there anything else about the logistics that's worrying you?\n\nPatient: Oh, gosh. I feel like everything is boring. Me,\n\nNurse: I understand that this can feel overwhelming. It's a lot to take in. I'm here to help make this process as smooth as possible for you. Before we move on to discuss your medications, I want to take a pause. Are you ready to proceed?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Thank you for being patient. Let's discuss your medications now. You are currently taking Metformin and Lisinopril according to your patient profile. Is that still correct?",
-        "our_model": "Great, let's move on to your medications. I see on your chart that there are no changes to your current medications. However, I would like to confirm if you're taking any other medications like Advil, Aspirin, Aleve, or other blood thinners. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Are you currently taking any of these?"
-    }
-}

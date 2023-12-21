@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5193,
-    "prompt": "Nurse: Alright, let's move on to your medications. I see that you have a new prescription for Lasix 20 mg oral tablet, with a dosage of 40 mg twice a day. Have you been able to pick up this medication from the pharmacy?\n\nPatient: Yeah.\n\nNurse: Wonderful. And how have you been taking your Lasix?\n\nPatient: Orally\n\nNurse: That's correct. You're taking it orally, but I meant to ask if you've been taking it twice a day as prescribed. Have you been able to follow this schedule?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's briefly discuss your existing medications. Are you still taking Digoxin, Enalapril, Sumpatriptan, Triamcinolone ointment, Metformin, Riboflavin, Atorvastatin, Lantus, Tramadol, Levothyroxine, and Tylenol as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad to hear you have been keeping up with your medications. It's common to sometimes forget a dose. Have you ever had any trouble taking your medications on time?",
-        "our_model": "That's excellent. It's critical to keep up with your medications. I understand that it can sometimes be challenging to remember all the doses and timings. Do you ever have trouble taking your medication on time?"
-    }
-}

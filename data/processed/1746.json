@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1746,
-    "prompt": "Nurse: Okay, Ms. Winner. I appreciate your patience. Now, I'd like to ask if you've been experiencing any signs of illness. Do you currently have a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Winner. It's important to stay as healthy as possible leading up to your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yeah.\n\nNurse: Wonderful, Ms. Winner. It's always best to recover in the comfort of your own home. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yeah.\n\nNurse: That's great to hear, Ms. Winner. It's critical to have someone to assist you as you recover. If there's anything else you need to arrange, remember you still have time. Do you have any questions about the post-procedure plans?\n\nPatient: Thank",
-    "responses": {
-        "gpt4": "You're welcome, Ms. Winner. I understand how stressful this process can be, and we're here to support you. I think we've covered everything for today. Do you have any further questions or concerns you'd like to discuss?",
-        "our_model": "You're welcome, Ms. Winner. It's important to have someone there to assist you as you recover. If there's anything else you need to discuss or any questions you have, feel free to ask now. ["
-    }
-}

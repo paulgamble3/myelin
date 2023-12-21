@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1206,
-    "prompt": "Nurse: I'm sorry, Mr. Dang, could you please repeat your favorite low fiber comfort food?\n\nPatient: I like pasta.\n\nNurse: Pasta is a great choice, Mr. Dang. It's a good source of energy and it's easy on the digestive system. Do you have a favorite pasta dish you're looking forward to having during this time?\n\nPatient: Alex Spaghetti.\n\nNurse: Ally's Spaghetti sounds delicious, Mr. Dang. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you usually make it at home or do you have a favorite place where you get it from?\n\nPatient: To make it at home.\n\nNurse: That's wonderful, Mr. Dang. Homemade meals are often the best. Do you have a special recipe for Ally's Spaghetti that you follow, or do you like to experiment with different ingredients each time?\n\nPatient: No. But just put it in a pot and boil the water and make it.",
-    "responses": {
-        "gpt4": "I see, Mr. Dang. That sounds convenient and straightforward, which can be helpful during this time. Is there anything else you would like to discuss about the dietary changes you'll be making before your colonoscopy?",
-        "our_model": "That sounds like a straightforward and effective method, Mr. Dang. It's always nice to have a simple and delicious meal that you can prepare quickly. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

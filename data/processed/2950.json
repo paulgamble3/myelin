@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2950,
-    "prompt": "Nurse: Alright, Ms. McKloskey. Let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. McKloskey. It's critical to be in good health before your procedure. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Yes.\n\nNurse: Okay, Ms. McKloskey. It's essential to have a plan for after the procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes. That would be my daughter.\n\nNurse: That's wonderful to hear, Ms. McKloskey. It's essential to have someone like your daughter to assist you after the procedure. If any changes occur, remember to inform us. Do you have any other questions or concerns?\n\nPatient: How long will the procedure take?",
-    "responses": {
-        "gpt4": "The actual surgery typically lasts between one to two hours, Ms. McKloskey. However, you should plan for additional time for pre and post-operative care, which could make your entire stay at the hospital anywhere from 2 to 3 hours. Do you have any other questions or things you'd like to discuss about the procedure?",
-        "our_model": "Give me a moment to check how I can best support you."
-    }
-}

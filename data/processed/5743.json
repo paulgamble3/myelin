@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5743,
-    "prompt": "Nurse: I appreciate your question, Ms. Aguirre. As a Stage IV CKD patient, it's important to follow a diet that's low in sodium, potassium, and phosphorus. This means avoiding processed foods, certain fruits and vegetables, and dairy products. Instead, you should focus on fresh fruits and vegetables, lean proteins, and whole grains. For example, a balanced meal could include grilled chicken, steamed broccoli, and brown rice. Would you like more specific suggestions or do you have any other questions about your diet?\n\nPatient: No. That helps. Thank you.\n\nNurse: You're welcome, Ms. Aguirre. I'm glad I could help. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Are you experiencing any pain or discomfort, or are you able to move around as you were before the surgeries?\n\nPatient: I'm pretty painless\n\nNurse: That's excellent news, Ms. Aguirre. Being pain-free is a good sign of recovery. Now, let's move on to the last topic. Do you smoke cigarettes or vape?\n\nPatient: so far for the most part. Can I take my Tylenol for pain though?",
-    "responses": {
-        "gpt4": "Sorry, I didn't catch that earlier. You mentioned having some back pain. Are you asking if it's okay to take Tylenol for this?",
-        "our_model": "I apologize for the confusion earlier, Ms. Aguirre. Could you please confirm whether you're experiencing any back pain at the moment?"
-    }
-}

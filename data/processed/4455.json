@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4455,
-    "prompt": "Nurse: Yes, Mr. Delarosa. I was asking if you could tell me about some of the meals you've had recently?\n\nPatient: Some of the meals.\n\nNurse: Yes, Mr. Delarosa. Could you share what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: Sure. I had to open up for breakfast. Let's see. I think I skip lunch.\n\nNurse: Thank you for sharing, Mr. Delarosa. It's quite common to skip meals. Can you tell me what you had for dinner yesterday?\n\nPatient: And I had some\n\nNurse: I'm sorry, Mr. Delarosa, your voice cut out a bit there. Could you please repeat what you had for dinner yesterday?\n\nPatient: chicken and potatoes for dinner.",
-    "responses": {
-        "gpt4": "That sounds like a hearty meal, Mr. Delarosa. I see that a dietician has recommended a 1 Liter fluid restricted and a 2000 mg Sodium Restricted diet for you. Do you feel comfortable with these recommendations and would you like me to share some tips on how to follow them?",
-        "our_model": "Thank you for sharing that, Mr. Delarosa. It sounds like you're incorporating some good protein sources into your meals. How about your fluid intake?"
-    }
-}

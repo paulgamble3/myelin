@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3647,
-    "prompt": "Nurse: That's great to hear. How about Gabapentin and Tylenol?\n\nPatient: Yep.\n\nNurse: Good job. And are you also taking your Potassium tablets as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. It's essential to take your medications as prescribed to manage your conditions. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No. I'm not near yet.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: I said no. I don't have trouble with that because I'm not an idiot.",
-    "responses": {
-        "gpt4": "Great. It seems like you are very disciplined and in control of your medication routine. It's really important, so keep up the fantastic work. Can I ask you a few questions about your symptoms now?",
-        "our_model": "I apologize for any misunderstanding. I'm glad to hear that you're managing your medications well. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?"
-    }
-}

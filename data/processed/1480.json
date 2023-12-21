@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1480,
-    "prompt": "Nurse: That's great to hear, Mr. Valenzuela.\n\nPatient: I have.\n\nNurse: That's great to hear, Mr. Valenzuela. It's essential to have someone available to take you home after the procedure. Do you have any other questions or concerns about the logistics of your procedure?\n\nPatient: Nope. I don't think I do.\n\nNurse: Alright, Mr. Valenzuela. I'm glad to hear that you're feeling prepared. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Valenzuela. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over your diet and medication instructions, as well as the bowel prep process. You've also confirmed that you're feeling well and have arranged for a ride home after the procedure. Does that sound right to you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Mr. Valenzuela. I will call you again the day before the procedure to go over step by step all the prep instructions. Remember, we at O'Connor Hospital are here for you every step of the way. If you need assistance or have questions at any point, please feel free to call us at 641-381-6523. We'll be more than happy to help.",
-        "our_model": "Great, Mr. Valenzuela. I'm glad we could go over everything together. Remember, we're here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns in the meantime, you can reach us at 641-381-6523."
-    }
-}

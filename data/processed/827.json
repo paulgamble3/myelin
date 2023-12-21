@@ -1,8 +1,0 @@
-{
-    "prompt_id": 827,
-    "prompt": "Nurse: That sounds lovely, Mr. Oliver. Spending time with family, especially grandkids, can be such a joy. What activities do you usually enjoy doing with them?\n\nPatient: Oh, I like taking them to the movies or for ice cream. Anything where I get some fun time then.\n\nNurse: Those sound like wonderful ways to spend time with your grandkids, Mr. Oliver. Movies and ice cream are always a hit. Do you have a favorite movie or ice cream flavor that you all enjoy?\n\nPatient: I personally like chocolate chip.\n\nNurse: Chocolate chip is a classic, Mr. Oliver. It's always a delight. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Oliver. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great, thank you for your cooperation, Mr. Oliver. Since you've been diagnosed with Type II Diabetes, I wanted to check if you have been checking your blood sugar daily. Could you tell me what your last blood sugar reading at home was?",
-        "our_model": "Wonderful, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

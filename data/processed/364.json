@@ -1,8 +1,0 @@
-{
-    "prompt_id": 364,
-    "prompt": "Nurse: Perfect, Mr. Koroleva. Is there anything else about the logistics that's worrying you?\n\nPatient: Not at the moment. I think it's quite\n\nNurse: I'm glad to hear that, Mr. Koroleva.\n\nPatient: What understanding? I understand everything.\n\nNurse: I'm glad to hear that, Mr. Koroleva. Before we move on to talk about your medications, I want to take a pause to see if you're ready to move forward. Are you okay to continue?\n\nPatient: Yes. I'm okay to continue. Thank you.\n\nNurse: Great, Mr. Koroleva. I see on your chart that you're currently taking Xarelto 10 mg once a day. For your colonoscopy, you'll need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Do you have any questions about this medication change?\n\nPatient: Oh, yeah. Why do I need to stop it?",
-    "responses": {
-        "gpt4": "That's a great question, Mr. Koroleva. Xarelto is a type of anticoagulant, or blood thinner. It reduces the chance of blood clots forming in your body. However, it can increase the risk of bleeding during the colonoscopy. That's why it's important to stop it 5 days before the procedure. Rest assured, you will be able to resume taking it after the colonoscopy, once your doctor gives the go-ahead. Does that help clarify things?",
-        "our_model": "That's a great question, Mr. Koroleva. Xarelto is a type of blood thinner, and it's important to stop it before your colonoscopy to reduce the risk of bleeding during the procedure. Does that help clarify things?"
-    }
-}

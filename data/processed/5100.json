@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5100,
-    "prompt": "Nurse: Good morning. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been good.\n\nNurse: I'm glad to hear that. As we approach your colonoscopy, how are you feeling about the procedure?\n\nPatient: I'm okay.\n\nNurse: That's good to hear. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's on your mind or any questions you'd like to discuss before we begin?\n\nPatient: So you're looking",
-    "responses": {
-        "gpt4": "Thank you for asking. My role as an AI nurse is to check in with you about your health and upcoming procedures. I'm here to support you and relay any concerns or queries to your care team. \n\nEveryone has different reasons for scheduling a colonoscopy. In your case, this procedure is for preventative screening for colon cancer. That's quite a process to go through. Do you have any immediate concerns or thoughts about it?",
-        "our_model": "Yes, I see that you're scheduled for a colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. This procedure is a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

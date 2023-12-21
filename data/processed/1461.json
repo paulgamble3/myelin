@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1461,
-    "prompt": "Nurse: Alright, Mr. Valenzuela. Let's smoothly transition to the topic of diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, rice, and pasta, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about eating only low fiber foods?\n\nPatient: No. I don't.\n\nNurse: Great, Mr. Valenzuela. It's essential to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what low fiber foods do you enjoy eating?\n\nPatient: I like right.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat that?\n\nPatient: I like rice,\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Rice is a great choice for a low fiber diet. Do you have a favorite way to prepare it?\n\nPatient: I also was a little bit of hot fast.",
-    "responses": {
-        "gpt4": "I apologize, Mr. Valenzuela, but I didn't quite catch that. Could you please repeat it?",
-        "our_model": "I'm sorry, Mr. Valenzuela, could you please repeat that?"
-    }
-}

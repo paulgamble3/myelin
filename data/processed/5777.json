@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5777,
-    "prompt": "Nurse: Ah, yogurt is a great choice! It's a good source of protein and can be a comforting food. Just remember to choose a low-fiber variety. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet?\n\nPatient: Nope.\n\nNurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Yeah.\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Nope. I am not.",
-    "responses": {
-        "gpt4": "Thank you for confirming that. Sometimes these types of medications or supplements can interfere with the preparation or procedure. Now, let's move onto the last part of the preparation. Have you heard about the clear liquid diet and GoLYTELY laxative solution?",
-        "our_model": "That's good to hear. It's essential to avoid those supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this?"
-    }
-}

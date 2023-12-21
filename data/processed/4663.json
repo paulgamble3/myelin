@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4663,
-    "prompt": "Nurse: Let's first get all the logistics out of the way, Mr. Amador. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you, Mr. Amador?\n\nPatient: Yes.\n\nNurse: Is there anything else about the logistics that's worrying you, Mr. Amador?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Mr. Amador. Do you have any questions or concerns about the logistics of the procedure?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, great, Mr. Amador. Let's now talk about the colonoscopy procedure itself. During the procedure, Doctor Bailey will insert a colonoscope into your rectum to examine your colon. The colonoscope is a long, flexible tube with a tiny video camera at the end that sends images to a video monitor so Doctor Bailey can examine your colon. Does that make sense to you?",
-        "our_model": "I'm glad to hear that, Mr. Amador. I'm going to move on to talk about your medications. But before I do, I want to take a pause to see if you're ready to move on. Can we proceed?"
-    }
-}

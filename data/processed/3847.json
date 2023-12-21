@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3847,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, this is Nurse Rachel. I'm calling on behalf of your primary care doctor, Dr. Jami Wyatt, to have a check in with you about your chronic kidney disease. How has your day been so far?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?"
-    }
-}

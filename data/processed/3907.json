@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3907,
-    "prompt": "Nurse: That's good to hear. It's important to continue taking your insulin as prescribed. Now, let's move on to your medications. You're currently prescribed Cellcept 500 mg oral tablet, with a dosage of 1000 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. Mhmm.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Do you ever have trouble remembering to take your medication on time?\n\nPatient: No. I don't.\n\nNurse: That's excellent. You're doing a great job managing your medication. Just a reminder, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I know.\n\nNurse: That's good to hear. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a",
-    "responses": {
-        "gpt4": "I apologise, I didn't catch that. Could you please repeat what you had?",
-        "our_model": "I'm sorry, Carla, could you please repeat what you had for your recent meals?"
-    }
-}

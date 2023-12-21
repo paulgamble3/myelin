@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3620,
-    "prompt": "Nurse: It's great to hear that you're following the DASH diet, Mr. Benton. It's a good choice for managing your conditions. As for preserving kidney function, it's important to limit foods high in phosphorus and potassium. These include dairy products, bananas, oranges, and potatoes. Would you be open to some suggestions on how to adjust your diet?\n\nPatient: S.\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I guess.\n\nNurse: I'm sorry, Mr. Benton, I thought you said something about a change in speech. Could you please confirm what you said?\n\nPatient: I am open to hearing suggestions on my diet.\n\nNurse: Give me a moment to check how I can best support you. Thank you for being open to suggestions, Mr. Benton. One thing you could try is to include more foods that are low in phosphorus and potassium in your diet. These include apples, berries, and vegetables like broccoli and cabbage. Also, it's important to limit your intake of processed foods as they often contain high amounts of these minerals. What do you think about these suggestions?\n\nPatient: It's fine.",
-    "responses": {
-        "gpt4": "Great, Mr. Benton. I'm glad you're open to those changes. Remember, making minor shifts in your diet can have a significant impact on managing your health conditions. Is there anything else you would like to know about managing your diabetes and kidney disease?",
-        "our_model": "I appreciate your patience, Mr. Benton. I'm going to trigger a GREEN kickout for refuses_Rachel. This means I'll update your care team about our conversation. They may reach out to you directly. Thank you for your time today. ["
-    }
-}

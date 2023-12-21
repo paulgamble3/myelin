@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4183,
-    "prompt": "Nurse: Thank you for sharing that, Mr. Peck. Cucumbers and carrots are great for a salad. They're both low in sodium and phosphorus. Can I provide some suggestions to further optimize your salad for your dietary needs?\n\nPatient: sometimes tomatoes, Sprouts,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is a good way to get necessary\n\nPatient: onions,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're incorporating a variety of vegetables into your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: peppers,\n\nNurse: Thank you for sharing that, Mr. Peck. It sounds like you're including a variety of vegetables in your salads, which is excellent. Can I provide some suggestions to further optimize your diet?\n\nPatient: You could tell me how much",
-    "responses": {
-        "gpt4": "Of course, Mr. Peck. Could you clarify how much of what you'd like to know? Is it about portion sizes of specific foods or overall caloric intake?",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat your question?"
-    }
-}

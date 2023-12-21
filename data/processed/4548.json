@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4548,
-    "prompt": "Patient: Raspberries for Brex\n\nPatient: this.\n\nNurse: I'm sorry, Jon, I didn't quite catch the last part of your response. Could you please repeat what you said for breakfast?\n\nPatient: That's everything for today.\n\nNurse: Thank you for sharing that. It sounds like you're making an effort to eat balanced meals. I noticed you mentioned having raspberries for breakfast. That's a great choice as they're packed with vitamins. Can I provide some suggestions to further optimize your diet?\n\nPatient: Sure.\n\nNurse: I apologize for any confusion earlier. You mentioned having chicken and rice, steamed vegetables, and raspberries for breakfast, correct?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Just give me a second to work out the best way I can assist you. Just give me a second to work out the best way I can assist you.",
-        "our_model": "That's great to hear. It sounds like you're making an effort to eat balanced meals. One suggestion is to be mindful of the amount of sodium in your food, especially if it's processed. Sodium can raise your blood pressure and worsen your kidney disease. Would you be open to some tips on how to reduce sodium in your diet?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3199,
-    "prompt": "Nurse: Alright, just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Perfect. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Okay.\n\nNurse: Excellent. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, let's move on. This next question is important. Have you noticed any signs of illness like a fever, chills, or muscle aches in the last few days?",
-        "our_model": "Alright. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness such as a fever, chills, or muscle aches?"
-    }
-}

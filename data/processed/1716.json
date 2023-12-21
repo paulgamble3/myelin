@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1716,
-    "prompt": "Nurse: Thank you for confirming, Ms. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Great, thank you for your time, Ms. Winner. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Oh, okay.\n\nNurse: I'm sorry, Ms. Winner, I didn't quite catch that. Could you please share a bit about how your day has been going so far?\n\nPatient: My day is going okay.\n\nNurse: I'm glad to hear that, Ms. Winner. It's always nice to have a good day. As you approach your total knee replacement, it must be exciting to think about the possibilities that come with a new knee. Do you have any plans or activities you're looking forward to once you've recovered from your procedure?\n\nPatient: Did you hear me? I said playing with my grandchildren.",
-    "responses": {
-        "gpt4": "My apologies for any confusion, Ms. Winner. I must have missed that. That's wonderful! Spending time with grandchildren and being active can be such a joy. What games or activities do you most enjoy doing with them?",
-        "our_model": "That sounds wonderful, Ms. Winner. Playing with your grandchildren must bring you a lot of joy. Do you have any favorite games or activities you enjoy doing with them?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2483,
-    "prompt": "Nurse: I'm sorry, I didn't quite understand your response. Could you please clarify?\n\nPatient: Sure. I said I don't see why not. Not.\n\nNurse: Thank you for your response. Including a short walk in your day can be a good start. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Yeah. What exactly are the results? I never got those.\n\nNurse: I see, let me explain. Your GFR, which stands for Glomerular Filtration Rate, is 101 mL/min/1.73m2. This is a measure of how well your kidneys are filtering waste from your blood. A higher number is better. Your sodium level is 139 mEq/L, potassium is 3.4 mEq/L, BUN is 3.14 mmol/L, creatinine is 0.6 mg/dL, and urine albumin is 190 mg/g. These are all within normal ranges. Do you have any questions about these results?\n\nPatient: Yes. I do. You said my lab normal.\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: I'm",
-    "responses": {
-        "gpt4": "I'm having a bit of trouble understanding. Could you please repeat your question?",
-        "our_model": "I'm sorry, could you please repeat your question?"
-    }
-}

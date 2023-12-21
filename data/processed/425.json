@@ -1,8 +1,0 @@
-{
-    "prompt_id": 425,
-    "prompt": "Patient: Yes, please. Yes.\n\nPatient: What about medication?\n\nNurse: Wonderful. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to the procedure. Have you already stopped taking Plavix?\n\nPatient: Yes. Yes. Wait. Plavix.\n\nNurse: Yes, Plavix. You've confirmed that you've stopped taking it, correct?\n\nPatient: Have I started\n\nNurse: I apologize for any confusion.\n\nPatient: Hold on. Let me review my medications because I have so many. That I need to take a look at it.",
-    "responses": {
-        "gpt4": "Of course, take your time. It's important to be certain.",
-        "our_model": "Of course, take your time. It's important to be sure about your medications."
-    }
-}

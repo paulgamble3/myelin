@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5858,
-    "prompt": "Patient: I said Alves.\n\nNurse: I apologize for the confusion, Mr. Alves. I was asking about your understanding of the dietary restrictions and bowel preparation for your colonoscopy. Have you received and understood these instructions?\n\nPatient: Yes.\n\nNurse: Great, Mr. Alves. It's essential to follow those instructions closely for the best results. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Perfect, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Alves.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.",
-    "responses": {
-        "gpt4": "I apologize for any confusion, Mr. Alves. I understand your last name is Alves. Should I proceed with the discussion regarding your colonoscopy or is there something else you'd like to ask or talk about?",
-        "our_model": "Absolutely, Mr. Alves. The address of O'Connor Hospital is 2105 Forest Ave, San Jose, CA 95128. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
-    }
-}

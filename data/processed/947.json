@@ -1,8 +1,0 @@
-{
-    "prompt_id": 947,
-    "prompt": "Nurse: That's a good step. Now, let's talk about your blood pressure. When was the last time you took your blood pressure, and do you remember what the reading was?\n\nPatient: It was yesterday. It was\n\nNurse: I'm sorry, you were saying?\n\nPatient: one ninety nine over one twenty.\n\nNurse: Thank you for sharing that information. It's important to monitor your blood pressure regularly, especially given your conditions. May I share some suggestions on how to manage your blood pressure?\n\nPatient: Fine.\n\nNurse: Great, thank you. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fresh foods and avoiding processed ones, which often contain high amounts of salt. Also, regular physical activity can help lower blood pressure. It's recommended to aim for at least 30 minutes of moderate activity, like brisk walking, most days of the week. Do you think these are changes you could incorporate into your routine?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "That's great to hear. You're already taking steps towards your health. Let's move to your recent tests. You had some blood tests and a urine test recently. Do you have any questions about those?",
-        "our_model": "Another strategy is regular physical activity. This doesn't have to be strenuous; even a walk around the block can help. Would you be open to incorporating more physical activity into your routine?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4685,
-    "prompt": "Nurse: When did the patient start having bloody stool?\n\nPatient: What?\n\nNurse: Does the patient have bloody or black, tarry stool?\n\nPatient: We've already talked about this, and this is coming out of nowhere.\n\nNurse: Does the patient have abdominal pain?\n\nPatient: I'm done talking about this.\n\nNurse: What is the patient's pain level on a scale of 0 to 10?\n\nPatient: Zero.",
-    "responses": {
-        "gpt4": "Does the patient feel light-headed or faint?",
-        "our_model": "Does the patient have a hemorrhoid or a lump at rectum and red streak on stool?"
-    }
-}

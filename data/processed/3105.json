@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3105,
-    "prompt": "Nurse: I'm sorry to hear that you're experiencing chest pain. It's crucial to keep track of this. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's good to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great! I'm glad that you're not needing extra pillows for sleep. We've just gone through a simple CHF assessment, which would be beneficial if you also can do at home every day. Monitoring your symptoms this way helps catching any changes early. Do you have any questions on how to do the things we went through?",
-        "our_model": "That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
-    }
-}

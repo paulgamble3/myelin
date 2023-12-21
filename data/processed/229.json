@@ -1,8 +1,0 @@
-{
-    "prompt_id": 229,
-    "prompt": "Nurse: Thank you, Ms. Aguirre. Since you have Chronic Kidney Disease, it's important to monitor your intake of certain nutrients. For example, you might want to limit foods high in sodium, as too much sodium can raise your blood pressure and put extra strain on your kidneys. Also, some fruits are high in potassium, which you might need to limit due to your kidney disease. Would you like me to provide more specific suggestions?\n\nPatient: We already talked about this\n\nNurse: I\n\nPatient: earlier.\n\nNurse: apologize for I apologize for the repetition, Ms. Aguirre. I'll make sure to note this for your care team to ensure we provide you with the most relevant information. Now, let's move on to discuss your back surgeries. How has your recovery been going?\n\nPatient: All times since I had my last surgery.\n\nNurse: I'm sorry, Ms. Aguirre, could you please clarify what you mean by \"all times\"?\n\nPatient: I said it's been a long time since I had my back surgery.",
-    "responses": {
-        "gpt4": "Thanks for clarifying, Ms. Aguirre. I hope the recovery period after your surgeries went smoothly. Are you currently experiencing any discomfort or mobility issues related to your back?",
-        "our_model": "I see, thank you for clarifying that, Ms. Aguirre. It's good to hear that it's been a while since your last back surgery. How would you describe your current back pain?"
-    }
-}

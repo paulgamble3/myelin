@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3814,
-    "prompt": "Nurse: Great, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: I've been doing fine. Thank you.\n\nNurse: I'm glad to hear that, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: Looking forward to the weekend. I know. Saying it out?\n\nNurse: I'm sorry, Mr. Hardy, could you please repeat what you're looking forward to this weekend?\n\nPatient: Hanging out.\n\nNurse: That sounds like a nice plan, Mr. Hardy. Do you usually spend your weekends at home or do you have any favorite places you like to visit?\n\nPatient: It depends, but I'll be home this weekend.",
-    "responses": {
-        "gpt4": "That sounds relaxing, Mr. Hardy. Don't forget to take it easy and do things that make you happy. Now, to get back to the reason for my call. Have you taken your medication today as instructed by Dr. Anuj Gopal?",
-        "our_model": "That's great, Mr. Hardy. Spending time at home can be very relaxing. Do you have any hobbies or activities you enjoy doing at home?"
-    }
-}

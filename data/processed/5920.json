@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5920,
-    "prompt": "Nurse: That's great to hear. Including more fruits and vegetables in your diet can have many health benefits. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No.\n\nNurse: Alright. If you ever have any questions in the future, don't hesitate to ask. Now, let's discuss your medications. I'd like to go over each one to ensure you're taking them as prescribed. Let's start with Aspirin. You should be taking an 81 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's great to hear. Now, let's move on to Atorvastatin. You should be taking a 40 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.\n\nNurse: That's good to hear. Now, let's discuss Plavix. You should be taking a 75 mg oral tablet daily. Have you been able to do that?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "Great job! Now, for the Metoprolol ER, you should be taking a 50 mg oral tablet daily. Have you been able to do that?",
-        "our_model": "That's great. Now, let's move on to Metoprolol. You should be taking a 50 mg oral tablet daily. Have you been able to do that?"
-    }
-}

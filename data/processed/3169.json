@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3169,
-    "prompt": "Nurse: Great, thank you for your time. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: Today, I'm feeling\n\nNurse: I'm sorry, it seems like there was a connection issue and I didn't catch the rest of what you were saying. Could you please repeat that?\n\nPatient: I'm feeling okay.\n\nNurse: I'm glad to hear that you're feeling okay. It's a big day coming up with your total knee replacement. You must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: Move around without pain after the surgery.\n\nNurse: I'm glad to hear you're doing okay. It's completely normal to be thinking about how you'll feel after the surgery. With your new knee, do you have any specific plans or activities you're looking forward to doing without pain?\n\nPatient: No. I really just wanna know I'm gonna be able to move around without paying",
-    "responses": {
-        "gpt4": "Absolutely, it's a significant step towards improved mobility. Many patients share that they appreciate being able to move around more comfortably following recovery from a total knee replacement. I'm sure it's on your mind, how are you feeling about your upcoming procedure?",
-        "our_model": "Of course, That's a very important goal, and one that's achievable with your upcoming surgery. Moving around without pain can significantly improve your quality of life. How are you feeling about the procedure itself?"
-    }
-}

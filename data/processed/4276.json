@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4276,
-    "prompt": "Nurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Yeah. I'm gonna go to the morning.\n\nNurse: That sounds lovely! What do you enjoy most about your morning walks?\n\nPatient: I love to say nature, and I love to see people\n\nNurse: It's wonderful that you enjoy nature and socializing during your morning walks. Do you have a favorite spot or route that you like to follow?\n\nPatient: enjoying themselves.\n\nNurse: It's wonderful that you find joy in nature and seeing others enjoy themselves. Do you have a favorite spot or route for your morning walks?\n\nPatient: It's just a bit of a parking in my house.",
-    "responses": {
-        "gpt4": "That's convenient. Being able to enjoy nature right by your home sounds delightful. Before we continue, do you have any symptoms concerning your chronic kidney disease or anything else that you would like to discuss?",
-        "our_model": "That's nice, having a park nearby must make your morning walks even more enjoyable. Before we move on to discuss your kidney disease, is there anything you've been feeling concerned about health-wise?"
-    }
-}

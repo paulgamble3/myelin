@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1912,
-    "prompt": "Nurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm feeling Britney. Alright.\n\nNurse: I'm glad to hear that. It must be nice to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: I'm looking forward to her last day of being back in my home.\n\nNurse: That sounds wonderful.\n\nPatient: Days.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I'm looking forward to being back in my own home and being in my own.",
-    "responses": {
-        "gpt4": "That's great, Sam. It's indeed comforting to be back home and enjoy personal space after a hospital stay. Let's hope for your fast recovery. Is there anything else you would require assistance with?",
-        "our_model": "That sounds wonderful."
-    }
-}

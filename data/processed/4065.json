@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4065,
-    "prompt": "Nurse: I can imagine that it's challenging to adjust to a new diet, especially when managing multiple health conditions. It's great that you're committed to following a diet that supports your health. Can you share what you had for breakfast, lunch, and dinner yesterday?\n\nPatient: Yeah. I had keto friendly.\n\nPatient: Serial\n\nPatient: And\n\nPatient: eggs, yesterday morning.\n\nNurse: That sounds like a good start to the day. What about for lunch and dinner?\n\nPatient: For lunch. I had keto,\n\nPatient: friendly. Valid. And for dinner, I had some chicken",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat that? I think I might have misheard you. What did you have for lunch and dinner?",
-        "our_model": "That's good to hear. It's critical to include protein in your meals. Did you have any sides or vegetables with your chicken?"
-    }
-}

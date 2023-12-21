@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1814,
-    "prompt": "Nurse: Alright, Mr. Jimenez. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yeah.\n\nNurse: Okay, Mr. Jimenez. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: I can't have even water.\n\nNurse: That's correct, Mr. Jimenez. You should not have any food or drink, including water, after midnight before your procedure. This is to ensure your stomach is empty for the anesthesia. Do you have any other questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Jimenez. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I don't think so.",
-    "responses": {
-        "gpt4": "Okay, Mr. Jimenez. Thank you for being patient. My next question is about your current health. Do you have any signs of illness, such as a fever, chills, or muscle aches?",
-        "our_model": "Okay, Mr. Jimenez. I appreciate your patience. Now, I'd like to ask if you have any signs of illness. Do you currently have a fever, chills, or muscle aches?"
-    }
-}

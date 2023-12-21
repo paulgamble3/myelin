@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2480,
-    "prompt": "Nurse: Thank you. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating less processed foods and adding less salt to your meals. Do you think this is something you could try?\n\nPatient: I don't see why not.\n\nNurse: That's great to hear. Another strategy is regular physical activity. This could be as simple as a daily walk. Do you currently have any physical activities incorporated into your routine?\n\nPatient: I'll be honest, not really.\n\nNurse: That's okay. Incorporating some form of physical activity into your routine can be beneficial for managing blood pressure. Would you consider adding a short walk to your day?\n\nPatient: I don't see one on.\n\nNurse: I'm sorry, I didn't quite understand your response. Could you please clarify?\n\nPatient: Sure. I said I don't see why not. Not.",
-    "responses": {
-        "gpt4": "That's great to hear! Even small changes like these can have a big impact on your health. Keep in mind, moderation is key. Start with what feels comfortable for you and gradually increase. If you experience any discomfort or pain, please consult your doctor.",
-        "our_model": "Thank you for your response. Including a short walk in your day can be a good start. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?"
-    }
-}

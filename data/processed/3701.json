@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3701,
-    "prompt": "Nurse: I'm glad to hear that. Now, let's move on to discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Of course, darling. Kidding. I'm such a type of contract, you know, I've got it one time ago.\n\nNurse: That's wonderful to hear. You're well-prepared. Now, let's go over the instructions for using the scrub. You'll need to use it the night before and the morning of your procedure. After taking a normal shower and turning the water off, does that sound good so far?\n\nPatient: You bet.\n\nNurse: Excellent. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's essential to avoid using the scrub on your face, hair, or crotch area. Can you do that?\n\nPatient: What's the foil? I'm sorry. I need a scrub, so I can scrub it anywhere.\n\nNurse: I apologize if I wasn't clear.\n\nPatient: I don't understand.",
-    "responses": {
-        "gpt4": "I apologize if my explanation wasn't clear. Let me try again. The chlorhexidine scrub helps to reduce the bacteria on your skin, which lowers the chance of infection. However, it can be irritating to sensitive areas. Therefore, you should avoid using the scrub on your face, hair, or genital area. Is that clearer?",
-        "our_model": "I apologize if that wasn't clear. The chlorhexidine scrub is an antiseptic that helps reduce the risk of infection. It's meant to be used on your skin, but not on your face, hair, or crotch area. These areas can be more sensitive and may not need the scrub. Does that make more sense?"
-    }
-}

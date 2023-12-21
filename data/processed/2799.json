@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2799,
-    "prompt": "Nurse: Great, it's important to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Pasta.\n\nNurse: Pasta is a great choice for a low fiber diet. Do you have a favorite pasta dish that you're planning to enjoy during this time?\n\nPatient: I just like regular old spaghetti.\n\nNurse: Spaghetti is a classic choice, and it's perfect for a low fiber diet. You can enjoy it with a simple sauce, just remember to avoid high fiber ingredients. This is one of those rare times when doctors want their patients to be eating low fiber comfort foods. Do you have any other questions about the diet or any other foods you're considering?\n\nPatient: No. No questions about diet at all.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to discuss supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, thank you for letting me know. It's important to avoid these types of supplements and medications to ensure the best results from your colonoscopy. Do you have any questions or concerns about this?",
-        "our_model": "That's good to hear. It's essential to avoid those supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on?"
-    }
-}

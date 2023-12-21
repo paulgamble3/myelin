@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3360,
-    "prompt": "Nurse: Of course, Mr. Kageyama. What's your question?\n\nPatient: Wanted to see if it's okay if I eat\n\nNurse: I'm sorry, Mr. Kageyama, you were saying?\n\nPatient: some cherry\n\nNurse: I'm sorry, Mr. Kageyama, could you please repeat your question?\n\nPatient: Jell O on the day of my colonoscopy.\n\nNurse: That's a good question, Mr. Kageyama. On the day of your colonoscopy, it's generally recommended to stick to a clear liquid diet. This includes items like broth, clear juices, and Jell-O. However, it's important to avoid any red or purple colored foods, including Jell-O, as they can interfere with the results of the procedure. So, cherry Jell-O would not be the best choice. Would you like to know about other foods that are suitable for your diet on the day of the procedure?\n\nPatient: That answered my question. Thanks.",
-    "responses": {
-        "gpt4": "I'm glad I could help, Mr. Kageyama. Do you have any other questions about the procedure or your preparation for it?",
-        "our_model": "You're welcome, Mr. Kageyama. I'm glad I could help. If it's okay with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that alright?"
-    }
-}

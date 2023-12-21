@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1408,
-    "prompt": "Patient: Hold on.",
-    "responses": {
-        "gpt4": "Of course, please take your time.",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Timoteo Valenzuela?"
-    }
-}

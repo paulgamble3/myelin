@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3551,
-    "prompt": "Nurse: Hello again, Mr. Gardner. I was asking about how you've been taking your Lasix medication. Is it two times a day as prescribed?\n\nPatient: Yes, sir.\n\nNurse: That's great to hear, Mr. Gardner. Now, are you still taking your Valsartan?\n\nPatient: Yes. But they increased my dosage.\n\nNurse: I see, Mr. Gardner. So, you're now taking 80 mg of Valsartan two times a day. That's a significant change. How are you managing with the increased dosage?\n\nPatient: Just five\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Good.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Gardner. It's not uncommon for patients to have difficulty remembering to take their medications on time. Have you ever experienced any problems with this?",
-        "our_model": "I'm glad to hear that, Mr. Gardner. It's critical to keep up with your medications. I understand that sometimes it can be challenging to remember to take them on time. Do you ever have trouble remembering to take your medications?"
-    }
-}

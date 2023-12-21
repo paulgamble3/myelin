@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2670,
-    "prompt": "Nurse: I can\n\nPatient: I\n\nNurse: understand how I can understand how you might feel, Ms. Cruz. Changes in diet can feel restrictive, especially when it involves foods we're used to. Could you share more about the types of food you miss?\n\nPatient: When should I wait myself? Do I\n\nNurse: I understand, Ms. Cruz. Changing our diet can feel restrictive, especially when we miss our favorite foods. It's essential to weigh yourself daily, preferably at the same time each day, and look for any sudden increases. This can be a sign of fluid retention, which is something we want to avoid with CHF. Would you like more information on how to manage your diet while still enjoying your meals?\n\nPatient: do I do it after breakfast or before I eat breakfast?\n\nNurse: I understand that adjusting to a new diet can be challenging, Ms. Cruz. You're doing a great job following the recommendations, but I understand that you miss your regular food. It's critical to weigh yourself at the same time each day, preferably in the morning before you eat breakfast. This can help you notice any sudden weight changes that might indicate fluid retention. Does that help clarify things for you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, Ms. Cruz. It's also recommended to use the same scale in the same location, and to keep a log of your weights. Changes of more than 2 pounds in a day or 5 pounds in a week should be reported to your doctor immediately as they could indicate a change in your heart failure condition. Do you have any other questions or thoughts on this?",
-        "our_model": "I'm glad to hear that, Ms. Cruz. Now, let's talk about exercise. Could you tell me about your current exercise routine?"
-    }
-}

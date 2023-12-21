@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1374,
-    "prompt": "Patient: Sure.\n\nNurse: Okay, thank you, Mr. Grewe. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. That's okay with me.\n\nNurse: Excellent, Mr. Grewe. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yeah. Sure.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: Okay, Mr. Grewe. I'm glad that works for you. I want to remind you that due to current health guidelines, we have a strict visitor policy. You're allowed one person to accompany you to the hospital and stay with you during your recovery. Is there anything else about the logistics that's worrying you?\n\nPatient: I didn't realize that, but that shouldn't be a problem.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Grewe. This policy is in place for the safety of our patients and staff during the ongoing pandemic. You can choose a close family member or a friend who can be at your side during this time. Is there anything else you would like to discuss or any other questions you have?",
-        "our_model": "I'm glad to hear that the visitor policy shouldn't be a problem for you, Mr. Grewe. It's essential to ensure everyone's safety during these times. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?"
-    }
-}

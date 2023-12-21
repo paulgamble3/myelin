@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4558,
-    "prompt": "Nurse: I appreciate your openness. One tip is to choose whole grains over refined grains, as they can help control your blood sugar levels. Another is to incorporate more non-starchy vegetables into your meals, as they're low in carbohydrates. What do you think about these suggestions?\n\nPatient: Sounds good.\n\nNurse: I'm glad you think so. Remember, these are just suggestions and it's important to find a balance that works for you. If you ever have any questions about your diet or need more suggestions, don't hesitate to ask. Now, let's move on to discuss your other chronic conditions. How has your coronary artery disease been lately?\n\nPatient: Okay. Sounds good.\n\nNurse: I'm glad you think so. Remember, these are just suggestions and it's important to find a balance that works for you. If you ever have any questions about your diet or need more suggestions, don't hesitate to ask. Now, let's move on to your other chronic conditions. How has your coronary artery disease been lately?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. It's essential to keep an eye on your symptoms and share any changes with your doctor. Now, how has your type II diabetes been lately?\n\nPatient: It's been fine.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. It's important to stay proactive with your diabetes management. Lastly, how has your hypertension been lately?",
-        "our_model": "I'm glad to hear that. It's essential to manage your blood sugar levels regularly. Now, how has your hypertension been lately?"
-    }
-}

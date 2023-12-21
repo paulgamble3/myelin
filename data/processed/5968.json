@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5968,
-    "prompt": "Nurse: That's great to hear, it sounds like you all really enjoy these times together. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?\n\nPatient: No. I don't have any symptoms I'm worried about? No.\n\nNurse: Alright, if I'm glad to hear that you're not experiencing any concerning symptoms. Do you have any questions or concerns that you'd like to discuss before we move on to some specific topics regarding your health?\n\nPatient: Nope.\n\nNurse: Alright, if it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: Sure.\n\nNurse: Great, thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have. Today, it was one twelve.",
-    "responses": {
-        "gpt4": "Thank you for sharing that. It's good to hear that you are keeping track of your blood sugar levels consistently. How about your blood pressure? When did you last measure it and what was the result?",
-        "our_model": "Thank you for sharing that information. It's great that you're keeping track of your blood sugar levels. A reading of 120 is a bit higher than the target range for fasting blood sugar levels. Would it be alright if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

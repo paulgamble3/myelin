@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4205,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Thelma Odonnell?\n\nPatient: Yes.\n\nNurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: March the second nineteen sixty.\n\nNurse: Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?\n\nPatient: Oh, I've been doing okay, I guess. I'm just a little bit scared about\n\nNurse: I'm sorry to hear that you're feeling scared, Ms. Odonnell. Could you please tell me more about what's been causing you to feel this way?\n\nPatient: you know, my kidney issues and all of my other",
-    "responses": {
-        "gpt4": "I appreciate you sharing your concerns about your kidney issues and other conditions, Ms. Odonnell. It's perfectly normal to feel scared when dealing with health issues. I'm here to help you better understand your conditions and hopefully alleviate some of your worries. Is there anything in particular about your conditions that you'd like to discuss or any symptoms that are bothering you?",
-        "our_model": "I'm sorry to hear that you're feeling scared, Ms. Odonnell. It's completely normal to feel this way given your health conditions. Is there anything specific that you're worried about or any symptoms that have been bothering you?"
-    }
-}

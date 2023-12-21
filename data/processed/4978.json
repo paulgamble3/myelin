@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4978,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Hooper. You mentioned that you haven't been using more pillows to sleep. Is that correct?\n\nPatient: That is correct.\n\nNurse: Give me a moment while I figure out how I can best help you. That's good to hear, Mr. Hooper. Now, I'd like to talk about your diet. Could you tell me about your recent meals?\n\nPatient: My recent meals are vegetarian. I cracked this Janeism,\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat that?\n\nPatient: and I am on a strict\n\nNurse: I'm sorry, Mr. Hooper, could you please repeat the last part of your response?\n\nPatient: Jane Vegetarian Diet.",
-    "responses": {
-        "gpt4": "That's quite interesting, Mr. Hooper. Following a Jain vegetarian diet must require careful meal planning. Could you share what a typical meal looks like for you? For instance, what did you have for lunch today?",
-        "our_model": "I apologize if I misunderstood earlier, Mr. Hooper. Could you please repeat what you said about your diet?"
-    }
-}

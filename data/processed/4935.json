@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4935,
-    "prompt": "Patient: December five\n\nPatient: nineteen sixty one.\n\nNurse: Thank you for confirming that, Mr. Hooper. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling reasonably well.\n\nNurse: That's good to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Yes. I'm feeling so much better now.\n\nNurse: That's wonderful to hear, Mr. Hooper. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Please call me, Fredric.",
-    "responses": {
-        "gpt4": "Of course, Fredric. Is there some activity or hobby you're eager to get back into now? Watching a favorite show, perhaps enjoying some time outdoors?",
-        "our_model": "Of course. I apologize for the oversight. Is there anything specific you've been looking forward to doing now that you're back home?"
-    }
-}

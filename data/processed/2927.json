@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2927,
-    "prompt": "Nurse: Excellent, Ms. McKloskey. It's good to hear that the timing works well for you. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay. That sounds fine.\n\nNurse: Great, Ms. McKloskey. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: Nope. Not at all.\n\nNurse: I'm glad to hear that, Ms. McKloskey. Let's move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you, Ms. McKloskey. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "Great to hear, Ms. McKloskey. Are you currently taking any other medications outside of Tylenol like Advil, Aspirin, Aleve, or any other blood thinners that we should be aware of?",
-        "our_model": "That's good to hear, Ms. McKloskey. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

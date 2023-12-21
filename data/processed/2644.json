@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2644,
-    "prompt": "Nurse: That's good to hear, Ms. Cruz. Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great, Ms. Cruz. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: I do not know. I do not\n\nNurse: That's okay, Ms. Cruz. It's critical\n\nPatient: way myself.\n\nNurse: That's okay, Ms. Cruz. It's essential to keep an eye on any sudden weight changes as they can be a sign of fluid retention. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Ms. Cruz. We just performed a simple CHF assessment. Doing this at home every day can help identify any changes in your condition early on. I understand that keeping track of symptoms can sometimes be challenging. Do you have any questions about how to keep track of these symptoms?",
-        "our_model": "That's good to hear, Ms. Cruz. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?"
-    }
-}

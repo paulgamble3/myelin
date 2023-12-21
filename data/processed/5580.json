@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5580,
-    "prompt": "Nurse: I apologize for the confusion. I'm here to help. Do you have bloody or black, tarry stool?\n\nPatient: No.\n\nNurse: Do you have abdominal pain?\n\nPatient: No.\n\nNurse: Do you have a hemorrhoid or a lump at rectum and red streak on stool?\n\nPatient: No.\n\nNurse: Do you have a cut near your rectum?\n\nPatient: What? No. Not that I know of.",
-    "responses": {
-        "gpt4": "Have you had any recent tests for gastrointestinal issues, and if so, what were the results?",
-        "our_model": "Is there any more information you want to share about this issue?"
-    }
-}

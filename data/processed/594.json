@@ -1,8 +1,0 @@
-{
-    "prompt_id": 594,
-    "prompt": "Nurse: That's a good question, Ms. Chabot. Both honey and Stevia can be used as sugar substitutes. However, it's important to remember that even though they are natural sweeteners, they can still raise your blood sugar levels. If you're managing diabetes, it's a good idea to use these in moderation and always keep an eye on your blood sugar levels. Does that help answer your question?\n\nPatient: That's great to know. Thank you.\n\nNurse: You're welcome, Ms. Chabot. I'm glad I could help. Now, I'd like to ask you a few questions about your medications. Are you still taking your existing medications?\n\nPatient: Yes. Go for it.\n\nNurse: Wonderful, Ms. Chabot. Let's start with Captopril. Are you still taking this medication?\n\nPatient: Yeah.\n\nNurse: Excellent, Ms. Chabot. And how about Carvedilol?\n\nPatient: What about it? I take all my medications.",
-    "responses": {
-        "gpt4": "That's great to hear, Ms. Chabot. Sticking to your medication regimen is essential for managing your condition. And it's common to occasionally forget a dose. Do you ever have trouble remembering to take your medications?",
-        "our_model": "That's great to hear, Ms. Chabot. I apologize for any confusion. I'll move on to the next medication. Are you still taking Metformin?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 199,
-    "prompt": "Nurse: I'm sorry, Ms. Aguirre, you were saying something about your diet?\n\nPatient: stage four chronic kidney disease, and I don't think all of those foods are okay for me to eat.\n\nNurse: You're absolutely right, Ms. Aguirre. I apologize for the oversight. With your Stage IV Chronic Kidney Disease, some of these foods might not be the best fit due to their high potassium and phosphorus content. An alternative suggestion could be to incorporate more low-potassium and low-phosphorus foods into your diet. These could include foods like apples, berries, and rice. What do you think about this alternative?\n\nPatient: And\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion, Ms. Aguirre. As I was saying, some low-potassium and low-phosphorus foods could include apples, berries, and vegetables like cabbage and green beans. What do you think about this alternative suggestion?\n\nPatient: Well, I",
-    "responses": {
-        "gpt4": "I apologize, Ms. Aguirre, but I didn't catch that. Could you please repeat what you were about to say?",
-        "our_model": "I'm sorry, Ms. Aguirre, you were saying something?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4323,
-    "prompt": "Patient: Interest\n\nPatient: helps me to relax.\n\nNurse: I see, many people use smoking as a way to cope with stress. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: And I'm not ready to quit that.\n\nNurse: I see, smoking can be a way to cope with stress for some people. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: No. I know, but thank you.\n\nNurse: That's perfectly fine. If you ever change your mind, please don't hesitate to ask. We're here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Okay, excellent. To summarize, you will continue to monitor your blood pressure and blood sugar levels, maintain a balanced diet, and manage your sodium and phosphorus intake. You will also keep taking your medications as prescribed. Can I count on you to do these things?",
-        "our_model": "Alright. To summarize, you've agreed to continue managing your blood sugar and blood pressure levels, maintain a balanced diet, and stay active with your morning walks. Can I count on you to continue these efforts?"
-    }
-}

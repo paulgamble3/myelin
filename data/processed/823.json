@@ -1,8 +1,0 @@
-{
-    "prompt_id": 823,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming, Mr. Oliver. Could you please provide your date of birth for verification purposes?\n\nPatient: Yes. It's May second of thirty nine.\n\nNurse: Thank you for confirming your date of birth, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling well. Thank you.\n\nNurse: That's great to hear, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to spending time with my grandkids.",
-    "responses": {
-        "gpt4": "That sounds like a lovely plan, Mr. Oliver. How many grandkids do you have and how often do you usually get to see them?",
-        "our_model": "That sounds lovely, Mr. Oliver. Spending time with family, especially grandkids, can be such a joy. What activities do you usually enjoy doing with them?"
-    }
-}

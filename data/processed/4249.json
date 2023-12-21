@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4249,
-    "prompt": "Nurse: I'm sorry, Mr. Shyam, could you please repeat your favorite book by Stephen King?\n\nPatient: Oh, I I couldn't choose. You know?\n\nNurse: That's perfectly fine, Mr. Shyam. Stephen King has such a vast collection, it's hard to pick just one. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: Nope. I don't think so.\n\nNurse: Alright, Mr. Shyam. Let's start with your medications. Are you still taking your Valsartan and Lasix as prescribed?\n\nPatient: Yep. I am.\n\nNurse: That's great to hear, Mr. Shyam. It's critical to keep up with your medications. Do you ever have trouble remembering to take them on time?\n\nPatient: Every once in a while, I guess.",
-    "responses": {
-        "gpt4": "That's pretty common, Mr. Shyam, so don't worry too much. With your permission, I'd like to provide a few suggestions that might help you not to miss your doses. Would that be okay with you?",
-        "our_model": "It's quite common to occasionally forget, Mr. Shyam. Would it be alright if I shared some strategies that might help you remember to take your medications on time?"
-    }
-}

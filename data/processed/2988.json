@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2988,
-    "prompt": "Patient: Yeah. It's seems like I'm getting some of the symptoms back that that took me to the hospital.\n\nNurse: I'm sorry to hear that you're experiencing symptoms again. It's essential to address these concerns. Could you please tell me more about the symptoms you're experiencing?\n\nPatient: Yeah. They warned me about this. I've gained weight. I'm\n\nPatient: short of breath again. I've got a cough that won't quit.\n\nNurse: I'm sorry to hear that you're experiencing these symptoms again. It's critical to take note of these changes. Regarding your weight, do you have a scale at home to monitor your weight daily?\n\nPatient: Well, I do, and I can tell that I've gained two Ponce. In this last day.\n\nNurse: I see, a weight gain of two pounds in a day can be a sign of fluid retention, which is something we need to monitor closely. Have you noticed any swelling in your legs or ankles?\n\nPatient: The swelling I don't think I'm seeing that yet.",
-    "responses": {
-        "gpt4": "OK. That's good to hear. But since you've been experiencing shortness of breath, coughing, and weight gain, it's critical that we get you in for a further evaluation as soon as possible. Would you be able to schedule an appointment with your healthcare provider today?",
-        "our_model": "That's good to hear. It's important to keep an eye out for any swelling. Now, let's talk about your new medication, Hydrochlorothiazide. Have you been able to pick it up from the pharmacy?"
-    }
-}

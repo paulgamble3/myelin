@@ -1,8 +1,0 @@
-{
-    "prompt_id": 776,
-    "prompt": "Nurse: That's a great question, Ms. Aguirre. Diet is indeed a crucial part of managing kidney disease. Would it be okay if we go over a few topics related to your diet and overall health?\n\nPatient: Sure.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.\n\nNurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: What is the target range?",
-    "responses": {
-        "gpt4": "The target range for blood sugar varies, depending on when you last ate. Before a meal, the target is usually between 80 and 130. Post meal, the target is usually below 180. These ranges can vary slightly depending on other health factors, so it's always a good idea to speak with your doctor about what ranges are best for you.",
-        "our_model": "I apologize for any confusion, Ms. Aguirre. Could you please confirm if your last blood sugar reading was 128?"
-    }
-}

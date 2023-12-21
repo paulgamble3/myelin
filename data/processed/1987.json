@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1987,
-    "prompt": "Nurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way before a procedure. Is there anything specific that's been on your mind or any particular concerns you'd like to discuss?\n\nPatient: Off the top of my head, You know, I'm wondering\n\nNurse: Of course, I'm here to help answer any questions you have. What's been on your mind?\n\nPatient: When\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: will my arthritis pain?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: Be better after the surgery?",
-    "responses": {
-        "gpt4": "Total knee replacement surgery is intended to relieve pain from arthritis in your knee. After the surgery and recovery period, you should notice a significant improvement in your pain levels. This should help you resume activities you enjoy. However, everyone's recovery process is different, and it may take time to see full benefits. Your doctor will monitor your progress closely to ensure that the surgery has achieved its intended results.",
-        "our_model": "That's a very important question. The goal of a total knee replacement is to relieve the pain in the knee caused by arthritis. Most people who have total knee replacement surgery experience a dramatic reduction of knee pain and a significant improvement in the ability to perform common activities of daily living. But remember, it will take time to fully recover and see the full benefits of the surgery. Is there anything else you're curious about or any other concerns you'd like to discuss?"
-    }
-}

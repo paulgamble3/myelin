@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1242,
-    "prompt": "Nurse: Alright, Ms. Raynier. I'm glad to hear that the logistics seem clear. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.\n\nNurse: Great, let's talk about your medications. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were supposed to stop this medication 7 days prior to the procedure. Have you stopped taking Plavix, Ms. Raynier?\n\nPatient: Well, yes. I thought it was\n\nNurse: I'm sorry, Ms. Raynier, you were saying?\n\nPatient: five days before the procedure.\n\nNurse: I apologize for any confusion, Ms. Raynier. You're correct. It's 5 days before the procedure. So, you should have stopped taking Plavix two days ago, correct?\n\nPatient: Three days ago because my procedure is in two days.",
-    "responses": {
-        "gpt4": "Yes, thank you for clarifying, Ms. Raynier. I apologize for the confusion earlier. I appreciate your patience. Since you've stopped taking Plavix, do you have any questions about this medication?",
-        "our_model": "I see, thank you for clarifying, Ms. Raynier. So, you stopped taking Plavix three days ago, correct?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2423,
-    "prompt": "Nurse: That's all we can ask for. Your effort is greatly appreciated.\n\nPatient: Okay.\n\nNurse: That's all we can ask for. Your effort is greatly appreciated. Now, let's discuss the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: I\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: No problem at all. Let's move on to the next part of your preparation, which is when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I don't think so.",
-    "responses": {
-        "gpt4": "Great. It's crucial to remember that rule for your safety, so you're absolutely clear that there is no eating or drinking after midnight before your procedure. Now, I know we've covered a lot, and I appreciate your patience. Do you have any questions about what we've reviewed so far?",
-        "our_model": "Alright. If you have any questions in the future, don't hesitate to ask. Now, I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?"
-    }
-}

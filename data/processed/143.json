@@ -1,8 +1,0 @@
-{
-    "prompt_id": 143,
-    "prompt": "Patient: No.\n\nNurse: Alright, Mr. Valenzuela. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm ready.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: They said I'm ready.\n\nNurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for confirming, Mr. Valenzuela. When did the diarrhea start?\n\nPatient: Oh, I've been having that for months.",
-    "responses": {
-        "gpt4": "I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool?",
-        "our_model": "I see, Mr. Valenzuela. Is the diarrhea chronic, meaning it's been ongoing for a long time?"
-    }
-}

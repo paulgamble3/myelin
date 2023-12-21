@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4860,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes.\n\nNurse: Hello Paxton, I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for taking the time to speak with me. How has your day been so far?\n\nPatient: It's been okay. I'm just filling kinda scared about this surgery",
-    "responses": {
-        "gpt4": "I can see how this might be a bit overwhelming, Paxton. It's quite natural to feel this way. On the bright side, you are certainly going to have a top-notch orthopedic surgeon for your knee replacement. Dr. Cristina Stevens, who will be performing your operation, has successfully conducted over 1000 knee replacements.\n\nYou must be looking forward to having a functional knee again. Can you share what's the first thing you're planning to do once your knee is feeling better after the procedure?",
-        "our_model": "I'm sorry to hear that you're feeling scared. It's completely normal to feel this way before a major procedure. Can you tell me more about what's making you feel scared?"
-    }
-}

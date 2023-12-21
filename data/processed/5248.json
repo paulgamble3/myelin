@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5248,
-    "prompt": "Patient: Okay. My mistake. My sugar levels where a hundred and twelve, and my blood pressure was ninety over one cent.\n\nNurse: Thank you for clarifying, Mr. Oliver. Your blood pressure reading is slightly elevated. It's essential to keep it under control. Would you like me to share some suggestions on how to manage your blood pressure?\n\nPatient: Yes, please.\n\nNurse: Great, Mr. Oliver. One way to manage your blood pressure is by reducing your salt intake. As you mentioned earlier, it's important to check the sodium content in your salad dressing. Another strategy is regular physical activity, such as a daily walk. Lastly, maintaining a healthy weight can also help manage your blood pressure. Do you have any questions about these suggestions?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Oliver. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I do smoke a pack of cigarettes a day.\n\nPatient: But I'm not going to quit.",
-    "responses": {
-        "gpt4": "It's alright, Mr. Oliver. Quitting smoking is a personal decision and it's a big step. Can I ask why you're not considering quitting at this time?",
-        "our_model": "I appreciate your honesty, Mr. Oliver. Quitting smoking is a personal decision and can be a challenging process. Could you share with me why you feel you're not ready to quit at this time?"
-    }
-}

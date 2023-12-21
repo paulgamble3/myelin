@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5241,
-    "prompt": "Patient: No. I don't.\n\nNurse: Alright, Mr. Oliver. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I actually just had chicken soup\n\nNurse: That sounds like a healthy choice, Mr. Oliver. Chicken soup can be a good source of protein. How do you usually prepare your chicken soup?\n\nPatient: I used a lot of veggies and\n\nNurse: That's great, Mr. Oliver.\n\nPatient: just lean.\n\nPatient: Chicken.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Oliver. Could you please repeat your response?",
-        "our_model": "That's a great way to prepare your chicken soup, Mr. Oliver. Using lean chicken and plenty of vegetables can provide you with essential nutrients. If it's okay with you, I'd like to provide some suggestions to align your diet with the DASH diet, which is recommended for your conditions. Would that be alright?"
-    }
-}

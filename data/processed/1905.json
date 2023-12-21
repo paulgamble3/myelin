@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1905,
-    "prompt": "Nurse: That's good to hear. It's critical to keep up with your medication and any recommended lifestyle changes to manage your Lupus. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: I smoke a pack of cigarettes today.\n\nNurse: Thank you for sharing that. I know it's not easy to talk about, but it's important for your health. Have you ever considered quitting smoking?\n\nPatient: No. I'm not interested in it.\n\nNurse: I appreciate your honesty. It's a personal decision and it's important to be ready. If you ever change your mind, there are many resources available to help you quit. Would you like me to share some of these resources with you?\n\nPatient: Not right now.\n\nNurse: Alright. If you ever decide you're ready to quit, don't hesitate to ask. It's a big step and there's a lot of support available. Now, do you have any questions or concerns that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. Before we wrap up our conversation, let's recap our discussion today. We've talked about managing your CKD and Lupus, your medications, your diet, and reaching out for help if you decide to quit smoking. We're relying on you to continue taking your medications as prescribed, to manage your diet as discussed, and to monitor your blood pressure regularly. Can we count on you to follow through with these actions?",
-        "our_model": "Alright. To summarize, you've agreed to continue taking your medication as prescribed, monitor your blood pressure, and maintain a healthy diet. Can I count on you to do these things?"
-    }
-}

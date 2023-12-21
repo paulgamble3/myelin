@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4828,
-    "prompt": "Nurse: Yes, Mr. Kageyama, I'm here. You mentioned earlier that you're feeling fine about the procedure. Is there anything else you'd like to discuss or any questions you have at this point?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. Please remember that you can ask me any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Really? Okay.\n\nNurse: Yes, Mr. Kageyama, it's a preventative screening to take care of your health. It's great that you're taking this step. Do you have any concerns or questions about the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If it's alright with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that okay?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Perfect. We'll start by getting all the logistics out of the way. Your colonoscopy procedure is scheduled for this coming August 13th at 9:00 AM with Dr. Meredith Bailey, an excellent gastroenterologist who has performed over 1500 colonoscopies. You'll need to arrive at least by 8:00 AM. Is that okay with you?",
-        "our_model": "Wonderful, thank you, Mr. Kageyama. I'm calling today to ensure you have everything you need for your upcoming procedure. I will also call you again the day before your procedure to check in. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

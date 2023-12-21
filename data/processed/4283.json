@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4283,
-    "prompt": "Nurse: I see, you're interested in knowing what habits to adopt to prevent the need for dialysis. Is that correct?\n\nPatient: Yes.\n\nNurse: That's a very proactive question. It's important to manage your blood sugar levels, as high blood sugar can damage your kidneys over time. Are you checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes, please.",
-    "responses": {
-        "gpt4": "Great! The first usage is to stick to a healthy diet that's low in sugars and carbohydrates. Eating meals and snacks at the same time every day can also help regulate your blood sugar. Do you think these could work for you?",
-        "our_model": "Great. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you can incorporate into your daily routine?"
-    }
-}

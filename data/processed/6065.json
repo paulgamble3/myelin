@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6065,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jon Chavez?\n\nPatient: Yes. It is.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.\n\nNurse: Thank you for confirming your date of birth. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: Well, I have to admit that",
-    "responses": {
-        "gpt4": "I'm here to listen, Jon. What have you been experiencing lately that's been hard to handle?",
-        "our_model": "I'm sorry, Jon, you were saying something?"
-    }
-}

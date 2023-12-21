@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4770,
-    "prompt": "Nurse: That's a fun and flexible approach, Mr. Shyam. It's great that you're keeping active with your kids. Now, before we move on to some health-related topics, do you have any questions or concerns you'd like to address?\n\nPatient: Yeah. I do have a question.\n\nNurse: Of course, Mr. Shyam. What's your question?\n\nPatient: How is CHF diagnosed?\n\nNurse: CHF, or Congestive Heart Failure, is typically diagnosed through a combination of medical history, physical examination, and diagnostic tests. These tests may include an electrocardiogram (ECG), blood tests, chest x-ray, and echocardiogram. The doctor looks for signs of fluid buildup, heart enlargement, or other issues that indicate the heart isn't pumping as effectively as it should be. Is there anything else you'd like to know about this, Mr. Shyam?\n\nPatient: No.\n\nNurse: Alright, Mr. Shyam. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Rodriguez?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "That's excellent, Mr. Shyam. You're doing a great job managing your medication. However, it's common for people to occasionally miss a dose. Do you ever find it challenging to take your medication on time?",
-        "our_model": "That's great to hear, Mr. Shyam. Sticking to your medication schedule is crucial for managing your CHF and other conditions. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4084,
-    "prompt": "Nurse: Wow, tight rope walking is quite a skill! How long have you been practicing this?\n\nPatient: I've been studying since I was ten.\n\nNurse: That's impressive. It must have taken a lot of dedication to master such a skill. Before we move on to discuss your kidney disease, are there any symptoms or health concerns you've been experiencing lately that you'd like to share?\n\nPatient: No.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Would it be okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Great. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's good to hear. Do you recall what your last blood sugar reading was?",
-        "our_model": "That's excellent. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

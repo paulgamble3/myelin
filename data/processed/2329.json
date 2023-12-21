@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2329,
-    "prompt": "Nurse: I'm sorry, Mr. Ponce, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Well, I noticed that I gained weight today. I gained two Ponce. And I'm feeling more short of breath than usual. And have a dry hat. Cagicos.\n\nNurse: I'm sorry to hear that you're feeling this way, Mr. Ponce. It's critical to keep track of these symptoms. Can you tell me more about the shortness of breath and the dry cough?\n\nPatient: It's more difficult to breathe now.\n\nNurse: I see, Mr. Ponce. Difficulty in breathing can be a concerning symptom. Have you noticed any patterns or triggers that seem to make it worse, such as certain activities or positions?\n\nPatient: No.\n\nNurse: Alright, Mr. Ponce. It's important to monitor these symptoms closely. Now, let's move on to your medications. Have you been able to pick up your new prescription for Hydrochlorothiazide 25 mg?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great, Mr. Ponce. Are you taking Hydrochlorothiazide 25 mg two times a day as prescribed by your cardiologist?",
-        "our_model": "That's great to hear, Mr. Ponce. Are you taking the Hydrochlorothiazide 25 mg two times a day as prescribed?"
-    }
-}

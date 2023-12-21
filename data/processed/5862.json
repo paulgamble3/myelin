@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5862,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, may I please confirm if I am speaking with the individual scheduled for a chronic care management follow-up?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Lanlan Dang?"
-    }
-}

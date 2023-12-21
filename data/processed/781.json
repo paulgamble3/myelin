@@ -1,8 +1,0 @@
-{
-    "prompt_id": 781,
-    "prompt": "Nurse: Just give me a second to work out the best way I can assist you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming, Ms. Aguirre. The target range for blood sugar levels in people with diabetes is usually between 80 and 130 before meals. Would it be alright if I share some strategies to help manage your blood sugar levels?\n\nPatient: My blood\n\nNurse: I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you said about your blood sugar?\n\nPatient: sugar before lunch was one twenty eight. That's within the range, isn't it?\n\nNurse: Yes, Ms. Aguirre, you're correct. A blood sugar level of 128 before lunch is within the target range for people with diabetes. It's great that you're keeping track of your blood sugar levels. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: I took it this morning.\n\nNurse: That's great, Ms. Aguirre. Regular monitoring is key in managing blood pressure. Could you please share the reading you got this morning?\n\nPatient: It was",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, I didn't catch your blood pressure reading. Could you please repeat it?",
-        "our_model": "I'm sorry, Ms. Aguirre, your response got cut off. Could you please tell me what your blood pressure reading was this morning?"
-    }
-}

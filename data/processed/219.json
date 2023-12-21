@@ -1,8 +1,0 @@
-{
-    "prompt_id": 219,
-    "prompt": "Patient: Take it when I need to.\n\nNurse: That's good to hear, Ms. Aguirre. It's critical to take Tylenol only when you need it for pain relief. Lastly, you're prescribed Atorvastatin 40 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Aguirre. It's important to take your Atorvastatin as prescribed to manage your cholesterol levels. I want to remind you that there are certain medications and supplements that aren't safe for patients with Chronic Kidney Disease to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Aguirre. If you ever have any questions in the future, don't hesitate to ask your doctor or a member of your healthcare team. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh, well,\n\nPatient: for lunch, I had",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, it seems your response got cut off. Could you please repeat what you had for lunch?",
-        "our_model": "I'm sorry, Ms. Aguirre, your response got cut off. Could you please repeat what you had for lunch?"
-    }
-}

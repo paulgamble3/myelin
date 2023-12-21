@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2811,
-    "prompt": "Nurse: Alright, let's move on to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: No. No questions.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No. There's nothing I'd like to discuss. I have no questions.\n\nNurse: Alright, let's move on to the first of my last two questions. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear that you've arranged a ride home. It's crucial not to drive for 24 hours after your procedure because of the sedation used during the colonoscopy. Do you have any questions about what to expect after your procedure?",
-        "our_model": "That's great to hear. It's critical to have someone available to take you home after the procedure. Do you have any questions about the logistics of the day of the procedure or anything else you'd like to discuss?"
-    }
-}

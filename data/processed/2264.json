@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2264,
-    "prompt": "Nurse: Yes, I'm here, Mr. Valenzuela. I apologize for the brief pause. Let's proceed with the questions about your colonoscopy preparation. Are you aware of the dietary restrictions and the need to take a bowel prep solution before the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Valenzuela. It's critical to follow these instructions closely for the best results. Have you been able to arrange for someone to accompany you to the procedure and drive you home afterwards?\n\nPatient: Yes.\n\nNurse: That's excellent, Mr. Valenzuela. It's essential to have someone with you for support and assistance. Is there anything else you'd like to know or discuss about the colonoscopy or the preparation process?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to reach out. I'll also call you the day before your procedure to check in. Is there anything else you'd like to discuss at this time?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, Mr. Valenzuela. Let's first get all the logistics out of the way. Your colonoscopy is scheduled on August 13th at 9:00 AM with Dr. Meredith Bailey and you'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?",
-        "our_model": "Okay, Mr. Valenzuela. I'm here to ensure you have everything you need for your upcoming colonoscopy. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

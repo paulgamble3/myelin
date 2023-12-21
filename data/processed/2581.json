@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2581,
-    "prompt": "Nurse: Excellent. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Honey and twelve.\n\nNurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat your last blood sugar reading?\n\nPatient: One hundred and twelve.\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. If you're comfortable with it, I can provide some recommendations on how to manage your blood sugar levels. Would that be alright?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great! Maintaining a balanced diet is one of the most effective ways to manage your blood sugar levels. That means eating plenty of fruit, vegetables, and whole grains. Regular exercise also helps, even if it's just a walk around the block. It's also important to take any medication as prescribed by your doctor. Do you have any questions or concerns about these tips?",
-        "our_model": "Okay. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you feel you're able to incorporate this into your daily routine?"
-    }
-}

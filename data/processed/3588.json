@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3588,
-    "prompt": "Patient: I guess,\n\nNurse: I apologize for the confusion earlier, Mr. Benton. I want to ensure I understand you correctly. Are you saying that you would prefer not to continue this call or that you would like to speak with a human instead?\n\nPatient: It's fine. Just get it over with.\n\nNurse: Just give me a second to work out the best way I can assist you.\n\nNurse: Okay, Mr. Benton. I appreciate your time. Is there anything else you'd like to share about your feelings towards this call?\n\nPatient: No.\n\nNurse: I appreciate your patience, Mr. Benton. I'm going to trigger a GREEN kickout for refuses_Rachel. This means I'll update your care team about our conversation. They may reach out to you directly. Thank you for your time today. [\n\nPatient: No. You can keep talking. I just",
-    "responses": {
-        "gpt4": "Thank you, Mr. Benton. I appreciate your understanding. Since we're on the subject of health, I'd like to know how you've been feeling lately. Is there anything in particular you're concerned about at the moment?",
-        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you. Hold on a second while I figure out how I can best support you. I"
-    }
-}

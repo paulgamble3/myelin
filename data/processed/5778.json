@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5778,
-    "prompt": "Nurse: Alright, if you have any questions in the future, don't hesitate to ask. Now, let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Yeah.\n\nNurse: I'm sorry, could you please repeat what you said?\n\nPatient: I didn't say anything.\n\nNurse: My apologies for the confusion. Let's move on to the topic of supplements. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Nope. I am not.\n\nNurse: That's good to hear. It's essential to avoid those supplements and medications to ensure the best results from your colonoscopy. Do you have any questions about this?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Great, I'm glad to hear that you're clear on that. It's time for us to discuss the clear liquid diet and GoLYTELY laxative solution portion of your colonoscopy preparation. This part can feel challenging for some patients. How are you feeling about this part of the preparation?",
-        "our_model": "Alright, if you have any questions in the future, don't hesitate to ask. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

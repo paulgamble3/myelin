@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3917,
-    "prompt": "Nurse: That's good to hear. Fruits can also provide a variety of nutrients.\n\nPatient: go to my nearest\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: I need to improve\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: in my name.\n\nNurse: I'm sorry, Carla, could you please repeat what you said about fruits in your meals?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm sorry, I may have misunderstood. Can you please repeat what you said?",
-        "our_model": "That's okay. It's always good to try and incorporate a variety of fruits into your diet as well. Now, let's talk about your other chronic condition, Lupus. How have you been managing with that?"
-    }
-}

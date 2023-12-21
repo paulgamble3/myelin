@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4662,
-    "prompt": "Nurse: I'm sorry for any confusion earlier, Mr. Amador. Let's move forward. I'm here today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Is there anything you'd like to discuss before we proceed?\n\nPatient: No.\n\nNurse: Let's first get all the logistics out of the way, Mr. Amador. Your colonoscopy procedure is scheduled for August 17 at 11:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 10:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you, Mr. Amador?\n\nPatient: Yes.\n\nNurse: Is there anything else about the logistics that's worrying you, Mr. Amador?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Mr. Amador, do you already have a clear liquid diet plan for the day before your procedure? This is an important part of your preparation for the colonoscopy.",
-        "our_model": "I'm glad to hear that, Mr. Amador. Do you have any questions or concerns about the logistics of the procedure?"
-    }
-}

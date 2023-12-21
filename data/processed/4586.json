@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4586,
-    "prompt": "Patient: I've been doing my best. I took my\n\nPatient: level this morning, it was one forty eight.\n\nNurse: Thank you for sharing that, Mr. Peck. It's great that you're monitoring your blood sugar levels. However, a reading of 148 is a bit high. Would you be open to some suggestions on how to manage your blood sugar levels?\n\nPatient: Okay.\n\nNurse: I apologize for any confusion earlier, Mr. Peck. You mentioned that your blood sugar level was 148 this morning. Is that correct?\n\nPatient: Okay.\n\nNurse: Give me a moment to check how I can best support you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming that, Mr. Peck. One strategy to help manage your blood sugar levels is to balance your meals with a mix of carbohydrates, protein, and fats. This can help slow down the absorption of sugar into your bloodstream. What do you usually have for breakfast, lunch, and dinner?\n\nPatient: Can I have special case, cereal for breakfast? I have",
-    "responses": {
-        "gpt4": "Thank you for letting us know about your daily meal plan. Special K cereal can be a part of a balanced breakfast, however, don't forget to also include some protein and healthy fat. This will help keep your blood sugar levels stable. For lunch and dinner, aim for a balance of lean protein, non-starchy vegetables, and healthy fats. Also, remember to stay hydrated and limit your intake of sugary drinks. How does that sound Mr. Peck?",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat that?"
-    }
-}

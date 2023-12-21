@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2968,
-    "prompt": "Nurse: That sounds like a lot of fun! Playing fetch can be a great way to spend time with our furry friends. Before we move on to discuss your kidney disease, do you have any symptoms or health concerns that you'd like to share with me?\n\nPatient: No.\n\nNurse: Alright, if you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Yeah. That's fine.\n\nNurse: Great, thank you for your understanding. Are you okay if we go over a few topics to check on how you're doing with your chronic conditions?\n\nPatient: Yes.\n\nNurse: Thank you. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's good to hear. Can you let me know what your last blood sugar reading at home was?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please confirm if you've been checking your blood sugar daily?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5883,
-    "prompt": "Patient: I am male.\n\nNurse: Thank you for confirming that, Mr. Dang. Is there any more information you'd like to share about your abdominal pain?\n\nPatient: No. The doctor knows all of this.\n\nNurse: I appreciate your patience, Mr. Dang. Do you have any questions or concerns about your upcoming colonoscopy that you'd like to discuss?\n\nPatient: Not really.\n\nNurse: That's perfectly fine, Mr. Dang. I'm here to help you prepare for your colonoscopy. I'll be calling you again the day before your procedure to ensure you have everything you need. Is it okay if we go over a few topics on prep for your colonoscopy now?\n\nPatient: Yes, please.\n\nNurse: Give me a moment to check how I can best support you.",
-    "responses": {
-        "gpt4": "Alright, Mr. Dang, I'm glad to hear that you're okay with proceeding. Let's first get all the logistics out of the way. Your colonoscopy procedure is with Dr. Meredith Bailey and has been scheduled for August 17 at 10:00 AM. We recommend that you arrive about 1 hour before your appointment, so that would be at 9:00 AM. Is that okay with you?",
-        "our_model": "Let's first get all the logistics out of the way, Mr. Dang. Your colonoscopy procedure is scheduled for August 17 at 10:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 9:00 AM. Is that okay with you?"
-    }
-}

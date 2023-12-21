@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4240,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Abner Shyam?\n\nPatient: Yes. That's me.\n\nNurse: Great, Mr. Shyam. I'm calling on behalf of your primary care doctor, Doctor Maria Rodriguez. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I'm doing alright. Thanks.\n\nNurse: I'm glad to hear that, Mr. Shyam. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Just happened to be back with my cat.",
-    "responses": {
-        "gpt4": "It sounds lovely to have a pet waiting for you at home. Cats can be such wonderful companions. What's your cat's name, and how long have you had him or her?",
-        "our_model": "That sounds lovely, Mr. Shyam. Cats can be such comforting companions. What's your cat's name?"
-    }
-}

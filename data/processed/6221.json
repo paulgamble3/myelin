@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6221,
-    "prompt": "Nurse: I'm glad to hear that the logistics are clear. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Thank you. I see on your chart that you are currently taking Tylenol 500 mg oral tablet, with a dosage of 1000 mg three times a day as needed. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No. I don't think so. No.\n\nNurse: Alright. It's essential to note that medications like Advil, Aspirin, Aleve, or other blood thinners typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes. I've got it right here.",
-    "responses": {
-        "gpt4": "Good to hear that you have your prescription. This medication will be crucial in managing your pain post-surgery. Do you have any other questions about your medications before we move on?",
-        "our_model": "That's great to hear. Do you have any questions about this medication or any other medications you're currently taking?"
-    }
-}

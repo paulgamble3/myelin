@@ -1,8 +1,0 @@
-{
-    "prompt_id": 807,
-    "prompt": "Patient: I made some nice chicken soup with vegetables and\n\nPatient: price.\n\nPatient: Very good.\n\nNurse: I'm I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you\n\nPatient: And\n\nNurse: please repeat I'm sorry, Ms. Aguirre, I\n\nPatient: for breakfast,\n\nPatient: I had an egg In",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre. I missed what you said about your breakfast. Could you please repeat that?",
-        "our_model": "I'm sorry, Ms. Aguirre, could you"
-    }
-}

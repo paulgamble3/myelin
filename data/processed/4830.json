@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4830,
-    "prompt": "Nurse: Yes, Mr. Kageyama, it's a preventative screening to take care of your health. It's great that you're taking this step. Do you have any concerns or questions about the procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If it's alright with you, I'd like to go over a few topics on preparing for your colonoscopy. Is that okay?\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Mr. Kageyama. I'm calling today to ensure you have everything you need for your upcoming procedure. I will also call you again the day before your procedure to check in. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes.\n\nNurse: Okay, Mr. Kageyama. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Great, Mr. Kageyama. I want to ensure we cover everything and address any concerns you might have. Is there anything else about the logistics that's worrying you?",
-        "our_model": "Wonderful, Mr. Kageyama. Is there anything else about the logistics that's worrying you or that you'd like to discuss?"
-    }
-}

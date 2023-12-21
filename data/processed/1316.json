@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1316,
-    "prompt": "Nurse: Hello, I'm here. I was asking about your favorite place for walks. Do you have a special route or park you're looking forward to visiting once you've recovered from your surgery?\n\nPatient: Are you there?\n\nNurse: Yes, I'm here. I'm sorry if there was a pause. I was asking about your favorite place to walk. Do you have a special route or park you're looking forward to visiting once you've recovered?\n\nPatient: No. I just wanna be able to walk again.\n\nNurse: I can certainly appreciate that. Walking without pain is a wonderful goal. How are you feeling about your upcoming procedure?\n\nPatient: Yes.\n\nNurse: I'm sorry, I may not have been clear. I was asking about your feelings towards the upcoming procedure. Are there any concerns or questions you'd like to discuss before we proceed?\n\nPatient: I'm pretty calm about it. I really",
-    "responses": {
-        "gpt4": "Great to hear that you're feeling calm about your upcoming procedure. If there are any questions or concerns that come up as the date approaches, feel free to reach out to us. The goal is to make this process as comfortable and understandable for you as possible.",
-        "our_model": "That's great to hear that you're feeling calm about the procedure. It's a positive approach. Before we move on, do you have any questions or concerns you'd like to discuss?"
-    }
-}

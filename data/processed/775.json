@@ -1,8 +1,0 @@
-{
-    "prompt_id": 775,
-    "prompt": "Nurse: I appreciate your honesty, Ms. Aguirre. It's completely normal to have concerns about your health, especially when dealing with a condition like Stage IV CKD. Can you tell me more about what specifically worries you or what questions you have about your condition?\n\nPatient: Mostly, I wanna know what I should be eating.\n\nNurse: That's a great question, Ms. Aguirre. Diet is indeed a crucial part of managing kidney disease. Would it be okay if we go over a few topics related to your diet and overall health?\n\nPatient: Sure.\n\nNurse: Excellent, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Aguirre. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight.",
-    "responses": {
-        "gpt4": "I see, Ms. Aguirre. A blood sugar level of 128 is slightly above the normal range. Can I share some suggestions on how you could lower it? We'll go over the suggestions one by one, making sure you're comfortable with each before moving on to the next.",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

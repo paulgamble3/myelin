@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3582,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Damian Benton?\n\nPatient: Yeah.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: February fifth nineteen seventy.\n\nNurse: Thank you for confirming your date of birth, Mr. Benton. I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso, to check in on you. How have you been doing lately?\n\nPatient: Can I speak to a real doctor?",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Mr. Benton. As an AI nurse, I'm here to support your care coordination between your doctor visits. While I can't replace a direct consultation with your doctor, I'm designed to help with information gathering, clarification about your care plan, and provide some patient-friendly advice. Can I assist you with anything specific today?",
-        "our_model": "I'm sorry for any confusion, Mr. Benton. As an AI, I'm here to assist you and gather information on behalf of your doctor. I can certainly help with any concerns or questions you have. Would it be okay if we go over a few topics to check on how you're doing?"
-    }
-}

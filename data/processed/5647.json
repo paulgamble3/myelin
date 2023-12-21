@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5647,
-    "prompt": "Nurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you. Thank you for confirming that. Now, let's move on to your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I've been trying to\n\nNurse: I'm sorry, you were saying?\n\nPatient: stick to vegetables and\n\nNurse: That's a great start. What types of vegetables have you been eating?\n\nPatient: Honestly, with CKD and Lupus,\n\nNurse: It sounds like you're making an effort to eat healthily, which is great. Can you share a bit more about the types of vegetables and proteins you've been eating?\n\nPatient: what kind of diet should I follow?",
-    "responses": {
-        "gpt4": "I'm glad to see you're motivated to manage your health. Would it be helpful if I shared some dietary recommendations for managing CHF and CKD?",
-        "our_model": "I'm glad to hear that you're focusing on vegetables. It's important to follow a diet that supports your health conditions. Would it be okay if I share some dietary recommendations with you?"
-    }
-}

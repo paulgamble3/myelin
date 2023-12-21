@@ -1,8 +1,0 @@
-{
-    "prompt_id": 221,
-    "prompt": "Patient: No.\n\nNurse: Alright, Ms. Aguirre. If you ever have any questions in the future, don't hesitate to ask your doctor or a member of your healthcare team. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Oh, well,\n\nPatient: for lunch, I had\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please repeat what you had for lunch?\n\nPatient: A salad with some tuna\n\nNurse: That sounds like a healthy choice, Ms. Aguirre. Salads can be a great way to incorporate a variety of vegetables into your diet. For the tuna, did you have it canned in water or oil?\n\nPatient: Yeah. For for breakfast, I had",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre, we were discussing your lunch. For the tuna, was it canned in water or oil?",
-        "our_model": "I'm sorry, Ms. Aguirre, you were saying something about your breakfast?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1382,
-    "prompt": "Nurse: Alright, Mr. Grewe. Now, I'd like to ask if you're taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Lantus Foreman.\n\nNurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which\n\nPatient: Lantus,\n\nNurse: I'm sorry, Mr. Grewe, could you please repeat that?\n\nPatient: Oh, no. Wait. You already talked about my Lantus. So you wanna know all my medic occasions,\n\nNurse: Yes, Mr. Grewe, I'd like to confirm all the medications you're currently taking. You've already mentioned Lantus. Are there any other medications you're currently taking that we haven't discussed yet?\n\nPatient: filing all salam brack,",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat which medications you're taking?",
-        "our_model": "I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4252,
-    "prompt": "Nurse: That's great to hear, Mr. Shyam. It's critical to keep up with your medications. Do you ever have trouble remembering to take them on time?\n\nPatient: Every once in a while, I guess.\n\nNurse: It's quite common to occasionally forget, Mr. Shyam. Would it be alright if I shared some strategies that might help you remember to take your medications on time?\n\nPatient: Yeah. Sure.\n\nNurse: Great, Mr. Shyam. One strategy could be setting reminders on your phone or a clock. Another could be associating taking your medication with a daily routine, like brushing your teeth or having a meal. Would any of these strategies work for you?\n\nPatient: Yeah. That all makes sense. Thanks.\n\nNurse: You're welcome, Mr. Shyam. I'm glad I could help. Now, I'd like to ask you a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. Sure.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Shyam. Firstly, have you experienced any new or worsening shortness of breath during activities, when laying down, or at rest?",
-        "our_model": "Thank you, Mr. Shyam. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

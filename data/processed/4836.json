@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4836,
-    "prompt": "Nurse: Okay, Mr. Kageyama. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There are no changes to this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Kageyama. It's critical to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in relation to your upcoming procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. If you have any questions later, don't hesitate to ask. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, pasta, and rice, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great, Mr. Kageyama. I know dietary changes can sometimes be a challenge. In terms of low fiber foods, what are some of your favorites that you might consider comfort food? For example, a bowl of mashed potatoes or a plate of plain spaghetti?",
-        "our_model": "Alright, Mr. Kageyama. It's critical to follow this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?"
-    }
-}

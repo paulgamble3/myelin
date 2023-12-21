@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3768,
-    "prompt": "Patient: Chance.\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: I'm the patient. Who are you talking to?\n\nPatient: What happened? I'm Thelma O'Donnell. What happened?\n\nNurse: Does the patient develop a severe headache?\n\nPatient: I I'm the patient.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: Down.",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Ms. Odonnell. Just to clarify, have you had any trouble seeing from either or both your eyes?",
-        "our_model": "Does the patient report becoming dizzy or lightheaded?"
-    }
-}

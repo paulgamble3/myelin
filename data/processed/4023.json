@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4023,
-    "prompt": "Nurse: I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what\n\nPatient: system made me\n\nNurse: I'm sorry, Ms. Warrell, I didn't quite catch that. Could you please repeat what you said about your recent meals?\n\nPatient: an enormous beautiful vegetarian dish.\n\nNurse: That sounds wonderful, Ms. Warrell. Could you tell me a bit more about the dish?\n\nPatient: And I've been needing it every day since she's made it.\n\nNurse: That sounds delicious, Ms. Warrell. Could you tell me a bit more about this vegetarian dish?\n\nPatient: It's been so good.",
-    "responses": {
-        "gpt4": "I'm delighted to hear that you're enjoying it, Ms. Warrell. What ingredients does this dish contain?",
-        "our_model": "That sounds delicious, Ms. Warrell. It's wonderful that you're enjoying a meal prepared with love. Could you tell me a bit more about the dish?"
-    }
-}

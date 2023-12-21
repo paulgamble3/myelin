@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3290,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?\n\nPatient: Yes. It is.\n\nNurse: Great, Mr. Winner. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Pretty good time to talk. Yes.",
-    "responses": {
-        "gpt4": "Splendid, thank you for your time, Mr. Winner. Since we're on the line, may I know, how has your day been so far?",
-        "our_model": "I'm glad to hear that, Mr. Winner. How has your day been so far?"
-    }
-}

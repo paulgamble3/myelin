@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5674,
-    "prompt": "Nurse: That's great to hear. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just happy to sleep in my own bed.\n\nNurse: That sounds wonderful, there's nothing quite like the comfort of your own bed. Do you have any hobbies or interests that you've missed while you were in the hospital?\n\nPatient: I'm happy to start embroidering again.\n\nNurse: Embroidery sounds like a wonderful way to spend your time. It's a creative outlet and can be very therapeutic. Do you have a favorite design or pattern that you enjoy working on?\n\nPatient: I haven't done it in so long, and I wanted to get back into it. So I'm really just to seeing the\n\nNurse: I'm sorry, I didn't quite catch that. Could\n\nPatient: dishes right now.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch what you said earlier. Could you please repeat it?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what you're looking forward to with your embroidery?"
-    }
-}

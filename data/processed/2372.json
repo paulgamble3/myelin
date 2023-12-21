@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2372,
-    "prompt": "Nurse: That sounds like a wonderful goal. Walking without pain is a significant improvement and it's something you can look forward to. Now, let's move on to discuss some logistics about your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yes.\n\nNurse: Wonderful. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: That okay.\n\nNurse: Great. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes, ma'am.\n\nNurse: Perfect. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No. What time should I arrive to the hospital?",
-    "responses": {
-        "gpt4": "You should plan to arrive about 1 hour before the scheduled surgery time, so that would be at 8:00 AM. This will give us time to ensure you're all ready and comfortable for the procedure.",
-        "our_model": "You should aim to arrive at the hospital around 1 hour before your procedure, so for your 9:00 AM procedure, you should plan to arrive at 8:00 AM. This will give you enough time to check in and prepare for your surgery. Does that help?"
-    }
-}

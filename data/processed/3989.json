@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3989,
-    "prompt": "Nurse: Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we proceed, do you have any questions about anything we've discussed so far?\n\nPatient: Hey. Are you there? I I don't have any questions.\n\nNurse: Yes, I'm here, Mr. Dang. I'm glad to hear you don't have any questions. Now, I'd like to ask if you have any signs of illness. Do you have any fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Dang. It's important to have someone available to take you home after the procedure. Do you have any other questions or concerns about the day of the procedure?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Dang. Now that we've covered all the topics for today, I want to make sure you don't have any other questions or concerns. Is there anything else on your mind regarding your upcoming colonoscopy?",
-        "our_model": "Alright, Mr. Dang. If you do have any questions later, don't hesitate to ask. That was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

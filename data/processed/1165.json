@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1165,
-    "prompt": "Nurse: That's wonderful, Mr. Cardenas. It sounds like you're very active. Could you tell me more about your hiking routine?\n\nPatient: Well, usually, on\n\nNurse: I'm sorry for the interruption, Mr. Cardenas. Could you please repeat what you said about your hiking routine?\n\nPatient: Saturday mornings, I get up around five.\n\nNurse: That's impressive, Mr. Cardenas. An early start must help you beat the heat. How long do your hikes usually last, and how challenging are the trails you choose?\n\nPatient: And pack and grab my dog, and we\n\nNurse: That sounds like a lovely way to start the weekend, Mr. Cardenas. How long are your hikes usually?\n\nPatient: either drive or ride my bike and go to a particular mountain",
-    "responses": {
-        "gpt4": "That sounds like a wonderful routine, Mr. Cardenas. About how many hours do you spend on these hikes? This will help me understand your exercise routine better.",
-        "our_model": "That sounds like a great way to start the weekend, Mr. Cardenas. How long do your hikes usually last, and how challenging are the trails you choose?"
-    }
-}

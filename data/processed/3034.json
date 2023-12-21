@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3034,
-    "prompt": "Nurse: That sounds like a tasty way to prepare it. Just remember, for the preparation of your colonoscopy, it's best to keep the dish as simple as possible. This means avoiding any additional ingredients that might be high in fiber. Do you have any other questions about the diet or any other comfort foods you're considering?\n\nPatient: No.\n\nNurse: Alright. It's essential to note that this is a rare time when doctors want their patients to be eating low fiber comfort foods. It's all part of the preparation for your colonoscopy. Now, let's move on to discuss supplements.\n\nPatient: Request.\n\nNurse: Yes, this is a rare time when doctors want their patients to be eating low fiber comfort foods. It's all part of the preparation for your colonoscopy. Now, let's move on to discuss supplements. You'll need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. It's critical to avoid these as they can interfere with the preparation for your colonoscopy. Do you have any questions about this?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, next I'd like to discuss with you the transition to a clear liquid diet. This is often considered the hardest part of the prep procedure. May I ask, how are you feeling about the switch to a clear liquid diet and the laxative solution NuLYTELY?",
-        "our_model": "Alright. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

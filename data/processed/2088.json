@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2088,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Hi, Patient. I'm calling on behalf of Dr. Jami Wyatt to check in on you and provide some support with managing your health conditions. May I ask how you have been lately?",
-        "our_model": "Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?"
-    }
-}

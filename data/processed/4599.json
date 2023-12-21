@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4599,
-    "prompt": "Nurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: ninety over\n\nNurse: I'm sorry, Mr. Peck, could you please repeat the second number of your blood pressure reading?\n\nPatient: one hundred.\n\nNurse: Thank you for sharing that, Mr. Peck. It's great that you're monitoring your blood pressure. A reading of 90 over 100 is within the acceptable range, but it's important to keep an eye on it. Can I share some suggestions on how to manage your blood pressure?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Peck. One way to manage your blood pressure is by reducing your salt intake. This can be achieved by avoiding processed foods and not adding extra salt to your meals. Also, regular physical activity can help lower your blood pressure. Do you currently have any physical activities incorporated into your daily routine?\n\nPatient: I really don't.",
-    "responses": {
-        "gpt4": "That's okay, Mr. Peck. Even light activities, such as taking a short walk or doing some light housework, can help. Is there a type of physical activity that you might enjoy incorporating into your daily routine?",
-        "our_model": "I see, Mr. Peck. Incorporating some light physical activity into your day could be beneficial for managing your blood pressure. This could be as simple as taking a short walk around your neighborhood or doing some light stretching exercises at home. Would you be open to trying this?"
-    }
-}

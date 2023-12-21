@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2726,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Damian Stevens?\n\nPatient: You too. Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Okay. February fifth nineteen seventy.\n\nNurse: Thank you for confirming your date of birth, Mr. Stevens. I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Feeling alright. Thank you.\n\nNurse: I'm glad to hear that, Mr. Stevens. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Hello? Are you there?",
-    "responses": {
-        "gpt4": "Yes, Mr. Stevens. I apologize if there was a delay. I was asking, is there something you've been looking forward to doing now that you're home from the hospital?",
-        "our_model": "Yes, I'm here, Mr. Stevens. I was asking if there's anything in particular you've been looking forward to doing now that you're back home?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4982,
-    "prompt": "Nurse: I apologize if I misunderstood earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Which includes a great deal\n\nNurse: I apologize for the confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: of fasting\n\nNurse: I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?\n\nPatient: and restriction\n\nNurse: I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?\n\nPatient: Can you tell me what foods I can eat when you put together the cardiac diet for c h f",
-    "responses": {
-        "gpt4": "Of course, Mr. Hooper. Managing CHF often involves following a low salt, heart-healthy diet. This includes eating plenty of fresh fruits and vegetables, whole grains, lean proteins, and healthy fats. It's recommended to avoid or limit foods high in salt, added sugars, and unhealthy fats. Given your dietary preference, as a Jain Vegetarian, you can focus on foods such as lentils, beans, tofu, and seitan for protein, whole grains, fruits, vegetables, and spices to enhance flavor without adding salt. Does that help clarify your diet options?",
-        "our_model": "I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?"
-    }
-}

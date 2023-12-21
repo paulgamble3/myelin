@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3945,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen sixty eight.\n\nNurse: Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Okay, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: Just dandy.\n\nNurse: I'm glad to hear that, Mr. Dang. Do you have any special plans for the day?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I see, having a relaxing day at home can be nice. Now, moving onto the main reason I called, I see that you are scheduled for a colonoscopy due to unexplained abdominal pain. This can be quite a process to understand and go through. Could you share with me how you are feeling about it?",
-        "our_model": "That's perfectly fine, Mr. Dang. Sometimes, a quiet day can be quite refreshing. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5494,
-    "prompt": "Nurse: Absolutely, Ms. Aguirre. Your potassium level of 4.5 mEq/L is within the normal range. Potassium is a mineral that's crucial for heart function, muscle contraction, and nerve transmission. It's good that your level is within the normal range. Do you have any other questions about your lab results or anything else?\n\nPatient: No. I appreciate it. Thanks.\n\nNurse: You're welcome, Ms. Aguirre. If it's okay with you, I'd like to go over a few topics to check on how you're doing. Is that alright?\n\nPatient: That's alright.\n\nNurse: Okay, thank\n\nPatient: Yes.\n\nNurse: Wonderful, thank you, Ms. Aguirre. Since you have Type II Diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Ms. Aguirre. I must apologize if my earlier question wasn't clear. Since you have Type II diabetes, it's important to monitor your blood sugar levels. Have you been checking your blood sugar daily?",
-        "our_model": "Hello, Ms. Aguirre. I was asking if you have been checking your blood sugar levels daily?"
-    }
-}

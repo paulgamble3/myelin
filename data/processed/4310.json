@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4310,
-    "prompt": "Nurse: I'm sorry, you were saying?\n\nPatient: I had\n\nNurse: I'm sorry, you were saying something about your salad?\n\nPatient: The bone Italian salad dressing? But I'm not sure. Can you tell me how much salt is in that dressing?\n\nNurse: I'm sorry, but as an AI, I don't have real-time information on the exact sodium content of specific foods or products. It's always a good idea to check the nutrition label on the product for the most accurate information. Would you like some general tips on how to reduce sodium in your diet?\n\nPatient: Yes, please.\n\nNurse: Wonderful. One way to reduce sodium is to use herbs and spices instead of salt to flavor your food. Another is to choose fresh or frozen vegetables instead of canned ones, as canned vegetables often have added sodium. When you do use canned vegetables, rinsing them before eating can help remove some of the sodium. Does this sound manageable to you?\n\nPatient: Yes. I know.",
-    "responses": {
-        "gpt4": "That's great to hear. Now, let's talk about your physical activity. Besides your morning walks, what other activities do you enjoy doing?",
-        "our_model": "I'm sorry, could you please repeat what you just said?"
-    }
-}

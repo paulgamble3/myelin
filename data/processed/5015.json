@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5015,
-    "prompt": "Patient: Yes. It does.\n\nNurse: Excellent. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No. I am good. My daughter is going to be giving me a ride\n\nNurse: That's great to hear. It's always good to have a support system in place. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Rachel?\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: My daughter will be giving me a ride.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Give me a moment to check how I can best support you.",
-    "responses": {
-        "gpt4": "Okay. Do you have any more information you want to share about this issue?",
-        "our_model": "That's wonderful to hear. It's always good to have a support system in place. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?"
-    }
-}

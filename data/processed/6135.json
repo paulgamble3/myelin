@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6135,
-    "prompt": "Nurse: That's great to hear. Regular exercise is an important part of managing CAD. What kind of exercise do you enjoy doing?\n\nPatient: Get back to walk you with my dog.\n\nNurse: That's wonderful to hear. Walking is a great form of exercise. Now, let's discuss your type II diabetes. How have you been managing your blood sugar levels?\n\nPatient: Well, I told you, you know,\n\nNurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: About it.\n\nNurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. It's critical to keep your blood sugar levels within a target range. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. Now, let's discuss your hypertension (HTN). Have you been able to monitor your blood pressure regularly?",
-        "our_model": "That's good to hear. Now, let's discuss your hypertension. How have you been managing your blood pressure?"
-    }
-}

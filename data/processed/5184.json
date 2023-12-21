@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5184,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jane Anderson?\n\nPatient: Yeah.\n\nNurse: Hello. I'm glad to hear from you. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: Can I speak to the real doctor?\n\nNurse: I'm sorry for any confusion, but I'm an AI nurse calling on behalf of your primary care doctor, Doctor Molly Burke. I'm here to help answer any questions you have and discuss your health. Would you like to discuss anything specific?\n\nPatient: Yeah. But with the real doctor,\n\nNurse: I'm sorry for the confusion, but as an AI, I don't have the ability to connect you with Doctor Burke directly. However, I'm here to assist you with any questions or concerns you might have. Is there something specific you'd like to discuss?\n\nPatient: No. I just don't really trust talking to a robot.",
-    "responses": {
-        "gpt4": "I understand your concern. Please know that our main goal is to support you in maintaining good health. If you feel more comfortable, we can simply go through a few health inquiries that Doctor Burke has asked us to discuss. Does that sound alright to you?",
-        "our_model": "I understand your concerns. It's completely normal to prefer speaking with a human. However, I'm here to help you with your health-related queries as accurately as possible. Let's try to have a conversation. To start, I'd like to know how you're feeling now that you're back home from the hospital."
-    }
-}

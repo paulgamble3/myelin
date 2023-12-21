@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4080,
-    "prompt": "Nurse: Hello Ana, I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Alright.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm getting ready for a performance tomorrow night.\n\nNurse: That sounds exciting! Are you performing in a play or a musical?\n\nPatient: Community circus.\n\nNurse: That's wonderful! Community circus performances can be quite thrilling. What's your role in the performance?\n\nPatient: I do tight rope walking.",
-    "responses": {
-        "gpt4": "How fascinating! Tightrope walking requires such skill and balance. Have you been doing it for long?",
-        "our_model": "Wow, tight rope walking is quite a skill! How long have you been practicing this?"
-    }
-}

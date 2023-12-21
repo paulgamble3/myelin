@@ -1,8 +1,0 @@
-{
-    "prompt_id": 555,
-    "prompt": "Nurse: Great, and how have you been taking your Lasix 20 mg tablets?\n\nPatient: Just as prescribed.\n\nNurse: That's excellent. Now, have you also picked up your new prescription for Lisinopril 10 mg oral tablets?\n\nPatient: Yes. I have.\n\nNurse: Good to hear. And are you taking the Lisinopril 10 mg tablets as prescribed by Doctor Chang?\n\nPatient: Yep. I am.\n\nNurse: That's great. Now, let's briefly discuss your existing medications. Are you still taking Potassium, Metoprolol, and Tylenol as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's good to hear. Just a reminder, it's quite common to occasionally miss a dose. Do you ever have trouble remembering to take your medication on time?",
-        "our_model": "That's good to hear. It's common to miss a dose here or there. Do you ever have trouble taking your medication on time?"
-    }
-}

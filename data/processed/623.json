@@ -1,8 +1,0 @@
-{
-    "prompt_id": 623,
-    "prompt": "Nurse: I'm here, Ms. Raynier. I'm sorry for any confusion earlier. I want to make sure I understand you correctly. Did you say that you don't want me to call you or that you'd prefer to speak with a human?\n\nPatient: No. I did not say that.\n\nNurse: Hold on a second while I figure out how I can best support you. I apologize for misunderstanding, Ms. Raynier. I'm glad to hear that you're comfortable speaking with me. Let's first get all the logistics out of the way. You are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes, ma'am.\n\nNurse: Okay, Ms. Raynier. Once you get to O'Connor Hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes.\n\nNurse: Great, Ms. Raynier. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "All right, I'm glad to hear that the logistics are clear. Now, I'd like to talk about your medications, but first, is it alright if I discuss this topic with you?",
-        "our_model": "Alright, Ms. Raynier. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 996,
-    "prompt": "Nurse: Ah, I see. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood. A GFR of 43 mL/min/1.73m2, like yours, indicates that your kidneys are not working at their full capacity. It's critical to monitor this with regular tests. Does that help clarify things?\n\nPatient: Yep.\n\nNurse: I'm glad to hear that. Now, let's move on to your medications. I'd like to review them with you to ensure everything is going as planned. The first one is Valsartan, 40 mg oral tablet. You should be taking this once daily. Have you been able to take this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's great to hear. The next medication is Lantus, 100 IU/mL prefilled pen. You should be taking 15 units two times a day. Have you been able to take this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. The next medication is Hydrochlorothiazide, 12.5 mg oral tablet. You should be taking this once daily. Have you been able to take this medication as prescribed?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "Very good. The fourth medication in your regimen is Aspart, 100 IU/mL prefilled pen. You should be taking 5 units three times a day. Have you been able to take this medication as prescribed?",
-        "our_model": "That's wonderful. The next medication is Aspart, 100 IU/mL prefilled pen. You should be taking 5 units three times a day. Have you been able to take this medication as prescribed?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4379,
-    "prompt": "Nurse: I'm sorry, Aileen, you were saying?\n\nPatient: earth making.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you enjoy doing at home?\n\nPatient: So I've been doing a a lot of painting.\n\nNurse: Oh, painting! That sounds wonderful. It must be a great way to relax and express your creativity. What kind of paintings do you enjoy doing?\n\nPatient: Okay.\n\nNurse: That sounds wonderful. Painting can be such a therapeutic activity. What kind of paintings do you enjoy creating?\n\nPatient: Acrylic.",
-    "responses": {
-        "gpt4": "That's fantastic! Acrylics are so versatile and vibrant. Do you have a favorite subject or theme for your paintings?",
-        "our_model": "Acrylic paintings can be quite vibrant and beautiful. Do you have a favorite subject or theme that you like to paint?"
-    }
-}

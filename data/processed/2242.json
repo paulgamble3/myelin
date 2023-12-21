@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2242,
-    "prompt": "Patient: I'm looking forward to getting it over with.\n\nNurse: I can appreciate that sentiment, Mr. Valenzuela. It's quite a process to go through, but it's an important step in addressing your health concerns. Before we begin, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. Please remember that you can ask me questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I hope this procedure provides you and your doctor with the answers you're looking for. Would it be alright if we go over a few topics on preparing for your colonoscopy?\n\nPatient: Sure.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm that you've been experiencing unexplained and long-lasting diarrhea?\n\nPatient: Are you there, Rachel?\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you.",
-    "responses": {
-        "gpt4": "Yes, I am here, Mr. Valenzuela. I'm sorry to hear about your ongoing symptoms. To better understand, may I ask, when did the diarrhea start?",
-        "our_model": "Yes, I'm here, Mr. Valenzuela. I need to ask, when did your diarrhea start?"
-    }
-}

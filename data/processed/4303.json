@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4303,
-    "prompt": "Nurse: That's excellent. Lastly, you're taking Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful to hear. It's important to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a salad not too long ago. A veggie salad.\n\nNurse: That sounds like a healthy choice. What kinds of vegetables did you include in your salad?\n\nPatient: Letters. L",
-    "responses": {
-        "gpt4": "I'm sorry, could you please repeat which vegetables you included in your salad?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat which vegetables you included in your salad?"
-    }
-}

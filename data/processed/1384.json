@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1384,
-    "prompt": "Nurse: I'm sorry, Mr. Grewe, could you please repeat that?\n\nPatient: Oh, no. Wait. You already talked about my Lantus. So you wanna know all my medic occasions,\n\nNurse: Yes, Mr. Grewe, I'd like to confirm all the medications you're currently taking. You've already mentioned Lantus. Are there any other medications you're currently taking that we haven't discussed yet?\n\nPatient: filing all salam brack,\n\nNurse: I'm sorry, Mr. Grewe, I didn't quite catch that. Could you please repeat\n\nPatient: and metformin.\n\nNurse: the name Thank you for confirming those medications, Mr. Grewe. I see that you've also been prescribed Tylenol and Celebrex for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yeah. I got those.",
-    "responses": {
-        "gpt4": "Great, Mr. Grewe. It's important to have those on hand for after the procedure. Now, on the day of the procedure, you'll need to fast from midnight the night before. This means no food or drink the morning of the procedure. Do you have any questions about that?",
-        "our_model": "That's great to hear, Mr. Grewe. It's important to have those medications on hand for after the procedure. Do you have any questions about these medications, or is there anything else you'd like to know about your current medications?"
-    }
-}

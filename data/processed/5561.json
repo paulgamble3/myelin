@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5561,
-    "prompt": "Nurse: That's good to hear, Mr. Alves. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: Thank you. A friend of mine who's picking me up.\n\nNurse: That's great to hear, Mr. Alves. It's critical to have someone available to take you home after the procedure. I'm glad you've arranged that. Do you have any other questions or concerns about your upcoming colonoscopy?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. That was all the topics for today. Before we end this call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: Don't.\n\nNurse: Alright, Mr. Alves. To summarize, we discussed your upcoming colonoscopy on August 17 at 10:00 AM with Doctor Meredith Bailey. We went over your diet changes, medication instructions, and the bowel prep with the GoLYTELY laxative solution. You've also confirmed that you're feeling well and have arranged for a ride home after your procedure. Does that sound right?\n\nPatient: Sounds good.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Alves. Remember, I'm here for you every step of the way. I'll call you again the day before your procedure to go over step by step all the prep instructions. Do you have any other questions before we end this call?",
-        "our_model": "I'm glad to hear that, Mr. Alves. Remember, I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you need to reach us in the meantime, you can call us back at 641-381-6523. Does that sound good to you?"
-    }
-}

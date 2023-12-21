@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5404,
-    "prompt": "Nurse: I'm glad to hear that you're feeling calm, Mr. Hardy. Is there anything you're looking forward to doing this week?\n\nPatient: I'm looking forward to playing with my dog and watching some movies.\n\nNurse: That sounds like a lovely plan, Mr. Hardy. What kind of movies do you enjoy watching?\n\nPatient: Well, given that, it's almost Christmas. I'm really in the holiday. Serious. They wanna watch movies like, home alone.\n\nNurse: That's wonderful, Mr. Hardy. Home Alone is a classic holiday movie. Do you have a favorite scene or moment from the movie?\n\nPatient: I like when Joe said she had just called on fire.\n\nNurse: That's a memorable scene indeed, Mr. Hardy. It's always fun to watch those classic holiday movies. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I can't think of any.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Hardy. If at any point during our call you have questions or concerns, please feel free to mention them. With your permission, I'd like to go over a few topics to check on how you're managing your health conditions. Is that okay with you?",
-        "our_model": "Alright, Mr. Hardy. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?"
-    }
-}

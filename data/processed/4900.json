@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4900,
-    "prompt": "Patient: Six\n\nPatient: Thank\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: Well, I've been doing okay, I guess, considering\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: I think I might watch some Christmas\n\nNurse: That sounds like a lovely plan.\n\nPatient: TV shows.",
-    "responses": {
-        "gpt4": "That sounds great! Watching Christmas TV shows is a wonderful way to get into the holiday spirit. Is there anything else you need assistance with or any questions you have?",
-        "our_model": "That sounds like a lovely way to spend your time. Do you have any favorite Christmas TV shows that you're excited to watch?"
-    }
-}

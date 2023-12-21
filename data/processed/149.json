@@ -1,8 +1,0 @@
-{
-    "prompt_id": 149,
-    "prompt": "Patient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Have you noticed any weight loss or changes in your appetite?\n\nPatient: No. No weight loss.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you noticed any changes in your appetite or eating habits due to the diarrhea?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for sharing that, Mr. Valenzuela. We truly hope that this procedure will offer some answers for your long-lasting diarrhea. I'll note down for your care team to review it. Are you ready to move on and discuss a few topics on preparation for your colonoscopy?",
-        "our_model": "I see, Mr. Valenzuela. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?"
-    }
-}

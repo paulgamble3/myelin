@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1502,
-    "prompt": "Nurse: Great, Mr. Valenzuela. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: I wanted to ask\n\nNurse: Of course, Mr. Valenzuela. What would you like to ask about the logistics of your procedure?\n\nPatient: Why does cancer risk increase so much with age?\n\nNurse: That's a very insightful question, Mr. Valenzuela. As we age, our cells go through many cycles of growth, damage, and repair. Over time, these cycles can lead to mutations that may cause cancer. Additionally, our immune system, which helps protect us from cancer, can weaken with age. This is why it's important to have regular screenings like colonoscopies, especially as we get older. Does that help clarify things for you?\n\nPatient: Yes. Thank you.\n\nNurse: You're welcome, Mr. Valenzuela. I'm glad I could provide some clarity. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Perfect, Mr. Valenzuela. As for your medications, I see that there have been no changes on your chart. Since there are no specific medications to stop before your colonoscopy, there's no need for us to go over any specific instructions on that front. However, are you taking any over-the-counter medications we should be aware of, such as Advil, Aspirin, Aleve, or any other blood thinners?",
-        "our_model": "Okay, Mr. Valenzuela. I see on your chart that there are no changes to your current medications in preparation for the colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3925,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: November eleventh nineteen eighty six.\n\nNurse: Thank you for confirming. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling good.\n\nNurse: That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: My dog again.\n\nNurse: That sounds wonderful! Dogs can be such great companions. What's your dog's name and what breed is he?\n\nPatient: His name is Rocky, and he is",
-    "responses": {
-        "gpt4": "a Golden Retriever.",
-        "our_model": "Rocky"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2880,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Hubert Douglas?\n\nPatient: Yes. That's me.",
-    "responses": {
-        "gpt4": "Hi Mr. Douglas, I'm calling on behalf of Dr. Malcolm Garrett. I heard you recently made it back home from the hospital, how is everything going now that you're back home?",
-        "our_model": "Hello, Mr. Douglas. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2778,
-    "prompt": "Nurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been very wet very good so far.\n\nNurse: I'm glad to hear that you're having a good day, even with the wet weather. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: And I'm just ready to get it\n\nNurse: It's completely normal to feel ready to get the procedure done. It's a step towards taking care of your health. Before we delve into the details, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: were with. I've done them before, so I know what I'm in for.\n\nNurse: I see, you're a veteran at this. It's great that you're familiar with the process. Do you have any specific concerns or questions about this upcoming procedure that you'd like to discuss?\n\nPatient: No. I don't have any questions at all.",
-    "responses": {
-        "gpt4": "Alright, thank you for letting me know. And remember, you can ask questions at any time during our conversation. We're scheduling this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this, so I appreciate your commitment to maintaining your health. How are you feeling overall about it?",
-        "our_model": "Alright, if any questions come up during our conversation, feel free to ask at any time. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

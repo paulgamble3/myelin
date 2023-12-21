@@ -1,8 +1,0 @@
-{
-    "prompt_id": 55,
-    "prompt": "Nurse: Thank you, Ms. Ware. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Ware. Have you experienced any ongoing or worsening chest pain?\n\nPatient: No.\n\nNurse: I'm glad to hear that, Ms. Ware. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. Ware. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: Binkles now.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Ware, but I didn't fully understand your response. Did you mention something about experiencing swelling in your leg? Could you clarify if you're experiencing swelling in one or both legs?",
-        "our_model": "I'm sorry, Ms. Ware, I didn't quite catch that. Are you saying you have swelling in one of your legs?"
-    }
-}

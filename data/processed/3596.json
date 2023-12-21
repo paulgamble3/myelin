@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3596,
-    "prompt": "Nurse: Thank you, Mr. Benton. I see from your records that you have Type II Diabetes. Have you been checking your blood sugar daily?\n\nPatient: Not really.\n\nNurse: I see, Mr. Benton. It's really important to monitor your blood sugar levels regularly when you have diabetes. Would you be open to starting this practice?\n\nPatient: I guess.\n\nNurse: Thank you for being open to this, Mr. Benton. It's a small step that can make a big difference in managing your diabetes. When do you think you could start checking your blood sugar daily?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Benton. There's no rush. Whenever you feel ready to start, that's the right time. Now, let's move on to your blood pressure. When was the last time\n\nPatient: Maybe.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Benton, I didn't catch that. Could you please repeat what you said?",
-        "our_model": "I understand, Mr. Benton. It's a new habit"
-    }
-}

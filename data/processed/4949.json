@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4949,
-    "prompt": "Patient: dietary supplements or alternative therapies. I think it was\n\nNurse: I'm sorry, Mr. Hooper, I didn't quite catch that last part. Could you please repeat your question?\n\nPatient: a Mercola column that I was reading.\n\nNurse: I'm sorry, Mr. Hooper, I didn't quite catch that. Could you please repeat your question?\n\nPatient: C o l a does this website or\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nPatient: or a column or something like that. And and he was saying that you can manage CHF with dietary supplements. And alternative types of therapies, like,\n\nPatient: know, I guess things like meditation or dietary supplements, things like",
-    "responses": {
-        "gpt4": "Mr. Hooper, it appears there may be some change in your speech. Have you experienced any difficulty speaking or has anyone commented on a difference in your speech lately?",
-        "our_model": "When did you start noticing these changes in your speech, Mr. Hooper?"
-    }
-}

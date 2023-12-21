@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5990,
-    "prompt": "Nurse: I'm sorry, could you please repeat what you just said?\n\nPatient: And and then and how do you measure it?\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: What does GFR mean? And how is it measured? I'm confused.\n\nNurse: Of course, I'd be happy to explain. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. It estimates how much blood passes through the tiny filters in your kidneys, called glomeruli, each minute. A lower GFR can be a sign that your kidneys are not working as well as they should. Your GFR is 43 mL/min/1.73m2, which indicates that your kidneys are not filtering your blood as effectively as they could be. Does that help clarify things a bit?\n\nPatient: Not\n\nNurse: I'm sorry, could you please repeat what you just said?\n\nPatient: I didn't send anything.",
-    "responses": {
-        "gpt4": "My apologies for the confusion earlier. Is there anything else you would like me to clarify regarding your kidney health or the lab results?",
-        "our_model": "I apologize for the confusion earlier. If it's alright with you, I'd like to move on to discuss your medications. Is that okay?"
-    }
-}

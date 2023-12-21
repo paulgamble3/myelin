@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6335,
-    "prompt": "Nurse: That's good to hear, Mr. Gardner. It's critical to continue taking your Valsartan as it helps manage your CHF and HTN. I understand that managing medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: My what?\n\nNurse: I apologize for the confusion, Mr. Gardner. I was asking if you ever have trouble remembering to take your medications on time. [\n\nPatient: [NO RESPONSE]\n\nNurse: I understand, Mr. Gardner. It's quite common to sometimes forget a dose. If it's alright with you, I'd like to provide some suggestions that might help you remember to take your medications on time. Would that be okay?\n\nPatient: I was just asking what you said\n\nNurse: I apologize for the confusion earlier, Mr. Gardner. I was asking if you ever have trouble remembering to take your medications on time. [\n\nPatient: You said that the medication was important for my",
-    "responses": {
-        "gpt4": "Apologies for the misunderstanding, Mr. Gardner. Yes, taking your medications, Valsartan and Lasix, on time is important for managing your CHF and HTN. Would you be open to a few tips to help remember to take your medications on time?",
-        "our_model": "Yes, Mr. Gardner, you're correct. Valsartan is important for managing your CHF and HTN. It helps to relax your blood vessels and reduce strain on your heart. That's why it's crucial to take it as prescribed. Do you ever have trouble remembering to take your medications on time?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2096,
-    "prompt": "Nurse: It's great that they get to enjoy some free time and play fetch. Before we move on, is there anything you've been feeling concerned about health-wise that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright. If you have any questions or concerns at any point during our conversation, feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Sure.\n\nNurse: Wonderful. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yeah.\n\nNurse: That's great to hear. Could you share with me what your last blood sugar reading at home was?\n\nPatient: One twelve.",
-    "responses": {
-        "gpt4": "Good job on keeping your blood glucose level in control. Now, let's talk about your blood pressure. When did you take your last blood pressure measurement and what was the result?",
-        "our_model": "Thank you for sharing that. A blood sugar level of 120 is a bit higher than the target range. Would it be alright if I provide some recommendations to help manage your blood sugar levels?"
-    }
-}

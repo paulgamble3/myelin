@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3949,
-    "prompt": "Nurse: That's perfectly fine, Mr. Dang. Sometimes, a quiet day can be quite refreshing. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Just gonna make it easy. Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Dang. I'm glad to hear you're planning a relaxing day. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: I'm okay. I'm pretty calm.\n\nNurse: That's great to hear, Mr. Dang. Staying calm can be beneficial for your overall well-being. Do you have any questions or concerns about the procedure that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. Please remember that you can ask me any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I just wanna get some answers",
-    "responses": {
-        "gpt4": "Absolutely, Mr. Dang. It's quite normal to want to get more clarity about your condition. I hope this procedure provides both you and your doctor with the answers you're seeking. If you don't mind, I'd like to go over a few topics related to preparation for your colonoscopy. Are you okay with this?",
-        "our_model": "I see, Mr. Dang. It's completely normal to want answers about your health. I hope this procedure will provide you and your doctor with the information you're looking for. Would it be okay if we go over a few topics on preparing for your colonoscopy?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2730,
-    "prompt": "Nurse: Yes, I'm here, Mr. Stevens. I was asking if there's anything in particular you've been looking forward to doing now that you're back home?\n\nPatient: Yes. It's good to be home. It's really good to be home.\n\nNurse: That's wonderful to hear, Mr. Stevens. Being in the comfort of your own home can indeed be a great feeling. Is there a particular hobby or activity that you enjoy doing at home?\n\nPatient: Oh, gosh. I mean, I love baking. I love too many things.\n\nNurse: Baking sounds like a delightful hobby, Mr. Stevens. What kind of baked goods do you enjoy making?\n\nPatient: What what\n\nNurse: I'm sorry, Mr. Stevens. Could you please repeat what you said?\n\nPatient: I like making cupcakes and bread.",
-    "responses": {
-        "gpt4": "Those sound delicious, Mr. Stevens. Baking can definitely be a fun and rewarding activity. Now, returning to the purpose of this call, do you have any questions or concerns about your health since you've been discharged from the hospital?",
-        "our_model": "Cupcakes and bread sound delicious, Mr. Stevens. Do you have a favorite flavor or type of cupcake that you enjoy making?"
-    }
-}

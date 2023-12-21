@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2249,
-    "prompt": "Nurse: I'm sorry, Mr. Valenzuela, could you please repeat your response?\n\nPatient: No. I said no.\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, or have you experienced any feelings of faintness or dizziness?\n\nPatient: No.\n\nNurse: Have you had a fever, Mr. Valenzuela?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for confirming that, Mr. Valenzuela. Have you experienced any belly pain or cramping?",
-        "our_model": "Have you started any new prescription medications recently, Mr. Valenzuela?"
-    }
-}

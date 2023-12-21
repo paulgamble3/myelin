@@ -1,8 +1,0 @@
-{
-    "prompt_id": 694,
-    "prompt": "Nurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you avoiding dairy products as well?\n\nPatient: Fruits.\n\nNurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?\n\nPatient: Lean proteins.\n\nNurse: That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you finding it easy to avoid lactose in your diet?\n\nPatient: I know the drill.\n\nNurse: That's excellent. It sounds like you're doing a great job managing your diet. I understand it can be challenging at times. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?\n\nPatient: Are you still there?",
-    "responses": {
-        "gpt4": "Yes, I'm here. I was asking if you have any questions or concerns about your diet and if there are any recommendations you'd like to discuss?",
-        "our_model": "Yes, I'm here. I apologize for the delay. Do you have any questions or concerns about your diet or any recommendations you'd like to discuss?"
-    }
-}

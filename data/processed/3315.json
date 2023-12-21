@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3315,
-    "prompt": "Nurse: Yes, Mr. Winner. The check-in will be on the 1st Floor of O'Connor Hospital. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you?\n\nPatient: No. Nothing. Worries me. Nope.\n\nNurse: I'm glad to hear that, Mr. Winner. Let's move on to discuss your medications. Before we do, I want to make sure you're ready to move forward. Can we proceed?\n\nPatient: Yes. If we can proceed.\n\nNurse: Great, Mr. Winner. I see on your chart that you are currently taking Jardiance, Hydrochlorothiazide, Atorvastatin, and Ozempic. Have you stopped taking your Aspirin 81 mg as instructed?\n\nPatient: Yes. Let's see.\n\nNurse: That's good to hear, Mr. Winner.\n\nPatient: Yes. I have stopped. Yes. I have stopped it.",
-    "responses": {
-        "gpt4": "Great, Mr. Winner. It's very important to follow these instructions for the upcoming surgery. Do you have any questions about any of these medications?",
-        "our_model": "That's good to hear, Mr. Winner. It's essential to follow these instructions to prepare for your surgery. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?"
-    }
-}

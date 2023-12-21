@@ -1,8 +1,0 @@
-{
-    "prompt_id": 382,
-    "prompt": "Patient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It simplifies things a bit. Do you have any questions about why you need to stop these supplements or medications?\n\nPatient: We already talked about it earlier, so pretty clear on that.\n\nNurse: I'm glad to hear that you're clear on that, Mr. Koroleva. Now, I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I've heard it I've heard a lot about this loxetive. I'm not looking forward to it, but I'm just getting over with\n\nPatient: [NO RESPONSE]\n\nNurse: I can understand your feelings, Mr. Koroleva. It's not the most pleasant part of the process, but it's a crucial step to ensure your colonoscopy goes smoothly. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about this part of the prep?\n\nPatient: Can you tell me about it? There's specific",
-    "responses": {
-        "gpt4": "Absolutely, Mr. Koroleva. You don't have to do anything just yet. But starting 24 hours before your procedure, you'll need to start a clear liquid diet. This means you'll need to avoid solid foods and only drink clear or light colored beverages without any red or purple dye. Are you okay with this so far?",
-        "our_model": "Of course, Mr. Koroleva."
-    }
-}

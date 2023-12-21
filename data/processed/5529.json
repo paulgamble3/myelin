@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5529,
-    "prompt": "Nurse: Great, Mr. Alves. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Okay.\n\nNurse: Thank you for confirming, Mr. Alves. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Alves. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: I'm ready.\n\nNurse: Great, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for your colonoscopy.\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Perfect, thank you for confirming, Mr. Alves. Now, the colonoscopy prep itself is very important as it ensures your doctor can see everything clearly during the procedure. Have you already received information on how to prepare?",
-        "our_model": "Great, Mr. Alves. I see on your chart that there are no changes to your current medications in preparation for your colonoscopy. However, I would like to ask if you're taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?"
-    }
-}

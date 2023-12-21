@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1443,
-    "prompt": "Nurse: That's interesting, Mr. Valenzuela. Do you have a favorite brownie recipe that you follow when you bake them at home?\n\nPatient: No. I said I buy them. I don't take them.\n\nNurse: I see, Mr. Valenzuela. When you buy brownies, do you have a favorite place or brand that you usually go for?\n\nPatient: No. Just wherever. I'm not picky.\n\nNurse: That's perfectly fine, Mr. Valenzuela. The important thing is to enjoy what you eat. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Now, let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. It's essential to avoid these supplements and medications before your colonoscopy. Do you have any questions about this or anything else we've discussed so far?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great, Mr. Valenzuela. If you have any questions later, don't hesitate to ask. I'm going to note all of this information down for your care team to review. I hope our conversation was helpful to you. Do you feel better prepared for your colonoscopy?",
-        "our_model": "Alright, Mr. Valenzuela. If you have any questions later, don't hesitate to ask. I'll be calling you again the day before your procedure to check in. Is there anything else you'd like to discuss today?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5303,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Weeks. I'm calling on behalf of your primary care doctor, Doctor Henry Stapleton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Honestly, not great. It's not gonna a good, you know, mental health day.\n\nNurse: I'm sorry to hear that you're having a tough day, Mr. Weeks. It's completely normal to have ups and downs, especially after a hospital stay. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: Not really.\n\nNurse: I see, Mr. Weeks. Sometimes, it's just nice to be back in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Not really any that I enjoy at the moment.\n\nNurse: I see, Mr. Weeks. It's okay to have periods where we don't feel like doing much. How about the weather?\n\nPatient: What about the weather?",
-    "responses": {
-        "gpt4": "I just wanted to check in about that, as it can sometimes affect how we're feeling. Is it sunny, cloudy, or rainy where you are today?",
-        "our_model": "I was just wondering if there's any particular type of weather that you enjoy, Mr. Weeks?"
-    }
-}

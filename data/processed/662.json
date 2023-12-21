@@ -1,8 +1,0 @@
-{
-    "prompt_id": 662,
-    "prompt": "Nurse: Thank\n\nPatient: I am taking them\n\nNurse: you for That's great. Now, are you still taking Metformin and Riboflavin?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I was asking if you're still taking Metformin and Riboflavin. [\n\nPatient: I know it's a lot of medication.\n\nNurse: Yes, I'm here. I understand it's a lot to manage. Are you still taking Metformin and\n\nPatient: But I'm taking them",
-    "responses": {
-        "gpt4": "That's excellent to hear, and I thank you for your diligence. Now, how about Atorvastatin and Lantus? Are you taking those as well?",
-        "our_model": "Yes, I'm here. I appreciate your patience. It's important to ensure we're covering all your medications. Now, are you still taking Atorvastatin and Lantus?"
-    }
-}

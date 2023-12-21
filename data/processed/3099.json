@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3099,
-    "prompt": "Nurse: That's great to hear. It's essential to keep up with your medications. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble with this?\n\nPatient: I guess maybe every once in a while.\n\nNurse: It's quite common to miss a dose here or there. Would it be alright if I shared some suggestions on how to manage this?\n\nPatient: Yeah. Sure.\n\nNurse: Okay. One method that many people find helpful is setting reminders on their phone or using a pillbox with compartments for each day of the week. This can help ensure you're taking your medications as prescribed. Now, with your permission, I'd like to ask a few questions about your symptoms to understand how you're doing at home. Is that okay with you?\n\nPatient: Yeah. That's fine.\n\nNurse: Thank you. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Thank you for sharing. As part of our CHF assessment, it's important we monitor these symptoms. Next, have you experienced any ongoing or worsening chest pain?",
-        "our_model": "I'm sorry to hear that."
-    }
-}

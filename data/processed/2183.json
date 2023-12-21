@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2183,
-    "prompt": "Nurse: Great. It's important to make this adjustment for the day of the procedure. Do you have any questions about this change?\n\nPatient: No.\n\nNurse: Alright. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: Alright. Nope.\n\nNurse: That's good to hear. These medications typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I also notice that you've been prescribed Tylenol and Celebrex for after the procedure.\n\nPatient: Well,\n\nNurse: I'm glad to hear that.\n\nPatient: I went aleve with that one.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. Aleve is also classified as a blood thinner, and it's usually recommended that patients stop taking it ahead of a knee replacement surgery. Have you picked up your prescribed medications, Tylenol and Celebrex, from the pharmacy?",
-        "our_model": "I see. It's critical to note that medications like Aleve typically need to be stopped before a knee replacement unless your doctor specifically recommended otherwise. I'll make sure to pass this information along to your healthcare team. Are you taking any other medications that we should be aware of?"
-    }
-}

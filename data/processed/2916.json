@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2916,
-    "prompt": "Nurse: Thank you for confirming, Ms. McKloskey. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Ms. McKloskey. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I've been feeling good.\n\nNurse: I'm glad to hear that, Ms. McKloskey. It's always nice to start the day on a positive note. As you approach your knee replacement surgery, it must be exciting to think about the activities you'll be able to enjoy with your new knee. Do you have any specific plans or hobbies you're looking forward to getting back to?\n\nPatient: So I can get back to having a normal life.\n\nNurse: I'm glad to hear you're feeling good, Ms. McKloskey. It's exciting to think about getting back to a normal life. With your new knee, is there something specific you're looking forward to doing that you couldn't do before?\n\nPatient: Oh, just going for a walk. Without pain.",
-    "responses": {
-        "gpt4": "Walking without pain seems like a simple joy that many of us take for granted until it's taken away. I'm glad to hear that you're looking forward to reclaiming that freedom, Ms. McKloskey. Are you feeling okay about the procedure itself?",
-        "our_model": "That sounds wonderful, Ms. McKloskey. Walking without pain can truly make a difference in one's daily life. It's a simple pleasure that we often take for granted. How are you feeling about your upcoming procedure?"
-    }
-}

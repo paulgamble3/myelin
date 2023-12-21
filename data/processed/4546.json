@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4546,
-    "prompt": "Patient: Sure. I've had chicken and rice.\n\nNurse: Thank you for sharing\n\nPatient: Some steamed vegetables,\n\nNurse: That sounds like a balanced meal. Steamed vegetables are a great choice as they retain more nutrients. How are you preparing your chicken and rice?\n\nPatient: Raspberries for Brex\n\nPatient: this.\n\nNurse: I'm sorry, Jon, I didn't quite catch the last part of your response. Could you please repeat what you said for breakfast?\n\nPatient: That's everything for today.",
-    "responses": {
-        "gpt4": "Thank you for sharing. It sounds like you're making conscious choices about your diet. I suggest trying to incorporate more whole, unprocessed foods, limit salt and sugar, and stay hydrated. Remember, proper nutrition is fundamental to managing kidney disease and other health conditions. Do you have any questions or concerns about your diet?",
-        "our_model": "Thank you for sharing that. It sounds like you're making an effort to eat balanced meals. I noticed you mentioned having raspberries for breakfast. That's a great choice as they're packed with vitamins. Can I provide some suggestions to further optimize your diet?"
-    }
-}

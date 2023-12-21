@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3511,
-    "prompt": "Nurse: I'm sorry, Mr. Martin, I didn't quite catch that. Could you please repeat your dog's name?\n\nPatient: And he is a siberian husky.\n\nNurse: I'm sorry Boevo sounds like a wonderful companion, and Siberian Huskies are such beautiful dogs. Do you have a favorite place where you like to walk Boevo?\n\nPatient: We go into the woods and walk around. It's lots of fun.\n\nNurse: That sounds like a great way to spend time with Boevo, Mr. Martin. The woods must be a peaceful place for your walks. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, Mr. Martin. Let's move on to your medications. I see that you don't have any new prescriptions, but I'd like to confirm that you're still taking your existing medications. Are you still taking Valsartan and Lasix?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "Great, Mr. Martin. And are you also continuing with your Metformin medication?",
-        "our_model": "That's good to hear, Mr. Martin. And are you also continuing with your Metformin?"
-    }
-}

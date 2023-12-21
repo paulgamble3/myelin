@@ -1,8 +1,0 @@
-{
-    "prompt_id": 321,
-    "prompt": "Nurse: Done and creatinine are both substances found in your blood. When your kidneys are working well, they filter out these substances.\n\nPatient: And what does that mean? And what if they're what are they what's the high\n\nNurse: I see. You're asking about BUN and Creatinine. BUN stands for Blood Urea Nitrogen.\n\nPatient: goes.\n\nNurse: I see. Done is short for BUN, which stands for Blood Urea Nitrogen. It's a waste product that's produced in your body when protein is broken down. Creatinine is another waste product that's produced by your muscles. Both of these are normally removed from your blood by your kidneys. When your kidneys aren't working as well as they should, these levels can rise. A high BUN or creatinine level could indicate that your kidneys aren't functioning as well as they should be. Does that help clarify things?\n\nPatient: Yep.\n\nNurse: Okay. Now, let's discuss your medications. You're currently taking Amlodipine 5 mg oral tablet, 10 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes, mother.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're taking your Amlodipine as prescribed. This medication is important for controlling your blood pressure. Let's move on to reviewing your other medications. You're also prescribed Ferrous sulfate 45 mg oral tablet, 45 mg three times a day. Are you taking this medication regularly as well?",
-        "our_model": "That's great to hear. Now, let's move on to the next medication. You're also prescribed Ferrous sulfate 45 mg oral tablet, to be taken three times a day. Have you been taking this medication as prescribed?"
-    }
-}

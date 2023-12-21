@@ -1,8 +1,0 @@
-{
-    "prompt_id": 976,
-    "prompt": "Nurse: I'm glad to hear that you're doing fine. Is there anything you're looking forward to doing this week?\n\nPatient: I'm seeing a show this weekend.\n\nNurse: That sounds exciting! What kind of show are you planning to see?\n\nPatient: It's a Christmas show.\n\nNurse: A Christmas show, how delightful! Is this a tradition you have or something new you're trying out?\n\nPatient: Something new. It's a new work, so it's never been seen before.\n\nNurse: That's even more exciting! Being one of the first to experience a new work must be thrilling. Is there a particular reason you chose this show or is it more about trying something new in general?\n\nPatient: My granddaughter's in it.",
-    "responses": {
-        "gpt4": "Oh, that's wonderful! It must be a joy to watch your granddaughter perform on stage. I hope she enjoys her performance as much as you'll enjoy watching it. \n\nBefore we go over some topics regarding your health, do you have any symptoms you're concerned about that we should know?",
-        "our_model": "Oh, that's wonderful! It must be special to see your granddaughter perform. Is she a part of a local theater group or is this a school production?"
-    }
-}

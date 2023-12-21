@@ -1,8 +1,0 @@
-{
-    "prompt_id": 239,
-    "prompt": "Patient: June seventh\n\nPatient: nineteen eighty three.\n\nNurse: Thank you for confirming, Mr. O'Leary. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: I guess.\n\nNurse: Thank you, Mr. O'Leary. I hope your day is going\n\nPatient: Yes.\n\nNurse: well so Great, thank you, Mr. O'Leary. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: I'm pretty mad, honestly.",
-    "responses": {
-        "gpt4": "I'm sorry to hear that you're upset, Mr. O'Leary. Can you tell me what's bothering you?",
-        "our_model": "I'm sorry to hear that you're feeling upset, Mr. O'Leary. Would you like to share what's been bothering you?"
-    }
-}

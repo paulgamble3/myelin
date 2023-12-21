@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3798,
-    "prompt": "Nurse: That's a great start to the day, Ms. Odonnell. Oatmeal is a whole grain and a good source of fiber. What did you have for lunch and dinner yesterday?\n\nPatient: Much for lunch, and I had\n\nNurse: I'm sorry, Ms. Odonnell, you cut out a bit there. Could you please repeat what you had for lunch and dinner yesterday?\n\nPatient: Lazagna for dinner.\n\nNurse: Thank you for sharing that, Ms. Odonnell. Lasagna can be a good source of protein, but it can also be high in sodium. Would it be okay if I provide some suggestions about how to adjust your diet to better manage your health conditions?\n\nPatient: Well, how can I make lasagna so I can eat it? Because because I really like it.\n\nNurse: I understand, Ms. Odonnell. Lasagna can be made healthier by using lean ground beef or turkey, and adding more vegetables like spinach, mushrooms, or bell peppers. It's also a good idea to limit the amount of cheese used. For the sauce, you can use a low-sodium option or make your own with fresh tomatoes. Would you like more suggestions like this?\n\nPatient: Well, that's a good suggestion. Why don't I start with that one?",
-    "responses": {
-        "gpt4": "That sounds like a great plan, Ms. Odonnell. Making small changes can have a big impact on your health. If you ever want more suggestions, don't hesitate to ask. Now, let's discuss your other conditions. You have Type II Diabetes. Have there been any changes recently?",
-        "our_model": "I'm glad you found the suggestion helpful, Ms. Odonnell. Remember, small changes can make a big difference. Now, let's move on to your other chronic conditions. You mentioned earlier that you have multiple back surgeries. How has your back been feeling lately?"
-    }
-}

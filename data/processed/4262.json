@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4262,
-    "prompt": "Nurse: That's great, Mr. Shyam. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. Do you have any questions about how to do so?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Shyam. Now, I'd like to talk about your diet. Could you tell me about your recent meals?\n\nPatient: You know, I've been trying to focus on eating vegetables and every meal, eating whole grains, I eat yogurt sometimes, stuff like that.\n\nNurse: It sounds like you're making a conscious effort to eat healthily, Mr. Shyam. That's great. Do you mind if I share some dietary recommendations that could help manage your CHF, CKD, and Galactosemia?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Shyam. Given your conditions, it's important to follow a cardiac diet, which means limiting sodium and fluids. It's also crucial to follow a renal diet, which involves limiting potassium, phosphorus, and sodium. Lastly, due to your Galactosemia, you need to restrict lactose and galactose. Based on what you've shared about your diet, it seems like you're on the right track. Just remember to keep an eye on your sodium and fluid intake. How does that sound?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "I understand there's a lot to consider, Mr. Shyam, especially when it comes to food choices. Remember, it's all about balance and moderation. Please let me know if you have any questions regarding your diet.",
-        "our_model": "Additionally, due to your Galactosemia, it's important to restrict lactose and galactose in your diet. This means avoiding dairy products and certain fruits and vegetables. Do you have any questions about these dietary recommendations, Mr. Shyam?"
-    }
-}

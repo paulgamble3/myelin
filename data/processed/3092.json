@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3092,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Quincy Snow?\n\nPatient: Yeah. That's me.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling okay. How are you?\n\nNurse: I'm here to assist you, so I'm doing well, thank you. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just happy to be back with my cat.",
-    "responses": {
-        "gpt4": "That sounds wonderful. Pets can be such good companions. What's your cat's name, and how long have you had him or her?",
-        "our_model": "That sounds lovely. Cats can be such wonderful companions. What's your cat's name?"
-    }
-}

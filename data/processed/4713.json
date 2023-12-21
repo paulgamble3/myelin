@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4713,
-    "prompt": "Patient: CHF diagnosis.\n\nNurse: I appreciate your patience. Does the patient have any more information they want to share about this issue?\n\nPatient: Why do you refer to me as\n\nPatient: the patient.\n\nNurse: I apologize if that came across as impersonal. I'm here to help you. Do you have any more information you want to share about this issue?\n\nPatient: The only thing I wanna talk about is my congestive heart failure. Okay?\n\nNurse: Absolutely. I'm here to help you understand your condition and how to manage it. Let's move on to your next medication. Have you been able to pick up your Carvedilol 3.125 mg oral tablets from the pharmacy?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear. For clarity, you should be taking 3.125 mg of Carvedilol three times a day. Is that how you're currently taking it?",
-        "our_model": "That's great to hear. Just to confirm, you're taking 3.125 mg of Carvedilol three times a day, correct?"
-    }
-}

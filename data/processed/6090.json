@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6090,
-    "prompt": "Patient: This morning when I got a\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for that information. Could you please share with me what the result was?\n\nPatient: One ten over eighty.\n\nNurse: Thank you for sharing that. It's good to see that you're keeping track of your blood pressure. Do you have any questions or concerns about your blood pressure or how to manage it?\n\nPatient: No.\n\nNurse: Alright. I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: Well, actually, I don't know what they are.",
-    "responses": {
-        "gpt4": "Let's go over them together then. One test you had is called a BUN test, which stands for Blood Urea Nitrogen. It measures the amount of nitrogen in your blood that comes from the waste product urea. Your result was 7.12 mmol/L, which is within the normal range. This suggests that your kidneys are working well to filter waste from your body. Would you like me to explain any other results or do you have any questions about the BUN test?",
-        "our_model": "I see, would it be okay if I explain them to you in a simple and patient-friendly way?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3671,
-    "prompt": "Patient: Yes.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: I said, I guess,\n\nNurse: Thank you. For someone with CHF, it's important to start slow and gradually increase your activity level. Walking is a great way to start. You could begin with a short walk around your home or yard, and gradually increase the distance as you feel comfortable. How does that sound to you?\n\nPatient: So fun. I\n\nPatient: Yeah. Can't wait.\n\nNurse: I understand that starting a new exercise routine can be challenging. It's critical to remember that every little bit helps and it's okay to start slow. Do you have any questions or concerns about this exercise recommendation?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright. I would like to check on one more thing before we end the call. Are you facing any problems with your daily activities such as bathing, dressing, meal preparation, shopping, managing medications, and using the telephone?",
-        "our_model": "Alright. I understand that adjusting diet and exercise can be hard. Is there anything else you'd like to discuss or any other questions you have about what we've talked about today?"
-    }
-}

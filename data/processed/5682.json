@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5682,
-    "prompt": "Nurse: I'm sorry, but as an AI, I don't have the ability to provide medical advice or prognoses. However, I can tell you that managing CHF often involves a combination of lifestyle changes, medication, and regular monitoring. It's essential to follow your doctor's advice and take your medications as prescribed. Now, let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Rodriguez?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to take your medications as prescribed to manage your CHF. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble taking your medication on time?\n\nPatient: No.\n\nNurse: That's excellent. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Go for it.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "I'm sorry for the confusion, but could you please clarify whether you're experiencing any new or worsening shortness of breath?",
-        "our_model": "I'm sorry, could you please repeat your response?"
-    }
-}

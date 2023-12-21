@@ -1,8 +1,0 @@
-{
-    "prompt_id": 470,
-    "prompt": "Nurse: I see, it's understandable that the frequent urination can disrupt your sleep. However, it's important to take Lasix as prescribed to manage your CHF symptoms. Would it be okay if I shared some strategies that might help you manage this better?\n\nPatient: Yes.\n\nNurse: One strategy could be to take your Lasix dose earlier in the day, if possible. This might help reduce the number of times you need to get up at night. However, it's important to discuss this with your doctor first. Would you like me to note this down for Doctor Van?\n\nPatient: Yes.\n\nNurse: I've noted down your concern about the Lasix disrupting your sleep and the suggestion to take it earlier in the day. I'll make sure Doctor Van is aware of this. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Sure.\n\nNurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: I have some shortness of breath. I",
-    "responses": {
-        "gpt4": "I appreciate you sharing that. It's important we keep tabs on this. Have you noticed ongoing or worsening chest pain?",
-        "our_model": "I'm sorry to hear that you're experiencing shortness of breath."
-    }
-}

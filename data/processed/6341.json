@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6341,
-    "prompt": "Nurse: HTN stands for hypertension, Mr. Gardner. It's another term for high blood pressure. The Valsartan you're taking helps manage both your CHF and HTN. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Why don't you just say high blood pressure instead of saying h t n?\n\nNurse: You're absolutely right, Mr. Gardner. I should have said high blood pressure instead of HTN. I apologize for any confusion. Do you ever have trouble remembering to take your medications on time?\n\nPatient: No.\n\nNurse: That's excellent, Mr. Gardner. You're doing a great job managing your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: So I had\n\nNurse: I'm sorry, Mr. Gardner, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: It said go ahead.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Gardner. How have you been experiencing any new or worsening shortness of breath with activity, while lying down or at rest?",
-        "our_model": "Thank you, Mr. Gardner. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?"
-    }
-}

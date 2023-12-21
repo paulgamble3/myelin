@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1082,
-    "prompt": "Nurse: Does the patient report becoming dizzy or lightheaded?\n\nPatient: I thought we were talking about my colonoscopy.\n\nNurse: Does the patient report trouble with balance or coordination?\n\nPatient: Hey, Rachel. What are you doing?\n\nNurse: Does the patient report their tongue is deviated?\n\nPatient: Rachel. Hey, Rachel. What are you doing?\n\nNurse: is deviated?\n\nPatient: Rachel. Are you there?",
-    "responses": {
-        "gpt4": "Are there any drooping corners of the mouth on the patient's face?",
-        "our_model": "Is the patient's tongue deviated?"
-    }
-}

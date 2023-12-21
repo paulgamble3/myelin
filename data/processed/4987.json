@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4987,
-    "prompt": "Nurse: I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Diet.\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. It sounds like you're following a Jain vegetarian diet, which includes fasting and dietary restrictions. Can you tell me more about the types of foods you typically eat in a day?\n\nPatient: I stick with vegetables,\n\nNurse: That's a great start, Mr. Hooper. Eating a variety of vegetables can provide a wide range of nutrients. Could you tell me more about the types of vegetables you enjoy?\n\nPatient: And some fruits, the vegetables cannot grow in the ground.\n\nNurse: Thank you for sharing that, Mr. Hooper. It's great that you're eating a variety of vegetables and fruits. Can you tell me more about the types of fruits and vegetables you usually have?\n\nPatient: You can't eat anything with a face?",
-    "responses": {
-        "gpt4": "That's an interesting way to describe a vegetarian diet, Mr. Hooper. It's great that you're committed to following your dietary guidelines. Do you incorporate any grains, legumes, or nuts into your meals?",
-        "our_model": "I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about the types of foods you typically eat?"
-    }
-}

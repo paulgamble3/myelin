@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2630,
-    "prompt": "Nurse: Great job, Ms. Cruz. Now, let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: So\n\nNurse: Wonderful, Ms. Cruz. Let's move on to the next medication. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Thank you.\n\nNurse: You're welcome, Ms. Cruz. Have you picked up your new prescription for Carvedilol 3.125 mg oral tablet?\n\nPatient: Yes.\n\nNurse: Okay, Ms. Cruz. For the Carvedilol, you should be taking 3.125 mg three times a day. Are you following this dosage?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "Great, Ms. Cruz. It's important to take your medications as prescribed. Now, let's move on to your diet. Are you following the recommended low salt diet?",
-        "our_model": "That's great to hear, Ms. Cruz. Now, let's discuss the last new medication. Have you picked up your new prescription for Hydrochlorothiazide 50 mg oral tablet?"
-    }
-}

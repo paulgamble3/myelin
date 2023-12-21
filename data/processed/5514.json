@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5514,
-    "prompt": "Nurse: is below I\n\nPatient: It's normal. It's perfect.\n\nNurse: apologize for I apologize for any confusion, Ms. Aguirre. Your blood pressure reading of 80 over 120 is within the normal range. It's great that you're keeping track of your blood pressure. Do you have any other questions or concerns?\n\nPatient: Do?\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat your question?\n\nPatient: Well, it wasn't really a question. It was more of a comment. I said, I do not, but seems like you do. That was the comment.\n\nNurse: I apologize for any confusion, Ms. Aguirre. I'm here to assist you and answer any questions you may have. Is there anything else you'd like to discuss regarding your health or any other concerns you have?\n\nPatient: No. I don't think so.",
-    "responses": {
-        "gpt4": "Alright, Ms. Aguirre. If you have any further questions or if there's anything else you'd like to discuss in the future, don't hesitate to reach out. Take care and enjoy your time at the theater!",
-        "our_model": "Alright, Ms. Aguirre. If you have any questions in the future, don't hesitate to ask. Thank you for taking the time to speak with me today. Enjoy your time at the theater and have a great day! ["
-    }
-}

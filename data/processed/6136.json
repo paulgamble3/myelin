@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6136,
-    "prompt": "Nurse: That's wonderful to hear. Walking is a great form of exercise. Now, let's discuss your type II diabetes. How have you been managing your blood sugar levels?\n\nPatient: Well, I told you, you know,\n\nNurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: About it.\n\nNurse: Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. It's critical to keep your blood sugar levels within a target range. Have you noticed any patterns or changes in your blood sugar levels?\n\nPatient: No.\n\nNurse: That's good to hear. Now, let's discuss your hypertension. How have you been managing your blood pressure?\n\nPatient: I don't know. I've been taking my",
-    "responses": {
-        "gpt4": "Taking your medications as prescribed is an important step in managing your blood pressure. That's great to hear. Have you noticed any changes in your blood pressure recently?",
-        "our_model": "That's great to hear. Taking your prescribed medications is an important part of managing hypertension. Have you noticed any changes in your blood pressure since you started taking your medications?"
-    }
-}

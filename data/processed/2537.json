@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2537,
-    "prompt": "Nurse: Of course, Mr. Oliver. Take your time.\n\nPatient: I'm trying to eat health there, and so I'm eating a lot of salads.\n\nNurse: That's a great choice, Mr. Oliver.\n\nPatient: And there's this really good dressing I like. It's wishbone a tiny\n\nNurse: I see, Mr. Oliver.\n\nPatient: solid dressing. And I just don't know how much sodium is in that dressing.\n\nNurse: I see, Mr. Oliver. It's great that you're eating salads and trying to be healthy. However, some salad dressings can be high in sodium. The Wish-Bone Tiny Tears Dressing, for example, has about 260 mg of sodium per serving, which is about 2 tablespoons. It's a good idea to check food labels for sodium content. Would you like more tips on how to reduce sodium in your diet?\n\nPatient: Oh, no. I think I'm I've got that down on always using you know, salt substitutes.",
-    "responses": {
-        "gpt4": "That's fantastic, Mr. Oliver. Using alternatives to sodium, like herbs, spices or vinegar can be a great way to add flavor without adding salt. Keep up the good work, and let me know if you have any other questions or concerns. Is there anything else you'd like to discuss today?",
-        "our_model": "That's excellent, Mr. Oliver."
-    }
-}

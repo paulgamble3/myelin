@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3297,
-    "prompt": "Nurse: Yes, Mr. Winner. Could you please share more about what you've been doing to prepare for your surgery?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you were saying?\n\nPatient: Yeah. I went to I went to Walmart, and to buy a grocery,\n\nNurse: I'm sorry, Mr. Winner, could you please repeat that?\n\nPatient: and I just\n\nNurse: I'm sorry, Mr. Winner, could you please repeat what you were saying?\n\nPatient: I wonder if you can make I wonder if you can make a shopping list grocery shopping list for me because I'm trying to eat healthier. But I don't know what to buy.",
-    "responses": {
-        "gpt4": "Absolutely, Mr. Winner. Optimal nutrition is key to a successful recovery. I will create a healthy grocery shopping list that includes high protein foods, fresh fruits and vegetables, and whole grains. Would you like some specific recipe suggestions as well?",
-        "our_model": "I see, Mr. Winner. It's great that you're thinking about your diet. I'm not able to provide a specific grocery list, but I can certainly give some general advice. Would that be helpful?"
-    }
-}

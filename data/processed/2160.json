@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2160,
-    "prompt": "Nurse: That's excellent to hear, Mr. Valenzuela. It's essential to have someone available to take you home after the procedure. I'm glad to hear that you've arranged that. Do you have any other questions or concerns about the day of your procedure?\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. That was all the topics for today. Before we end this call, do you have any other questions or concerns you'd like to discuss?\n\nPatient: [NO RESPONSE]\n\nNurse: I'm here to help, Mr. Valenzuela. If you have any questions or concerns, please feel free to share them.\n\nPatient: I don't have any\n\nNurse: Alright, Mr. Valenzuela. To summarize, we discussed your upcoming colonoscopy on August 13th at 9:00 AM with Doctor Meredith Bailey. We went over the dietary restrictions, your medications, and the bowel prep with the PLENVU laxative solution. You've also confirmed that you've arranged for a ride home after the procedure. Does that sound right?\n\nPatient: It sounds right.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Valenzuela. As we discussed, I will be calling you the day before your procedure to go over all the prep instructions step by step again. I'm here for you every step of the way. Please feel free to call me at this number if you have any concerns or questions: 641-381-6523. Is there anything else you need from me at this moment?",
-        "our_model": "Great, Mr. Valenzuela. I'm glad to hear that. Remember, I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you have any questions or concerns in the meantime, you can call us back at 641-381-6523. Does that sound good to you?"
-    }
-}

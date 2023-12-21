@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1852,
-    "prompt": "Nurse: That's great to hear, Ms. Odonnell. Now, let's move on to your next medication. You're also prescribed Lantus 100 IU/mL prefilled pen, with a dosage of 10 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Ms. Odonnell. Sticking to your medication schedule is crucial for managing your conditions. Now, let's discuss your Aspart 100 IU/mL prefilled pen. The prescribed dosage is 3 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful, Ms. Odonnell. It's important to take your medications as prescribed to manage your conditions effectively. Lastly, you're also taking Hydralazine 25 mg oral tablet, with a dosage of 25 mg four times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Odonnell. You're doing a fantastic job managing your medications. Remember, there are certain medications and supplements that aren't safe for CKD patients to take. It's essential to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Ms. Odonnell. Now, if it's okay, I'd like to ask about your recent meals. Could you share what you've eaten in the past couple of days?",
-        "our_model": "Alright, Ms. Odonnell. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

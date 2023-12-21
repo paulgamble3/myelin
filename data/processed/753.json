@@ -1,8 +1,0 @@
-{
-    "prompt_id": 753,
-    "prompt": "Nurse: I understand, Ms. Peck. It's okay to start slow. Could you tell me a bit more about what you're currently able to do?\n\nPatient: I don't have a lot of energy.\n\nNurse: I understand, Ms. Peck. It's essential to listen to your body and not push yourself too hard. However, regular physical activity can help manage your conditions. Would it be okay if I shared some gentle exercise recommendations with you?\n\nPatient: Yes.\n\nNurse: Wonderful, Ms. Peck. Walking is a wonderful low-impact exercise that can be very beneficial. Even a short walk around your home or yard can make a difference. If you're up to it, you could try to gradually increase the length of your walks. Always listen to your body and rest if you need to. Would you like more suggestions?\n\nPatient: No.\n\nNurse: Alright, Ms. Peck. If you ever have any questions or concerns about your exercise routine, don't hesitate to ask. I understand that adjusting diet and exercise can be hard. Do you have any questions or concerns about what we discussed?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Ms. Peck. I'll be sure to notify Dr. Rodriguez about our conversation today. Do you have any other questions or concerns you would like to discuss?",
-        "our_model": "Alright, Ms. Peck. I'll be sure to inform Doctor Rodriguez about our conversation and how you're doing. Before we end the call, do you have any other questions or concerns you'd like to discuss?"
-    }
-}

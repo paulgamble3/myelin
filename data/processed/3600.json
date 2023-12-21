@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3600,
-    "prompt": "Nurse: I understand, Mr. Benton. It's a new habit\n\nPatient: Tomorrow.\n\nNurse: That's a good start, Mr. Benton. Tomorrow, when you wake up, try to remember to check your blood sugar. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: I don't know.\n\nNurse: That's okay, Mr. Benton. It's important to keep track of your blood pressure. Can you recall the last time you checked it?\n\nPatient: No.\n\nNurse: That's alright, Mr. Benton. If you don't have a record of your last blood pressure measurement, it's a good idea to take it as soon as you can. Do you have a blood pressure cuff at home?\n\nPatient: I have done. My last",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Benton, I didn't catch that. Could you please repeat your last statement?",
-        "our_model": "I'm sorry, Mr. Benton, your last what?"
-    }
-}

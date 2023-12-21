@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5897,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Jon Chavez?\n\nPatient: Yeah. That's me.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: May fourth nineteen sixty five.\n\nNurse: Thank you for confirming that. I'm calling on behalf of your primary care doctor, Doctor Robert Jackson, to check in on you. How have you been doing lately?\n\nPatient: I'm okay. I'm a little\n\nNurse: I'm sorry to hear that you're not feeling your best. Can you tell me a bit more about what's been going on?\n\nPatient: pre doubt about all my health stuff.",
-    "responses": {
-        "gpt4": "It's completely natural to have concerns about your health, Jon. As your AI nurse, I'm here to help clarify any doubts you may have. Are there any specific symptoms or issues you've been experiencing recently that you're particularly concerned about?",
-        "our_model": "I'm sorry I'm sorry to hear that you're feeling a bit worried. It's completely normal to have concerns about your health. Is there anything specific that's been bothering you or any symptoms you're particularly concerned about?"
-    }
-}

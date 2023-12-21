@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6073,
-    "prompt": "Nurse: Absolutely. Lifestyle changes can indeed play a significant role in managing and slowing the progression of CKD. Would it be okay if we go over a few topics to check on how you're doing and discuss some strategies to manage your CKD?\n\nPatient: Okay.\n\nNurse: Great, thank you. Before we dive into that, is there anything you're looking forward to doing this week?\n\nPatient: Hi, Jeff. I'm just looking forward to spending time with my dog.\n\nNurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name and what do you usually enjoy doing together?\n\nPatient: Excellent.\n\nNurse: I'm sorry, Jon, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: We'd like to take walks.",
-    "responses": {
-        "gpt4": "That's great! Going for walks can be very therapeutic and beneficial for your overall health, including for slowing the progression of chronic kidney disease. Regular moderate exercise can help control blood pressure and lower cholesterol, which are both important to kidney health. Just make sure to keep hydrated and not to overexert yourself. Let's continue the discussion on other lifestyle changes that can help manage your CKD.",
-        "our_model": "That sounds like a great way to spend time. Walking is also a good form of exercise. What's your dog's name?"
-    }
-}

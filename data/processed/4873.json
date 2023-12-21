@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4873,
-    "prompt": "Nurse: I'm glad to hear that. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: Yes.\n\nNurse: Excellent. I see on your chart that you are currently taking Jardiance 25 mg two times a day, Hydrochlorothiazide 50 mg two times a day, Atorvastatin 20 mg once a day, and Ozempic 2 mg once a week. Have you been taking these medications as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Are you taking any other medications that we haven't discussed, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: I take Tylenol.\n\nNurse: I see. Tylenol is usually safe to continue taking, but it's always best to confirm with your doctor. I also notice that you've been prescribed Tylenol 1000 mg three times a day as needed, and Celebrex 100 mg two times a day as needed for after the procedure. Have you picked these up from the pharmacy yet?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, you've done well there. You'll need these medications for after the procedure to manage any discomfort you might feel. Have any questions come up about your medications?",
-        "our_model": "That's great, you're well-prepared. Do you have any questions about these medications or any other medications you're currently taking?"
-    }
-}

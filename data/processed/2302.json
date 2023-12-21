@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2302,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Shizu Kageyama?\n\nPatient: Yes.\n\nNurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March second nineteen fifty five.\n\nNurse: Thank you for confirming your date of birth, Mr. Kageyama. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time, Mr. Kageyama. How has your day been so far?\n\nPatient: I'm having a good day. Thank you.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're having a good day, Mr. Kageyama. Has there been a highlight to your day so far?",
-        "our_model": "I'm glad to hear that, Mr. Kageyama. Do you have any special plans for the day?"
-    }
-}

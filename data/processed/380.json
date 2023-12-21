@@ -1,8 +1,0 @@
-{
-    "prompt_id": 380,
-    "prompt": "Patient: Alright. Can we move on with the diet? I got it. Because it's been on and on. We kinda, like, stuck in the circle. So I'm ready to take this Ethan\n\nPatient: further,\n\nNurse: Of course, Mr. Koroleva. I apologize if it felt repetitive. Let's move on to the next topic.\n\nPatient: Hello? [NO RESPONSE]\n\nNurse: Of course, Mr. Koroleva. I'm glad to hear that you're ready to move forward. In addition to the changes in your diet, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It simplifies things a bit. Do you have any questions about why you need to stop these supplements or medications?\n\nPatient: We already talked about it earlier, so pretty clear on that.",
-    "responses": {
-        "gpt4": "Great, Mr. Koroleva. Sometimes it can get a bit confusing with all the different things to remember before a procedure, but it sounds like you have a good handle on things. Now, let's move onto a crucial aspect of your prep - the clear liquid diet and NuLYTELY laxative solution. These elements are often considered the most challenging part. Are you okay to discuss this now? How are you feeling about it?",
-        "our_model": "I'm glad to hear that you're clear on that, Mr. Koroleva. Now, I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

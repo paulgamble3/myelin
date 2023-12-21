@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5568,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: November twelfth nineteen sixty three.\n\nNurse: Thank you for confirming your date of birth. I'm calling about your upcoming colonoscopy on August 17 at 11:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: It's been fine.\n\nNurse: I'm glad to hear that. As you approach your colonoscopy date, how are you feeling about the procedure?\n\nPatient: I'm ready to get it over with.",
-    "responses": {
-        "gpt4": "It's commendable to see your readiness for the procedure. It can certainly be a lot to go through. I see from your chart that you're getting this colonoscopy due to pus and mucus in the stool. This procedure will hopefully provide you and your doctor with the answers you're looking for. Before we move forward, do you have any questions you'd like to go over now? You can also ask any questions at any time during our call.",
-        "our_model": "I can appreciate that sentiment. It's quite a process to go through, but it's important for your health. I see that you're getting this colonoscopy due to pus and mucus in your stool. How are you feeling about this?"
-    }
-}

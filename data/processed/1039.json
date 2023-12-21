@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1039,
-    "prompt": "Patient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No. I have not.\n\nNurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: Nope. I don't.\n\nNurse: Alright. Now, I'd like to talk about your diet. Can you tell me about your recent meals?\n\nPatient: I've been needing a lot of seamed vegetables, lot of whole grain of rice,\n\nPatient: Actually wanna ask though, what kind of diet I should be following?",
-    "responses": {
-        "gpt4": "It sounds like you're making healthy choices with steamed vegetables and whole grains. To help manage your conditions, the doctor recommends a cardiac and renal diet. This diet emphasizes foods with low sodium, low fat, and low cholesterol, combined with a moderate protein intake. Foods should also be low in potassium and phosphorus as they can burden your kidneys. Can I share some more specific recommendations?",
-        "our_model": "I'm glad you asked. Given your conditions, you're on a cardiac and renal diet. This means you should focus on foods that are low in sodium, potassium, and phosphorus. It's also important to limit your fluid intake. Would you like me to share some specific dietary recommendations?"
-    }
-}

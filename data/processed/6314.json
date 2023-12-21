@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6314,
-    "prompt": "Nurse: Alright, Mr. Alves. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Alves. It's critical to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?\n\nPatient: No. I haven't.\n\nNurse: That's okay, Mr. Alves. You still have time to arrange a ride home after your procedure. It's essential to have someone available to pick you up when the hospital calls. Do you have any family or friends who could help with this?\n\nPatient: I'll think about it. I still have how many days, seven days a week. Right?\n\nNurse: Yes, Mr. Alves, you have a week to arrange a ride home after your procedure. It's important to have someone on standby to pick you up when the hospital calls. Do you have any other questions or concerns about this or is there anything else you'd like to discuss?\n\nPatient: I think I'm okay.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Alves. Feel free to reach out if you come up with any more questions or concerns. So, just to summarize, we've gone through all the steps to prepare for your colonoscopy, from logistics to diet, medication, and the bowel prep. You also said you'll work on arranging a ride home after your procedure. Does that sound right to you?",
-        "our_model": "Alright, Mr. Alves. I'm glad to hear that you're feeling okay. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

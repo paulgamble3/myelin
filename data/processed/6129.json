@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6129,
-    "prompt": "Nurse: I'm sorry, Jon, you were saying?\n\nPatient: string beans for dinner.\n\nNurse: Thank you for sharing that. It sounds like you're making an effort to include a variety of foods in your diet. I noticed that you had pizza for lunch. Pizza can sometimes be high in sodium. Would it be okay if I provide some suggestions on how to manage your sodium intake?\n\nPatient: Okay.\n\nNurse: Okay. One strategy is to choose foods that are low in sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also a good idea to limit processed foods, which often contain high amounts of sodium. What do you think about this suggestion?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that. Now, let's move on to discuss your\n\nPatient: I could try it.",
-    "responses": {
-        "gpt4": "That's excellent to hear, Jon. Making small changes in your diet can have a big impact on your overall health. Now, I just want to circle back to your chronic conditions. How have you been managing your coronary artery disease (CAD)?",
-        "our_model": "phosphorus intake. That's great to hear. Remember, small changes can make a big difference. Now, let's move on to discuss your other chronic conditions. How have you been managing your coronary artery disease (CAD)?"
-    }
-}

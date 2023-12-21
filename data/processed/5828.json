@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5828,
-    "prompt": "Nurse: Yes, that's correct. During this preparation period, it's best to avoid high-fiber foods like fruits. However, this is a rare time when doctors want their patients to be eating low fiber comfort foods. So, enjoy your yogurt as it is. Do you have any other questions about the diet or any other foods you're wondering about?\n\nPatient: Nope.\n\nNurse: Alright. Let's move on to the topic of supplements. You will need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear. It's important to avoid those supplements and medications before a colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: Thank you.\n\nNurse: You're welcome. Now, I'd like to move onto the instructions for the clear liquid diet and PLENVU laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Thanks.",
-    "responses": {
-        "gpt4": "You're welcome. Now, I'd like to transition to the clear liquid diet and PLEVNU laxative phase, which will be 24 hours before your procedure. This is often the most challenging part for my patients. How are you feeling about this part of the preparation?",
-        "our_model": "Of course. How are you feeling about this part of the preparation?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 222,
-    "prompt": "Patient: Oh, well,\n\nPatient: for lunch, I had\n\nNurse: I'm sorry, Ms. Aguirre, your response got cut off. Could you please repeat what you had for lunch?\n\nPatient: A salad with some tuna\n\nNurse: That sounds like a healthy choice, Ms. Aguirre. Salads can be a great way to incorporate a variety of vegetables into your diet. For the tuna, did you have it canned in water or oil?\n\nPatient: Yeah. For for breakfast, I had\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your breakfast?\n\nPatient: some oatmeal and some fruit.",
-    "responses": {
-        "gpt4": "You're making really good choices, Ms. Aguirre. Oatmeal is a great choice for breakfast as it's high in fiber, and fruit is full of essential vitamins. Just be mindful of portion sizes, especially with fruit, as they can be high in sugar. What fruit did you have with your oatmeal?",
-        "our_model": "That's another good choice, Ms. Aguirre. Oatmeal is a whole grain and can be a good source of fiber. Fruits are also a great source of vitamins and minerals. Do you mind if I provide some suggestions to further optimize your diet?"
-    }
-}

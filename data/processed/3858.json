@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3858,
-    "prompt": "Nurse: That's great to hear. Could you please share your last blood sugar reading at home?\n\nPatient: It was one twelve\n\nNurse: Thank you for sharing that. It's essential to keep your blood sugar levels in check. If you're open to it, I can provide some recommendations to help manage your blood sugar levels. Would that be alright?\n\nPatient: Sure.\n\nNurse: Wonderful. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Another strategy is regular physical activity. This doesn't necessarily mean going to the gym, it could be as simple as a daily walk. Lastly, taking your prescribed medications as directed is crucial. Do these suggestions sound manageable to you?\n\nPatient: Yeah. They do.\n\nNurse: I'm glad to hear that. Now, let's talk about your blood pressure. When was the last time you took your blood pressure measurement, and what was the result?\n\nPatient: It was ninety over one twenty.",
-    "responses": {
-        "gpt4": "Thank you for sharing. That's within a generally healthy range. Keeping an eye on blood pressure is important, considering your conditions. If it's been more than a day since your last measurement, would you mind telling me why?",
-        "our_model": "Thank you for sharing that. It's critical to keep your blood pressure under control. If you're open to it, I can share some suggestions to help manage your blood pressure. Would that be alright?"
-    }
-}

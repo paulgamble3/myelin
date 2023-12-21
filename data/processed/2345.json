@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2345,
-    "prompt": "Patient: And\n\nNurse: I'm sorry, Mr. Ponce, I didn't quite catch that.\n\nPatient: Let me check it.\n\nNurse: Of course, Mr. Ponce. Take your time. I'd like to get a good idea of your regular diet.\n\nPatient: I have chickens and veggies.\n\nNurse: Thank you for sharing that, Mr. Ponce. It's great that you're including vegetables in your meals. Can you tell me more about the types of vegetables you usually have and how you prepare them?\n\nPatient: I started the veggies.\n\nPatient: With olive oil.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Ponce, I couldn't quite understand that. Could you please repeat what you said?",
-        "our_model": "That's a healthy choice, Mr. Ponce. Olive oil is a good source of monounsaturated fats. Now, I'd like to remind you of your dietary recommendations. You're on a fluid restriction of 2 liters per day. This includes all fluids, not just water. Are you aware of this?"
-    }
-}

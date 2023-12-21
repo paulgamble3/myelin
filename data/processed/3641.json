@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3641,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Aileen Ware?\n\nPatient: Yep.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: Fine.\n\nNurse: That's good to hear. It must be a relief to be back in your own space. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I mean, not really. I'm a little I'm a little uncomfortable. So I I'm just getting by.\n\nNurse: I'm sorry to hear that you're feeling uncomfortable. It's quite common to need some time to adjust after a hospital stay. On a lighter note, do you have any hobbies or interests that you enjoy?\n\nPatient: No. None of your business.",
-    "responses": {
-        "gpt4": "I understand. I'm here to assist you with your health needs on behalf of Dr. Sarah Forbes. I have some topics to address with you regarding your health. Is there anything specific you'd like to discuss before we proceed with our list?",
-        "our_model": "I apologize if I seemed intrusive. I'm here to help you with your health. I'm calling on behalf of Doctor Sarah Forbes. Do you have any questions or concerns you'd like to address before we go through a few topics?"
-    }
-}

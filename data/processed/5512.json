@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5512,
-    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. Your blood pressure reading is a bit high. Would it be okay if I provide some suggestions to help manage your blood pressure?\n\nPatient: Is it high? It's eighty over one twenty.\n\nNurse: Yes, Ms. Aguirre, a blood pressure reading of 120/80 is considered high. The ideal blood pressure for most people\n\nPatient: Why is it high?\n\nNurse: is below I\n\nPatient: It's normal. It's perfect.\n\nNurse: apologize for I apologize for any confusion, Ms. Aguirre. Your blood pressure reading of 80 over 120 is within the normal range. It's great that you're keeping track of your blood pressure. Do you have any other questions or concerns?\n\nPatient: Do?",
-    "responses": {
-        "gpt4": "I apologize for any confusion, Ms. Aguirre. Your blood pressure reading of 120 over 80 is within the normal range. It's good to keep track of your blood pressure this way. Do you have any other questions or concerns?",
-        "our_model": "I'm sorry, Ms. Aguirre, could you please repeat your question?"
-    }
-}

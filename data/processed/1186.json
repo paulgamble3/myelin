@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1186,
-    "prompt": "Nurse: I apologize for any confusion. Could you please provide the month, day, and year of your birthday?\n\nPatient: March fourteenth nineteen sixty eight.\n\nNurse: Thank you for confirming your date of birth, Mr. Dang. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Yes.\n\nNurse: Excellent, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Dang. As we move forward, I'd like to know how you're feeling about your upcoming colonoscopy procedure. [\n\nPatient: I'm feeling good about it.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're feeling positive about the upcoming procedure, Mr. Dang. Dr. Meredith Bailey, your gastroenterologist, has performed over 1500 colonoscopies and is highly experienced. I see from your records that you're having this colonoscopy due to unexplained abdominal pain. Is that correct?",
-        "our_model": "That's great to hear, Mr. Dang. It's critical to approach these procedures with a positive attitude. Do you have any questions or concerns you'd like to discuss before we begin?"
-    }
-}

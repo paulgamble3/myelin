@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2324,
-    "prompt": "Nurse: I'm sorry to hear that you're feeling frustrated, Mr. Ponce. It's completely normal to have mixed feelings after a hospital stay. Is there anything specific that's bothering you or any concerns you'd like to discuss before we go over a few topics related to your health?\n\nPatient: Well,\n\nNurse: Yes, Mr. Ponce?\n\nPatient: I just noticed that I'm paying way\n\nNurse: I'm sorry, Mr. Ponce, could you please repeat what you just said?\n\nPatient: Yes. I've just noticed that I can wait today.\n\nNurse: I see, Mr. Ponce.\n\nPatient: Hang up.",
-    "responses": {
-        "gpt4": "Of course, Mr. Ponce. We can continue this conversation at another time when it's more convenient for you. Take care!",
-        "our_model": "I'm sorry for any confusion, Mr. Ponce. I'm here to help you with your health-related concerns."
-    }
-}

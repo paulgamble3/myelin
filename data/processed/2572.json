@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2572,
-    "prompt": "Nurse: I'm sorry, Alex, I didn't quite catch that. Could you please repeat how you've been feeling lately?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Just spending time with my family.\n\nNurse: That sounds lovely. Family time is always special. Are there any specific activities you enjoy doing with your family?\n\nPatient: Cooking, making cookies, but then\n\nNurse: Cooking and baking cookies sounds like a wonderful way to spend time with your family. Do you have a favorite type of cookie you like to make?\n\nPatient: love to bake.",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite get that. Could you please repeat your favourite type of cookie that you like to bake?",
-        "our_model": "I'm sorry, Alex, I didn't quite catch that. Could you please repeat what you enjoy doing with your family?"
-    }
-}

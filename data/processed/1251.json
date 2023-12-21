@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1251,
-    "prompt": "Nurse: I'm sorry, Ms. Raynier, could you please repeat that?\n\nPatient: Oh, sorry. I normally take Advent Adventville, but not at the moment.\n\nNurse: I see, Ms. Raynier. You're currently not taking Albuterol for your asthma, correct?\n\nPatient: I don't have asthma.\n\nNurse: My apologies for misunderstanding, Ms. Raynier. I see that you've been prescribed Tylenol and Tramadol for after the procedure. Have you picked up these medications from the pharmacy yet?\n\nPatient: Yes.\n\nNurse: I apologize for the confusion earlier, Ms. Raynier. I thought you mentioned Advent Adventville, which I couldn't find in our records. Could you please clarify which medication you were referring to?\n\nPatient: In.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Raynier. Could you please clarify your last statement? It seems like there was a minor communication issue.",
-        "our_model": "I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat which medication you were referring to earlier?"
-    }
-}

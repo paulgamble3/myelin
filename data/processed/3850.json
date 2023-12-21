@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3850,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Alex Gates?\n\nPatient: Yeah. That's me.\n\nNurse: Great. I'm calling on behalf of your primary care doctor, Doctor Jami Wyatt, to check in on you. How have you been doing lately?\n\nPatient: I'm I'm doing okay.\n\nNurse: I'm glad to hear that you're doing okay. Is there anything you're looking forward to doing this week?\n\nPatient: Maybe I'll meet up with some friends or something. Nothing specific, though.",
-    "responses": {
-        "gpt4": "Meeting up with friends sounds like a wonderful idea. It's always good to spend time with people that make you happy. Do you usually catch up with your friends at a particular place or you just go with the flow?",
-        "our_model": "That sounds like a nice plan. It's always good to spend time with friends. Do you usually meet at a specific place or do you prefer to try out new places each time?"
-    }
-}

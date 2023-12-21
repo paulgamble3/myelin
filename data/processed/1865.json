@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1865,
-    "prompt": "Nurse: Thank you for sharing that, Ms. Odonnell. Shrimp tacos can be a part of a balanced diet, but it's important to be mindful of the sodium content, especially in the tortillas and any sauces or seasonings used. Would it be alright if I provide some suggestions on how to make your meals healthier?\n\nPatient: Okay.\n\nNurse: Thank you, Ms. Odonnell. One suggestion is to use low-sodium tortillas and fillings. You could also try to limit the amount of sauces and seasonings, as they often contain added sodium. What do you think about these suggestions?\n\nPatient: That sounds good.\n\nNurse: I'm glad to hear that, Ms. Odonnell. Remember, small changes can make a big difference. Now, let's discuss your carbohydrate intake. It's recommended to limit carbohydrates to 130 grams per day. Could you tell me about some of the meals you've had recently?\n\nPatient: Just\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say any French.",
-    "responses": {
-        "gpt4": "I'm sorry for any confusion, Ms. Odonnell. Could you tell me what you typically eat in a day, particularly focusing on meals that contain carbohydrates? This would include breads, pastas, grains, fruits, vegetables, and sweets.",
-        "our_model": "I apologize for the confusion, Ms. Odonnell. I was asking about your carbohydrate intake. It's recommended to limit your intake to 130 grams per day. Could you tell me about some of the meals you've had recently?"
-    }
-}

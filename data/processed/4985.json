@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4985,
-    "prompt": "Nurse: I appreciate your dedication to your diet, Mr. Hooper. Could you please tell me a bit more about what you typically eat in a day?\n\nPatient: Can you tell me what foods I can eat when you put together the cardiac diet for c h f\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: and the Jane\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. Could you please repeat what you said about your diet?\n\nPatient: Diet.\n\nNurse: I apologize for any confusion earlier, Mr. Hooper. It sounds like you're following a Jain vegetarian diet, which includes fasting and dietary restrictions. Can you tell me more about the types of foods you typically eat in a day?\n\nPatient: I stick with vegetables,",
-    "responses": {
-        "gpt4": "That sounds like a healthy choice, Mr. Hooper. Can you tell me more about the types of vegetables you typically include in your diet?",
-        "our_model": "That's a great start, Mr. Hooper. Eating a variety of vegetables can provide a wide range of nutrients. Could you tell me more about the types of vegetables you enjoy?"
-    }
-}

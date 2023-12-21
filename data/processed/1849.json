@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1849,
-    "prompt": "Nurse: I'm glad to hear that, Ms. Odonnell. Another suggestion is to maintain a healthy weight. Regular physical activity, like your Zumba classes, can help with this. Do you think you could try to incorporate these suggestions into your lifestyle?\n\nPatient: Yes.\n\nNurse: That's wonderful, Ms. Odonnell. Remember, every little bit helps when it comes to managing blood pressure. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: No.\n\nNurse: Alright, Ms. Odonnell. If you ever have any questions about your lab results, don't hesitate to ask. Now, let's discuss your medications. You're currently taking Apixaban 5 mg oral tablet, 10 mg once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Odonnell. Now, let's move on to your next medication. You're also prescribed Lantus 100 IU/mL prefilled pen, with a dosage of 10 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "That's wonderful, Ms. Odonnell. Regular medication can significantly help manage your conditions. Let's proceed to the next one. You have been prescribed Aspart 100 IU/mL prefilled pen with a dosage of 3 units three times a day. Have you been taking this medication as prescribed?",
-        "our_model": "That's excellent, Ms. Odonnell. Sticking to your medication schedule is crucial for managing your conditions. Now, let's discuss your Aspart 100 IU/mL prefilled pen. The prescribed dosage is 3 units three times a day. Have you been taking this medication as prescribed?"
-    }
-}

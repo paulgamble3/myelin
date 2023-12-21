@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4104,
-    "prompt": "Nurse: Great. For breakfast, you might consider having oatmeal with a sprinkle of cinnamon and a side of fresh berries. For lunch, a salad with grilled chicken, a variety of colorful vegetables, and a light vinaigrette could be a good option. For dinner, you might enjoy a lean protein like grilled fish with a side of steamed vegetables and brown rice. Snacks could include fresh fruits or unsalted nuts. Remember, it's important to limit foods high in sodium, potassium, and phosphorus. Do you think these suggestions could work for you?\n\nPatient: Yes.\n\nNurse: That's wonderful to hear. Remember, it's always important to consult with your doctor or a dietitian before making any major changes to your diet. Now, let's discuss your back surgeries. How has your recovery been going?\n\nPatient: It's it's it's better for sure.\n\nNurse: I'm glad to hear that your recovery is progressing. Are you experiencing any pain or discomfort, and are you able to move around as you were before the surgeries?\n\nPatient: I'm not experiencing any pain, and I have definitely gotten back to my old activities.\n\nNurse: That's excellent news. It's important to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. It's [NO RESPONSE]",
-    "responses": {
-        "gpt4": "I understand. Smoking can be a challenging habit to break. Have you ever thought about quitting smoking?",
-        "our_model": "I appreciate your honesty. It's a big step to acknowledge that you smoke. Have you ever considered quitting smoking?"
-    }
-}

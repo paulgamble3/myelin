@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2120,
-    "prompt": "Nurse: I appreciate your honesty. Quitting smoking is a big step, and it's not always easy. Have you ever considered quitting?\n\nPatient: No.\n\nNurse: I understand. Quitting smoking is a personal decision and it's important to do it when you're ready. Can you share why you're not ready to quit at this time?\n\nPatient: I just don't see the need in it. I really like it for stress, especially now that I'm not, you know, drinking.\n\nNurse: I understand that smoking can be a way to cope with stress. However, it's important to remember that it can also have negative effects on your health, especially with your existing conditions. If you ever decide you're ready to quit, there are many resources available to help. Would you like me to share some of these resources with you?\n\nPatient: Not right now.\n\nNurse: That's perfectly fine. Remember, if you ever change your mind, there are many resources available to help you quit smoking. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: Can we talk about my lab?",
-    "responses": {
-        "gpt4": "Absolutely. I see from the notes your sodium is within range at 139 mEq/L, and your potassium is also within range at 3.9 mEq/L. Would you like me to continue with the other lab results or is there one in particular you're concerned about?",
-        "our_model": "Of course. Could you specify which lab results you'd like to discuss?"
-    }
-}

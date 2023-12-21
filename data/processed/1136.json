@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1136,
-    "prompt": "Nurse: It sounds like your dog is a very important part of your life, Mr. Cardenas. What's your dog's name and what breed is he or she?\n\nPatient: My dog's name is Rocky, and he is a doberman.\n\nNurse: Rocky sounds like a wonderful companion, Mr. Cardenas. Dobermans are known for their loyalty. Now, I have a few topics to cover with you on behalf of Doctor Rodriguez. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No. I can't really think of any right now.\n\nNurse: Alright, Mr. Cardenas. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Rodriguez?\n\nPatient: Yes. I am.\n\nNurse: That's great to hear, Mr. Cardenas. It's critical to take your medications as prescribed to manage your CHF. Now, I understand that sometimes it can be challenging to remember to take medications on time. Do you ever have trouble taking your medication on time?\n\nPatient: No. Not really. It's pretty easy since",
-    "responses": {
-        "gpt4": "That's excellent to hear! Staying consistent with your medication is important for your health. Would it be okay to move on to discussing your symptoms now, Mr. Cardenas?",
-        "our_model": "That's excellent, Mr. Cardenas. You're doing a great job managing your medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to understand how"
-    }
-}

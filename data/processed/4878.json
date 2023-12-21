@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4878,
-    "prompt": "Nurse: Yes?\n\nPatient: I stopped my aspirin Because I thought I needed to stop taking that prior to the procedure. Is that correct?\n\nNurse: Yes, that's correct. It's generally recommended to stop taking Aspirin about 7 days before the procedure. It's good to hear that you've already stopped. Is there anything else you're unsure about regarding your medications?\n\nPatient: I don't think so.\n\nNurse: Alright, if any questions come up later, don't hesitate to ask. Now, let's move on to the next topic, which is about preparing your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?\n\nPatient: Yes.\n\nNurse: That's great, you're ahead of the game. The chlorhexidine scrub is used to clean your skin and reduce the risk of infection. You'll need to use it the night before and the morning of your procedure. Let's go over the instructions one by one. First, you'll take a shower like normal then turn the water off. Does that sound good so far?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Excellent. After the normal shower, you'll then apply the chlorhexidine scrub to a wet, clean washcloth. You should gently scrub yourself from the neck down. However, please avoid using the scrub on your face, hair, or crotch area. Will you be able to do that?",
-        "our_model": "Perfect. After your shower, you'll want to apply the scrub to a wet, clean washcloth and gently scrub yourself from the neck down. It's essential to avoid using the scrub on your face, hair, or crotch area. Can you do that?"
-    }
-}

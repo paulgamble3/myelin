@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1827,
-    "prompt": "Nurse: Thank you. Could you please provide your date of birth for verification purposes?\n\nPatient: Three two nineteen sixty.\n\nNurse: Thank you for confirming, Ms. Odonnell. I'm calling on behalf of your primary care doctor, Doctor Susan Ma, to check in on you. How have you been doing lately?\n\nPatient: Oh, I'm feeling okay.\n\nNurse: I'm glad to hear that you're feeling okay, Ms. Odonnell. Is there anything you're looking forward to doing this week?\n\nPatient: I am going to\n\nNurse: I'm sorry, Ms. Odonnell, you were saying something about your plans for this week?\n\nPatient: I am going to take a Zomba class.",
-    "responses": {
-        "gpt4": "That sounds exciting, Ms. Odonnell! Dancing in a Zumba class must be a lot of fun. How long have you been participating in Zumba classes?",
-        "our_model": "That sounds like a fun and active way to spend your time, Ms. Odonnell. How long have you been taking Zumba classes?"
-    }
-}

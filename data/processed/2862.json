@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2862,
-    "prompt": "Nurse: I'm glad to hear that you're doing well. Is there anything you're looking forward to doing this week?\n\nPatient: She's resting and staying at home.\n\nNurse: That sounds like a good plan. Resting and staying at home can be very beneficial for your health. Do you have any hobbies or activities that you enjoy doing at home?\n\nPatient: Yes. I'd like to organize and clean.\n\nNurse: That's wonderful. Organizing and cleaning can be very therapeutic. Do you have a particular system or routine that you follow when you're organizing your space?\n\nPatient: Well,\n\nNurse: Yes?\n\nPatient: I don't have a system, but I love to play music while I'm doing that.",
-    "responses": {
-        "gpt4": "That sounds like fun. Music can greatly enhance the cleaning and organizing experience. Have a great time doing it and take care, Ola.",
-        "our_model": "That sounds lovely. Music can certainly make any task more enjoyable. Do you have a favorite type of music or artist that you like to listen to while you're cleaning?"
-    }
-}

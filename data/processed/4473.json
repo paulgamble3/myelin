@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4473,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Delarosa. I understand that you have CHF and asthma. Now, let's discuss your dietary recommendations. Is it okay if I share them with you?\n\nPatient: I have high blood pressure, and this call is making that high blood pressure sure where.\n\nNurse: I'm sorry I'm sorry for any confusion, Mr. Delarosa. I understand that managing multiple health conditions can be challenging. I'm here to help you understand your dietary recommendations. Would it be okay if I shared some information about this?\n\nPatient: Yeah. I was asking you about the fluid\n\nNurse: I\n\nPatient: striction. I hate\n\nNurse: apologize for\n\nPatient: having to monitor that.",
-    "responses": {
-        "gpt4": "I understand your concern, Mr. Delarosa. Managing a low-sodium diet can indeed be challenging, but it is crucial in managing your conditions. Would you like some guidance or tips on how to make it more manageable?",
-        "our_model": "I understand, I understand your frustration, Mr. Delarosa. Monitoring fluid intake can be challenging. However, it's an important part of managing your CHF. Would it be okay if I shared some tips on how to manage your fluid intake?"
-    }
-}

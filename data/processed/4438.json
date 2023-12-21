@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4438,
-    "prompt": "Nurse: I apologize for the confusion earlier, Mr. Delarosa. I understand that you've picked up your Metoprolol 25 mg oral tablets. The prescribed dosage is 12.5 mg once a day, which may require splitting the 25 mg tablet in half. Have you been taking it as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Mr. Delarosa. Taking your medication as prescribed is crucial for managing your conditions. Now, let's briefly discuss your existing medications. Are you still taking Hydrochlorothiazide, Albuterol inhaler, and Fluticasone?\n\nPatient: You mean fluticasone?\n\nNurse: Yes, I apologize for the confusion, Mr. Delarosa. I meant to ask about Fluticasone. Are you still taking it along with Hydrochlorothiazide and Albuterol inhaler?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear, Mr. Delarosa. It's essential to continue taking your existing medications as prescribed. I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Apologies for any confusion earlier, Mr. Delarosa. I was asking if you ever find it difficult to remember to take your medications on time? It's okay if sometimes you do; this is a common issue for many people.",
-        "our_model": "Yes, Mr. Delarosa. I was asking if you ever have trouble remembering to take your medications on time. It's quite common and there are strategies to help with that. Would it be okay if I shared some suggestions?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3615,
-    "prompt": "Patient: Yeah.\n\nNurse: That's great to hear, Mr. Benton. Taking your medication as prescribed is crucial for managing your conditions. Now, let's discuss the next medication. You're also prescribed Ferrous sulfate 45 mg oral tablet, with a dosage of 45 mg three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah.\n\nNurse: That's excellent, Mr. Benton. It's essential to take your medications as prescribed to manage your anemia. Lastly, you're prescribed Renvela 400 mg oral tablet, with a dosage of 800 mg three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah.\n\nNurse: That's wonderful, Mr. Benton. You're doing a great job managing your medications. Remember, it's important to take them as prescribed to manage your kidney disease. Now, let's talk about your diet. Can you tell me about some of the meals you've had recently?\n\nPatient: Well, I guess that I'm on the dash diet.\n\nPatient: It's a lot of low salt stuff.",
-    "responses": {
-        "gpt4": "That's fantastic to hear, Mr. Benton. The DASH diet, which focuses on fruits, vegetables, and lean proteins, is a great choice for managing both hypertension and kidney disease. Can you share with me some of your favorite meals or snacks from this diet?",
-        "our_model": "That's excellent, Mr. Benton. The DASH diet is indeed a good choice for managing your conditions. Can you share a specific meal you've had recently?"
-    }
-}

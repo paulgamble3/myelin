@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2946,
-    "prompt": "Nurse: Yes, I'm here, Ms. McKloskey. Do you have any questions about the chlorhexidine scrub or the instructions I just provided?\n\nPatient: No. I don't think so.\n\nNurse: Alright, Ms. McKloskey. Just to reiterate, you need to do this the night before and the morning of the procedure. Can you remember to do that?\n\nPatient: Yes.\n\nNurse: Great, Ms. McKloskey. Now, let's discuss when to stop eating and drinking before your procedure. You cannot eat or drink anything after midnight before your procedure. This is very important for your safety during the procedure. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright, Ms. McKloskey. If any questions come up later, don't hesitate to ask. Now, I know I've shared a lot of information with you, but we're almost done. I have a couple more questions for you. Before we proceed, do you have any questions or is there anything you'd like to discuss?\n\nPatient: No. I do not have any questions at this juncture.",
-    "responses": {
-        "gpt4": "Understood, Ms. McKloskey. We'll continue to the next topic then. At the moment, are you experiencing any signs of illness like fever, chills, or muscle aches? It's important to recognize any potential problems prior to surgery.",
-        "our_model": "Alright, Ms. McKloskey. Let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 286,
-    "prompt": "Nurse: Hello Damian, I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso, to check in on you. How have you been doing lately?\n\nPatient: Fine. What do you want?\n\nNurse: I'm glad to hear you're doing fine. I'm here to discuss a few topics related to your health. Before we dive into that, is there anything you're looking forward to doing this week?\n\nPatient: No. I'm not. Actually, I'm gonna have a terrible week.\n\nNurse: I'm sorry to hear that.\n\nPatient: Because everything's terrible. And, yeah, it sucks out here.\n\nNurse: I'm sorry to hear that you're having a tough time.\n\nPatient: Now what do you need from me? Okay. Let's let's get down to the",
-    "responses": {
-        "gpt4": "I'm here to check in on you about your chronic kidney disease. Is there any particular symptom or concern that has been bothering you lately?",
-        "our_model": "I'm sorry to hear that you're having a tough time. If you feel comfortable, would you like to share more about what's been difficult for you lately?"
-    }
-}

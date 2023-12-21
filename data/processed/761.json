@@ -1,8 +1,0 @@
-{
-    "prompt_id": 761,
-    "prompt": "Nurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Hello?\n\nNurse: Hello, Ms. Aguirre. I was asking how you've been doing lately. Can you hear me?\n\nPatient: I'm doing alright, I guess, considering everything.\n\nNurse: I'm glad to hear that you're doing alright, Ms. Aguirre. It's important to focus on the positive aspects, even when dealing with health challenges. Is there anything you're looking forward to doing this week?\n\nPatient: Oh, well, my\n\nNurse: I'm sorry, Ms. Aguirre, you were saying something about your plans for this week?\n\nPatient: my mother's gonna come over later this week.",
-    "responses": {
-        "gpt4": "That sounds lovely, having your mother come over! Is she coming for a special occasion, or does she visit regularly?",
-        "our_model": "That sounds lovely, Ms. Aguirre. It's always nice to spend time with family. How often do you get to see your mother?"
-    }
-}

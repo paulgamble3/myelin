@@ -1,8 +1,0 @@
-{
-    "prompt_id": 367,
-    "prompt": "Nurse: Great, Mr. Koroleva. I see on your chart that you're currently taking Xarelto 10 mg once a day. For your colonoscopy, you'll need to stop taking Xarelto 5 days before the procedure. That means you should stop taking it on August 12. Do you have any questions about this medication change?\n\nPatient: Oh, yeah. Why do I need to stop it?\n\nNurse: That's a great question, Mr. Koroleva. Xarelto is a type of blood thinner, and it's important to stop it before your colonoscopy to reduce the risk of bleeding during the procedure. Does that help clarify things?\n\nPatient: Oh, yeah. Of course, I don't want to I don't wanna bleed during the procedure. So Thank you. Yeah.\n\nNurse: Absolutely, Mr. Koroleva. Your safety is our top priority. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: Sometimes for the headache,\n\nNurse: I see, Mr. Koroleva. If you're taking Advil or Aspirin for your headaches, it's important to stop these medications before your colonoscopy as well. They are also blood thinners and can increase the risk of bleeding during the procedure. Do you have any questions about this?\n\nPatient: No. But I had no idea. Thank you.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Koroleva. It's important to be aware of these details. Is there anything else you'd like to know about your medications before we move on?",
-        "our_model": "You're welcome, Mr. Koroleva. It's critical to be aware of all the medications you're taking, especially before a procedure. Do you have any other questions about medications?"
-    }
-}

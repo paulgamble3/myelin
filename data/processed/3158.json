@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3158,
-    "prompt": "Nurse: You're very welcome, Mr. Valenzuela. I'm glad I could assist. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I do not have any questions.\n\nNurse: Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry, Mr. Valenzuela. Could you please clarify your response?\n\nPatient: No. I haven't.\n\nNurse: I'm sorry for the confusion, Mr. Valenzuela. I was asking if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches.\n\nPatient: Yeah. I said, no. I haven't.",
-    "responses": {
-        "gpt4": "I see, Mr. Valenzuela. My apologies for any confusion. I'm glad to hear that you're feeling well. This is very important as we wouldn't want to proceed with the colonoscopy if you were ill. Now, let's transition to the last question for today. Have you arranged for a ride home after the procedure?",
-        "our_model": "Thank you for clarifying, Mr. Valenzuela. It's critical to monitor for any signs of illness leading up to your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

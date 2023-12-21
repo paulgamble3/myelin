@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5295,
-    "prompt": "Nurse: Alright, Ms. Rivers. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yeah. I I did smoke.\n\nNurse: Thank you for sharing that, Ms. Rivers. I know it's not easy to talk about, but it's an important part of managing your health. Have you ever considered quitting smoking?\n\nPatient: I'm not really up for quitting right now.\n\nNurse: I appreciate your honesty, Ms. Rivers. Quitting smoking is a big decision and it's important to do it when you're ready. Could you share why you feel you're not ready to quit at this time?\n\nPatient: Well, we all have our devices. Don't wait in the is something that I enjoyed doing. So how did I like\n\nNurse: I understand, Ms. Rivers. Smoking can be a tough habit to break, especially when it's something you enjoy. If you ever decide you're ready to quit, there are many resources available to help you. Would you like me to share some of these resources with you?\n\nPatient: No. Thanks.",
-    "responses": {
-        "gpt4": "That's completely fine, Ms. Rivers. Remember, the decision to quit smoking is yours to make, and we're here to support you should you choose to do so. If there's ever a time in the future where you would like to access resources or support, please don't hesitate to ask. Moving on, is there anything else you'd like to discuss regarding your health or any concerns you may have?",
-        "our_model": "That's perfectly fine, Ms. Rivers. If you ever change your mind, please don't hesitate to ask. I'm here to support you. Now, that was all the topics for today. Do you have any other questions or concerns you'd like to discuss?"
-    }
-}

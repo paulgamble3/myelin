@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3047,
-    "prompt": "Nurse: Excellent. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions about anything we've discussed so far?\n\nPatient: See, you're sure the doctor is not gonna accidentally punch or something.\n\nNurse: I can understand your concern. Rest assured, Doctor Bailey is highly skilled and experienced. She has performed over 1500 colonoscopies without any such incidents. The procedure is designed to be safe and comfortable for you. I'll make a note of your concern for your care team to review. Now, I have a couple more questions for you. Are you currently experiencing any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No.\n\nNurse: That's good to hear. It's essential to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's critical to have someone available to take you home after the procedure as you may still be feeling the effects of the sedation. If there's anything else you need to discuss or any other questions you have, feel free to ask.\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, that covers all our topics for today. We discussed your upcoming colonoscopy, your diet, and bowel prep; stopping your Ferrous Sulfate 5 days before until after the procedure; the importance of a ride home afterward, and we touched on the emotions that can come with this process. Does all of this sound right to you?",
-        "our_model": "Alright. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

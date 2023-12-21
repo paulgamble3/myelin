@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5249,
-    "prompt": "Patient: Yes, please.\n\nNurse: Great, Mr. Oliver. One way to manage your blood pressure is by reducing your salt intake. As you mentioned earlier, it's important to check the sodium content in your salad dressing. Another strategy is regular physical activity, such as a daily walk. Lastly, maintaining a healthy weight can also help manage your blood pressure. Do you have any questions about these suggestions?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Oliver. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: I do smoke a pack of cigarettes a day.\n\nPatient: But I'm not going to quit.\n\nNurse: I appreciate your honesty, Mr. Oliver. Quitting smoking is a personal decision and can be a challenging process. Could you share with me why you feel you're not ready to quit at this time?\n\nPatient: It just helps me relax.",
-    "responses": {
-        "gpt4": "I can understand that, Mr. Oliver. Smoking can feel relaxing and can be a tough habit to break. It's important to remember there are potential health risks associated with smoking, especially with your existing conditions. Can I share some resources about smoking cessation should you decide to quit in the future?",
-        "our_model": "I understand, Mr. Oliver. Smoking can sometimes be a way to cope with stress. However, it's important to remember that smoking can have a negative impact on your health, especially with your chronic conditions. If you ever decide to quit, there are many resources available to help you. Would you like me to share some of these resources with you?"
-    }
-}

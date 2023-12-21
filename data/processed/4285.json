@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4285,
-    "prompt": "Nurse: That's great to hear. Could you share with me what your last blood sugar reading at home was?\n\nPatient: One forty eight.\n\nNurse: Thank you for sharing that. It's a bit higher than the target range. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: Yes, please.\n\nNurse: Great. One strategy is to maintain a balanced diet. This includes eating a variety of foods, but especially focusing on whole grains, fruits, and vegetables. It's also important to limit foods high in sugar and unhealthy fats. Do you think this is something you can incorporate into your daily routine?\n\nPatient: Yes.\n\nNurse: That's wonderful to hear. Another strategy is regular physical activity. Walking, like your morning walks, is a great way to stay active. If you're able, aim for at least 30 minutes of moderate activity most days of the week. Does this sound manageable to you?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad to hear that. Staying active definitely helps in controlling blood sugar levels. Speaking of health checks, could you tell me when you last took your blood pressure measurement and what the result was?",
-        "our_model": "That's fantastic. Regular exercise can really help manage your blood sugar levels. Lastly, it's important to take your prescribed medications as directed by your doctor. This includes your Lantus and Aspart insulin. Are you taking these as prescribed?"
-    }
-}

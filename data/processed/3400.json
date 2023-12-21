@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3400,
-    "prompt": "Nurse: I'm sorry, Mr. Jimenez, your response got cut off. Could you please continue sharing about how you've been feeling today?\n\nPatient: Hello, nervous.\n\nNurse: I'm sorry, Mr. Jimenez, could you please repeat that?\n\nPatient: Can I do?\n\nNurse: I'm sorry, Mr. Jimenez, could you please repeat what you said?\n\nPatient: No. I'm feeling nervous, but\n\nNurse: I see, it's completely normal to feel nervous before a procedure, Mr. Jimenez. It's a big step, but a positive one towards improving your mobility. Is there anything specific that's making you feel nervous?\n\nPatient: They kinda wanna know",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Jimenez, your last sentence was not completed. Could you please repeat what you were saying?",
-        "our_model": "I can imagine that it's a bit nerve-wracking preparing for a procedure like this. It's completely normal to feel this way. Is there anything specific that's making you feel nervous?"
-    }
-}

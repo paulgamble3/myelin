@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4007,
-    "prompt": "Nurse: That's fantastic, Ms. Warrell. It's great to hear that you've found a system that works for you. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Too.\n\nNurse: That's fantastic, Ms. Warrell. Having a good routine is key to managing medications. Now, with your permission, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Did you hear me?\n\nNurse: Yes, Ms. Warrell, I heard you. You mentioned that you have a good routine for taking your medications. That's excellent. Now, I'd like to ask you a few questions about your symptoms. Is that okay with you?\n\nPatient: Yes. It's okay.\n\nNurse: Thank you, Ms. Warrell. Let's start with your breathing. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great to hear that you're not experiencing any new or worsening shortness of breath, Ms. Warrell. What about chest pain? Have you had any ongoing or new chest discomfort recently?",
-        "our_model": "That's good to hear, Ms. Warrell. Now, have you experienced any ongoing or worsening chest pain recently?"
-    }
-}

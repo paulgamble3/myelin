@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2532,
-    "prompt": "Nurse: A blood pressure reading of 120 over 75 is within the normal range, which is good news. It's essential to keep monitoring your blood pressure regularly. Now, would you like me to share some suggestions about managing blood pressure?\n\nPatient: Sure.\n\nNurse: Great, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This means avoiding processed foods and adding less salt to your meals. Another strategy is regular physical activity. Even a brisk walk can help. Lastly, managing stress through relaxation techniques like deep breathing or meditation can also help. Does that make sense?\n\nPatient: Yep. It all makes sense, but I'm working on all those things.\n\nNurse: That's fantastic to hear, Mr. Oliver. It sounds like you're doing a great job managing your health. Remember, it's a journey and every step you take counts. Is there anything else you'd like to discuss today?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't I didn't say anything.",
-    "responses": {
-        "gpt4": "I apologize for the misunderstanding, Mr. Oliver. If there's anything else you'd like to discuss or any other questions you have, feel free to ask.",
-        "our_model": "No problem at all, Mr. Oliver. I'm here to help. Is there anything else you'd like to discuss today?"
-    }
-}

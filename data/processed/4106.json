@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4106,
-    "prompt": "Nurse: I'm glad to hear that your recovery is progressing. Are you experiencing any pain or discomfort, and are you able to move around as you were before the surgeries?\n\nPatient: I'm not experiencing any pain, and I have definitely gotten back to my old activities.\n\nNurse: That's excellent news. It's important to continue with any physical therapy or exercises recommended by your doctor to maintain your progress. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?\n\nPatient: Yes. It's [NO RESPONSE]\n\nNurse: I appreciate your honesty. It's a big step to acknowledge that you smoke. Have you ever considered quitting smoking?\n\nPatient: I'm not interested right now.\n\nNurse: That's completely okay. It's a big decision to make and it's important that you're ready. Can you share why you feel you're not ready to quit smoking at this time?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "I understand. It's a personal matter and can be tough to discuss. Just know that if you ever change your mind or if you want to learn some strategies to quit, we have resources we can share. Would you like to hear about those now or in the future?",
-        "our_model": "That's perfectly okay. It's a big decision and it's important that you're ready. If you ever decide to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?"
-    }
-}

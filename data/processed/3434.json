@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3434,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: March fourteenth nineteen fifty.\n\nNurse: Thank you for confirming, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?\n\nPatient: Not necessarily.\n\nNurse: That's perfectly fine, Ms. Aguirre. Sometimes it's nice to have a quiet week. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Ms. Aguirre. Can you hear me alright? I just wanted to check in and ask if you've been experiencing any symptoms or health concerns lately that you wanted to bring up?",
-        "our_model": "Yes, Ms. Aguirre, I'm here. You mentioned earlier that you're doing fine. I was asking if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?"
-    }
-}

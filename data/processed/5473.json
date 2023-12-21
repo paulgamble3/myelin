@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5473,
-    "prompt": "Nurse: I apologize for any confusion. Could you please provide the month, day, and year of your birthday?\n\nPatient: March\n\nNurse: I'm sorry, Ana, could you please repeat the day and year of your birthday?\n\nPatient: fourteenth nineteen fifty.\n\nNurse: Thank you for confirming your date of birth, Ms. Aguirre. I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: I've been doing\n\nNurse: I'm sorry, Ms. Aguirre, you were saying?\n\nPatient: I've been doing good. Thank you.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?",
-        "our_model": "I'm glad to hear that, Ms. Aguirre. Is there anything you're looking forward to doing this week?"
-    }
-}

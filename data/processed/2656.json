@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2656,
-    "prompt": "Nurse: That's great to hear, Ms. Cruz. Could you share a bit more about what you consider to be \"good stuff\" in your meals?\n\nPatient: Yeah. Lots of vegetables. Oh,\n\nNurse: I'm sorry, Ms. Cruz, could you please repeat what you said about your meals?\n\nPatient: a lot of I love tomatoes,\n\nNurse: That's wonderful, Ms. Cruz. Tomatoes are a great source of vitamins and antioxidants. How do you usually prepare your tomatoes?\n\nPatient: salads. I'd really love salads. Like, Greek\n\nNurse: That sounds delicious, Ms. Cruz. Greek salads can be a great way to include a variety of vegetables in your diet. Do you usually have any protein like chicken or fish with your salad?\n\nPatient: salad is one of my favorite salads.",
-    "responses": {
-        "gpt4": "Greek salad is a great choice, Ms. Cruz. It's full of fresh, healthy ingredients like tomatoes, cucumbers, and olives. Do you usually add any protein to your salad like chicken or fish, or other ingredients?",
-        "our_model": "That sounds delicious, Ms. Cruz. Greek salads are a great way to include a variety of vegetables in your diet. Do you also include any protein sources in your salads, like chicken or beans?"
-    }
-}

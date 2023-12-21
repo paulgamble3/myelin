@@ -1,8 +1,0 @@
-{
-    "prompt_id": 619,
-    "prompt": "Nurse: It's completely normal to feel a bit nervous and anxious, Ms. Raynier. Rest assured, your surgeon, Doctor Cristina Stevens, is highly experienced and has performed over 1000 total knee replacements. Before we move on, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: Will I be in pain after the surgery? Will I be able to walk?\n\nNurse: It's completely normal to feel nervous and ask these questions, Ms. Raynier. After the surgery, there will be some pain, but it will be managed with medications. As for walking, it's important to remember that everyone's recovery process is different, but generally, most people are able to stand and take a few steps with the help of a walker or crutches on the day of surgery. Over time, with physical therapy and rehabilitation, you'll regain your strength and mobility. Before we move on, do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. I can't think of any.\n\nNurse: Alright, Ms. Raynier. If any questions come up during our conversation, feel free to ask at any time. I'm here to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Thank\n\nNurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Thank you, Rachel. Rachel, are you still there?",
-    "responses": {
-        "gpt4": "Yes, Ms. Raynier, I'm still here with you. How can I assist further?",
-        "our_model": "I'm here, Ms. Raynier. I'm sorry for any confusion earlier. I want to make sure I understand you correctly. Did you say that you don't want me to call you or that you'd prefer to speak with a human?"
-    }
-}

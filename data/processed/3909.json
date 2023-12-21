@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3909,
-    "prompt": "Nurse: That's excellent. You're doing a great job managing your medication. Just a reminder, there are certain medications and supplements that aren't safe for CKD patients to take. Always talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?\n\nPatient: No. I know.\n\nNurse: That's good to hear. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: I had a\n\nNurse: I'm sorry, Carla, could you please repeat what you had for your recent meals?\n\nPatient: They do salads.\n\nNurse: I'm sorry, Carla, could you please repeat what you had for your meals recently?\n\nPatient: I have a vegetable salad with chicken.",
-    "responses": {
-        "gpt4": "That sounds healthy, keeping a balanced diet is very important for kidney function. Try to include a variety of vegetables and lean proteins like chicken or fish. Do you usually include any kind of dressing in your salads?",
-        "our_model": "That sounds like a healthy choice. Do you usually include a variety of vegetables in your salad?"
-    }
-}

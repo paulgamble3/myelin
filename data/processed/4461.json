@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4461,
-    "prompt": "Patient: this whole fluid restriction\n\nPatient: stuff.\n\nNurse: I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I said I hate following this diet and\n\nNurse: Hold on a second while I figure out how I can best support you.\n\nPatient: trying to monitor my fluid restriction.\n\nNurse: When did the change in speech start, Mr. Delarosa?\n\nPatient: No change in speech. What are you talking about? I don't have any change in speech.",
-    "responses": {
-        "gpt4": "I apologize if my previous question was confusing. I didn't mean to imply that there was a change. Let's continue with our conversation, would that be okay?",
-        "our_model": "I apologize for any confusion, Mr. Delarosa. I was asking if you've noticed any sudden arm or leg weakness recently?"
-    }
-}

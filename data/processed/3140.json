@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3140,
-    "prompt": "Patient: Yeah. I'm curious after the procedure. Whenever we get there, I'm very curious about the after procedure. Care.\n\nNurse: Absolutely, Mr. Valenzuela. We'll definitely discuss the post-procedure care in detail. But for now, let's focus on the pre-procedure preparation. Are there any low fiber foods that you enjoy as comfort food?\n\nPatient: Yes. I like I very like I really like pasta. Yeah. It's very good. I love vegetables too, but I'm aware that I have to lower my intake vegetables intake.\n\nNurse: Pasta is a great choice, Mr. Valenzuela. It's a good source of low fiber carbohydrates. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you have a favorite pasta dish?\n\nPatient: Cheese. Turtolini,\n\nNurse: Tortellini sounds delicious, Mr. Valenzuela. It's a great choice for a low fiber meal. Just remember to avoid adding high fiber ingredients like vegetables or whole grain pasta. Do you have any other questions about the diet or any other foods you're curious about?\n\nPatient: Cool.\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Valenzuela. If any questions come up later, don't hesitate to ask. Let's move on to the next topic. The day before your colonoscopy, you'll need to switch to a clear liquid diet.",
-        "our_model": "Alright, Mr. Valenzuela. Let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

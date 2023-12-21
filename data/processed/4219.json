@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4219,
-    "prompt": "Nurse: I'm glad you find the suggestion helpful, Ms. Odonnell. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: it's going to take a lot of doing to change a lot of the things\n\nNurse: I understand, Ms. Odonnell. Changes can indeed take time and effort. As an alternative, you might consider small, gradual changes to your daily routine. For example, incorporating a short walk into your day or trying a new, healthy recipe. Would you be open to trying this approach?\n\nPatient: that I do in my life, but it's something to aspire to.\n\nNurse: Absolutely, Ms. Odonnell. Making changes can indeed take time and effort, but every small step counts. Now, I noticed that you recently had some blood tests and urine labs done. Do you have any questions about those results?\n\nPatient: I actually\n\nNurse: Yes, Ms. Odonnell, please go ahead with your question. [\n\nPatient: I am told that potassium",
-    "responses": {
-        "gpt4": "It sounds like you have a question about potassium, Ms. Odonnell. Could you please provide a bit more context so I can answer you more accurately?",
-        "our_model": "Yes, Ms. Odonnell, your potassium level was 3.4 mEq/L, which is within the normal range. Potassium is a mineral that's crucial for heart function and muscle contraction."
-    }
-}

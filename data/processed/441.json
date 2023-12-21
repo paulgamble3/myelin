@@ -1,8 +1,0 @@
-{
-    "prompt_id": 441,
-    "prompt": "Nurse: Absolutely, let me explain. Tylenol is a pain reliever and is often used to manage mild to moderate pain. It's often used after surgery to help manage any discomfort you might experience. Tramadol, on the other hand, is a stronger pain reliever. It's typically used for more severe pain and is often prescribed after surgeries like yours. Does that help clarify things for you?\n\nPatient: Very much. So. Yes. Thank you.\n\nNurse: You're welcome. I'm glad I could help clarify that for you. Do you have any other questions about your medications?\n\nPatient: Okay.\n\nNurse: Do you have any other questions about your medications?\n\nPatient: No. I do not.\n\nNurse: Alright. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. You'll need to use a chlorhexidine scrub. Have you already purchased this scrub?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "Fantastic. And do you have any questions about how to use the chlorhexidine scrub?",
-        "our_model": "That's great to hear. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. First, you should take a shower like normal then turn the water off. Does that sound good so far?"
-    }
-}

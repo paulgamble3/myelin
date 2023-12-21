@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5870,
-    "prompt": "Patient: So I wanna do this as soon as I can.\n\nNurse: I'm sorry to hear that you're experiencing abdominal pain, Mr. Dang. Can you confirm that this is the reason you're having the colonoscopy?\n\nPatient: Oh, that's the only reason I'm having it\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: I see, Mr. Dang. When did your abdominal pain start?\n\nPatient: Hi.\n\nPatient: I think this is between me and my doctor.\n\nPatient: It's in my chart.",
-    "responses": {
-        "gpt4": "Understood, Mr. Dang. Moving onto the next question, how severe is your abdominal pain on a scale of 1-10, with 1 being mild discomfort and 10 being the most severe pain you have ever felt?",
-        "our_model": "I appreciate your patience, Mr. Dang. Could you please tell me if your abdominal pain is generalized or localized?"
-    }
-}

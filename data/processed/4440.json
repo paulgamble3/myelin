@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4440,
-    "prompt": "Nurse: Yes, I apologize for the confusion, Mr. Delarosa. I meant to ask about Fluticasone. Are you still taking it along with Hydrochlorothiazide and Albuterol inhaler?\n\nPatient: Yes. I am.\n\nNurse: That's good to hear, Mr. Delarosa. It's essential to continue taking your existing medications as prescribed. I understand that managing multiple medications can sometimes be challenging. Do you ever have trouble remembering to take your medications on time?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Delarosa. I was asking if you ever have trouble remembering to take your medications on time. It's quite common and there are strategies to help with that. Would it be okay if I shared some suggestions?\n\nPatient: Oh, I always remember to take my meds. Thank you.\n\nNurse: That's excellent, Mr. Delarosa. Staying consistent with your medication is key to managing your health conditions. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Cora?",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Delarosa. Could you please clarify or repeat what you just said? I didn't quite understand.",
-        "our_model": "I'm sorry, Mr. Delarosa, I didn't quite catch that. Could you please repeat what you said?"
-    }
-}

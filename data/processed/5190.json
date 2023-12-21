@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5190,
-    "prompt": "Nurse: That sounds lovely! Dogs can be such a comfort. What's your dog's name?\n\nPatient: Poodle.\n\nNurse: Poodle sounds like a wonderful companion. What's your favorite thing to do with Poodle?\n\nPatient: We like to go to the dog's park.\n\nNurse: That sounds like a great time! Dog parks can be such a fun place for both you and Poodle. Now, I'm calling on behalf of Doctor Molly Burke and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. I see that you have a new prescription for Lasix 20 mg oral tablet, with a dosage of 40 mg twice a day. Have you been able to pick up this medication from the pharmacy?\n\nPatient: Yeah.",
-    "responses": {
-        "gpt4": "Great! How have you been taking your new medication, Lasix?",
-        "our_model": "Wonderful. And how have you been taking your Lasix?"
-    }
-}

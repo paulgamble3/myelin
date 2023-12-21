@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2209,
-    "prompt": "Nurse: Okay. I see on your chart that you're currently taking Plavix 75 mg once a day. For your colonoscopy, you'll need to stop taking Plavix 5 days before the procedure. That means you should stop taking it on August 8th, which is 2 days from today. Does that make sense?\n\nPatient: Yes. It does. Thank you.\n\nNurse: You're welcome. Do you have any questions about Plavix or the instructions to stop it?\n\nPatient: No.\n\nNurse: Alright. Are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?\n\nPatient: No. I don't.\n\nNurse: That's good to hear. These medications typically need to be stopped before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Great. I'm glad I could clarify everything about the medications for you. Let's move on to the preparation for the colonoscopy; a key part of prep is diet. From today, you will want to start eating a low-fiber diet. This includes foods like white bread, white rice, and well-cooked vegetables. It's best to avoid high-fiber foods such as whole grains and raw vegetables. Do you have any questions about the low fiber diet?",
-        "our_model": "Alright. Let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This means you can eat foods like white bread, rice, and pasta, and you should avoid foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?"
-    }
-}

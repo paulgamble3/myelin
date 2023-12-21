@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2920,
-    "prompt": "Nurse: That sounds wonderful, Ms. McKloskey. Walking without pain can truly make a difference in one's daily life. It's a simple pleasure that we often take for granted. How are you feeling about your upcoming procedure?\n\nPatient: Oh, like I said, I'm\n\nNurse: I'm sorry, Ms. McKloskey, your voice cut out a bit there. Could you please repeat what you were saying about your upcoming procedure?\n\nPatient: looking forward to it just to get it done.\n\nNurse: It's great to hear that you're feeling positive about your upcoming procedure, Ms. McKloskey. Before we delve into the details, do you have any questions or concerns you'd like to discuss?\n\nPatient: No. Not really.\n\nNurse: Alright, Ms. McKloskey. If you do have any questions at any point during our conversation, please feel free to ask. I'm here to ensure you have everything you\n\nPatient: Are you still there?",
-    "responses": {
-        "gpt4": "Yes, Ms. McKloskey, I'm still here. I'd like to take a few moments to review some topics regarding your total knee replacement with you, is it okay to proceed?",
-        "our_model": "Yes, I'm here, Ms. McKloskey. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?"
-    }
-}

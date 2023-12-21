@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4377,
-    "prompt": "Nurse: course, the Absolutely, there's no place like home. It's always nice to be in our own space. Do you have any hobbies or pets that you enjoy spending time with at home?\n\nPatient: home is home.\n\nNurse: Absolutely, there's no place like home. It's always comforting to be in our own space. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I really love\n\nNurse: I'm sorry, Aileen, you were saying?\n\nPatient: earth making.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you enjoy doing at home?\n\nPatient: So I've been doing a a lot of painting.",
-    "responses": {
-        "gpt4": "Apologies for misunderstanding earlier. Could you please repeat what you've been doing?",
-        "our_model": "Oh, painting! That sounds wonderful. It must be a great way to relax and express your creativity. What kind of paintings do you enjoy doing?"
-    }
-}

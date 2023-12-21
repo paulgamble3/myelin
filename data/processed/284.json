@@ -1,8 +1,0 @@
-{
-    "prompt_id": 284,
-    "prompt": "Patient: Hello?\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Damian Benton?\n\nPatient: Yeah.\n\nNurse: Hello Damian, I'm calling on behalf of your primary care doctor, Doctor Marta Marcuso, to check in on you. How have you been doing lately?\n\nPatient: Fine. What do you want?\n\nNurse: I'm glad to hear you're doing fine. I'm here to discuss a few topics related to your health. Before we dive into that, is there anything you're looking forward to doing this week?\n\nPatient: No. I'm not. Actually, I'm gonna have a terrible week.",
-    "responses": {
-        "gpt4": "I'm really sorry to hear that you're expecting a tough week, Damian. If it's okay with you, could you tell me what's causing you to feel this way? It might help us better understand your health situation.",
-        "our_model": "I'm sorry to hear that."
-    }
-}

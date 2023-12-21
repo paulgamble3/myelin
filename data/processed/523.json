@@ -1,8 +1,0 @@
-{
-    "prompt_id": 523,
-    "prompt": "Nurse: Rice is a great choice for a low fiber diet. It's easy to digest and can be quite comforting. Do you usually prepare it in a specific way that you enjoy?\n\nPatient: Just the regular way.\n\nNurse: That sounds simple and delicious. It's not often that doctors recommend eating low fiber comfort foods, but in this case, it's exactly what's needed for your colonoscopy prep. Do you have any other questions or concerns about the diet or anything else?\n\nPatient: No.\n\nNurse: Alright, let's move on to the topic of supplements. You'll need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I am not.\n\nNurse: That's good to hear. It's important to avoid those supplements and medications before your colonoscopy. Do you have any questions about this or anything else?\n\nPatient: No. I understand.",
-    "responses": {
-        "gpt4": "Great, it sounds like you have a good handle on things. Now I'd like to discuss the clear liquid diet and the GoLYTELY laxative solution, which you'll need to start 24 hours before your procedure. This is often reported as the toughest part of the colonoscopy prep. How does this make you feel about the upcoming preparation?",
-        "our_model": "Great, I'm glad that's clear. Now, I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

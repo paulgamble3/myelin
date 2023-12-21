@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4374,
-    "prompt": "Nurse: I'm glad to hear that. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Are you still there, Rachel?\n\nNurse: Yes, I'm here. I was asking if there's anything in particular you've been looking forward to doing now that you're home?\n\nPatient: You know, the simple thing just\n\nNurse: Of\n\nPatient: really nice being home. I mean,\n\nNurse: course, the Absolutely, there's no place like home. It's always nice to be in our own space. Do you have any hobbies or pets that you enjoy spending time with at home?\n\nPatient: home is home.",
-    "responses": {
-        "gpt4": "Absolutely, home is indeed the best. Do you have any hobbies or pets that you enjoy spending time with at home?",
-        "our_model": "Absolutely, there's no place like home. It's always comforting to be in our own space. Do you have any hobbies or interests that you enjoy doing at home?"
-    }
-}

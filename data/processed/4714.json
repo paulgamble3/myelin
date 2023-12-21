@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4714,
-    "prompt": "Patient: Why do you refer to me as\n\nPatient: the patient.\n\nNurse: I apologize if that came across as impersonal. I'm here to help you. Do you have any more information you want to share about this issue?\n\nPatient: The only thing I wanna talk about is my congestive heart failure. Okay?\n\nNurse: Absolutely. I'm here to help you understand your condition and how to manage it. Let's move on to your next medication. Have you been able to pick up your Carvedilol 3.125 mg oral tablets from the pharmacy?\n\nPatient: Yes.\n\nNurse: That's great to hear. Just to confirm, you're taking 3.125 mg of Carvedilol three times a day, correct?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great. Consistency is key in managing your condition. Finally, were you able to pick up your Hydrochlorothiazide 50 mg?",
-        "our_model": "Thank you for confirming that. Now, let's discuss your Hydrochlorothiazide. Have you been able to pick up your Hydrochlorothiazide 50 mg oral tablets from the pharmacy?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4596,
-    "prompt": "Nurse: Hold on a second while I figure out how I can best support you. I understand, Mr. Peck. Low-sugar desserts could include things like fresh fruit, a small piece of dark chocolate, or even a piece of cake but with a smaller portion size. Would you be open to trying these alternatives to your usual desserts?\n\nPatient: What is what do you mean by smaller portion in.\n\nNurse: I apologize for any confusion earlier, Mr. Peck. Could you please repeat your question?\n\nPatient: Never mind. We can move on.\n\nNurse: Of course, Mr. Peck. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement, and do you remember what the result was?\n\nPatient: Yes. I took it this morning, and there was no was\n\nNurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: ninety over",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Peck, could you please repeat the blood pressure reading you obtained this morning?",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat the second number of your blood pressure reading?"
-    }
-}

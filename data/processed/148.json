@@ -1,8 +1,0 @@
-{
-    "prompt_id": 148,
-    "prompt": "Patient: Yeah. For at least three months.\n\nNurse: I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Have you noticed any weight loss or changes in your appetite?\n\nPatient: No. No weight loss.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Valenzuela. Do you feel any abdominal pain or discomfort?",
-        "our_model": "That's good to hear, Mr. Valenzuela. Have you noticed any changes in your appetite or eating habits due to the diarrhea?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 490,
-    "prompt": "Nurse: Thank you for sharing that. It's a good start. For lunch and dinner, do you usually have a specific type of meal or do you vary it?\n\nPatient: And it'll have\n\nNurse: I'm sorry, you were saying you'll have what for breakfast?\n\nPatient: like a turkey sandwich for lunch and maybe some soup for dinner.\n\nNurse: Thank you for sharing that. It's a good start. If it's okay with you, I'd like to provide some recommendations to align your diet with the CHF guidelines. Is that alright?\n\nPatient: I guess.\n\nNurse: Thank you. One recommendation would be to limit your fluid intake to 1 liter per day. This includes all fluids, not just water. Another recommendation is to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like me to note these recommendations down for the dietitian to discuss with you?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great, I've noted that down for you and the dietitian. Here's a small tip: instead of using salt, try using herbs and spices to flavor your food. Also, be mindful of processed foods as they often contain a lot of sodium. I know these changes can be challenging, but they can really make a difference in managing your symptoms. I'm here to support you through this. Are there any questions or concerns you have about what we've discussed?",
-        "our_model": "I've noted down your request for the dietitian to discuss these recommendations with you. Now, let's talk about exercise. Could you tell me about your current exercise routine?"
-    }
-}

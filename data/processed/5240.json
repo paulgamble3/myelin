@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5240,
-    "prompt": "Nurse: That's wonderful, Mr. Oliver. It's essential to take your Aspart as prescribed to help manage your blood sugar levels. I understand that it can be challenging to remember to take medications on time. Do you ever have trouble remembering to take your medications?\n\nPatient: No. I don't.\n\nNurse: That's fantastic, Mr. Oliver. It's really important to take your medications as prescribed, and it sounds like you're doing a great job. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.\n\nNurse: Alright, Mr. Oliver. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, I actually just had chicken soup\n\nNurse: That sounds like a healthy choice, Mr. Oliver. Chicken soup can be a good source of protein. How do you usually prepare your chicken soup?\n\nPatient: I used a lot of veggies and",
-    "responses": {
-        "gpt4": "That's great, Mr. Oliver. Including a variety of vegetables in your meals offers a range of nutrients, which is beneficial for your health. Did you also add salt when you prepared your soup?",
-        "our_model": "That's great, Mr. Oliver."
-    }
-}

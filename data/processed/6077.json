@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6077,
-    "prompt": "Nurse: That sounds like a great way to spend time. Walking is also a good form of exercise. What's your dog's name?\n\nPatient: Buddy,\n\nNurse: Buddy sounds like a great companion. Now, let's move on to discuss your health. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: One twenty eight\n\nNurse: Thank you for sharing that. It's critical to keep an eye on your blood sugar levels. Would it be okay if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Okay.",
-    "responses": {
-        "gpt4": "Thank you for being open to some suggestions. Now, one way that can help maintain blood sugar levels is by following a balanced meal plan that is high in fiber, rich in whole grains, and filled with fresh fruits and vegetables. What do you think about that? Could you incorporate more of these into your meals?",
-        "our_model": "Wonderful, one strategy is to maintain a balanced diet. This includes eating a variety of foods in the right proportions, such as lean proteins, whole grains, fruits, vegetables, and healthy fats. It's also important to limit foods high in sugar. What do you think about this suggestion?"
-    }
-}

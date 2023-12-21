@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5607,
-    "prompt": "Nurse: Yes, there's one more important step. You'll need to finish drinking the second half of the NuLYTELY laxative solution the morning of your procedure. Would you like some tips on making the bowel prep easier?\n\nPatient: You.\n\nNurse: Yes, I'm here to help. Would you like some tips on how to make the bowel prep easier?\n\nPatient: No. Thank you.\n\nNurse: Alright. Just remember, you can drink the laxative solution cold and through a straw to help it go down easier. Do you have any questions about your bowel prep?\n\nPatient: Nope.\n\nNurse: Alright. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: Nope.",
-    "responses": {
-        "gpt4": "Okay. You're doing a great job going through all this information. I understand that this is a lot to take in. How are you feeling so far?",
-        "our_model": "Wonderful. I know I've shared a lot of information with you, but we're almost done. I just have 2 more questions for you. Before we move on, do you have any questions about anything we've discussed so far?"
-    }
-}

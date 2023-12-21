@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1644,
-    "prompt": "Nurse: That sounds like a wonderful plan. Cleaning can be quite therapeutic. Do you have any special routines or methods you follow while cleaning?\n\nPatient: Well, I tried to use organic sorts of things. I don't like to use chemicals, and I just tried to go from top to bottom and get the plates totally totally stick and spin.\n\nNurse: That's a very thorough approach. Using organic cleaning products is a great way to keep your home healthy. Do you have any favorite organic cleaning products that you like to use?\n\nPatient: Method?\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: It's called method.\n\nNurse: Ah, Method brand cleaning products. They're quite popular for their natural ingredients. Do you have a favorite product from their line that you like to use?\n\nPatient: I just like the ones that are scented with grapefruit.",
-    "responses": {
-        "gpt4": "The grapefruit scent is indeed very refreshing. It must make the cleaning feel less like a chore. Is there anything else you would like to share about your daily routine?",
-        "our_model": "Grapefruit scent sounds refreshing. It's great that you've found a product that you like and that's also good for your health. Before we move on to discuss your kidney disease, is there anything else you've been feeling or experiencing that you're concerned about?"
-    }
-}

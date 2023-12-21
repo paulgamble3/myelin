@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2789,
-    "prompt": "Nurse: Great, it's important to follow those dietary guidelines for the best results. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: Yes. I will be there.\n\nNurse: Perfect, punctuality is key for these procedures. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: Yes. It does.\n\nNurse: Excellent. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, if any concerns come up later, don't hesitate to bring them up. I'm going to move on to talk about your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes, ma'am.",
-    "responses": {
-        "gpt4": "Great. I see in your chart that you're currently taking Tylenol 500 mg with a dosage of 1000 mg TID. You don't need to make any changes to this medication before your colonoscopy. Have you been taking it as prescribed?",
-        "our_model": "Great, let's discuss your medications. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There's no need to stop this medication before your colonoscopy. Do you have any questions about this medication?"
-    }
-}

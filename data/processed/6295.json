@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6295,
-    "prompt": "Nurse: Wonderful, Mr. Alves. Examples of clear liquids include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. It's important to note that you should avoid any beverages or gelatin that are red or purple. Do you have any questions about these examples or is there anything else you'd like to know about the clear liquid diet?\n\nPatient: What what is the clear liquids are?\n\nNurse: Clear liquids are any liquids that you can see through. Examples include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. It's important to note that you should avoid any liquids that are red or purple, as they can interfere with the results of your colonoscopy. Do you have any questions about these clear liquids, Mr. Alves?\n\nPatient: Call us.\n\nNurse: I'm sorry, Mr. Alves, could you please repeat what you said?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: didn't say anything.",
-    "responses": {
-        "gpt4": "I apologize for any confusion, Mr. Alves. Let's move forward. As part of your prep, you should also avoid solid foods starting 24 hours before your colonoscopy. This allows your bowels to be as clean as possible for the procedure. Do you have any questions about this part of the preparation?",
-        "our_model": "My apologies for the confusion, Mr. Alves. Let's continue. Do you have any remaining questions about the clear liquid diet?"
-    }
-}

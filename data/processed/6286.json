@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6286,
-    "prompt": "Nurse: I can appreciate that, Mr. Alves. It's nice to have a meal that's easy to prepare, especially when you're not feeling your best. Now, let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: Yes. Of course.\n\nNurse: I see, Mr. Alves. Could you please tell me which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: The medications that I'm taking?\n\nNurse: Yes, Mr. Alves. Could you please share which supplements or anti-diarrheal medications you're currently taking?\n\nPatient: Well,\n\nNurse: Yes, Mr. Alves. Could you please list the supplements or anti-diarrheal medications you're currently taking?\n\nPatient: I'm gonna take go lightly,",
-    "responses": {
-        "gpt4": "Ah, GoLYTELY. That's actually a prescription medication that'll be part of your colonoscopy prep, Mr. Alves. It helps to clean out your colon thoroughly before the procedure. Just to clarify, are there any other daily supplements or over-the-counter medications that you're currently taking?",
-        "our_model": "Yes, Mr. Alves, GoLYTELY is a laxative solution that you'll be taking as part of your colonoscopy prep. It's not an anti-diarrheal medication. Are there any other supplements or medications that you're currently taking?"
-    }
-}

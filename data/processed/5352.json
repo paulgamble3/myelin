@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5352,
-    "prompt": "Nurse: Wonderful, Mr. Gardner. For your fluid restriction, it's important to measure your drinks to ensure you're not exceeding the 1.5 liter limit. This includes all fluids, not just water. As for your sodium restriction, it's a good idea to avoid processed foods and add less salt to your meals. Also, try to use herbs and spices for flavor instead of salt. Does that make sense?\n\nPatient: Yeah. Thank you.\n\nNurse: You're welcome, Mr. Gardner. I'm glad I could provide some helpful tips. Now, let's talk about exercise. Can you tell me about your current exercise routine?\n\nPatient: Actually, I had a question.\n\nNurse: Of course, Mr. Gardner. What's your question?\n\nPatient: I am not really sure how to measure the one point five liters you're talking about.\n\nNurse: That's a great question, Mr. Gardner. To measure 1.5 liters, you can use a water bottle with measurements on the side. A 1.5-liter water bottle would be the exact amount. For reference, a standard 2-liter soda bottle is just a bit more than your daily fluid limit. Does that help clarify things?\n\nPatient: Okay. Yeah. It does. I'll have to get a water bottle.",
-    "responses": {
-        "gpt4": "I'm glad the suggestion helps, Mr. Gardner. A water bottle could be a useful tool for you. In the future, can I assist you with similar recommendations?",
-        "our_model": "I'm glad That sounds like a good plan, Mr. Gardner. Now, let's talk about your exercise routine. Can you tell me what you currently do for exercise?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2486,
-    "prompt": "Patient: I'm\n\nNurse: I'm sorry, could you please repeat your question?\n\nPatient: I can\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your question?\n\nPatient: How can I get my lab normal? And not have kidney disease. Know, I I really don't understand with that GFR and that\n\nNurse: I see, you're asking about how to maintain normal lab results and manage your kidney disease.\n\nPatient: You're in,\n\nPatient: I'll do men names.",
-    "responses": {
-        "gpt4": "I'm sorry, I'm having trouble understanding what you're saying. Could you please repeat yourself?",
-        "our_model": "I understand that this can be confusing. Your GFR stands for Glomerular Filtration Rate. It's a measure of how well your kidneys are filtering waste from your blood. A higher number is better. Your GFR of 101 mL/min/1.73m2 is within the normal range, which means your kidneys are functioning well at this time. However, because you have Stage I Chronic Kidney Disease, it's important to monitor this and other lab values regularly. Does that help clarify things a bit?"
-    }
-}

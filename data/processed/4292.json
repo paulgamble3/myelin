@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4292,
-    "prompt": "Nurse: Thank you for sharing that. It's a bit high. Would it be okay if I share some suggestions to help manage your blood pressure?\n\nPatient: Yes.\n\nNurse: Excellent. One way to manage blood pressure is by reducing salt intake. This can be achieved by eating fewer processed foods and not adding extra salt to meals. Does this sound like something you could try?\n\nPatient: Yes. It does.\n\nNurse: That's great to hear. Another strategy is to maintain a healthy weight. This can be achieved through a balanced diet and regular physical activity, like your morning walks. Do you think this is something you can continue to do?\n\nPatient: Yes.\n\nNurse: That's wonderful. Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?\n\nPatient: [NO RESPONSE]",
-    "responses": {
-        "gpt4": "Could you please confirm if you're taking your Losartan as prescribed by your doctor?",
-        "our_model": "Lastly, it's important to take your prescribed medication, Losartan, as directed by your doctor. Are you taking this medication as prescribed?"
-    }
-}

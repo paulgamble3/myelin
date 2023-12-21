@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4475,
-    "prompt": "Nurse: I\n\nPatient: striction. I hate\n\nNurse: apologize for\n\nPatient: having to monitor that.\n\nNurse: I understand, I understand your frustration, Mr. Delarosa. Monitoring fluid intake can be challenging. However, it's an important part of managing your CHF. Would it be okay if I shared some tips on how to manage your fluid intake?\n\nPatient: Sure.\n\nNurse: Thank you, Mr. Delarosa. One strategy could be to use a measuring cup to pour your drinks. This way, you can keep track of how much fluid you're consuming. Also, try to spread your fluid intake throughout the day. This can help you feel less thirsty. How does that sound?\n\nPatient: Okay. I guess. How much fluid should I be drinking?",
-    "responses": {
-        "gpt4": "It's a great question, Mr. Delarosa. The specific amount of fluid intake can vary depending on your weight, kidney function, and other factors. Typically, for people with CHF, it's recommended to limit the total intake to around 2 liters per day. However, it's best to discuss the exact amount with Doctor Gervais. Would you like me to schedule an appointment with Doctor Gervais so that he can guide you better?",
-        "our_model": "I'm glad Your doctor has recommended a fluid restriction of 1 liter per day, Mr. Delarosa. This includes all fluids, not just water. It's critical to try to stay within this limit. Does that make sense?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 818,
-    "prompt": "Nurse: When did the change in speech start?\n\nPatient: And I put some green beans in there.\n\nNurse: When did the change in speech start?\n\nPatient: So onions?\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat the last vegetable you mentioned in your soup?\n\nPatient: Barwick.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat the last vegetable you mentioned in your soup?\n\nPatient: Very good.",
-    "responses": {
-        "gpt4": "When did the changes in your speech begin, Ms. Aguirre?",
-        "our_model": "When did the change in speech start?"
-    }
-}

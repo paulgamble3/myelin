@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5371,
-    "prompt": "Nurse: I can imagine that it's a bit daunting, Mr. O'Leary. It's completely normal to have some apprehension before a procedure. Do you have any specific questions or concerns you'd like to discuss before we move forward?\n\nPatient: I mean, is this really gonna make any difference in my pain level?\n\nNurse: That's a very valid concern, Mr. O'Leary. Total knee replacement is one of the most successful procedures in all of medicine. It's designed to relieve pain and help you get back to doing the things you enjoy. Doctor Cristina Stevens, your surgeon, is highly experienced and has performed over 1000 total knee replacements. She's known for her excellent outcomes. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: No. Now I just wanna\n\nNurse: I'm here to ensure you have everything you need, Mr. O'Leary.\n\nPatient: get this call done with, you know?\n\nNurse: I appreciate your patience, Mr. O'Leary. I'm calling today to ensure you have everything you need for your upcoming procedure. Is it okay if we review a few topics together?\n\nPatient: Yeah. Fine.",
-    "responses": {
-        "gpt4": "Thank you, Mr. O'Leary. Let's get the logistics out of the way first. Your Right Total Knee Replacement procedure is scheduled for August 13th at 9:00 AM with Dr. Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is this timing okay with you?",
-        "our_model": "Thank you, Mr. O'Leary. Let's first get all the logistics out of the way. You are scheduled for a Right knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

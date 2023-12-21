@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2535,
-    "prompt": "Nurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't I didn't say anything.\n\nNurse: No problem at all, Mr. Oliver. I'm here to help. Is there anything else you'd like to discuss today?\n\nPatient: Well, let's see.\n\nNurse: Of course, Mr. Oliver. Take your time.\n\nPatient: I'm trying to eat health there, and so I'm eating a lot of salads.\n\nNurse: That's a great choice, Mr. Oliver.\n\nPatient: And there's this really good dressing I like. It's wishbone a tiny",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Oliver, you were saying something about Wishbone, could you please repeat that?",
-        "our_model": "I see, Mr. Oliver."
-    }
-}

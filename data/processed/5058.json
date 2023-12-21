@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5058,
-    "prompt": "Nurse: I appreciate your patience, Mr. Koroleva. I'm here to ensure you have all the information you need for your upcoming colonoscopy. Before we begin, do you have any questions or concerns you'd like to discuss?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to the presence of pus and mucus in your stool. I realize it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: Fine. I just wanna get it over with.\n\nNurse: I'm sorry, Mr. Koroleva, could you please confirm what you just said?\n\nPatient: I just said it's I'm fine. I just wanna get it over with\n\nNurse: Hold on a second while I figure out how I can best support you. Give me a moment while I figure out how I can best help you.\n\nPatient: I'm fine.",
-    "responses": {
-        "gpt4": "I understand, Mr. Koroleva. Before we discuss your preparation for the colonoscopy, I have a few more questions about your symptoms. Has your wound increased in size or redness?",
-        "our_model": "When did you first notice the pus and mucus in your stool, Mr. Koroleva?"
-    }
-}

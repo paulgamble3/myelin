@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2516,
-    "prompt": "Nurse: Yes, Mr. Oliver, I have your recent lab results here.\n\nPatient: And I wanna know what\n\nNurse: Of course, Mr. Oliver.\n\nPatient: g f r me.\n\nNurse: I see, Mr. Oliver. Your GFR, or Glomerular Filtration Rate, is a measure of how well your kidneys are filtering waste from your blood. According to your recent lab results, your GFR is 67 mL/min/1.73m2. This is within the normal range for someone with Stage II Chronic Kidney Disease. However, it's important to continue managing your health conditions to maintain this level. Do you have any other questions or concerns you'd like to discuss?\n\nPatient: It's\n\nNurse: I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please repeat your GFR?\n\nPatient: Oh, I didn't say anything. I just wanted you tell me what GFR means.",
-    "responses": {
-        "gpt4": "I see. My apologies for misunderstanding earlier. GFR, or Glomerular Filtration Rate, is a test used to check how well your kidneys are working. It estimates how much blood passes through the glomeruli (tiny filters in the kidneys that filter waste) each minute. In your case, with chronic kidney disease, it's particularly important to keep an eye on your GFR. Is there anything else you would like to know?",
-        "our_model": "Of course, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. Specifically, it estimates how much blood passes through the glomeruli each minute. Glomeruli are the tiny filters in the kidneys that filter waste from the blood."
-    }
-}

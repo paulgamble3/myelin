@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1244,
-    "prompt": "Nurse: I'm sorry, Ms. Raynier, you were saying?\n\nPatient: five days before the procedure.\n\nNurse: I apologize for any confusion, Ms. Raynier. You're correct. It's 5 days before the procedure. So, you should have stopped taking Plavix two days ago, correct?\n\nPatient: Three days ago because my procedure is in two days.\n\nNurse: I see, thank you for clarifying, Ms. Raynier. So, you stopped taking Plavix three days ago, correct?\n\nPatient: Yes.\n\nNurse: That's great, Ms. Raynier. You're following the instructions correctly. Do you have any questions about Plavix or why it was necessary to stop it before your procedure?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great, Ms. Raynier. Now, are you currently taking any other medications like Advil, Aspirin, Aleeve, or other blood thinners?",
-        "our_model": "Alright, Ms. Raynier. Now, are you taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?"
-    }
-}

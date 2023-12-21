@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2530,
-    "prompt": "Nurse: I'm sorry, Mr. Oliver, you were saying?\n\nPatient: Seventy five.\n\nNurse: Thank you for that information, Mr. Oliver. A blood pressure reading of 120 over 75 is within the normal range. It's good that you're monitoring your blood pressure as well. If it's okay with you, I'd like to share some suggestions about managing blood pressure. Would that be alright?\n\nPatient: Thank\n\nNurse: A blood pressure reading of 120 over 75 is within the normal range, which is good news. It's essential to keep monitoring your blood pressure regularly. Now, would you like me to share some suggestions about managing blood pressure?\n\nPatient: Sure.\n\nNurse: Great, Mr. Oliver. One way to manage blood pressure is by reducing sodium intake. This means avoiding processed foods and adding less salt to your meals. Another strategy is regular physical activity. Even a brisk walk can help. Lastly, managing stress through relaxation techniques like deep breathing or meditation can also help. Does that make sense?\n\nPatient: Yep. It all makes sense, but I'm working on all those things.",
-    "responses": {
-        "gpt4": "That's great to hear, Mr. Oliver. Keep up the good work! It's been a pleasure talking with you today. Remember, taking steps to manage your blood pressure and blood sugar levels can go a long way in preserving your kidney health. If you have any further questions, don't hesitate to reach out. Take care!",
-        "our_model": "That's fantastic to hear, Mr. Oliver. It sounds like you're doing a great job managing your health. Remember, it's a journey and every step you take counts. Is there anything else you'd like to discuss today?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4353,
-    "prompt": "Nurse: That's a great question, Mr.\n\nPatient: And how is it measured?\n\nNurse: That's a great question, Mr. Oliver. GFR stands for Glomerular Filtration Rate. It's a test used to check how well your kidneys are working. It estimates how much blood passes through the tiny filters in your kidneys, called glomeruli, each minute. A lower GFR can be a sign that your kidneys are not working as well as they should. Your GFR is 67 mL/min/1.73m2, which is within the normal range. Does that help clarify things for you?\n\nPatient: Yes.\n\nNurse: I'm glad to hear that, Mr. Oliver. If you have any other questions about your lab results, feel free to ask. Otherwise, I'd like to discuss your medications. Is that alright with you?\n\nPatient: Yes.\n\nNurse: Thank you, Mr. Oliver. Let's start with your Valsartan. You're prescribed to take a 40 mg oral tablet daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's excellent, Mr. Oliver. Sticking to your medication routine is essential in managing your conditions. Let's discuss the next medication, which is the Lantus 100 IU/mL prefilled pen. Are you taking 15 units two times a day as prescribed?",
-        "our_model": "That's great to hear, Mr. Oliver. Now, let's move on to your Lantus. You're prescribed to take 15 units two times a day. Have you been taking this medication as prescribed?"
-    }
-}

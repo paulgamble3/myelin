@@ -1,8 +1,0 @@
-{
-    "prompt_id": 139,
-    "prompt": "Nurse: I'm here to assist you, Mr. Valenzuela. I'm glad to hear your day is going fine. As an AI, I don't have personal experiences, but I'm here to help make your day better. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: I'm feeling Okay about it.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat how you're feeling about your upcoming colonoscopy procedure?\n\nPatient: I said I'm feeling okay about it.\n\nNurse: Thank you for sharing that, Mr. Valenzuela. It's completely normal to have some feelings about a procedure like this. Is there anything specific that's making you feel okay about it?\n\nPatient: No. I feel fine.\n\nNurse: I see, Mr. Valenzuela. It's great that you're feeling okay about the procedure. Before we move forward, do you have any questions or concerns you'd like to discuss?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thanks for confirming, Mr. Valenzuela. If you come up with any questions or need any further assistance later on, feel free to contact our team. We're here to support you. Take care!",
-        "our_model": "Alright, Mr. Valenzuela. Please remember that you can ask me questions at any time during our conversation. I see on your chart that you're getting this colonoscopy due to unexplained and long-lasting diarrhea. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

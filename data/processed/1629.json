@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1629,
-    "prompt": "Nurse: I'm glad you found the suggestions helpful, Mr. Benton. Now, let's discuss your other chronic conditions. You have hypertension, or high blood pressure. How have you been managing this condition?\n\nPatient: I just try to keep my stress down.\n\nNurse: That's a great approach, Mr. Benton. Stress management is indeed an important part of managing hypertension. Regular physical activity, a balanced diet, and avoiding tobacco can also help. Do you have any questions about managing your hypertension?\n\nPatient: Thank\n\nNurse: I'm sorry, Mr. Benton, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Oh, I didn't say anything.\n\nNurse: Alright, Mr. Benton. Let's move on to your anemia. How have you been managing this condition?\n\nPatient: I'm Good. I think I take my ferrosulfate, and I think I'm good.",
-    "responses": {
-        "gpt4": "It's great to hear that you've been taking your prescribed medication, Mr. Benton. This is key in managing your anemia successfully. Just remember to have a diet that includes iron-rich foods such as fortified breads and cereals, lean meats, and legumes. Has your doctor discussed making any dietary changes to help manage your anemia?",
-        "our_model": "That's great to hear, Mr. Benton. Taking your Ferrous sulfate as prescribed is indeed important for managing your anemia. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3735,
-    "prompt": "Nurse: That's okay, Ms. Odonnell. Sometimes it's just about taking one day at a time. Is there anything you enjoy doing\n\nPatient: Yes.\n\nNurse: at home, I'm sorry, Ms. Odonnell, could you please clarify?\n\nPatient: My daughter's coming to visit me.\n\nNurse: That sounds lovely, Ms. Odonnell. It's always nice to spend time with family. How often does your daughter visit?\n\nPatient: Let's well.\n\nNurse: I'm I'm sorry, Ms. Odonnell, I didn't quite catch that. Could you please tell me again how often your daughter visits?\n\nPatient: She's away at school, so not very often.",
-    "responses": {
-        "gpt4": "It must be really special when you get to see her then. What do you usually do together when she visits?",
-        "our_model": "I see, so these visits must be quite special. What do you usually enjoy doing together when she's home?"
-    }
-}

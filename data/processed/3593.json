@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3593,
-    "prompt": "Nurse: appreciate your I apologize for the confusion earlier, Mr. Benton. I'm here to help you and gather information on behalf of your doctor. Is there anything you're looking forward to doing this week?\n\nPatient: No.\n\nNurse: That's okay, Mr. Benton. Sometimes it's just about taking one day at a time. Before we move on to discuss your kidney disease, do you have any symptoms or concerns you'd like to share with me?\n\nPatient: No.\n\nNurse: Alright, Mr. Benton. If you have any questions or concerns at any point during our conversation, please feel free to share them. Would it be okay if we go over a few topics to check on how you're doing?\n\nPatient: I guess.\n\nNurse: Thank you, Mr. Benton. I see from your records that you have Type II Diabetes. Have you been checking your blood sugar daily?\n\nPatient: Not really.",
-    "responses": {
-        "gpt4": "It's really important to check your blood sugar levels regularly when managing diabetes, Mr. Benton. Doing so can help to prevent complications from arising. Would it be okay if I share some strategies on how to remember to check it daily?",
-        "our_model": "I see, Mr. Benton. It's really important to monitor your blood sugar levels regularly when you have diabetes. Would you be open to starting this practice?"
-    }
-}

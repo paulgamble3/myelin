@@ -1,8 +1,0 @@
-{
-    "prompt_id": 804,
-    "prompt": "Nurse: That's excellent, Ms. Aguirre. It's essential to manage any pain you might have. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?\n\nPatient: I don't take it very long.\n\nNurse: That's good to hear, Ms. Aguirre. It's critical to take Tylenol only when you need it for pain relief. Lastly, are you taking your Atorvastatin 40 mg tablet daily as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Aguirre. Regularly taking your Atorvastatin is important for managing your hyperlipidemia. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's always best to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Ms. Aguirre. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Well, for lunch? I had some shoes.",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Aguirre. Could you please clarify what you had for lunch?",
-        "our_model": "I'm sorry, Ms. Aguirre, I didn't quite catch that. Could you please repeat what you had for lunch?"
-    }
-}

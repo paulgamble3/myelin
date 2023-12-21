@@ -1,8 +1,0 @@
-{
-    "prompt_id": 144,
-    "prompt": "Patient: I'm ready.\n\nNurse: I'm sorry, Mr. Valenzuela, could you please confirm what you just said?\n\nPatient: They said I'm ready.\n\nNurse: Give me a moment while I figure out how I can best help you. I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Thank you for confirming, Mr. Valenzuela. When did the diarrhea start?\n\nPatient: Oh, I've been having that for months.\n\nNurse: I see, Mr. Valenzuela. Is the diarrhea chronic, meaning it's been ongoing for a long time?\n\nPatient: Yeah. For at least three months.",
-    "responses": {
-        "gpt4": "Got it, Mr. Valenzuela. Have you noticed any patterns or triggers that might cause it, such as certain foods or situations?",
-        "our_model": "I'm sorry to hear that, Mr. Valenzuela. Have you noticed any blood in your stool during this time?"
-    }
-}

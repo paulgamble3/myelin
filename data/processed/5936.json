@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5936,
-    "prompt": "Nurse: I'm glad to hear that. Another suggestion is to limit your phosphorus intake to 0.8 grams per day. This can be achieved by avoiding certain foods like dairy products, beans, and nuts. Do you think you could try that?\n\nPatient: Yep.\n\nNurse: That's great to hear. Lastly, since you have Type II Diabetes, it's beneficial to control your carbohydrate intake. This can be achieved by eating a variety of foods and keeping an eye on portion sizes. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Remember, these changes can have a big impact on managing your health conditions. Now, let's discuss your other chronic conditions. How has your coronary artery disease been lately?\n\nPatient: Just fine.\n\nNurse: I'm glad to hear that. Now, how about your hypertension?\n\nPatient: Fine.",
-    "responses": {
-        "gpt4": "That's good to hear. Lastly, how are you doing with regard to your chronic kidney disease?",
-        "our_model": "I'm sorry, could you please repeat your response?"
-    }
-}

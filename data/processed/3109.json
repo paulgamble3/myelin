@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3109,
-    "prompt": "Nurse: That's good to hear. We just performed a simple CHF assessment. It's a good idea to do this at home every day. I understand that keeping track of symptoms can be complicated. Do you have any questions about how to do so?\n\nPatient: No.\n\nNurse: Alright. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: I\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat what you said about your recent meals?\n\nPatient: I just eat whatever easy. So, like, go out of microwave stuff.\n\nNurse: I see. Convenience is important, especially when you're not feeling your best. Can you share a bit more about what types of microwave meals you typically have?\n\nPatient: They're just, like, rice mostly, I guess.",
-    "responses": {
-        "gpt4": "Microwave meals can be quite handy. However, they often have high sodium content which may not be ideal for your health condition. Would it be okay for me to recommend a few dietary tips that align with your low sodium and fluid restriction diet?",
-        "our_model": "Thank you for sharing that. Rice can be a part of a balanced diet. Now, I'd like to remind you of your dietary recommendations. You're on a fluid restriction of 1.5 liters per day. This includes all fluids, not just water. Are you okay with me sharing some tips on how to manage this?"
-    }
-}

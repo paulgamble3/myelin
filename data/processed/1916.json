@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1916,
-    "prompt": "Nurse: That sounds wonderful.\n\nPatient: Space.\n\nNurse: That sounds wonderful. There's nothing quite like the comfort of your own home. Do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: Yeah. I'm building my own car.\n\nNurse: That's fantastic! Building a car is quite an undertaking. How long have you been working on this project?\n\nPatient: Well, there are a bunch of miniature cars\n\nNurse: Oh, I see. Miniature car building is a fascinating hobby. How long have you been working on these miniature cars?\n\nPatient: So one only takes",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat?",
-        "our_model": "That's really cool. Miniature car building sounds like a fun and intricate hobby. Do you have a favorite car model that you're working on right now?"
-    }
-}

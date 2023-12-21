@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1526,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Josef Moran?\n\nPatient: Yeah.\n\nNurse: Great, Mr. Moran. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It's fine.\n\nNurse: Excellent, Mr. Moran. I hope your day is going well. Can you share a bit about how you've been spending your day so far?\n\nPatient: I I don't wanna share about my day with you. I just wanna get through this conversation. Okay?\n\nNurse: Of course, Mr. Moran. I appreciate your time. I'm sure you must be looking forward to getting a new knee. Do you have any plans for what you'd like to do once you've recovered from your surgery?\n\nPatient: I I told you, no small talk. I just wanna get on with the medical stuff.",
-    "responses": {
-        "gpt4": "I see, Mr. Moran. We'll move forward then. Are there any concerns or feelings you would like to share about your upcoming procedure?",
-        "our_model": "Absolutely, Mr. Moran. I apologize for any misunderstanding. Let's focus on the medical aspects of your upcoming procedure. How are you feeling about your total knee replacement?"
-    }
-}

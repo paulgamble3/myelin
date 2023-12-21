@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6112,
-    "prompt": "Nurse: Lantus is a type of insulin that helps control blood sugar levels in people with diabetes. It's used to help keep your blood sugar levels\n\nPatient: I had diabetes type two.\n\nNurse: Lantus is a type of insulin that helps control blood sugar levels in people with diabetes. It's used to keep your blood sugar levels within a target range. Do you have any other questions about this medication?\n\nPatient: Yes. I do.\n\nNurse: Of course. What other questions do you have about your medications?\n\nPatient: Well, I thought\n\nNurse: I'm sorry, Jon, could you please repeat your question?\n\nPatient: I'm not really sure why I need insulin.",
-    "responses": {
-        "gpt4": "Insulin helps to control the level of sugar in your blood. Even though you have Type II Diabetes, where your body does produce some insulin, it may not make enough, or your body may not use it effectively. That's why you might still need to take insulin. This helps to keep your blood sugar level steady. Does that help to clarify?",
-        "our_model": "Insulin is a hormone that helps regulate the amount of sugar in your bloodstream. In people with diabetes, the body either doesn't make enough insulin or can't use it effectively. Insulin injections, like Lantus, can help control blood sugar levels. Does that help clarify things for you?"
-    }
-}

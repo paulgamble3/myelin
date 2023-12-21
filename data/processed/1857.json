@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1857,
-    "prompt": "Nurse: I'm sorry, Ms. Odonnell, you were saying something about your recent meals?\n\nPatient: Well, you know, I have a question about that because I'm on a low phosphorus diet.\n\nNurse: Of course, Ms. Odonnell. I'd be happy to help answer your question. What would you like to know about your low phosphorus diet?\n\nPatient: Foods should I avoid? On this diet?\n\nNurse: That's a great question, Ms. Odonnell. On a low phosphorus diet, it's generally recommended to limit foods high in phosphorus. These include dairy products, beans, lentils, nuts, and whole grains. Also, some processed foods and drinks have added phosphorus. Would it be alright if I provide some more detailed information about this?\n\nPatient: Yes.\n\nNurse: Thank you, Ms. Odonnell. It's also recommended to avoid certain types of alcohol, like beer, which is often high in phosphorus. Instead, you might consider wine or spirits. Also, some types of fish, like sardines and canned tuna, can be high in phosphorus. It's often found in the bones, so you might want to choose fish without bones. What do you think about these suggestions?\n\nPatient: Who?",
-    "responses": {
-        "gpt4": "I'm sorry, Ms. Odonnell, could you please repeat that?",
-        "our_model": "I'm sorry, Ms. Odonnell, could you please repeat your question?"
-    }
-}

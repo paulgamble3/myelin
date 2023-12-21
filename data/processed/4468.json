@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4468,
-    "prompt": "Patient: No. I haven't.\n\nNurse: Give me a moment while I figure out how I can best help you.\n\nNurse: I apologize for the confusion earlier, Mr. Delarosa. I thought you said you had one-sided leg weakness. Could you please confirm whether this is correct?\n\nPatient: This is incorrect.\n\nNurse: I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: No. It's not correct.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I apologize for the confusion, Mr. Delarosa. I thought you said you had one-sided arm weakness. Could you please confirm whether this is correct?\n\nPatient: I do not have.",
-    "responses": {
-        "gpt4": "I apologize for the confusion earlier, Mr. Delarosa. I thought you said you were experiencing one-sided arm weakness. Could you please confirm or clarify this for me?",
-        "our_model": "I apologize for the confusion, Mr. Delarosa. I understand that you do not have one-sided arm weakness. Now, let's discuss your diet. Can I share some dietary recommendations with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6154,
-    "prompt": "Nurse: Great, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: It's been really good. How has your day been?\n\nNurse: I'm glad to hear your day has been good, Mr. Dang. As an AI, I don't have personal experiences, but I'm here to assist you. I'd like to know more about your feelings regarding your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: I'm feeling fine about it.\n\nNurse: That's good to hear, Mr. Dang. It's critical to stay positive. Is there anything specific you'd like to discuss or any questions you have about the procedure before we begin?\n\nPatient: No.\n\nNurse: Alright, Mr. Dang. Please remember that you can ask me any questions at any time during our conversation. I see from your chart that you're getting this colonoscopy due to unexplained abdominal pain. I acknowledge that it can be quite a process to go through this procedure. How are you feeling about it?\n\nPatient: I'm feeling okay.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're feeling okay about it, Mr. Dang. Now, you mentioned earlier that you're experiencing abdominal pain. Can you confirm if that's correct?",
-        "our_model": "I'm sorry, Mr. Dang, could you please confirm if you're currently experiencing abdominal pain?"
-    }
-}

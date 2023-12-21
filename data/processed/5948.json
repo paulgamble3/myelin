@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5948,
-    "prompt": "Patient: No.\n\nNurse: Does the patient report trouble seeing from one or both eyes?\n\nPatient: No.\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Hold on a second while I figure out how I can best support you.\n\nNurse: Does the patient report trouble walking?\n\nPatient: No.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm if you've been having any problems with your hypertension?\n\nPatient: No. I have not.",
-    "responses": {
-        "gpt4": "That's good to hear. I'm glad your hypertension is well-managed. Last but not least, how has your chronic kidney disease been? Have you noticed any changes in your symptoms like swelling, fatigue, or changes in urine output?",
-        "our_model": "That's good to hear. Now, let's discuss your smoking habits. Do you currently smoke cigarettes or use any vaping devices?"
-    }
-}

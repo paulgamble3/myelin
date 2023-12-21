@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3710,
-    "prompt": "Patient: What's\n\nPatient: Why?\n\nNurse: That's a good question. The reason is to prevent any food or liquid from being accidentally inhaled during your anesthesia. This could cause serious complications. That's why it's important to follow this instruction very strictly. Does that help clarify things?\n\nPatient: Oh, Oh, yeah.\n\nNurse: I'm glad that makes sense. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Carry on. Carry on.\n\nNurse: Thank you. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No Moss Aleve.",
-    "responses": {
-        "gpt4": "That's good to hear. Let's keep going then. Have you traveled outside of the country in the past 14 days?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat your response?"
-    }
-}

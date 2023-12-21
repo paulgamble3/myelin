@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4769,
-    "prompt": "Nurse: That sounds like a great way to spend time together, Mr. Shyam. Biking is also a good form of exercise. Do you have a favorite trail or park where you like to ride with your kids?\n\nPatient: Not really. We just go wherever.\n\nNurse: That's a fun and flexible approach, Mr. Shyam. It's great that you're keeping active with your kids. Now, before we move on to some health-related topics, do you have any questions or concerns you'd like to address?\n\nPatient: Yeah. I do have a question.\n\nNurse: Of course, Mr. Shyam. What's your question?\n\nPatient: How is CHF diagnosed?\n\nNurse: CHF, or Congestive Heart Failure, is typically diagnosed through a combination of medical history, physical examination, and diagnostic tests. These tests may include an electrocardiogram (ECG), blood tests, chest x-ray, and echocardiogram. The doctor looks for signs of fluid buildup, heart enlargement, or other issues that indicate the heart isn't pumping as effectively as it should be. Is there anything else you'd like to know about this, Mr. Shyam?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Alright, Mr. Shyam. Let's move on to the topic of your medications. Are you still taking your prescribed medications- Valsartan and Lasix as directed by your doctor?",
-        "our_model": "Alright, Mr. Shyam. Let's move on to your medications. Are you still taking your Valsartan and Lasix as prescribed by Doctor Rodriguez?"
-    }
-}

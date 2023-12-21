@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5871,
-    "prompt": "Patient: Oh, that's the only reason I'm having it\n\nNurse: I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you.\n\nNurse: I see, Mr. Dang. When did your abdominal pain start?\n\nPatient: Hi.\n\nPatient: I think this is between me and my doctor.\n\nPatient: It's in my chart.\n\nNurse: I appreciate your patience, Mr. Dang. Could you please tell me if your abdominal pain is generalized or localized?\n\nPatient: No. It's just in my stomach.",
-    "responses": {
-        "gpt4": "Thank you for the information, Mr. Dang. Is this abdominal pain consistent or does it come and go?",
-        "our_model": "I see, thank you for sharing that, Mr. Dang. On a scale of 0 to 10, with 10 being the worst pain you can imagine, how would you rate your pain?"
-    }
-}

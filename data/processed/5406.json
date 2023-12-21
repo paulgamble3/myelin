@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5406,
-    "prompt": "Nurse: That's wonderful, Mr. Hardy. Home Alone is a classic holiday movie. Do you have a favorite scene or moment from the movie?\n\nPatient: I like when Joe said she had just called on fire.\n\nNurse: That's a memorable scene indeed, Mr. Hardy. It's always fun to watch those classic holiday movies. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I can't think of any.\n\nNurse: Alright, Mr. Hardy. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yeah. Sure.\n\nNurse: Great, thank you, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yep.",
-    "responses": {
-        "gpt4": "That's very responsible of you, Mr. Hardy. Would you mind sharing what your last blood sugar reading at home was?",
-        "our_model": "That's excellent, Mr. Hardy. Could you please share with me what your last blood sugar reading at home was?"
-    }
-}

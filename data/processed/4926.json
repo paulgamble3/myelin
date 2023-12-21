@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4926,
-    "prompt": "Nurse: You're currently taking Captopril 12.5 mg oral tablet with a dosage of 25 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear. Now, let's discuss the next medication. You're also prescribed Apixaban 5 mg oral tablet, with a dosage of 5 mg two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes, ma'am.\n\nNurse: That's excellent. Now, let's discuss your Insulin Lantus 100 IU/mL prefilled pen. The prescribed dosage is 10 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful. Lastly, you're prescribed Aspart 100 IU/mL prefilled pen, with a dosage of 3 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. But I do have a question. Why do I take Captapril?",
-    "responses": {
-        "gpt4": "Captopril is a medicine used to treat high blood pressure and heart failure. It's also used to protect the kidneys in patients with diabetes. It works by relaxing blood vessels so that blood can flow more easily, which helps to lower blood pressure. By keeping your blood pressure in check, this can help prevent damage to your kidneys. Do you have any more questions about your medications?",
-        "our_model": "Captopril is a medication that's used to treat high blood pressure and heart conditions. It works by relaxing blood vessels, which helps to lower blood pressure. It's also used to protect the kidneys in people with diabetes. Do you have any other questions about your medications?"
-    }
-}

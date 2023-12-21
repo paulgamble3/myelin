@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2247,
-    "prompt": "Patient: It's just recently started. That's why you guys suggested getting a call and ask\n\nPatient: a bay.\n\nNurse: I appreciate your patience, Mr. Valenzuela. Have you noticed any blood in your stool during this time?\n\nPatient: All\n\nNurse: I'm sorry, Mr. Valenzuela, could you please repeat your response?\n\nPatient: No. I said no.\n\nNurse: Thank you for clarifying, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "OK, thanks for letting me know. Have you experienced any abdominal pain or discomfort with the diarrhea?",
-        "our_model": "Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, or have you experienced any feelings of faintness or dizziness?"
-    }
-}

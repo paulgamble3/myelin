@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2250,
-    "prompt": "Nurse: Thank you for clarifying, Mr. Valenzuela. Have you experienced any nausea or vomiting along with the diarrhea?\n\nPatient: No.\n\nNurse: Just give me a second to work out the best way I can assist you. Give me a moment to check how I can best support you. I'm glad to hear that, Mr. Valenzuela. Have you been feeling weak, lethargic, or have you experienced any feelings of faintness or dizziness?\n\nPatient: No.\n\nNurse: Have you had a fever, Mr. Valenzuela?\n\nPatient: No.\n\nNurse: Have you started any new prescription medications recently, Mr. Valenzuela?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Thank you for clarifying, Mr. Valenzuela. Just a few more questions for you. Has there been any recent changes to your diet that could possibly explain the diarrhea?",
-        "our_model": "Have you been in contact with other individuals with diarrhea or had any recent travel, Mr. Valenzuela?"
-    }
-}

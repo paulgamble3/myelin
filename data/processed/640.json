@@ -1,8 +1,0 @@
-{
-    "prompt_id": 640,
-    "prompt": "Nurse: I'm sorry, Ms. Raynier, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: I have a question for you.\n\nNurse: Of course, Ms. Raynier. What's your question?\n\nPatient: So since I'm getting a new\n\nNurse: I'm sorry for the interruption, Ms. Raynier. Could you please repeat your question?\n\nPatient: Having joint replacement surgery, how long do new joints last?\n\nNurse: That's a great question, Ms. Raynier. On average, knee replacements can last anywhere from 15 to 20 years. However, it can vary depending on several factors such as your activity level, weight, and how well you follow your doctor's instructions after surgery. It's essential to remember that joint replacements are not as durable as your original joints and may need to be replaced at some point. But with proper care, your new knee should serve you well for many years. Does that answer your question?\n\nPatient: Yes. It does.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Ms. Raynier. Should you have further questions about your joint replacement or anything else, don't hesitate to ask.\n\nNow, my next question is about your current health condition. Have you experienced any signs of illness recently, such as a fever, chills, or muscle aches?",
-        "our_model": "I'm glad I could provide the information you were looking for, Ms. Raynier. Now, I'd like to ask if you've been experiencing any signs of illness such as fever, chills, or muscle aches recently?"
-    }
-}

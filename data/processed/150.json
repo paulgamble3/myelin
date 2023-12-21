@@ -1,8 +1,0 @@
-{
-    "prompt_id": 150,
-    "prompt": "Patient: No.\n\nNurse: Hold on a second while I figure out how I can best support you. Just give me a second to work out the best way I can assist you.\n\nNurse: I'm glad to hear that, Mr. Valenzuela. Have you noticed any weight loss or changes in your appetite?\n\nPatient: No. No weight loss.\n\nNurse: That's good to hear, Mr. Valenzuela. Have you noticed any changes in your appetite or eating habits due to the diarrhea?\n\nPatient: No.\n\nNurse: I see, Mr. Valenzuela. I hope this procedure gives you and your doctor the answers you're looking for. Would it be okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Sure. Let's go ahead.",
-    "responses": {
-        "gpt4": "Thank you, Mr. Valenzuela. I want to ensure you have everything you need for your upcoming procedure. I will be calling again the day before your procedure to check in. Before we proceed, is there anything else you'd like to discuss regarding your procedure?",
-        "our_model": "Great, thank you, Mr. Valenzuela. I'm calling today to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure. Let's first get all the logistics out of the way. Your colonoscopy procedure is scheduled for August 13th at 9:00 AM with Doctor Meredith Bailey. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5720,
-    "prompt": "Nurse: Thank you for clarifying, Ms. Aguirre. It's critical to aim for a blood sugar level that's within the target range for your health. Would you be open to discussing some strategies to help manage your blood sugar levels?\n\nPatient: Said, yeah.\n\nNurse: Great, thank you, Ms. Aguirre. One strategy is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: That sounds good.\n\nNurse: I'm glad you think so, Ms. Aguirre. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could try this?\n\nPatient: Sure.\n\nNurse: That's wonderful to hear, Ms. Aguirre. Regular physical activity can make a big difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Earlier today.",
-    "responses": {
-        "gpt4": "Would you mind sharing with me what was the reading for your blood pressure earlier today?",
-        "our_model": "That's great, Ms. Aguirre. Could you please share with me what the result was?"
-    }
-}

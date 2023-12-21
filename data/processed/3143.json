@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3143,
-    "prompt": "Patient: Cool.\n\nPatient: No.\n\nNurse: Alright, Mr. Valenzuela. Let's move on to the next topic. You will also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?\n\nPatient: No. I don't. But I do have diarrhea.\n\nNurse: I see, Mr. Valenzuela. It's important to note that the diarrhea you're experiencing is likely due to the bowel prep for the colonoscopy, not the procedure itself. This is a normal part of the process. Do you have any questions about this or any other aspects of the preparation?\n\nPatient: I haven't started my laxative yet.\n\nNurse: That's correct, Mr. Valenzuela. You'll start the bowel prep with the PLENVU laxative solution 24 hours before your procedure. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Again, I'm, like, ready to get over with and",
-    "responses": {
-        "gpt4": "I appreciate your positive mindset, Mr. Valenzuela. I can see that you're committed to this process and that's really the best way to approach it. Remember, it may be a bit challenging but we're here to support you every step of the way. Remember, the aim is to have a successful colonoscopy and make sure you're as healthy as possible.",
-        "our_model": "I hear you, Mr. Valenzuela. It's a tough part, but it's crucial for the success of the procedure. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about the bowel prep?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4321,
-    "prompt": "Patient: I do smoke a pack of cigarettes a day.\n\nNurse: I see. It's a big step to acknowledge that. Have you ever considered quitting smoking?\n\nPatient: I have, but I'm not ready to quit yet.\n\nNurse: That's completely okay. It's a big decision to make and it's important to do it when you're ready. Can you share with me why you feel you're not ready to quit smoking yet?\n\nPatient: Interest\n\nPatient: helps me to relax.\n\nNurse: I see, many people use smoking as a way to cope with stress. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?\n\nPatient: And I'm not ready to quit that.",
-    "responses": {
-        "gpt4": "I understand. It's important to quit when you're ready. In the meantime, if you ever feel ready to quit, feel free to reach out to us. We're here to help. Now, let's move on to a different topic. Do you have any other questions or concerns about your health?",
-        "our_model": "I see, smoking can be a way to cope with stress for some people. If you ever decide you're ready to quit, we have a lot of resources that could help you. Would you like me to share some of these resources with you for future reference?"
-    }
-}

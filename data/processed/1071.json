@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1071,
-    "prompt": "Nurse: Alright. I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: I I don't know pasta.\n\nNurse: I'm sorry, could you please repeat that?\n\nPatient: Pasta.\n\nNurse: Pasta is a great choice for a low fiber diet. It's versatile and can be made in many ways to keep it interesting. Do you have a favorite pasta dish that you're looking forward to having during this time?\n\nPatient: Worried about it.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please confirm what you said?\n\nPatient: Pasta.",
-    "responses": {
-        "gpt4": "Great, pasta is indeed a good option. Now, bear in mind, the day before your colonoscopy, you'll need to switch to a clear liquid diet. This includes items like broths, clear juices, and Jell-O, but not anything red, orange, or purple. Are you okay with this?",
-        "our_model": "Just give me a second to work out the best way I can assist you."
-    }
-}

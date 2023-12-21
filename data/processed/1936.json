@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1936,
-    "prompt": "Patient: That would be lovely. I didn't know they got some some traffic there.\n\nNurse: Absolutely. I'll make sure to send you some resources on how to track your symptoms. Now, let's talk about your diet. Can you tell me about your recent meals?\n\nPatient: Well, I've been pretty overwhelmed and about doing things on my cell. Very healthy, good meat, and vegetables.\n\nNurse: It sounds like you're making an effort to eat healthily, which is great. Can you share more about the types of meats and vegetables you're eating?\n\nPatient: I like the brussels sprouts and\n\nPatient: Damn.\n\nNurse: I'm sorry, Sam, could you please repeat that?\n\nPatient: I like to eat brussels sprouts and salmon.",
-    "responses": {
-        "gpt4": "That sounds delicious. Salmon and brussels sprouts are both excellent choices to include in a balanced diet. Keep up the good work! Do you have any questions about diet or nutrition?",
-        "our_model": "That's a great combination. Brussels sprouts and salmon are both very nutritious. Do you usually have these with other foods or on their own?"
-    }
-}

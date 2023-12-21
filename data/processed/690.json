@@ -1,8 +1,0 @@
-{
-    "prompt_id": 690,
-    "prompt": "Nurse: That's great to hear. Could you share a bit more about what you typically eat in a day?\n\nPatient: Sticking with\n\nNurse: I'm sorry, you were saying something about your diet?\n\nPatient: unprocessed Foods\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: whole grains\n\nNurse: That's excellent. It sounds like you're making good choices. Can I share some dietary recommendations that align with your current diet?\n\nPatient: Vegetables.",
-    "responses": {
-        "gpt4": "That's very good to hear. Whole, unprocessed foods such as vegetables and whole grains are great for maintaining health. How about your fluid intake? I see that you have an advised 2L Fluid Restriction. Have you been able to adhere to that?",
-        "our_model": "That's excellent. It sounds like you're making great choices. I noticed that you're also lactose intolerant. Are you avoiding dairy products as well?"
-    }
-}

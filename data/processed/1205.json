@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1205,
-    "prompt": "Nurse: Excellent, Mr. Dang. I'm glad to hear that you're clear on the diet instructions. Now, I'm curious, what are some low fiber foods that you enjoy as comfort food?\n\nPatient: Hi, pasta.\n\nNurse: I'm sorry, Mr. Dang, could you please repeat your favorite low fiber comfort food?\n\nPatient: I like pasta.\n\nNurse: Pasta is a great choice, Mr. Dang. It's a good source of energy and it's easy on the digestive system. Do you have a favorite pasta dish you're looking forward to having during this time?\n\nPatient: Alex Spaghetti.\n\nNurse: Ally's Spaghetti sounds delicious, Mr. Dang. It's a rare time when doctors want their patients to be eating low fiber comfort foods. Do you usually make it at home or do you have a favorite place where you get it from?\n\nPatient: To make it at home.",
-    "responses": {
-        "gpt4": "That's wonderful to hear, Mr. Dang. It must be comforting to have a familiar dish during this time. Having pasta can also provide a sense of normality. Just a quick reminder: please avoid consuming any red sauce or tomatoes as they are not suitable for a low-fiber diet. Is there anything else you'd like to discuss before we go over the bowel preparation instructions?",
-        "our_model": "That's wonderful, Mr. Dang. Homemade meals are often the best. Do you have a special recipe for Ally's Spaghetti that you follow, or do you like to experiment with different ingredients each time?"
-    }
-}

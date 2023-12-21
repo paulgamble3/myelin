@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2622,
-    "prompt": "Nurse: I'm glad to hear that being home brings you comfort, Ms. Cruz. It's always nice to be in our own space. By the way, do you have any hobbies or pets that keep you company at home?\n\nPatient: Yes. I have I have family members that are here.\n\nNurse: That's wonderful, Ms. Cruz. Having family around can be a great source of comfort. Do you and your family have any shared hobbies or activities that you enjoy doing together?\n\nPatient: Like, any other\n\nNurse: I'm sorry, Ms. Cruz, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: normal people watching TV,\n\nNurse: That sounds like a lovely way to relax and spend time together, Ms. Cruz. What kind of shows do you all enjoy watching?\n\nPatient: going for walks, doing something together, painting,",
-    "responses": {
-        "gpt4": "It's really nice to hear that you and your family have so many activities that you enjoy together, Ms. Cruz. Going for walks and painting can be both therapeutic and fun. What's your favorite thing to paint?",
-        "our_model": "It sounds like you have a lovely time with your family, Ms. Cruz. Painting is a wonderful way to express creativity. Do you have a favorite subject or style that you like to paint?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4079,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Ana Aguirre?\n\nPatient: Yes.\n\nNurse: Hello Ana, I'm calling on behalf of your primary care doctor, Doctor Lynne Contreras, to check in on you. How have you been doing lately?\n\nPatient: Alright.\n\nNurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm getting ready for a performance tomorrow night.\n\nNurse: That sounds exciting! Are you performing in a play or a musical?\n\nPatient: Community circus.",
-    "responses": {
-        "gpt4": "How wonderful! It must be quite exhilarating being part of a community circus. What is your specific role in the show?",
-        "our_model": "That's wonderful! Community circus performances can be quite thrilling. What's your role in the performance?"
-    }
-}

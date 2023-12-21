@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3876,
-    "prompt": "Nurse: I'm glad to hear that. Now, let's discuss your obesity. Have you noticed any changes in your weight recently?\n\nPatient: No.\n\nNurse: Alright. It's critical to monitor your weight regularly as managing your weight can help with your other conditions. If you're open to it, I can provide some suggestions to help manage your weight. Would that be alright?\n\nPatient: Sure.\n\nNurse: Wonderful. One way to manage your weight is by eating a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. Another strategy is regular physical activity. This doesn't necessarily mean going to the gym, it could be as simple as a daily walk. Lastly, limiting alcohol and quitting smoking, if applicable, can also help manage your weight. Do these suggestions sound manageable to you?\n\nPatient: I mean, I'm not gonna quit smoking, but\n\nNurse: I understand that quitting smoking can be a big step.\n\nPatient: I can do the other stuff, I guess.",
-    "responses": {
-        "gpt4": "Those other steps can indeed make a positive impact on your health. Since you mentioned smoking, may I ask how often you smoke?",
-        "our_model": "I appreciate your honesty. It's essential to remember that every small step counts. Focusing on a balanced diet and regular physical activity can still make a big difference in managing your weight and overall health. Now, let's move on to the next topic. Do you smoke cigarettes or vape?"
-    }
-}

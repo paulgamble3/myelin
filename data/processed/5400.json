@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5400,
-    "prompt": "Patient: Oh,\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?\n\nPatient: Yes. It is.\n\nNurse: Hello, Mr. Hardy. I'm calling on behalf of your primary care doctor, Doctor Anuj Gopal, to check in on you. How have you been doing lately?\n\nPatient: I'm feeling very calm. Thank you for asking.",
-    "responses": {
-        "gpt4": "That's good to hear. Finding calm is important amidst the challenges of chronic illness. I'm glad to hear you're doing well in that area. Certainly makes managing things a bit easier, doesn't it? \n\nOn a different note, is there any activity or something special you're looking forward to doing this week?",
-        "our_model": "I'm glad to hear that you're feeling calm, Mr. Hardy. Is there anything you're looking forward to doing this week?"
-    }
-}

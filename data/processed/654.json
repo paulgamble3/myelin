@@ -1,8 +1,0 @@
-{
-    "prompt_id": 654,
-    "prompt": "Nurse: I can imagine that's a big relief for you. It's always comforting to be in our own space. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: Nothing I'd wanna share with you.\n\nNurse: That's perfectly fine. I'm here to help you with your health-related matters. I'm calling on behalf of Doctor Molly Burke. Before we dive into the topics at hand, do you have any questions or concerns you'd like to address?\n\nPatient: No.\n\nNurse: Alright, let's move on to your medications. Have you been able to pick up your new prescription for Lasix 20 mg oral tablets, with a dosage of 40 mg twice a day?\n\nPatient: I've got the lasix. Yes.\n\nNurse: Great, thank you for confirming that. Are you taking the Lasix as prescribed, which is 40 mg twice a day?\n\nPatient: Yes. I am.",
-    "responses": {
-        "gpt4": "Excellent! Sticking to your medication schedule is an important part of managing your CHF. Now, let's talk about your existing medications. Are you still taking Digoxin, Enalapril, and Sumatriptan?",
-        "our_model": "That's excellent. Now, let's briefly discuss your existing medications. Are you still taking Digoxin and Enalapril?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2226,
-    "prompt": "Nurse: You're welcome. Do you have any questions about the bowel prep?\n\nPatient: Nope.\n\nNurse: Alright. Now, let's transition to the next part of your prep which is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright. I know I've shared a lot of information with you, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright. My next question is about your current health status. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're feeling well. It's important to be in good health for your colonoscopy. Now let's transition to the final topic. Have you arranged for a ride home after the procedure? It's important because you'll be given medications during the colonoscopy that might affect your ability to drive or make decisions.",
-        "our_model": "That's good to hear. It's important to be in good health for your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

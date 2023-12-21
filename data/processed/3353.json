@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3353,
-    "prompt": "Nurse: I apologize for\n\nPatient: Nineteen fifty five.\n\nNurse: Thank you for confirming your date of birth, Mr. Kageyama. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: I\n\nNurse: I'm sorry, Mr. Kageyama, I didn't quite catch\n\nPatient: Sure.\n\nNurse: Okay, thank you, Mr. Kageyama. I hope your day is going well so far. How are you feeling about your upcoming colonoscopy procedure?\n\nPatient: Not too bad about it.",
-    "responses": {
-        "gpt4": "That's a good attitude to have, Mr. Kageyama. These procedures can seem daunting, but they're very important for maintaining our health. Before we go any further, do you have any questions or concerns that you'd like to discuss? Please feel free to ask anything, anytime.",
-        "our_model": "I'm glad to hear that, Mr. Kageyama. It's quite a process to go through, so it's good that you're feeling okay about it. This colonoscopy is a preventative screening for colon cancer. How are you feeling about this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6217,
-    "prompt": "Nurse: Are scheduled for a Left knee total knee replacement procedure on August 13th at 9:00 AM with Doctor Cristina Stevens. You'll need to arrive about 1 hour before at 8:00 AM. Is that okay with you?\n\nPatient: It's fine with me.\n\nNurse: Excellent. Once you get to O'Connor hospital, your check-in location will be on the 1st Floor. Does that sound good to you?\n\nPatient: It does sound fine.\n\nNurse: Great. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: Nothing else is\n\nNurse: I'm glad to hear that. I'd like to move on to discuss your medications. Is it okay if we proceed?\n\nPatient: worrying me or that I want to discuss about the logistic",
-    "responses": {
-        "gpt4": "I'm glad everything seems clear with the logistics. I'm now going to move on to your medications. Is that alright with you?",
-        "our_model": "I'm glad to hear that the logistics are clear. Now, I'd like to move on to discuss your medications. Is it okay if we proceed?"
-    }
-}

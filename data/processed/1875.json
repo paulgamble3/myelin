@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1875,
-    "prompt": "Patient: It's fine.\n\nNurse: I'm glad to hear that your recovery is going well, Ms. Odonnell. It's critical to continue with any physical therapy or exercises recommended by your doctor. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: No.\n\nPatient: Well, yes.\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?\n\nPatient: Did I smoke?\n\nNurse: I'm sorry, Ms. Odonnell, could you please confirm if you currently smoke cigarettes or vape?\n\nPatient: High smoke cigarettes.",
-    "responses": {
-        "gpt4": "I appreciate your candidness, Ms. Odonnell. Smoking can affect many aspects of our health. Have you ever considered trying to quit smoking?",
-        "our_model": "Thank you for sharing that, Ms. Odonnell. I know it's not easy, but have you ever considered quitting smoking?"
-    }
-}

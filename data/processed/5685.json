@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5685,
-    "prompt": "Nurse: Thank you. Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?\n\nPatient: Okay.\n\nNurse: I'm sorry, could you please repeat your response?\n\nPatient: No.\n\nNurse: I apologize for the confusion earlier. I want to confirm, have you been experiencing any new or worsening shortness of breath?\n\nPatient: I am not.\n\nNurse: Give me a moment while I figure out how I can best help you. Just give me a second to work out the best way I can assist you. That's good to hear. Now, have you had any ongoing or worsening chest pain?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Good, that's reassuring to hear. Additionally, have you noticed any persistent cough or wheezing lately?",
-        "our_model": "That's good to hear. Have you noticed any new or worsening dry cough?"
-    }
-}

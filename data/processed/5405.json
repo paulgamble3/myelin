@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5405,
-    "prompt": "Nurse: That sounds like a lovely plan, Mr. Hardy. What kind of movies do you enjoy watching?\n\nPatient: Well, given that, it's almost Christmas. I'm really in the holiday. Serious. They wanna watch movies like, home alone.\n\nNurse: That's wonderful, Mr. Hardy. Home Alone is a classic holiday movie. Do you have a favorite scene or moment from the movie?\n\nPatient: I like when Joe said she had just called on fire.\n\nNurse: That's a memorable scene indeed, Mr. Hardy. It's always fun to watch those classic holiday movies. Before we move on to discuss your kidney disease, I wanted to ask if there are any symptoms or health concerns you've been experiencing lately that you'd like to discuss?\n\nPatient: No. I can't think of any.\n\nNurse: Alright, Mr. Hardy. If you do have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics related to your health now?\n\nPatient: Yeah. Sure.",
-    "responses": {
-        "gpt4": "Great, thank you, Mr. Hardy. Since you have Type II Diabetes, it's important to regularly check your blood sugar. Have you been able to do so daily? If yes, could you please share your last blood sugar reading?",
-        "our_model": "Great, thank you, Mr. Hardy. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?"
-    }
-}

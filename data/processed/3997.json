@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3997,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Yes. May fourth nineteen forty.\n\nNurse: Thank you for confirming, Ms. Warrell. I'm calling on behalf of your primary care doctor, Doctor Robert Benson. I hope you're doing well now that you're home from the hospital. How are you feeling today?\n\nPatient: I'm feeling good. Thank you. How are you?\n\nNurse: I'm here to assist you, Ms. Warrell. It's great to hear that you're feeling good. Being home after a hospital stay can be a relief. Is there anything in particular you're looking forward to doing now that you're back home?\n\nPatient: Yes. Just having whom\n\nNurse: I'm sorry, Ms. Warrell, your voice cut out a bit there. Could you please repeat what you were saying?\n\nPatient: homemade meals.",
-    "responses": {
-        "gpt4": "Ah, homemade meals, they're truly comforting. Do you have a favourite dish you're particularly looking forward to enjoying?",
-        "our_model": "That sounds wonderful, Ms. Warrell. There's nothing quite like a home-cooked meal. What's your favorite dish to prepare when you're at home?"
-    }
-}

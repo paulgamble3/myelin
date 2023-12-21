@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5935,
-    "prompt": "Nurse: Thank you. Since you have Chronic Kidney Disease, it's important to limit your sodium intake to less than 2000 mg per day. This means avoiding adding extra salt to your meals and being mindful of processed foods, which often contain hidden sodium. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Another suggestion is to limit your phosphorus intake to 0.8 grams per day. This can be achieved by avoiding certain foods like dairy products, beans, and nuts. Do you think you could try that?\n\nPatient: Yep.\n\nNurse: That's great to hear. Lastly, since you have Type II Diabetes, it's beneficial to control your carbohydrate intake. This can be achieved by eating a variety of foods and keeping an eye on portion sizes. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad to hear that. Remember, these changes can have a big impact on managing your health conditions. Now, let's discuss your other chronic conditions. How has your coronary artery disease been lately?\n\nPatient: Just fine.",
-    "responses": {
-        "gpt4": "It's good to hear that you're not having any immediate issues with your CAD. Have you experienced any chest pain or discomfort recently?",
-        "our_model": "I'm glad to hear that. Now, how about your hypertension?"
-    }
-}

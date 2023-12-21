@@ -1,8 +1,0 @@
-{
-    "prompt_id": 536,
-    "prompt": "Nurse: Alright, I'm glad that's clear. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions or concerns about anything we've discussed so far?\n\nPatient: No.\n\nNurse: Alright, let's move on to the next question. Have you noticed any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No, ma'am.\n\nNurse: That's good to hear. It's critical to be in good health for your procedure. Now, for the last question, have you arranged for a ride home after your procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear. It's essential to have someone available to pick you up, as you won't be able to drive yourself home after the procedure. Do you have any other questions or concerns about the logistics of your procedure day?\n\nPatient: No. I do not.",
-    "responses": {
-        "gpt4": "I'm glad to hear that everything sounds straightforward. That concludes all the specific topics we needed to cover today. Before we wrap up, do you have any other questions or concerns?",
-        "our_model": "Alright, that was all the topics for today. Before we wrap up, do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

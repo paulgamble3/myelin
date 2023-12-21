@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6252,
-    "prompt": "Nurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat how you're feeling about your upcoming colonoscopy?\n\nPatient: done we've just\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat how you're feeling about your upcoming colonoscopy?\n\nPatient: everything. All this\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: procedures and crazy stuff.\n\nNurse: I can imagine it's been a lot to handle, Mr. Alves. It's completely normal to feel overwhelmed. This colonoscopy is being done to help identify the cause of your rectal bleeding. How are you feeling about this?\n\nPatient: I'm exhausted.",
-    "responses": {
-        "gpt4": "I completely understand, Mr. Alves. These procedures can often be draining. It's important to take care of your mental health as well during these times. Can we discuss the preparations for the colonoscopy to see if we can make it easier for you?",
-        "our_model": "I'm sorry to hear that you're feeling exhausted, Mr. Alves. Procedures like colonoscopies can indeed be quite a process. I hope this procedure gives you and your doctor the answers you're looking for. Do you have any specific questions or concerns you'd like to discuss before we begin?"
-    }
-}

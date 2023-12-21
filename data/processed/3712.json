@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3712,
-    "prompt": "Nurse: I'm glad that makes sense. Now, I know we've covered a lot of information, but we're almost done. I just have a few more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: Carry on. Carry on.\n\nNurse: Thank you. I'm glad to hear that. Now, I'd like to ask if you've been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No Moss Aleve.\n\nNurse: I'm sorry, I didn't quite catch that. Could you please repeat your response?\n\nPatient: Yeah. I said no muscle aches.\n\nNurse: Thank you for clarifying. It's good to hear that you're not experiencing any signs of illness. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?\n\nPatient: Right.",
-    "responses": {
-        "gpt4": "Great, thank you for confirming that. My last question is about transportation. Have you arranged for someone to give you a ride home after your procedure and stay with you afterwards? It's important for your safety and recovery.",
-        "our_model": "Excellent. Now, I'd like to confirm your anticipated discharge plan. You're currently scheduled to go home after the procedure. Is that still the plan?"
-    }
-}

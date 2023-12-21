@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4590,
-    "prompt": "Nurse: I'm sorry, Mr. Peck, could you please repeat that?\n\nPatient: a tuna sandwich for lunch and dinner. I see they're fishing or check\n\nNurse: I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?\n\nPatient: n with salad.\n\nNurse: Thank you for sharing your meal plans, Mr. Peck. It sounds like you're already incorporating some balance with protein and vegetables. For breakfast, a special K cereal can be a good choice as it's low in sugar. However, it's also important to balance it with some protein like milk or yogurt. For your tuna sandwich, you're already doing well by\n\nPatient: But I do like sweets.\n\nNurse: including protein I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?\n\nPatient: Chicken or fish with",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Peck, you mentioned something about liking sweets. Can you tell me more about that?",
-        "our_model": "I'm sorry, Mr. Peck, could you please repeat what you usually have for dinner?"
-    }
-}

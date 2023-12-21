@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3791,
-    "prompt": "Nurse: That's excellent, Ms. Odonnell. Regularly taking your insulin as prescribed is key to managing your diabetes. Now, let's discuss the next medication. You're taking Aspart 100 IU/mL prefilled pen, 3 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Of course.\n\nNurse: That's wonderful, Ms. Odonnell. It's important to take your insulin as prescribed to help manage your blood sugar levels. Lastly, you're taking Hydralazine 25 mg oral tablet, 25 mg four times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Odonnell. Taking your medications as prescribed is crucial for managing your blood pressure. I want to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's important to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: Okay.\n\nNurse: I'm sorry, Ms. Odonnell, could you please repeat what you said?\n\nPatient: I didn't say anything.",
-    "responses": {
-        "gpt4": "My apologies for the confusion, Ms. Odonnell. I am here to serve your healthcare needs. Is there something specific you'd like to discuss or any other questions you have at this time?",
-        "our_model": "My apologies for the confusion, Ms. Odonnell. I just wanted to remind you that there are certain medications and supplements that aren't safe for CKD patients to take. It's critical to talk to your doctor before starting any new medications or supplements, including over the counter drugs. Do you have any questions about this?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3214,
-    "prompt": "Nurse: I'm glad to hear that. It must be a relief to be back in your own home. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: No.\n\nNurse: That's alright. Sometimes it's just nice to be in familiar surroundings. By the way, do you have any hobbies or interests that you enjoy?\n\nPatient: No. I don't.\n\nNurse: That's okay. We all have our own ways of spending our time. How about the weather?\n\nPatient: It's been raining.\n\nNurse: Oh, I see. Rain can be quite relaxing though, don't you think?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "So I'm calling on behalf of your primary care physician, Dr. Sarah Forbes. I have a few topics to cover with you regarding your recent hospital visit. Before we dive into that, do you have any immediate concerns or questions that you'd like to discuss?",
-        "our_model": "I'm glad you see it that way. I'm calling on behalf of Doctor Sarah Forbes today, and I have a few topics to cover with you. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

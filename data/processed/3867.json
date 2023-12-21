@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3867,
-    "prompt": "Nurse: That's great to hear. Taking your medication as prescribed is crucial for managing your conditions. Now, let's discuss your next medication. You're also taking Lantus 100 IU/mL prefilled pen, 15 units two times a day. Have you been taking this medication as prescribed?\n\nPatient: Yeah. I have\n\nNurse: That's excellent. It's critical to take your insulin as prescribed to help manage your blood sugar levels. Now, let's discuss your next medication. You're also taking Hydrochlorothiazide 12.5 mg oral tablet, once daily. Have you been taking this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's great to hear. Taking your medication as prescribed is crucial for managing your blood pressure. Now, let's discuss your next medication. You're also taking Aspart 100 IU/mL prefilled pen, 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yep.\n\nNurse: That's excellent. It's critical to take your insulin as prescribed to help manage your blood sugar levels. Lastly, you're also taking Disulfiram 250 mg oral tablet, once daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "That's great to hear, Patient. Adherence to your prescribed medications is vital in managing your conditions. Have you ever had trouble remembering to take your medications on time?",
-        "our_model": "That's great to hear. It's essential to take your medication as prescribed to help manage your alcohol use disorder. I understand that it can be challenging to remember to take medications on time. Do you ever have trouble remembering to take your medications?"
-    }
-}

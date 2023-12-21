@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2652,
-    "prompt": "Nurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?\n\nPatient: I've had a lot of\n\nNurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue telling me about some of the meals you've had recently?\n\nPatient: Okay. There's a lot of\n\nNurse: I'm sorry, Ms. Cruz, your response got cut off. Could you please continue and tell me about some of the meals you've had recently?\n\nPatient: Good stuff.\n\nNurse: I'm glad to hear that you're eating well, Ms. Cruz. Could you share a bit more about the types of meals you've been having?\n\nPatient: That's my meals.",
-    "responses": {
-        "gpt4": "That's fine, Ms. Cruz. I understand that it's hard to remember every meal. Have there been any dishes that you have particularly enjoyed recently?",
-        "our_model": "That's great to hear, Ms. Cruz. Could you share a bit more about what you consider to be \"good stuff\" in your meals?"
-    }
-}

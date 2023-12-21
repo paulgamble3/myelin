@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4115,
-    "prompt": "Nurse: Hello. I'm glad to hear from you. I hope you're doing well. How are you feeling now that you're back home from the hospital?\n\nPatient: I feel good.\n\nNurse: That's great to hear. It must be a relief to be back in your own space. Is there anything in particular you're looking forward to doing now that you're home?\n\nPatient: No. Just staying home with my dog.\n\nNurse: That sounds lovely. Dogs can be such wonderful companions. What's your dog's name?\n\nPatient: Cheeto.\n\nNurse: Cheeto, that's a fun name! What kind of dog is Cheeto?\n\nPatient: At a quality,",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't quite catch that. Could you please repeat what type of dog Cheeto is?",
-        "our_model": "I'm sorry, I didn't quite catch that. Could you please repeat what kind of dog Cheeto is?"
-    }
-}

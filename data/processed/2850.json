@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2850,
-    "prompt": "Nurse: Great, here are a few tips. You can drink the laxative solution cold, which some people find makes it easier to drink. You can also drink the solution through a straw to help it go down easier. Do you have any questions about these tips or is there anything else you'd like to know about the bowel prep?\n\nPatient: Nope. I think we about covered it. What else do we need to talk about the we can get out of here.\n\nNurse: I appreciate your patience. The last part of your prep is when to stop eating and drinking everything before your procedure. You will need to finish your laxative solution and stop everything 4 hours before your procedure. Do you have any questions about this or is there anything else you'd like to discuss?\n\nPatient: No. There's not.\n\nNurse: Alright, thank you for your response. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we move on, do you have any questions or is there anything else you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, thank you for your response. My next question is about your current health status. Do you have any signs of illness such as fever, chills, or muscle aches?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "I'm glad to hear that you're not feeling ill. It's important to be in good health for your procedure. If you happen to feel unwell closer to the procedure, would you be comfortable reaching out to us to let us know?",
-        "our_model": "That's good to hear. It's essential to be in good health before your procedure. Now, for my last question, have you arranged for a ride home after your procedure?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2045,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Good morning, Patient. This is Rachel, calling on behalf of O'Connor Hospital about your upcoming total knee replacement. Is now a convenient time for you to go over some information?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Paxton Winner?"
-    }
-}

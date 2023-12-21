@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2938,
-    "prompt": "Nurse: Yes, I'm here, Ms. McKloskey. Thank you for confirming that you've been taking your Tylenol as prescribed. Are you taking any other medications that we should be aware of, such as Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.\n\nNurse: That's good to hear, Ms. McKloskey. It's essential to avoid certain medications before surgery. I also notice that you've been prescribed Oxycodone 10 mg four times a day as needed for after the procedure. Have you picked up this prescription yet?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear, Ms. McKloskey. It's critical to have your post-procedure medication ready. Do you have any questions about your medications or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: No. I don't have any more questions.\n\nNurse: Alright, Ms. McKloskey. If any questions come up later, don't hesitate to ask. Now, let's discuss how to prepare your skin for surgery to reduce the risk of infection. Have you already purchased a chlorhexidine scrub?\n\nPatient: Yes. I have.",
-    "responses": {
-        "gpt4": "Perfect, Ms. McKloskey. As part of your surgery preparation, you'll need to use the chlorhexidine scrub the night before and then again the morning of your procedure. Here's how to use it: First, you'll take a shower as normal. After exiting the shower and turning off the water, does that seem manageable so far?",
-        "our_model": "That's excellent, Ms. McKloskey. It's essential to have the chlorhexidine scrub ready. Now, let's go over the instructions for using the scrub. You will need to use the scrub the night before and the morning of your procedure. Does that sound good so far?"
-    }
-}

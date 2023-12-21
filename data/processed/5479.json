@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5479,
-    "prompt": "Nurse: That sounds wonderful, Ms. Aguirre. What kind of volunteer work do you do at the theater?\n\nPatient: So\n\nNurse: That sounds wonderful, Ms. Aguirre. You volunteer at a theater, is that correct?\n\nPatient: Correct. Yes.\n\nNurse: That's fantastic, Ms. Aguirre. What do you enjoy most about volunteering at the theater?\n\nPatient: Community team.\n\nNurse: I'm sorry, Ms. Aguirre, could you please repeat what you enjoy most about volunteering at the theater?\n\nPatient: Yes. Community.",
-    "responses": {
-        "gpt4": "That's lovely, Ms. Aguirre. Building a sense of community is indeed one of the most rewarding aspects of volunteer work. Is there anything else you'd like to share about your health or activities?",
-        "our_model": "It's great to hear that you enjoy being a part of the community at the theater, Ms. Aguirre. Is there a particular play or performance you're excited about?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6131,
-    "prompt": "Nurse: Okay. One strategy is to choose foods that are low in sodium. This includes fresh fruits and vegetables, lean meats, and whole grains. It's also a good idea to limit processed foods, which often contain high amounts of sodium. What do you think about this suggestion?\n\nPatient: Okay.\n\nNurse: I'm glad to hear that. Now, let's move on to discuss your\n\nPatient: I could try it.\n\nNurse: phosphorus intake. That's great to hear. Remember, small changes can make a big difference. Now, let's move on to discuss your other chronic conditions. How have you been managing your coronary artery disease (CAD)?\n\nPatient: I don't know. I guess I'm okay.\n\nNurse: I'm glad to hear that you're feeling okay. It's critical to manage your CAD by taking your prescribed medications, eating a healthy diet, and getting regular exercise. Have you been able to do these things?\n\nPatient: Yes. I'm going to",
-    "responses": {
-        "gpt4": "That's good to hear, Jon. Could you please continue with what you were going to say?",
-        "our_model": "That's great to hear. Regular exercise is an important part of managing CAD. What kind of exercise do you enjoy doing?"
-    }
-}

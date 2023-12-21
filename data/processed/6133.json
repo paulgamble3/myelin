@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6133,
-    "prompt": "Nurse: phosphorus intake. That's great to hear. Remember, small changes can make a big difference. Now, let's move on to discuss your other chronic conditions. How have you been managing your coronary artery disease (CAD)?\n\nPatient: I don't know. I guess I'm okay.\n\nNurse: I'm glad to hear that you're feeling okay. It's critical to manage your CAD by taking your prescribed medications, eating a healthy diet, and getting regular exercise. Have you been able to do these things?\n\nPatient: Yes. I'm going to\n\nNurse: That's great to hear. Regular exercise is an important part of managing CAD. What kind of exercise do you enjoy doing?\n\nPatient: Get back to walk you with my dog.\n\nNurse: That's wonderful to hear. Walking is a great form of exercise. Now, let's discuss your type II diabetes. How have you been managing your blood sugar levels?\n\nPatient: Well, I told you, you know,",
-    "responses": {
-        "gpt4": "Yes, you mentioned checking your blood sugar levels regularly. That's very important for managing diabetes. Are there any changes in your diet or lifestyle that you're considering to better manage your diabetes?",
-        "our_model": "Yes, you mentioned that you've been checking your blood sugar levels daily. That's great. Have you noticed any patterns or changes in your blood sugar levels?"
-    }
-}

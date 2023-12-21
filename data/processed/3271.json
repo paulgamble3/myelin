@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3271,
-    "prompt": "Nurse: That's good to hear, Patient. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: So\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.\n\nNurse: Thank you for confirming, Patient. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.\n\nNurse: I'm sorry, could you please confirm what you just said?\n\nPatient: I said no.",
-    "responses": {
-        "gpt4": "My apologies, I may have misheard you earlier. Did you say that you're using more pillows to sleep recently?",
-        "our_model": "I appreciate you letting me know. Give me a moment to check how I can best help you. Just give me a second to work out the best way I can assist you. Thank you for confirming, Patient. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?"
-    }
-}

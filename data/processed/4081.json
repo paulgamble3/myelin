@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4081,
-    "prompt": "Nurse: I'm glad to hear that. Is there anything you're looking forward to doing this week?\n\nPatient: I'm getting ready for a performance tomorrow night.\n\nNurse: That sounds exciting! Are you performing in a play or a musical?\n\nPatient: Community circus.\n\nNurse: That's wonderful! Community circus performances can be quite thrilling. What's your role in the performance?\n\nPatient: I do tight rope walking.\n\nNurse: Wow, tight rope walking is quite a skill! How long have you been practicing this?\n\nPatient: I've been studying since I was ten.",
-    "responses": {
-        "gpt4": "That's impressive, Ana. It involves a lot of discipline and balance. Before we move ahead, is there any symptom regarding your health that has been concerning you lately that you'd like to share?",
-        "our_model": "That's impressive. It must have taken a lot of dedication to master such a skill. Before we move on to discuss your kidney disease, are there any symptoms or health concerns you've been experiencing lately that you'd like to share?"
-    }
-}

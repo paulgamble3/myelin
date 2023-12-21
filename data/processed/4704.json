@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4704,
-    "prompt": "Patient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you.\n\nNurse: Is the patient going to hurt themselves?\n\nPatient: What are you talking about? I am the patient.\n\nNurse: I apologize for any confusion. I'm here to help you. In the past month, have you felt down or depressed?\n\nPatient: I'm not going to hurt myself, but I am terrified about this diagnosis.\n\nNurse: I'm sorry for any confusion. In the past month, have you felt down or depressed?\n\nPatient: No. But",
-    "responses": {
-        "gpt4": "In the past month, have you thought about hurting yourself?",
-        "our_model": "In the past month, have you thought about hurting yourself?"
-    }
-}

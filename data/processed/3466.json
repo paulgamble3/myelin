@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3466,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eunice Shannon?\n\nPatient: Yeah. That's that's me.\n\nNurse: Great. I'm calling about your upcoming colonoscopy on August 17 at 10:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: I hope your day is going well. How are you feeling about your upcoming procedure?\n\nPatient: I'm pretty nervous, to be honest.\n\nNurse: I can imagine that it's a bit nerve-wracking. It's completely normal to feel this way. Your gastroenterologist, Doctor Meredith Bailey, is highly experienced and has performed over 1500 colonoscopies. She's there to ensure your safety and comfort. Do you have any specific concerns or questions you'd like to discuss?\n\nPatient: No. Not that I can think of right now.",
-    "responses": {
-        "gpt4": "That's perfectly fine, Patient. Please remember you can ask any questions at any point during our conversation. I see on your chart you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. Would you like to share how are you handling it?",
-        "our_model": "Alright. If any questions come up during our conversation, feel free to ask. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It's great that you're taking this step to take care of your health. How are you feeling about the procedure?"
-    }
-}

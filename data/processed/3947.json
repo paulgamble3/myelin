@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3947,
-    "prompt": "Nurse: Okay, thank you for your time, Mr. Dang. How has your day been so far?\n\nPatient: Just dandy.\n\nNurse: I'm glad to hear that, Mr. Dang. Do you have any special plans for the day?\n\nPatient: No.\n\nNurse: That's perfectly fine, Mr. Dang. Sometimes, a quiet day can be quite refreshing. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Just gonna make it easy. Hello? Are you there?\n\nNurse: Yes, I'm here, Mr. Dang. I'm glad to hear you're planning a relaxing day. Now, I'd like to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: I'm okay. I'm pretty calm.",
-    "responses": {
-        "gpt4": "I'm glad to hear you're feeling calm, Mr. Dang. That's a good attitude to have going into this. Do you have any questions or concerns that you'd like to discuss today?",
-        "our_model": "That's great to hear, Mr. Dang. Staying calm can be beneficial for your overall well-being. Do you have any questions or concerns about the procedure that you'd like to discuss?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4179,
-    "prompt": "Nurse: That's a great strategy, Mr. Peck. Using a pill divider and setting reminders can be very helpful in managing medication schedules. You're doing a great job. Just a reminder, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. It's important to talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No.\n\nNurse: Alright, Mr. Peck. If you ever have any questions in the future, don't hesitate to ask. Now, let's talk a bit about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Salad, mostly salads,\n\nNurse: That's a great start, Mr. Peck. Salads can be a healthy choice. Could you tell me a bit more about the ingredients in your salads?\n\nPatient: lantus Carrets,\n\nNurse: I'm sorry, Mr. Peck, I didn't quite catch that. Could you please repeat the ingredients in your salads?\n\nPatient: cucumbers,",
-    "responses": {
-        "gpt4": "It sounds like cucumbers are a part of your meal. Are there any other ingredients in your salads?",
-        "our_model": "Thank you for sharing that, Mr. Peck. Cucumbers and carrots are great for a salad. They're both low in sodium and phosphorus. Can I provide some suggestions to further optimize your salad for your dietary needs?"
-    }
-}

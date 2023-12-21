@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4528,
-    "prompt": "Nurse: Okay. One strategy to help manage your blood sugar levels is to maintain a balanced diet. This includes eating regular meals and snacks throughout the day, and incorporating a variety of foods such as fruits, vegetables, lean proteins, and whole grains. What do you think about this suggestion?\n\nPatient: Sounds good.\n\nNurse: I'm glad you think so. Another strategy is to stay active. Regular physical activity can help your body use insulin more effectively and lower your blood sugar levels. This could be as simple as taking a walk after meals. Do you think you could incorporate this into your routine?\n\nPatient: Yep.\n\nNurse: That's great to hear. Regular physical activity can really make a difference. Now, let's move on to your blood pressure. When was the last time you took your blood pressure, and do you remember what the result was?\n\nPatient: Yeah. I ticket this morning, and it was ninety over one twenty.\n\nNurse: I'm Thank you for sharing that. A blood pressure reading of 90 over 120 is a bit high. High blood pressure can put extra strain on your heart and blood vessels. Would it be okay if I provide some recommendations to help manage your blood pressure?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "That's great to hear. Let's start with reducing your salt intake. Limiting your salt intake can help to lower your blood pressure. This includes not just table salt, but also the hidden salt in processed and packaged foods. What do you think about this suggestion?",
-        "our_model": "I apologize for any confusion earlier. You mentioned that your blood pressure was 90 over 120, correct?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3156,
-    "prompt": "Nurse: I understand, Mr. Valenzuela.\n\nPatient: I hope I'm not gonna be dehydrated.\n\nNurse: That's a valid concern, Mr. Valenzuela. It's critical to stay hydrated, especially during the bowel prep. However, the 4-hour fasting period before the procedure is crucial for the success of the colonoscopy. Your care team will monitor you closely during the procedure to ensure your well-being. Do you have any other questions or concerns?\n\nPatient: Alright. No. Thank you so much. This is extremely helpful.\n\nNurse: You're very welcome, Mr. Valenzuela. I'm glad I could assist. I know we've covered a lot of information, but we're almost done. I just have a couple more questions for you. Before we continue, do you have any questions or is there anything you'd like to discuss?\n\nPatient: I do not have any questions.\n\nNurse: Alright, Mr. Valenzuela. I appreciate your patience. My next question is about your current health status. Have you been experiencing any signs of illness recently, such as a fever, chills, or muscle aches?\n\nPatient: No. I haven't.",
-    "responses": {
-        "gpt4": "That's good to hear, Mr. Valenzuela. And our last question, have you arranged for a ride home after your colonoscopy procedure? We highly recommend having a family member or friend pick you up as you will be sedated during the procedure and cannot drive yourself home. Do you have this arranged?",
-        "our_model": "I'm sorry, Mr. Valenzuela. Could you please clarify your response?"
-    }
-}

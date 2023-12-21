@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5689,
-    "prompt": "Nurse: That's good to hear. Have you noticed any new or worsening dry cough?\n\nPatient: No.\n\nNurse: That's good to hear. Have you noticed any increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No.\n\nNurse: That's great to hear. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.\n\nNurse: That's good to hear. Lastly, have you been using more pillows at night to sleep?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's great to hear. Staying on top of these symptoms is an important part of managing your CHF at home. Keep taking your medications as prescribed and don't hesitate to contact your healthcare provider if you have any questions or concerns. You're doing an excellent job at taking care of your health. Keep up the good work!",
-        "our_model": "That's great to hear. We just performed a simple CHF assessment. It's a good idea to keep track of these symptoms at home every day. I understand that keeping track of symptoms can be a bit complicated. Do you have any questions about how to do so?"
-    }
-}

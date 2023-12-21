@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4334,
-    "prompt": "Nurse: Okay, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes.\n\nNurse: That's great to hear, Mr. Oliver. Could you please share with me what your last blood sugar reading was?\n\nPatient: One twelve\n\nNurse: Thank you for sharing that, Mr. Oliver. It's important to keep an eye on your blood sugar levels. Would it be alright if I provide some recommendations on how to manage your blood sugar levels?\n\nPatient: Yes.\n\nNurse: Great, thank you, Mr. Oliver. One strategy is to maintain a balanced diet. This includes eating a variety of foods, such as fruits, vegetables, lean proteins, and whole grains. It's also important to limit foods high in sugar and unhealthy fats. What do you think about this suggestion?\n\nPatient: That's helpful. Thank you.",
-    "responses": {
-        "gpt4": "You're welcome, Mr. Oliver! I'm glad you found it helpful. Regular physical activity is also important for managing your blood sugar levels. You don't have to do heavy exercise, even light activities like walking or gardening can be beneficial. Do you think you can incorporate more physical activity into your daily routine?",
-        "our_model": "I'm sorry, Mr. Oliver, I didn't quite catch that. Could you please confirm if your blood sugar is high or low?"
-    }
-}

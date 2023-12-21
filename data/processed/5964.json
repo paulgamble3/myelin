@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5964,
-    "prompt": "Nurse: I'm sorry to hear that, it must be tough not seeing them as often as you'd like. What activities do you usually enjoy doing with your family when they visit?\n\nPatient: Ford Games.\n\nNurse: I'm sorry, I didn't quite understand that. Could you please tell me more about the activities you enjoy doing with your family when they visit?\n\nPatient: We like to play\n\nNurse: I'm sorry for the interruption, please go on. You were saying that you and your family enjoy playing games when you're together. That sounds like a fun way to spend time. Do you have a favorite game that you all like to play?\n\nPatient: board games.\n\nNurse: That sounds like a wonderful way to spend time together. Do you have a favorite board game that you all enjoy playing?\n\nPatient: We like them all.",
-    "responses": {
-        "gpt4": "It's always enjoyable to mix it up with different games. It's a nice opportunity to connect and have fun together. It has been nice talking to you. Please take care and enjoy your time with your family.",
-        "our_model": "That's great to hear, it sounds like you all really enjoy these times together. Before we move on to discuss your kidney disease, is there anything else that's been bothering you or any symptoms you're concerned about?"
-    }
-}

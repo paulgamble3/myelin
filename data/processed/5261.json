@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5261,
-    "prompt": "Nurse: I'm sorry, Mr. Rivers, I didn't quite catch that. Could you please repeat what you were saying?\n\nPatient: What does it mean that I have stage two kidney disease.\n\nNurse: I appreciate your question, Mr. Rivers. Having Stage II Chronic Kidney Disease means that your kidneys are not functioning at their full capacity, but they are still able to do their job. It's critical to manage your other conditions, like diabetes and high blood pressure, to help slow down the progression of kidney disease. Is there anything else you'd like to know about your kidney disease or any other symptoms you're concerned about?\n\nPatient: No. I guess not.\n\nNurse: Alright, Mr. Rivers. If you have any questions in the future, don't hesitate to ask. Is there anything you're looking forward to doing this week?\n\nPatient: No. Not in particular.\n\nNurse: That's perfectly fine, Mr. Rivers. Sometimes, it's nice to have a quiet week. Is there anything you enjoy doing in your free time that you might do this week?\n\nPatient: Yeah. I don't know. I don't not that I can think of.",
-    "responses": {
-        "gpt4": "I'm sorry, Mr. Rivers, I didn't quite catch that. Can you please repeat what you just said?",
-        "our_model": "That's alright, Mr. Rivers. It's perfectly fine to have some quiet time. If you think of anything later, feel free to share. Now, I'd like to ask if you've been checking your blood sugar daily?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5815,
-    "prompt": "Nurse: Wonderful. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No. No. Please move along.\n\nNurse: Of course, let's move on. Is there anything else about the logistics that\ufffd\ufffd\ufffds worrying you or that you'd like to discuss?\n\nPatient: No. You've already asked me that.\n\nNurse: I apologize if it seemed repetitive. I just want to make sure we've covered everything. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: It was very repetitive. Please stop asking me questions that you've already asked me.\n\nNurse: I apologize for the repetition. Let's move on to discuss your medications. I see on your chart that there are no changes to your current medications. However, I'd like to confirm if you're taking any other medications like Advil, Aspirin, Aleve, or other blood thinners. Are you currently taking any of these?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's good to hear. These medications typically need to be stopped before a colonoscopy unless advised otherwise by your doctor. Do you have any questions about your current medications or any medications you might need to avoid leading up to the colonoscopy?",
-        "our_model": "That's good to know. It's essential to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in relation to your upcoming procedure?"
-    }
-}

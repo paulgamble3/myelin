@@ -1,8 +1,0 @@
-{
-    "prompt_id": 830,
-    "prompt": "Nurse: Alright, Mr. Oliver. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. Are you okay if we go over a few topics to check on how you're doing?\n\nPatient: Sure.\n\nNurse: Wonderful, thank you, Mr. Oliver. Since you have Type II Diabetes, it's important to monitor your blood sugar levels regularly. Have you been checking your blood sugar daily?\n\nPatient: Yes. I have.\n\nNurse: That's excellent, Mr. Oliver. Could you please share with me what your last blood sugar reading at home was?\n\nPatient: Yes. It was one hundred and twelve.\n\nNurse: Thank you for sharing that, Mr. Oliver. A blood sugar level of 112 is within the target range for people with diabetes. It's great that you're keeping track of this. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: It was last night.",
-    "responses": {
-        "gpt4": "Good to know you're keeping track of that too, Mr. Oliver. Could you please share what the results were?",
-        "our_model": "Thank you for that information, Mr. Oliver. Could you please tell me what the result of that blood pressure measurement was?"
-    }
-}

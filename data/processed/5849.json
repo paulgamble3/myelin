@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5849,
-    "prompt": "Nurse: Excellent, thank you for your time, Mr. Alves. How has your day been so far?\n\nPatient: It's been a day.\n\nNurse: I see, sometimes days can be quite busy. I hope things ease up for you soon. I'm here to discuss your upcoming colonoscopy. How are you feeling about the procedure?\n\nPatient: Hi, I guess.\n\nNurse: I appreciate your response, Mr. Alves. It's completely normal to have mixed feelings about medical procedures. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: Hello?\n\nNurse: Yes, Mr. Alves, I'm here. You mentioned earlier that you guess you're feeling okay about the procedure. Is there anything specific that's been on your mind regarding the colonoscopy?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "That's perfectly alright, Mr. Alves. Always remember, you can ask questions at any time during our call. Just to acknowledge, I see on your chart that the reason for this colonoscopy is bleeding from the rectum. This can be quite a process and I appreciate your fortitude going through it. How are you feeling about this particular aspect?",
-        "our_model": "Alright, Mr. Alves. If you have any questions or concerns at any point during our conversation, please feel free to bring them up. I see on your chart that you're getting this colonoscopy due to bleeding from the rectum. I realize it can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

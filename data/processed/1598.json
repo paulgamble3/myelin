@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1598,
-    "prompt": "Patient: by getch with butter or breeze.\n\nNurse: When did the change in speech start?\n\nPatient: Under under\n\nPatient: standing me.\n\nNurse: Does the patient report sudden arm or leg weakness?\n\nPatient: Have you lost your mind?\n\nNurse: Does the patient report numbness on their arms or legs?\n\nPatient: Yes. It definitely sounds like you've lost your mind.",
-    "responses": {
-        "gpt4": "Did you notice a sudden onset of confusion or trouble understanding others, Mr. Reynolds?",
-        "our_model": "Does the patient develop a severe headache?"
-    }
-}

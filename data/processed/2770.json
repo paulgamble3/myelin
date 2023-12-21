@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2770,
-    "prompt": "Nurse: Of course, Mr. Stevens. We discussed your hobby of baking, particularly cupcakes and bread. We also confirmed that you're taking your medications as prescribed and reviewed your symptoms. I provided some dietary recommendations, including the Cardiac diet, the DASH diet, and the Sodium Limited Diet. I hope this summary is helpful. Do you have any other questions or concerns?\n\nPatient: Rachel?\n\nNurse: Yes, Mr. Stevens, I'm here. Is there anything else you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Stevens. Thank you for your time today. If you have any questions in the future, don't hesitate to reach out. Take care and have a great day! [\n\nPatient: That's all. But you disappear somewhere.\n\nNurse: I apologize for any confusion earlier, Mr. Stevens. I'm here to assist you. Is there anything else you'd like to discuss or any questions you have?\n\nPatient: No. I do not.",
-    "responses": {
-        "gpt4": "Alright, Mr. Stevens. Thank you for your time today. Please don't hesitate to reach out if there's anything in the future you'd like to discuss. Take care.",
-        "our_model": "Alright, Mr. Stevens. I appreciate your time today. If you have any questions in the future, don't hesitate to reach out. Take care and have a great day! ["
-    }
-}

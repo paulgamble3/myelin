@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5875,
-    "prompt": "Patient: Maybe a one.\n\nNurse: Thank you for sharing that, Mr. Dang. Do you have a fever or a high temperature?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Dang. Do you have any chest pain or flank pain?\n\nPatient: No.\n\nNurse: Have you noticed any black or tarry stool, or blood in your stool, Mr. Dang?\n\nPatient: No. I told the doctor I don't have\n\nPatient: that.",
-    "responses": {
-        "gpt4": "I appreciate your patience, Mr. Dang. Are you feeling light-headed or faint?",
-        "our_model": "Thank you for confirming that, Mr. Dang. Do you have any active nausea, vomiting, or diarrhea?"
-    }
-}

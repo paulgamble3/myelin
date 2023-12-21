@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5220,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Benedict Oliver?\n\nPatient: Yes.\n\nNurse: Hello, Mr. Oliver. I'm calling on behalf of your primary care doctor, Doctor Peter Smith, to check in on you. How have you been doing lately?\n\nPatient: I'm good.\n\nNurse: I'm glad to hear that, Mr. Oliver. Is there anything you're looking forward to doing this week?\n\nPatient: We're gonna do a road trip with my family.\n\nNurse: That sounds like a lot of fun, Mr. Oliver! Where are you planning to go on your road trip?\n\nPatient: We're going to New Mexico.",
-    "responses": {
-        "gpt4": "That's a wonderful destination, Mr. Oliver. What do you plan on doing in New Mexico?",
-        "our_model": "New Mexico is beautiful this time of year, Mr. Oliver. Do you have any specific activities planned while you're there?"
-    }
-}

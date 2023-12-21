@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4952,
-    "prompt": "Patient: or a column or something like that. And and he was saying that you can manage CHF with dietary supplements. And alternative types of therapies, like,\n\nPatient: know, I guess things like meditation or dietary supplements, things like\n\nNurse: When did you start noticing these changes in your speech, Mr. Hooper?\n\nPatient: I don't know Saint John's Ward. I don't even know what he's proposing.\n\nNurse: When did you start noticing these changes in your speech, Mr. Hooper?\n\nPatient: I haven't noticed any changes in my speech. We're talking about my congestion\n\nNurse: I\n\nPatient: a heart failure. Could you answer my question?",
-    "responses": {
-        "gpt4": "Could you describe any changes you've noticed with your speech lately?",
-        "our_model": "apologize for I apologize for the confusion, Mr. Hooper. I'm here to help answer your questions. You were asking about managing CHF with dietary supplements and alternative therapies. Is that correct?"
-    }
-}

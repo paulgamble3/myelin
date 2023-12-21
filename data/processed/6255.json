@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6255,
-    "prompt": "Nurse: I can imagine it's been a lot to handle, Mr. Alves. It's completely normal to feel overwhelmed. This colonoscopy is being done to help identify the cause of your rectal bleeding. How are you feeling about this?\n\nPatient: I'm exhausted.\n\nNurse: I'm sorry to hear that you're feeling exhausted, Mr. Alves. Procedures like colonoscopies can indeed be quite a process. I hope this procedure gives you and your doctor the answers you're looking for. Do you have any specific questions or concerns you'd like to discuss before we begin?\n\nPatient: No. I just wanna get it over with.\n\nNurse: I can appreciate that, Mr. Alves. It's essential to feel prepared and informed. If you have any questions at any point during our conversation, please feel free to ask. Are you okay if we go over a few topics on prep for your colonoscopy?\n\nPatient: Alves.\n\nNurse: I'm sorry, Mr. Alves, I didn't quite catch that. Could you please repeat what you said?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Great, thank you for your consent, Mr. Alves. Let's start by discussing the preparation for your procedure. The prep starts two days before your colonoscopy when you will start a low-fiber diet. This helps clean out the bowels. You'll receive a full list with the foods you can and can't eat during these days. Have you received this list?",
-        "our_model": "Great, thank you, Mr. Alves. I'm here to ensure you have everything you need for your colonoscopy. I will also call you again the day before your procedure to check in. Let's start with the first"
-    }
-}

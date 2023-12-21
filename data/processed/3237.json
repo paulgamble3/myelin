@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3237,
-    "prompt": "Nurse: I see. And what did you have with your burger?\n\nPatient: and I had a milkshake.\n\nNurse: Thank you for sharing that. It's important to enjoy what we eat. If it's okay with you, I'd like to share some dietary recommendations that could help manage your CHF. Is that alright?\n\nPatient: Yes. That's fine.\n\nNurse: Great, thank you. The recommendations are to limit your fluid intake to 1 liter per day and to follow a diet that restricts your sodium intake to 1500 mg per day. This can help manage your CHF symptoms. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Okay.\n\nNurse: I understand that these changes can be challenging. Would you like some suggestions on how to incorporate these recommendations into your meals?\n\nPatient: Yes, please.",
-    "responses": {
-        "gpt4": "Thank you for being open to suggestions. For your burger, you might consider a turkey or veggie burger which can be lower in sodium. Instead of a milkshake, fruit infused water or a smoothie with less added sugars could be a refreshing alternative. These small changes can have a big impact on managing your sodium and fluid intake. What do you think?",
-        "our_model": "Absolutely. For example, instead of a burger, you might consider a grilled chicken salad. It's a lighter meal that can still be satisfying. As for the milkshake, perhaps you could try a fruit smoothie. It's a refreshing alternative that can be just as enjoyable. Remember, these are just suggestions. It's critical to find what works best for you."
-    }
-}

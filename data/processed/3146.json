@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3146,
-    "prompt": "Nurse: That's correct, Mr. Valenzuela. You'll start the bowel prep with the PLENVU laxative solution 24 hours before your procedure. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Again, I'm, like, ready to get over with and\n\nNurse: I hear you, Mr. Valenzuela. It's a tough part, but it's crucial for the success of the procedure. Most people say the procedure itself is no problem at all, but the bowel prep can be a bit tough. We're here to support you every step of the way. Do you have any questions about the bowel prep?\n\nPatient: Sure.\n\nNurse: Great, Mr. Valenzuela. You don't have to do anything just yet. But you'll need to start your bowel prep 24 hours before your procedure by drinking only clear liquids. This involves no solid foods and drinking either clear or light colored beverages without any red or purple dye. Can I share some examples of what clear liquids are?\n\nPatient: Yes, please. Yes.\n\nNurse: Of course, Mr. Valenzuela. Clear liquids include water, green tea, clear broth, light colored sports drinks, and jello or other gelatin without fruit or red color. Do you have any questions about these examples or any other clear liquids you're curious about?\n\nPatient: It's pretty forward.",
-    "responses": {
-        "gpt4": "Excellent, Mr. Valenzuela. Having a clear understanding of the diet is crucial for the success of the bowel preparation. Are there any remaining questions you have about the diet changes?",
-        "our_model": "I'm glad to hear that, Mr. Valenzuela. It's essential to stay hydrated during this time, so please make sure to drink plenty of clear liquids. Do you have any remaining questions about the diet changes?"
-    }
-}

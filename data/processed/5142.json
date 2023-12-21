@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5142,
-    "prompt": "Nurse: Good morning. I'm calling about your upcoming colonoscopy on August 13th at 9:00 AM. Is this a good time to talk?\n\nPatient: Sure.\n\nNurse: Great, thank you for your time. How has your day been so far?\n\nPatient: I can't complain.\n\nNurse: I'm glad to hear that. As we move forward, I want to know how you're feeling about your upcoming colonoscopy procedure. Are there any concerns or thoughts you'd like to share?\n\nPatient: Well, I'm not really looking forward to it. But I'm glad that I can have this test to rule out if I'm having any problems.\n\nNurse: It's completely normal to feel a bit apprehensive about medical procedures. I'm glad to hear that you're taking this step for your health. It's a preventative screening for colon cancer, and it's a great way to ensure you're taking care of your health. Before we delve into the details, do you have any specific questions or concerns you'd like to discuss?\n\nPatient: Well, let's go through this little process, and it I think of any questions, I'll let you know.",
-    "responses": {
-        "gpt4": "Absolutely, you can ask questions at any point during our conversation. I understand that the colonoscopy process can feel overwhelming. As we go along, if anything bothers you, feel free to tell me. Is it okay if we begin by reviewing some prep items for your colonoscopy?",
-        "our_model": "Absolutely, feel free to ask any questions at any time during our conversation. I see on your chart that you're getting this colonoscopy as a preventative screening for colon cancer. It can be quite a process to go through this procedure. How are you feeling about it?"
-    }
-}

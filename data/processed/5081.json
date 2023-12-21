@@ -1,8 +1,0 @@
-{
-    "prompt_id": 5081,
-    "prompt": "Nurse: Rice is a great choice, Mr. Koroleva. It's low in fiber and can be quite comforting. Do you usually cook it yourself or do you have a favorite way it's prepared at a restaurant?\n\nPatient: Oh my god. I just couldn't get myself Can we please just stick to, like, what we need to talk about?\n\nNurse: Of course, Mr. Koroleva. I apologize if I went off-topic. This is a rare time when doctors want their patients to be eating low fiber comfort foods. Let's move on to the next topic. Are you currently taking any supplements like Psyllium husk or any anti-diarrheal medications?\n\nPatient: No.\n\nNurse: That's good to hear, Mr. Koroleva. It's critical to avoid those supplements and medications before a colonoscopy. Do you have any questions about this or is there anything else you'd like to discuss before we move on to the next topic?\n\nPatient: Nope.\n\nNurse: Alright, Mr. Koroleva. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: Nope. I'm good.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Mr. Koroleva. It sounds like you're feeling okay about it. I realize that the clear liquids and laxative part of the prep is the most challenging for most people. You're not alone and we're here to support you. I'll give you a moment if there's something else you'd like to bring up.",
-        "our_model": "Alright, Mr. Koroleva. I'd like to move onto the instructions for the clear liquid diet and NuLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3443,
-    "prompt": "Nurse: Thank you for sharing that, Ms. Aguirre. A blood sugar level of 128 is a bit higher than the target range for people with diabetes. Would it be okay if I provide some recommendations to help manage your blood sugar levels?\n\nPatient: No. That's okay.\n\nNurse: I'm sorry for any confusion, Ms. Aguirre. You mentioned that your blood sugar level was 128. Is that correct?\n\nPatient: Yes.\n\nNurse: I appreciate you letting me know. Give me a moment to check how I can best help you. I appreciate you letting me know. I'm going to take a moment to figure out the best way I can support you. Thank you for confirming, Ms. Aguirre. I understand that you don't want any recommendations at this time. Let's move on to your blood pressure. When was the last time you took your blood pressure measurement?\n\nPatient: Today.\n\nNurse: That's great, Ms. Aguirre. Could you please tell me what the result was?\n\nPatient: One twenty over eighty five.",
-    "responses": {
-        "gpt4": "Thank you for that information, Ms. Aguirre. A blood pressure reading of 120/85 mmHg is considered normal. Please continue monitoring your blood pressure and contact your healthcare provider if it goes above 130/90 mmHg. Moving forward, let's discuss your kidney health. How have you been managing your diet to support your kidney health?",
-        "our_model": "Thank you for sharing that, Ms. Aguirre. A blood pressure reading of 120 over 85 is within the acceptable range. It's essential to keep monitoring it regularly. Do you have any questions about your blood pressure or the readings you've been getting?"
-    }
-}

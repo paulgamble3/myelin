@@ -1,8 +1,0 @@
-{
-    "prompt_id": 378,
-    "prompt": "Patient: Yes. As I said, I really like bread,\n\nNurse: Bread is a good choice, Mr. Koroleva. It's low in fiber and can be quite comforting. Do you have a favorite type of bread or a favorite way to eat it?\n\nPatient: Toast it?\n\nNurse: Toasted bread sounds like a great comfort food, Mr. Koroleva. It's a good choice for your low fiber diet. Do you usually have it with anything specific?\n\nPatient: Alright. Can we move on with the diet? I got it. Because it's been on and on. We kinda, like, stuck in the circle. So I'm ready to take this Ethan\n\nPatient: further,\n\nNurse: Of course, Mr. Koroleva. I apologize if it felt repetitive. Let's move on to the next topic.\n\nPatient: Hello? [NO RESPONSE]",
-    "responses": {
-        "gpt4": "I'm here, Mr. Koroleva. I apologize if there was a pause. Let's move on to the next phase of your preparation: the bowel cleanse. This might sound a bit unpleasant, but it's a crucial part of preparing for your colonoscopy. Starting the day before your procedure, you'll need to follow a clear liquid diet and take a special laxative that we'll provide. This will clean out your colon so the doctor can see everything clearly. Do you have any questions about this bowel cleansing process?",
-        "our_model": "Of course, Mr. Koroleva. I'm glad to hear that you're ready to move forward. In addition to the changes in your diet, you'll also need to stop any supplements you take like Psyllium husk or any anti-diarrheal medications. Are you currently taking any supplements or anti-diarrheal medications?"
-    }
-}

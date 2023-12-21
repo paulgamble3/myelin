@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3543,
-    "prompt": "Nurse: Thank you for confirming. Could you please provide your date of birth for verification purposes?\n\nPatient: Eight zero two nineteen sixty four.\n\nNurse: Thank you for confirming your date of birth, Mr. Gardner. I'm calling on behalf of your primary care doctor, Doctor David Thornton. I hope you're feeling better now that you're home from the hospital. How are you doing today?\n\nPatient: Fine.\n\nNurse: I'm glad to hear that, Mr. Gardner. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: Just staying home.\n\nNurse: That sounds like a good plan, Mr. Gardner. Being at home can indeed be comforting. By the way, do you have any hobbies or interests that you enjoy doing at home?\n\nPatient: I like to walk",
-    "responses": {
-        "gpt4": "That's great, Mr. Gardner! Taking walks can be really beneficial for your well-being. Do you have a favorite route or area where you like to walk?",
-        "our_model": "That's great, Mr. Gardner. Walking is a wonderful way to stay active. Do you have a favorite route or area where you like to walk?"
-    }
-}

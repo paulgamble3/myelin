@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2297,
-    "prompt": "Nurse: Of course, Mr. Valenzuela. What's your question?\n\nPatient: What is colorectal cancer and what are the common risk factors for developing it. Rachel, are you there?\n\nNurse: Yes, I'm here, Mr. Valenzuela. Colorectal cancer is a type of cancer that affects the colon and rectum. Common risk factors include age (over 50), family history of colorectal cancer, personal history of inflammatory bowel disease, certain genetic syndromes, diet high in red and processed meats, smoking, heavy alcohol use, obesity, and lack of regular physical activity. Regular screenings like colonoscopies can help detect colorectal cancer in the earliest stages, reduce the risk of colon cancer, improve symptom management, and improve quality of life. Does that answer your question?\n\nPatient: Yes. It does. Thank you very much, Rachel. Rachel?\n\nNurse: You're welcome, Mr. Valenzuela. If you have any other questions or concerns, feel free to ask. [\n\nPatient: I don't.\n\nNurse: Alright, Mr. Valenzuela. I'm glad I could assist you. I want to remind you that I'm here for you every step of the way. I will call you again the day before the procedure to go over step by step all the prep instructions. If you need to reach us in the meantime, you can call us back at 641-381-6523. Does that sound good to you?\n\nPatient: Great.",
-    "responses": {
-        "gpt4": "Perfect, Mr. Valenzuela. Don't forget, we're here for you. Take care, and I'll call you the day before your procedure. Have a great day!",
-        "our_model": "I'm glad to hear that, Mr. Valenzuela. I hope you enjoy your pasta dish as you prepare for your procedure. I'm looking forward to speaking with you again next time. Take care and goodbye for now. ["
-    }
-}

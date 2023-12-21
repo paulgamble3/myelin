@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3093,
-    "prompt": "Nurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Quincy Snow?\n\nPatient: Yeah. That's me.\n\nNurse: Hello. I'm glad to hear you're back home from the hospital. How are you feeling today?\n\nPatient: I'm feeling okay. How are you?\n\nNurse: I'm here to assist you, so I'm doing well, thank you. It must be a relief to be back in your own home after your hospital stay. Is there anything in particular you've been looking forward to doing now that you're home?\n\nPatient: I'm just happy to be back with my cat.\n\nNurse: That sounds lovely. Cats can be such wonderful companions. What's your cat's name?\n\nPatient: His name is president Lincoln.",
-    "responses": {
-        "gpt4": "President Lincoln, what a fantastic name for a cat! He must have quite the personality. Is there a special story behind the name?",
-        "our_model": "President Lincoln, that's quite a name! He must have been thrilled to have you back home. Now, I'm calling on behalf of Doctor Phil Steele to discuss a few topics related to your health. Before we get started, do you have any questions or concerns you'd like to address?"
-    }
-}

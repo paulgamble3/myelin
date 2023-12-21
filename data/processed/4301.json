@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4301,
-    "prompt": "Nurse: I'm glad to hear that. If you have any other questions about your lab results, feel free to ask. Now, let's review your medications. You're currently taking Losartan 25 mg oral tablet, 50 mg once a day. Have you been taking this medication as prescribed?\n\nPatient: Yes. I have.\n\nNurse: That's great to hear. Now, let's move on to your next medication. You're also taking Lantus 100 iu/ mL prefilled pen, with a dosage of 15 units every night. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent. Lastly, you're taking Aspart 100 IU/mL prefilled pen, with a dosage of 5 units three times a day. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's wonderful to hear. It's important to take your medications as prescribed to manage your conditions effectively. Remember, there are certain medications and supplements that aren't safe for patients with chronic kidney disease to take. Always talk to your doctor before starting any new medications or supplements, including over-the-counter drugs. Do you have any questions about this?\n\nPatient: No. I don't.",
-    "responses": {
-        "gpt4": "Alright. Now let's discuss your diet. Could you tell me a bit about what you've been eating recently? Getting a sense of your regular meals can guide us toward any necessary dietary adjustments.",
-        "our_model": "Alright. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?"
-    }
-}

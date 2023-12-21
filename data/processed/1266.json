@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1266,
-    "prompt": "Nurse: Wonderful, Ms. Raynier. It's critical to have a plan in place for when you return home after the procedure. Now, have you arranged for a ride home and for someone to stay with you after the procedure?\n\nPatient: Yes.\n\nNurse: That's great to hear, Ms. Raynier. It's critical to have someone to assist you as you recover. If there's anything else you need to arrange, remember you still have time. Do you have any questions about the post-procedure plans?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?\n\nPatient: Wondering is will it be really hard for me to walk after the surgery?\n\nNurse: That's a very valid question, Ms. Raynier. After your surgery, you will likely need some assistance with walking initially. This is because your knee will be healing and it's important not to put too much strain on it. Over time, with physical therapy and rehabilitation, you should regain your mobility and be able to walk without assistance. Does that help alleviate some of your concerns?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "I'm glad to hear that, Ms. Raynier. Now, to summarize, you will stop eating and drinking after midnight before your procedure, you will use a chlorhexidine scrub the night before and the morning of your procedure, you will be vigilant about any signs of illness, and you have arranged for a ride home and someone to stay with you after your procedure. Can I count on you to do all of this?",
-        "our_model": "I'm glad to hear that, Ms. Raynier. That was all the topics for today. Do you have any other questions or concerns that you'd like to discuss?"
-    }
-}

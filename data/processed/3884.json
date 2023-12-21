@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3884,
-    "prompt": "Patient: Hold on.\n\nNurse: Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Carla Arnold?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Hello, Patient Carla Arnold. I'm calling on behalf of Dr. Jack Smith to have a brief check-in about your chronic kidney disease and lupus. I hope you're doing well. Can you please tell me how you've been feeling recently?",
-        "our_model": "Great. I'm calling on behalf of your primary care doctor, Doctor Jack Smith, to check in on you. How have you been doing lately?"
-    }
-}

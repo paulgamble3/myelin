@@ -1,8 +1,0 @@
-{
-    "prompt_id": 626,
-    "prompt": "Nurse: Great, Ms. Raynier. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Ms. Raynier. I'm glad to hear that the logistics seem clear to you. I'd like to move on to discuss your medications, but I want to take a pause to see if you're ready to move on. Can we proceed?\n\nPatient: Yes.\n\nNurse: Perfect, Ms. Raynier. I see on your chart that you are currently taking Plavix 75 mg once a day. As per the instructions, you were told to stop this medication 7 days prior to your procedure. Have you already stopped taking Plavix?\n\nPatient: Yes, ma'am.\n\nNurse: That's great to hear, Ms. Raynier. You're doing exactly what you need to do to prepare for your procedure. Do you have any questions about Plavix or why it was necessary to stop it before your surgery?\n\nPatient: No. I understand.",
-    "responses": {
-        "gpt4": "Great, Ms. Raynier. In addition to Plavix, it's important to know if you're taking any other medications like Advil, Aspirin, Aleve, or other blood thinners. Are you currently taking any of these?",
-        "our_model": "Alright, Ms. Raynier. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners that we should be aware of?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 6108,
-    "prompt": "Nurse: That's good to hear. Now, let's discuss the next medication. You're prescribed Plavix 75 mg, with a dosage of 75 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great. Now, let's move on to the next medication. You're prescribed Metoprolol ER 25 mg, with a dosage of 50 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's good to hear. Now, let's discuss the next medication. You're prescribed Lisinopril 10 mg, with a dosage of 20 mg daily. Have you been taking this medication as prescribed?\n\nPatient: Yes.\n\nNurse: That's great. Now, let's move on to the next medication. You're prescribed Lantus 100 IU/mL, with a dosage of 15 units every night at bedtime. Have you been taking this medication as prescribed?\n\nPatient: I have been taking it, and I'm wondering why do I need to take it? I thought",
-    "responses": {
-        "gpt4": "Lantus is a long-acting form of insulin that helps control blood sugar levels. It's usually taken at bedtime because it provides a steady release of insulin throughout the day. If you have any concerns about this medication, I encourage you to discuss them with your primary care physician. Are there any other questions you have or information you'd like to know about this medication?",
-        "our_model": "Lantus is a type of insulin that helps control blood sugar levels in people with diabetes. It's used to help keep your blood sugar levels"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 2219,
-    "prompt": "Nurse: That's good to hear. These supplements can interfere with the colonoscopy preparation. Do you have any questions about this or any other aspect of your preparation?\n\nPatient: No. I don't.\n\nNurse: Alright. I'd like to move onto the instructions for the clear liquid diet and GoLYTELY laxative solution. This is often the hardest part of the prep. How are you feeling about it?\n\nPatient: I'm feeling good.\n\nNurse: I'm glad to hear that you're feeling good about it. Most people say the procedure itself is no problem at all but the bowel prep can be a little bit tough. But we're here to support you every step of the way. Do you have any questions about the clear liquid diet or the GoLYTELY laxative solution?\n\nPatient: [NO RESPONSE]\n\nNurse: That's perfectly fine.\n\nPatient: I don't have any questions.",
-    "responses": {
-        "gpt4": "That's perfectly fine. Remember, you don't have to start this part of the preparation until 24 hours before your procedure. You will need to transition to drinking only clear liquids. This step involves no solid food and drinking either clear or light-colored beverages without any red or purple dye. May I share some examples of what clear liquids are? This might help clarify any doubts you might have.",
-        "our_model": "Alright. You don't have to do anything just yet. But you'll need to start your bowel prep 24 hours before your procedure by drinking only clear liquids which involves no solid foods and drinking either clear or light colored beverages without any red or purple dye. Can I share some examples of what clear liquids are and you can tell me what questions you have about the diet?"
-    }
-}

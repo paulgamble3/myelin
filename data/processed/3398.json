@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3398,
-    "prompt": "Nurse: Thank you for confirming your date of birth, Mr. Jimenez. I'm calling about your upcoming total knee replacement. Is this a good time to talk?\n\nPatient: Yes. It is.\n\nNurse: Wonderful, thank you for your time, Mr. Jimenez. I hope your day is going well so far. Can you share a bit about how you've been feeling today?\n\nPatient: You know, I'm feeling\n\nNurse: I'm sorry, Mr. Jimenez, your response got cut off. Could you please continue sharing about how you've been feeling today?\n\nPatient: Hello, nervous.\n\nNurse: I'm sorry, Mr. Jimenez, could you please repeat that?\n\nPatient: Can I do?",
-    "responses": {
-        "gpt4": "I'm sorry, I didn't catch that. Could you please repeat your question?",
-        "our_model": "I'm sorry, Mr. Jimenez, could you please repeat what you said?"
-    }
-}

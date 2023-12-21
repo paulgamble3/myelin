@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3841,
-    "prompt": "Patient: No.\n\nNurse: Alright, Mr. Hardy. Now, let's talk about your diet. Could you tell me about some of the meals you've had recently?\n\nPatient: Yes. I've had tofu last night, with broccoli and\n\nPatient: whole wheat roll\n\nNurse: That sounds like a very balanced meal, Mr. Hardy. It's great that you're incorporating a variety of foods into your diet. Do you usually follow a specific diet plan?\n\nPatient: I just try to eat healthy.\n\nNurse: That's a great approach, Mr. Hardy. Eating a balanced diet is key to managing your health conditions. Would it be okay if I provide some suggestions about your diet?\n\nPatient: Sure.",
-    "responses": {
-        "gpt4": "Great! You've been doing a great job with your diet, Mr. Hardy. One suggestion I would have is to continue with the kind of meal you had last night. Meals with a balance of lean protein, like tofu, and vegetables are great. Whole grains, like your wheat roll, can help manage blood sugar levels. The DASH diet is also recommended for managing high blood pressure. It focuses on fruits, vegetables, whole grains, lean proteins and low-fat dairy, while limiting saturated fats, cholesterol, and sodium. How do you feel about these suggestions?",
-        "our_model": "Thank you, Mr. Hardy. One diet that could be beneficial for you is the DASH diet. It stands for Dietary Approaches to Stop Hypertension. This diet emphasizes eating fruits, vegetables, whole grains, lean proteins, and low-fat dairy products. It also recommends limiting foods high in saturated fat, cholesterol, and sodium. This diet can help manage your blood pressure and blood sugar levels. Do you think you could incorporate some of these principles into your meals?"
-    }
-}

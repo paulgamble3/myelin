@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3051,
-    "prompt": "Patient: Hello?",
-    "responses": {
-        "gpt4": "Hello, Patient! My name is Rachel and I am calling on behalf of your doctor, Dr. Anuj Gopal. I am an AI nurse performing a chronic care check-in about your Chronic Kidney Disease. I hope everything is going well for you. May I ask, is there anything you're looking forward to this week?",
-        "our_model": "Hi, this is Rachel calling from O'Connor Hospital. I'm an AI on a recorded line. Is this Eduardo Hardy?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1161,
-    "prompt": "Patient: Sure.\n\nNurse: Okay, Mr. Cardenas. For your cardiac diet, it's important to include a variety of fruits and vegetables, lean proteins, and whole grains. Try to limit foods high in sodium, saturated fats, and cholesterol. For your Fructose and Galactose restriction, it's important to avoid foods like fruits, honey, and certain vegetables like onions and tomatoes. Also, avoid foods with high fructose corn syrup. Does this information help you understand your dietary recommendations better?\n\nPatient: Yes. It does. Thank you, Rachel.\n\nNurse: You're welcome, Mr. Cardenas. I'm glad I could help. Remember, making these dietary changes can have a significant impact on your health. Now, let's talk about exercise. Could you tell me about your current exercise routine?\n\nPatient: Well, I like to go hiking. I ride my bike. Usually, every day,\n\nNurse: That's fantastic, Mr. Cardenas. Hiking and biking are great ways to stay active. How often do you go hiking and how long are your bike rides usually?\n\nPatient: I also have a rowing machine.\n\nPatient: And I play pickleball.",
-    "responses": {
-        "gpt4": "It sounds like you're staying quite active, Mr. Cardenas. Rowing is a great whole-body workout, and pickleball is a fun way to keep fit. Can you tell me how often you use the rowing machine and play pickleball?",
-        "our_model": "That's wonderful, Mr. Cardenas. It sounds like you're very active. Could you tell me more about your hiking routine?"
-    }
-}

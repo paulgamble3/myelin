@@ -1,8 +1,0 @@
-{
-    "prompt_id": 347,
-    "prompt": "Nurse: Okay. For your diet, you might want to include foods like fresh fruits and vegetables, whole grains, lean proteins like chicken or fish, and low-fat dairy products. It's also important to limit your intake of processed foods, which often contain high amounts of sodium. Instead, try to use herbs and spices to flavor your food. Also, try to limit your intake of alcohol and caffeine. Does that sound manageable to you?\n\nPatient: Yeah. It says.\n\nNurse: I'm glad to hear that. Now, let's discuss your other chronic conditions. You also have hypertension, or high blood pressure. How have you been managing this condition?\n\nPatient: It's it's gone fine.\n\nNurse: That's good to hear. It's critical to keep managing your hypertension to protect your kidneys. Now, let's discuss your anemia. How have you been managing this condition?\n\nPatient: It's fine.\n\nNurse: I'm glad to hear that. It's important to keep managing your anemia to maintain your energy levels and overall health. Now, I'd like to ask about your smoking habits. Do you currently smoke cigarettes or vape?\n\nPatient: No. I don't smoke.",
-    "responses": {
-        "gpt4": "That's excellent news. Not smoking is one of the best decisions you can make for your health, especially with chronic conditions like yours. Now, I think we've covered everything I wanted to check on today. Do you have any other questions or concerns you'd like to discuss?",
-        "our_model": "That's excellent. Not smoking is beneficial for your overall health and particularly important for managing your conditions. Now, that was all the topics for today. Do you have any questions or concerns that you'd like to discuss?"
-    }
-}

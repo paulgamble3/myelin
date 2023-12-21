@@ -1,8 +1,0 @@
-{
-    "prompt_id": 719,
-    "prompt": "Nurse: I'm sorry, Ms. Peck, I didn't quite catch that. Could you please confirm if you're still taking your Metformin?\n\nPatient: Yeah.\n\nNurse: That's good to hear, Ms. Peck. It's important to keep up with your medications. Are you taking them twice a day as prescribed?\n\nPatient: Yes.\n\nNurse: That's excellent, Ms. Peck. You're doing a great job managing your medications. Now, it's common to miss a dose here or there. Do you ever have trouble taking your medication on time?\n\nPatient: No. I have a tireless thing.\n\nNurse: That's wonderful, Ms. Peck. Using a pill organizer is a great way to keep track of your medications. Now, I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?\n\nPatient: Hello?",
-    "responses": {
-        "gpt4": "Hi, Ms. Peck. I'd like to ask you a few questions about your health, specifically regarding any symptoms you might be experiencing. Is that alright with you?",
-        "our_model": "Yes, Ms. Peck, I'm here. I'd like to ask you a few questions about your symptoms to help understand how you're doing at home. Is that okay with you?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 3901,
-    "prompt": "Nurse: That's excellent. Could you please share your last blood sugar reading at home?\n\nPatient: He was one\n\nNurse: I'm sorry, Carla, could you please repeat your last blood sugar reading?\n\nPatient: fifteen.\n\nNurse: Thank you for sharing that. Your blood sugar level is within the normal range, which is good for your kidney health. Now, when was the last time you took your blood pressure measurement?\n\nPatient: An hour ago.\n\nNurse: Thank you for letting me know. Could you please share what the result was?\n\nPatient: It was ninety over one fifteen.",
-    "responses": {
-        "gpt4": "Your blood pressure is also within the normal range which is excellent. Keeping your blood pressure in check is also good for preserving kidney function. Now, in terms of diet, it's generally recommended to follow a meal plan that is low in salt, sugar, and saturated fats. Fruits, vegetables, whole grains, lean proteins, and low-fat dairy products are typically recommended. Are you currently following a specific diet plan?",
-        "our_model": "Thank you for sharing that. Your blood pressure is within the normal range, which is beneficial for your overall health. Now, I noticed some recent blood tests and urine labs in your chart. Do you have any questions about them?"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "prompt_id": 562,
-    "prompt": "Nurse: That's good to hear. Have you experienced any ongoing or worsening chest pain?\n\nPatient: Nope.\n\nNurse: I'm glad to hear that. Have you noticed any new or worsening dry cough?\n\nPatient: Nope.\n\nNurse: That's good. Have you noticed increased swelling in your feet, ankles, stomach, or legs?\n\nPatient: No. I have not.\n\nNurse: That's great. Have you gained more than 2 pounds in the past day or 5 pounds in the past week?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Great. And the final one, have you started using more pillows to sleep at night?",
-        "our_model": "That's good to hear. Lastly, have you been using more pillows at night to sleep?"
-    }
-}

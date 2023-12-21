@@ -1,8 +1,0 @@
-{
-    "prompt_id": 663,
-    "prompt": "Nurse: you for That's great. Now, are you still taking Metformin and Riboflavin?\n\nPatient: Are you still there?\n\nNurse: Yes, I'm here. I was asking if you're still taking Metformin and Riboflavin. [\n\nPatient: I know it's a lot of medication.\n\nNurse: Yes, I'm here. I understand it's a lot to manage. Are you still taking Metformin and\n\nPatient: But I'm taking them\n\nNurse: Yes, I'm here. I appreciate your patience. It's important to ensure we're covering all your medications. Now, are you still taking Atorvastatin and Lantus?\n\nPatient: Yes.",
-    "responses": {
-        "gpt4": "Wonderful, thank you for confirming. Last on the list, are you still taking Tramadol, Levothyroxine, and Tylenol as needed?",
-        "our_model": "That's good to hear. Lastly, are you still taking Tramadol, Levothyroxine, and Tylenol as needed?"
-    }
-}

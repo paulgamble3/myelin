@@ -1,8 +1,0 @@
-{
-    "prompt_id": 4834,
-    "prompt": "Nurse: Wonderful, Mr. Kageyama. Is there anything else about the logistics that's worrying you or that you'd like to discuss?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. I'm glad to hear that the logistics seem clear to you. Before we move on to discuss your medications, I want to take a pause to see if you're ready to proceed. Can we move on?\n\nPatient: Yes.\n\nNurse: Okay, Mr. Kageyama. I see on your chart that you're currently taking Tylenol 500 mg, with a dosage of 1000 mg TID. There are no changes to this medication before your colonoscopy. Do you have any questions about this medication?\n\nPatient: No.\n\nNurse: Alright, Mr. Kageyama. Are you currently taking any other medications like Advil, Aspirin, Aleve, or other blood thinners?\n\nPatient: No.",
-    "responses": {
-        "gpt4": "Okay, Mr. Kageyama. That's good to hear. Those types of medications typically need to stop before a colonoscopy unless a doctor has recommended otherwise. Do you have any questions about any other medications you might be taking or anything you would like to discuss in this area?",
-        "our_model": "That's good to hear, Mr. Kageyama. It's critical to avoid those medications before a colonoscopy unless your doctor specifically recommended otherwise. Do you have any questions about medications in relation to your upcoming procedure?"
-    }
-}

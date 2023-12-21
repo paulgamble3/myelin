@@ -1,8 +1,0 @@
-{
-    "prompt_id": 1767,
-    "prompt": "Nurse: I'm sorry, could you please repeat what you said?\n\nPatient: I actually just put down my pan. So I didn't say anything.\n\nNurse: I apologize for the confusion. Let's move on to the next topic. Do you have any questions about your medications?\n\nPatient: No.\n\nNurse: Alright. Now, let's smoothly transition to the diet preparation for your colonoscopy. Starting today, you'll want to begin eating a low fiber diet. This includes foods like white bread, rice, and pasta, and you should avoid high fiber foods like whole grains, nuts, seeds, and most fruits and vegetables. Do you have any questions about this low fiber diet?\n\nPatient: Pretty straightforward to me.\n\nNurse: I'm glad to hear that. It's essential to stick to this diet to ensure the best results from your colonoscopy. Now, I'm curious, what are some low fiber foods that you enjoy?\n\nPatient: Chicken.",
-    "responses": {
-        "gpt4": "Chicken can be a savory and satisfying low-fiber food. Do you enjoy it in a particular way? Grilled, baked, or perhaps in a soup?",
-        "our_model": "Chicken is a great choice, especially if it's cooked without the skin or any high-fiber stuffing. It's lean and easy to digest. Do you usually prepare it in a specific way?"
-    }
-}
