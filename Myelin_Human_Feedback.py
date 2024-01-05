@@ -12,13 +12,18 @@ import json
 # submit the form
 # write the response + item to the database
 
+firebase_db = '1-5-feedback'
+index_fn = './data/available_inds_1_5.json'
+max_ind = 100
+data_files = './data/processed_1_5/*.json'
+
 def sample_index():
-    fn = './data/available_inds_12_21.json'
+    fn = index_fn
     with open(fn, 'r') as f:
         inds = json.load(f)
     if len(inds) <5:
         print("resetting inds")
-        inds = list(range(0, 2900))
+        inds = list(range(0, max_ind))
         
     random.shuffle(inds)
 
@@ -38,7 +43,7 @@ def sample_item(ind):
     print(ind)
     
 
-    fns = glob.glob(f'./data/processed_12_21/*.json')
+    fns = glob.glob(data_files)
     print(len(fns))
     fn = fns[ind]
     with open(fn, 'r') as f:
@@ -77,7 +82,7 @@ with st.form("feedback-form"):
         feedback_object["item_id"] = item_id
 
         # write to firebase
-        write_task_item(feedback_object, "12-21-feedback")
+        write_task_item(feedback_object, firebase_db)
 
         # reset all fields except name
         for response_key in response_keys:

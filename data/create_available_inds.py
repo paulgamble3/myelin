@@ -1,6 +1,6 @@
 import json
 
-n = 1440
+n = 485
 
-with open(f'./data/available_inds_12_21.json', 'w') as f:
+with open(f'./data/available_inds_1_5.json', 'w') as f:
     json.dump(list(range(n)), f)
